@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="robots" content="noindex,nofollow">
-<meta name="description" content="Genealogia da freguesia do Soito (Sabugal): 22 590 pessoas das genealogias de família e dos assentos paroquiais transcritos no blogue Saber Soito.">
+<meta name="description" content="Genealogia da freguesia do Soito (Sabugal): 23 115 pessoas das genealogias de família e dos assentos paroquiais transcritos no blogue Saber Soito.">
 <style>html{color-scheme:light}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
 <title>Genealogia do Soito</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -149,7 +149,7 @@ footer p{margin:0 0 8px}
   <p>Cônjuges vindos de outras famílias aparecem sem código. Datas em dia/mês/ano; «c.» indica data aproximada.</p>
 </footer>
 
-<script src="dados.js?v=7"></script>
+<script src="dados.js?v=8"></script>
 <script>
 (function(){
   var D = window.ARVORE || {p:[],f:[]};
@@ -299,7 +299,8 @@ footer p{margin:0 0 8px}
     var ok = function(i){ return !fsel || P[i][FAMILIA] === fsel; };
     var out = [];
     if (!t){
-      for (var i = 0; i < P.length && out.length < 80; i++) if (P[i][COD] && ok(i)) out.push(i);
+      var lim = fsel ? 200 : 80;
+      for (var i = 0; i < P.length && out.length < lim; i++) if ((fsel ? P[i][FAMILIA] === fsel : P[i][COD]) && ok(i)) out.push(i);
     } else {
       for (var j = 0; j < chaves.length && out.length < 200; j++) if (chaves[j].indexOf(t) >= 0 && ok(j)) out.push(j);
     }
@@ -318,7 +319,7 @@ footer p{margin:0 0 8px}
       b.addEventListener('click', function(){ mostrar(i); });
       li.appendChild(b); ul.appendChild(li);
     });
-    el('cont').textContent = t
+    el('cont').textContent = (t || fsel)
       ? (out.length >= 200 ? 'mais de 200 resultados' : out.length + (out.length === 1 ? ' resultado' : ' resultados'))
       : 'primeiras gerações — escreva para procurar';
   }
