@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="robots" content="noindex,nofollow">
-<meta name="description" content="Genealogia da freguesia do Soito (Sabugal): 23 115 pessoas das genealogias de família e dos assentos paroquiais transcritos no blogue Saber Soito.">
+<meta name="description" content="Genealogia da freguesia do Soito (Sabugal): pessoas das genealogias de família e dos assentos paroquiais transcritos no blogue Saber Soito.">
 <style>html{color-scheme:light}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
 <title>Genealogia do Soito</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -144,7 +144,7 @@ footer p{margin:0 0 8px}
 </div>
 
 <footer>
-  <p>Inclui as genealogias de família publicadas e os assentos de batismo, casamento e óbito transcritos: cada pessoa mostra em «Assentos» as fontes onde aparece. Dados transcritos do blogue <a href="https://soitoribacoa.blogspot.com/" target="_blank" rel="noopener">Saber Soito</a>, dos assentos paroquiais do Soito (Sabugal, antiga Riba-Côa, bispado de Pinhel). Reúne as genealogias publicadas das famílias Rito, Pereira, Garcia Pereira, Inês, Gaião, Carrilho, Nicolau, Ventura, Oliveira, Felícia e da Teresa. Os códigos (G0, R, 2:1:6:11B, PER-A:1:3) são os da numeração do blogue: cada segmento é um filho dentro da geração anterior.</p>
+  <p>Nas datas usa-se a notação corrente em genealogia: <strong>*</strong> nascimento, <strong>~</strong> batismo, <strong>†</strong> óbito, <strong>⚭</strong> casamento. Inclui as genealogias de família publicadas e os assentos de batismo, casamento e óbito transcritos: cada pessoa mostra em «Assentos» as fontes onde aparece. Dados transcritos do blogue <a href="https://soitoribacoa.blogspot.com/" target="_blank" rel="noopener">Saber Soito</a>, dos assentos paroquiais do Soito (Sabugal, antiga Riba-Côa, bispado de Pinhel). Reúne as genealogias publicadas das famílias Rito, Pereira, Garcia Pereira, Inês, Gaião, Carrilho, Nicolau, Ventura, Oliveira, Felícia e da Teresa. Os códigos (G0, R, 2:1:6:11B, PER-A:1:3) são os da numeração do blogue: cada segmento é um filho dentro da geração anterior.</p>
   <p>Investigação e transcrição dos assentos: <strong>Carlos</strong>, autor do blogue Saber Soito. Esta página é apenas uma forma de navegar no trabalho dele; a página não é indexada por motores de busca.</p>
   <p>Cônjuges vindos de outras famílias aparecem sem código. Datas em dia/mês/ano; «c.» indica data aproximada.</p>
 </footer>
@@ -174,12 +174,12 @@ footer p{margin:0 0 8px}
   }
   var chaves = P.map(function(p){ return semAcento(p[NOME] + ' ' + p[COD] + ' ' + p[FAMILIA]); });
 
+  function fmt(d){ return (d || '').replace(/\//g, '-'); }
   function vida(i){
-    var p = P[i], n = p[NASC] || p[BAPT], o = p[OBITO];
-    if (n && o) return n + ' – ' + o;
-    if (n) return n;
-    if (o) return '† ' + o;
-    return '';
+    var p = P[i], n = p[NASC] || p[BAPT], o = p[OBITO], s = '';
+    if (n) s = '* ' + fmt(n);
+    if (o) s += (s ? '  ' : '') + '† ' + fmt(o);
+    return s;
   }
   function botaoPessoa(i, classe){
     var b = document.createElement('button');
@@ -213,10 +213,10 @@ footer p{margin:0 0 8px}
 
     var datas = el('datas');
     datas.textContent = '';
-    [['Nascimento', p[NASC]], ['Batismo', p[BAPT]], ['Óbito', p[OBITO]]].forEach(function(par){
+    [['* Nascimento', p[NASC]], ['~ Batismo', p[BAPT]], ['† Óbito', p[OBITO]]].forEach(function(par){
       var d = document.createElement('div');
       var dt = document.createElement('dt'); dt.textContent = par[0];
-      var dd = document.createElement('dd'); dd.textContent = par[1] || '—';
+      var dd = document.createElement('dd'); dd.textContent = fmt(par[1]) || '—';
       if (!par[1]) dd.style.color = 'var(--tinta-fraca)';
       d.appendChild(dt); d.appendChild(dd); datas.appendChild(d);
     });
@@ -247,7 +247,7 @@ footer p{margin:0 0 8px}
       var l1 = document.createElement('div'); l1.className = 'lin1';
       if (outro >= 0) l1.appendChild(botaoPessoa(outro));
       else { var x = document.createElement('span'); x.className = 'vazio'; x.textContent = 'Cônjuge não identificado'; l1.appendChild(x); }
-      if (f[MARR]){ var dd = document.createElement('span'); dd.className = 'data'; dd.textContent = 'casaram ' + f[MARR]; l1.appendChild(dd); }
+      if (f[MARR]){ var dd = document.createElement('span'); dd.className = 'data'; dd.textContent = '⚭ ' + fmt(f[MARR]); l1.appendChild(dd); }
       bloco.appendChild(l1);
       if (f[NOTA]){ var nt = document.createElement('p'); nt.className = 'nota'; nt.textContent = f[NOTA]; bloco.appendChild(nt); }
       if (f[CHIL].length){
