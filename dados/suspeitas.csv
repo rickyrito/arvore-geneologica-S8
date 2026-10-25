@@ -1,21 +1,16 @@
 filho,data_filho,relacao,progenitor,data_progenitor,motivo,fontes_filho
 Manuel Gomes,21/04/1890,cônjuge,Maria Manso Rito,02/11/1872,idade impossível à data do casamento,Casamento 17/06/1916 — Casamentos 1916-1920; Casamento 08/04/1918 — Casamentos 1916-1920
 José Gomes,07/03/1895,cônjuge,Maria Ana Manso Rito,11/11/1886,idade impossível à data do casamento,
-Isabel Antunes,11/11/1862,cônjuge,António Gonçalves Ambrósio,28/08/1875,casamento depois do óbito,Casamento 28/08/1875 — Casamentos 1875-1879
-Bernardo Gomes,28/10/1893,cônjuge,Rosa Antunes,14/07/1879,idade impossível à data do casamento,Casamento 23/11/1874 — Casamentos de 1870 a 1874; Casamento 14/07/1879 — Casamentos 1875-1879
+Isabel Antunes,11/11/1862,cônjuge,António Gonçalves Ambrósio,28/08/1875,casamento depois do óbito,
+Bernardo Gomes,28/10/1893,cônjuge,Rosa Antunes,14/07/1879,idade impossível à data do casamento,
 Manuel Martins da Teresa,26/06/1892,cônjuge,Maria Manso Rito,21/09/1889,idade impossível à data do casamento,Óbito 15/06/1926 — Óbitos 1926 (66)
-Manuel Manso Rito,17/12/1881,cônjuge,Luísa Vaz Fortuna,27/11/1915,casamento depois do óbito,Casamento 27/11/1915 — Casamentos 1910-1915; Casamento 22/11/1919 — Casamentos 1916-1920
-Manuel Manso Rito,17/12/1881,cônjuge,Maria dos Anjos Martins da Teresa,22/11/1919,casamento depois do óbito,Casamento 27/11/1915 — Casamentos 1910-1915; Casamento 22/11/1919 — Casamentos 1916-1920
-Maria dos Anjos Manso Rito,18/09/1884,cônjuge,José Augusto Lopes,01/02/1909,casamento depois do óbito,Casamento 01/02/1909 — Casamentos 1905-1909; Óbito 06/04/1946 — Óbitos 1946
 José Augusto Carvalho,25/03/1906,cônjuge,Isabel Maria Gomes,07/11/1903,idade impossível à data do casamento,
 António Pires dos Santos,16/07/1910,cônjuge,Isabel Augusta Manso Rito,02/06/1919,idade impossível à data do casamento,Batismo 1910 — Batismos 1906 a 1910; Casamento 02/06/1919 — Casamentos 1916-1920
 Maria Lopes Pereira,02/05/1832,cônjuge,Manuel Gomes Felícia,14/10/1905,casamento depois do óbito,
 Ângela Nunes de Marcos,23/09/1901,cônjuge,António José Gonçalves Ambrósio,21/09/1912,idade impossível à data do casamento,Batismo 1901 — Batismos 1901 a 1905; Óbito 04/08/1902 — Óbitos 1902 (45)
-Isabel Maria Gonçalves Garrido,07/02/1880,cônjuge,José Augusto Gonçalves,12/01/1914,casamento depois do óbito,Casamento 12/01/1914 — Casamentos 1910-1915
 Ana Garcia Pereira,18/08/1897,cônjuge,José Nunes Rodrigues,08/01/1927,casamento depois do óbito,
-Ana de Jesus Pereira Carrilho,29/08/1892,cônjuge,Manuel Martins da Teresa,15/11/1919,casamento depois do óbito,Casamento 15/11/1919 — Casamentos 1916-1920
+Ana de Jesus Pereira Carrilho,29/08/1892,cônjuge,Manuel Martins da Teresa,15/11/1919,casamento depois do óbito,
 Isabel Augusta Carvalho Lavrador,31/05/1925,cônjuge,Manuel Joaquim Palinhos Rito,01/10/1949,casamento depois do óbito,Batismo 1925 — Batismos 1921 a 1925; Óbito 28/07/1925 — Óbitos 1925 (77)
-Glória Manso Rito,10/09/1908,cônjuge,Óscar Dias,12/10/1931,casamento depois do óbito,Batismo 1910 — Batismos 1906 a 1910; Casamento 12/10/1931 — Casamentos 1931-1935
 José Carrilho Rito,17/04/1928,cônjuge,Maria Alice Lousa Nicolau,21/11/1953,casamento depois do óbito,Batismo 1933 — Batismos 1933; Óbito 23/08/1933 — Óbitos 1933 (48)
 Maria Augusta Russo da Teresa,20/07/1926,cônjuge,João Maria Carrilho Rito,21/11/1953,casamento depois do óbito,Batismo 1925 — Batismos 1921 a 1925; Batismo 1926 — Batismos 1926
 João Augusto Manso,23/01/1937,cônjuge,Prazeres Garcia de Carvalho,23/01/1937,idade impossível à data do casamento,Casamento 23/01/1937 — Casamentos 1936-1940
@@ -28,7 +23,6 @@ José Alexandre Perloiro Alfaiate,12/07/1920,cônjuge,Glória Robalo Rito,29/09/
 Manuel Lucas Correia,24/11/1926,cônjuge,Isabel Maria Robalo Rito,29/11/1951,casamento depois do óbito,Batismo 1926 — Batismos 1926; Óbito 22/10/1928 — Óbitos 1928 (75)
 Maria Luísa da Teresa Fogeiro,09/03/1919,cônjuge,José Viegas Rito,11/02/1939,casamento depois do óbito,Batismo 1919 — Batismos 1916 a 1920; Batismo 1922 — Batismos 1921 a 1925
 João Luís Robalo de Paula,30/12/1915,cônjuge,Isabel Maria Lourenço da Inês,10/09/1938,casamento depois do óbito,Batismo 1915 — Batismos  1911 a 1915; Batismo 1926 — Batismos 1926
-Isabel Maria Lourenço da Inês,05/10/1914,cônjuge,?,10/09/1938,casamento depois do óbito,
 João Logrado Gonçalves,15/10/1914,cônjuge,Belmira Lourenço da Inês,28/06/1952,casamento depois do óbito,Óbito 09/07/1920 — Obitos 1920 (89); Batismo 1928 — Batismos 1928
 Isabel Martins da Josefa,,cônjuge,Narciso Fernandes Russo,23/10/1915,casamento depois do óbito,Casamento 17/05/1879 — Casamentos 1875-1879; Casamento 17/09/1888 — Casamentos 1885 a 1889
 Manuel Lourenço da Inês,06/04/1924,cônjuge,Maria Emília Marcos Grencho,01/09/1956,casamento depois do óbito,Óbito 08/07/1932 — Óbitos 1932 (85)
@@ -39,45 +33,35 @@ Emília Russo de Oliveira,11/01/1923,cônjuge,Manuel Gomes Felícia,21/01/1937,c
 José Manuel Antunes de Marcos,26/01/1908,cônjuge,Maria Rosa Gomes Frade,31/10/1946,casamento depois do óbito,Batismo 1908 — Batismos 1906 a 1910; Batismo 1920 — Batismos 1916 a 1920
 Prazeres Carvalho da Teresa,16/08/1920,cônjuge,José da Teresa Rito,01/07/1961,casamento depois do óbito,Batismo 1920 — Batismos 1916 a 1920; Batismo 1921 — Batismos 1921 a 1925
 Maria do Céu Fogeiro de Carvalho,14/02/1924,cônjuge,José Carrilho Martins,31/12/1955,casamento depois do óbito,Batismo 1924 — Batismos 1921 a 1925; Batismo 1926 — Batismos 1926
-Maria Aurelina Ventura Rito,19/01/1946,cônjuge,Artur Ventura Pereira,19/07/1970,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Genealogia — Família Ventura
 Maria do Céu Rito Alfaiate,08/07/1946,cônjuge,Manuel Brandão,13/08/1966,casamento depois do óbito,Batismo 1946 — Batismos 1946
-Mariana da Conceição Carrilho Rito,06/12/1950,cônjuge,Artur Carvalho Dias,19/08/1975,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia
 José Gomes Freire de Carvalho,05/03/1931,cônjuge,Amélia Rito de Marcos,16/09/1961,casamento depois do óbito,Batismo 1931 — batismos 1931; Óbito 15/09/1933 — Óbitos 1933 (48)
 Domingos Perloiro da Teresa,,cônjuge,Mariana Nicolau Robalo,22/11/1945,casamento depois do óbito,Casamento 22/11/1945 — Casamentos 1941-1945; Óbito 02/07/1920 — Obitos 1920 (89)
 José Manuel de Marcos Grencho,20/05/1924,cônjuge,Isabel Augusta Dias Rito,14/01/1967,casamento depois do óbito,Batismo 1924 — Batismos 1921 a 1925; Batismo 1926 — Batismos 1926
 Maria da Glória Pereira Carrilho,20/02/1944,cônjuge,João Dias Rito,30/08/1969,casamento depois do óbito,Batismo 1944 — Batismos 1944; Batismo 1950 — Batismos 1950
-Maria da Graça Garrido Rito,14/02/1952,cônjuge,Mário Vinhas Carvalheiro,11/08/1984,casamento depois do óbito,
 Maria do Céu Ferreira de Matos,11/01/1927,cônjuge,José Manuel Gonçalves Garrido,07/09/1966,casamento depois do óbito,Batismo 1927 — Batismos 1927; Batismo 1929 — Batismos 1929
 João Oliveira,29/06/1886,cônjuge,Maria dos Anjos Oliveira,21/01/1924,casamento depois do óbito,
 José Garcia de Carvalho,,cônjuge,Maria Luísa Martins Viegas,25/11/1915,casamento depois do óbito,Casamento 21/11/1910 — Casamentos 1910-1915; Casamento 22/05/1915 — Casamentos 1910-1915
 Maria dos Prazeres Garcia de Carvalho,,cônjuge,João Batista Martins Viegas,24/01/1929,casamento depois do óbito,Casamento 24/01/1929 — Casamentos 1926-1930; Óbito 18/11/1918 — Óbitos 1918 (123)
 Maria Antónia Gonçalves Martelo,26/01/1929,cônjuge,Paulino Nabais,26/01/1929,idade impossível à data do casamento,
-Maria Emília Martelo Pacheco,29/07/1927,cônjuge,José Emídio Sanches,03/01/1948,casamento depois do óbito,Batismo 1927 — Batismos 1927; Casamento 03/01/1948 — Casamentos 1946-1950
-Maria dos Anjos Manso Rito,18/09/1884,cônjuge,José Augusto Lopes Dora,01/02/1909,casamento depois do óbito,Casamento 01/02/1909 — Casamentos 1905-1909; Óbito 06/04/1946 — Óbitos 1946
 Manuel Joaquim Antunes,11/11/1929,cônjuge,Lucinda Gonçalves Garrido,11/11/1929,idade impossível à data do casamento,Casamento 11/11/1929 — Casamentos 1926-1930
-Lucinda Gonçalves Garrido,11/11/1929,cônjuge,?,11/11/1929,idade impossível à data do casamento,Casamento 11/11/1929 — Casamentos 1926-1930
 Ramos Augusto Corracha da Inês,23/10/1943,cônjuge,Prazeres Robalo Vaz Lavrador,23/10/1943,idade impossível à data do casamento,Casamento 23/10/1943 — Casamentos 1941-1945
 Júlio Rodrigues,02/04/1932,cônjuge,Maria da Purificação Robalo,02/04/1932,idade impossível à data do casamento,Casamento 02/04/1932 — Casamentos 1931-1935
 Manuel Soares Gandaio e Luísa Arménio Manuel Soares Gandaio,21/08/1903,cônjuge,João Augusto Carvalho,12/10/1929,casamento depois do óbito,Batismo 1903 — Batismos 1901 a 1905
 Manuel Soares Gandaio e Luísa Arménio Manuel Soares Gandaio,21/08/1903,cônjuge,José Augusto Nabais,05/01/1929,casamento depois do óbito,Batismo 1903 — Batismos 1901 a 1905
 Maria Eliza Batista Pereira,30/09/1933,cônjuge,José Manuel Emídio Lopes,30/09/1933,idade impossível à data do casamento,
 Ana Garcia Pereira,18/08/1897,cônjuge,José Rodrigues da Calva,08/01/1927,casamento depois do óbito,
-Maria da Graça André Pereira,30/05/1914,cônjuge,Manuel Ferrador Arménio,23/11/1940,casamento depois do óbito,
 Manuel Garcia Pereira,18/08/1895,cônjuge,Maria da Felicidade Rodrigues,03/11/1888,idade impossível à data do casamento,Batismo 1948 — Batismos 1948; Óbito 24/10/1933 — Óbitos 1933 (48)
-Natividade Patrício Pereira,29/06/1923,cônjuge,José Joaquim Gomes Filipe,03/07/1943,casamento depois do óbito,
+Manuel Joaquim Antunes,11/11/1929,cônjuge,Lucinda Gonçalves Garrido,11/11/1929,idade impossível à data do casamento,Casamento 11/11/1929 — Casamentos 1926-1930
+Lucinda Gonçalves Garrido,11/11/1929,cônjuge,?,11/11/1929,idade impossível à data do casamento,Casamento 11/11/1929 — Casamentos 1926-1930
 Isabel Augusta Josefa das Neves,,cônjuge,Júlio Pereira da Calva,23/11/1940,casamento depois do óbito,Óbito 26/09/1922 — Óbitos 1922 (75)
-Maria Augusta Cid Pereira,15/03/1925,cônjuge,João Fortuna Dias,27/11/1954,casamento depois do óbito,Batismo 1925 — Batismos 1921 a 1925; Casamento 27/11/1954 — Casamentos 1954
-António Cid Pereira,08/03/1929,cônjuge,Felisbela Dias Palinhos de 25,07/09/1957,casamento depois do óbito,Batismo 1929 — Batismos 1929; Óbito 11/03/1930 — Óbitos 1930 (54)
-José Carvalho Pereira,16/01/1949,cônjuge,Maria Aurelina Nunes,11/04/1970,casamento depois do óbito,Batismo 1949 — Batismos 1949
+Maria Augusta Cid Pereira,15/03/1925,cônjuge,João Fortuna Dias,27/11/1954,casamento depois do óbito,Batismo 1925 — Batismos 1921 a 1925
 Benedita Lourenço da Inês,18/11/1898,cônjuge,José Augusto Fernandes Russo,05/04/1926,casamento depois do óbito,
-João Pereira Logrado,10/03/1915,cônjuge,Maria Esteves,26/08/1939,casamento depois do óbito,Casamento 26/08/1939 — Casamentos 1936-1940
 João Augusto Pereira Dias,01/06/1931,cônjuge,Isabel Maria Nunes Meirinho de 18 anos,01/06/1931,idade impossível à data do casamento,
 Manuel Sanches Manso,19/06/1925,cônjuge,Maria Benedita Carrilho Lousa,18/09/1948,casamento depois do óbito,Batismo 1928 — Batismos 1928; Óbito 08/08/1929 — Óbitos 1929 (63)
 Maria Benedita Carrilho Lousa,06/11/1924,cônjuge,?,18/09/1948,casamento depois do óbito,Batismo 1924 — Batismos 1921 a 1925; Casamento 18/09/1948 — Casamentos 1946-1950
 José Augusto Perloiro da Teresa,23/05/1910,cônjuge,Isabel Augusta Martins Pereira,12/04/1944,casamento depois do óbito,Batismo 1910 — Batismos 1906 a 1910; Batismo 1920 — Batismos 1916 a 1920
 Maria Augusta Rodrigues Antunes,01/01/1922,cônjuge,Manuel Antunes Pereira,01/12/1951,casamento depois do óbito,Batismo 1922 — Batismos 1921 a 1925; Batismo 1928 — Batismos 1928
 Luísa Nicolau Manso,26/12/1936,cônjuge,Domingos Pereira de Oliveira,18/04/1963,casamento depois do óbito,Batismo 1937 — Batismos 1937; Casamento 18/04/1963 — Casamentos 1963
-Isabel Gonçalves Gaião,13/10/1901,cônjuge,José Antunes Lousa,31/01/1924,casamento depois do óbito,Batismo 1901 — Batismos 1901 a 1905; Óbito 31/03/1902 — Óbitos 1902 (45)
 Glória Correia da Leonor,13/06/1924,cônjuge,José Augusto Dias Palinhos,29/01/1944,casamento depois do óbito,Batismo 1924 — Batismos 1921 a 1925; Casamento 29/01/1944 — Casamentos 1941-1945
 Maria Robalo da Nabais,17/04/1920,cônjuge,José Manuel Dias Jorge,27/11/1943,casamento depois do óbito,Óbito 17/03/1923 — Óbitos 1923 (88)
 Isabel Corceiro Lopes,29/06/1923,cônjuge,José Nabais Alfaiate,25/11/1950,casamento depois do óbito,Batismo 1923 — Batismos 1921 a 1925; Batismo 1925 — Batismos 1921 a 1925
@@ -94,12 +78,13 @@ José Garcia Pereira,14/07/1878,cônjuge,Isabel Martins Vaz de 29,15/05/1869,ida
 Isabel Pereira e Bernardo Garcia Manuel Garcia,29/09/1878,cônjuge,Manuel Gonçalves,24/11/1900,casamento depois do óbito,
 Manuel Nunes Meirinho,30/10/1895,cônjuge,Maria José Lopes,30/10/1895,idade impossível à data do casamento,Casamento 30/10/1895 — Casamentos 1895 a 1899
 Manuel Garcia Pereira,30/01/1897,cônjuge,Lourenço Antunes Lousa Bernardo Garcia Pereira,1931,casamento depois do óbito,Óbito 31/10/1930 — Óbitos 1930 (54); Casamento 13/01/1919 — Casamentos 1916-1920
-Ana de Jesus Pereira Carrilho,29/08/1892,cônjuge,Manuel Martins da Teresa de 27,15/11/1919,casamento depois do óbito,Casamento 15/11/1919 — Casamentos 1916-1920
+Ana de Jesus Pereira Carrilho,29/08/1892,cônjuge,Manuel Martins da Teresa de 27,15/11/1919,casamento depois do óbito,
 José Gonçalves Garrido,,cônjuge,Ana Soares Pereira,28/11/1929,casamento depois do óbito,Casamento 28/11/1929 — Casamentos 1926-1930; Óbito 08/06/1901 — Óbitos 1901 (50)
 Manuel Lourenço da Inês,06/04/1924,cônjuge,Isabel Sagaz,10/08/1874,idade impossível à data do casamento,Óbito 08/07/1932 — Óbitos 1932 (85)
 Alexandrina Pereira de Paulo,27/02/1886,cônjuge,João Augusto Martinho,14/07/1908,casamento depois do óbito,
 Glória Jorge da Inês,07/08/1916,cônjuge,Abel Gonçalves Lucas,28/07/1957,casamento depois do óbito,Batismo 1916 — Batismos 1916 a 1920; Batismo 1922 — Batismos 1921 a 1925
 Isabel Augusta Jorge da Inês,23/06/1934,cônjuge,Domingos Pereira Correia,30/07/1955,casamento depois do óbito,Batismo 1934 — Batismos 1934
+José Carvalho Pereira,16/01/1949,cônjuge,Maria Aurelina Nunes,11/04/1970,casamento depois do óbito,
 Américo,29/01/1922,cônjuge,Manuel Garcia,02/04/1932,casamento depois do óbito,
 José Manuel Meirinho de Oliveira,24/09/1919,cônjuge,Maria Luísa Jorge da Furriela,29/04/1943,casamento depois do óbito,Batismo 1919 — Batismos 1916 a 1920; Batismo 1920 — Batismos 1916 a 1920
 José Alfredo da Inês Manso,,cônjuge,Maria Augusta Meirinho de Oliveira,28/11/1942,casamento depois do óbito,Casamento 28/11/1942 — Casamentos 1941-1945; Óbito 28/08/1923 — Óbitos 1923 (88)
@@ -108,20 +93,15 @@ António Manuel Grencho Arménio,10/03/1953,cônjuge,Glória,17/08/1958,idade im
 Luís Carlos Martins Pereira,26/09/1957,cônjuge,Carla Maria,27/07/1988,casamento depois do óbito,
 Maria,,cônjuge,José Fernandes Sancho,11/01/1879,casamento depois do óbito,Genealogia — Família Inês; Óbito 11/11/1810 — Óbitos 1810
 Manuel,18/01/1919,cônjuge,Isabel Mansa,17/01/1891,idade impossível à data do casamento,Genealogia — Família Inês; Batismo 1919 — Batismos 1916 a 1920
-Maria Emília Marcos Grencho,,cônjuge,Outubro,01/09/1956,casamento depois do óbito,Casamento 01/09/1956 — Casamentos 1956 (15); Óbito 25/09/1926 — Óbitos 1926 (66)
 José Alves Corceiro,20/11/1923,cônjuge,AO4) Maria Judite da Elena Janela,16/01/1969,casamento depois do óbito,Genealogia — Família Inês; Batismo 1923 — Batismos 1921 a 1925
 Manuel José dos Santos,08/02/1925,cônjuge,Junho,18/06/1949,casamento depois do óbito,Genealogia — Família Inês; Batismo 1925 — Batismos 1921 a 1925
-Laura Gomes de Carvalho,19/09/1904,cônjuge,Julho,16/05/1925,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Batismo 1904 — Batismos 1901 a 1905
-Glória Manso Rito,10/09/1908,cônjuge,Março,12/10/1931,casamento depois do óbito,Batismo 1910 — Batismos 1906 a 1910; Casamento 12/10/1931 — Casamentos 1931-1935
 Isabel Augusta Perloiro de Oliveira,07/07/1920,cônjuge,Novembro,29/01/1949,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Batismo 1920 — Batismos 1916 a 1920
 Jeremias Barbosa de Oliveira,24/06/1924,cônjuge,Fevereiro,03/01/1953,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Batismo 1924 — Batismos 1921 a 1925
 Manuel Vaz da Furriela,,cônjuge,Maria Augusta Jorge,18/10/1913,casamento depois do óbito,Casamento 18/10/1913 — Casamentos 1910-1915; Óbito 17/12/1908 — Óbitos 1908 (53)
 José Alfredo da Inês Manso,25/01/1908,cônjuge,Novembro,28/11/1942,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Batismo 1908 — Batismos 1906 a 1910
 Manuel Lopes das Neves,15/09/1934,cônjuge,Março,06/09/1980,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Batismo 1934 — Batismos 1934
 Eliza Lopes Monteiro,10/03/1938,cônjuge,Junho,04/04/1964,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Batismo 1938 — Batismos 1938
-Maria Aurelina Ventura Rito,19/01/1946,cônjuge,Janeiro,19/04/1970,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Genealogia — Família Ventura
 Maria Benedita Neves da Calva,26/01/1944,cônjuge,Agosto,18/08/1973,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Batismo 1944 — Batismos 1944
-Mariana da Conceição Carrilho Rito,06/12/1950,cônjuge,Agosto,19/08/1975,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia
 Manuel Ramos dos Santos Calado,15/10/1919,cônjuge,Ana Sanches Carrilho,15/07/1917,idade impossível à data do casamento,Genealogia — Família Carrilho; Batismo 1907 — Batismos 1906 a 1910
 Manuel Robalo,,cônjuge,Abril,21/12/1920,casamento depois do óbito,Genealogia — Família Carrilho; Casamento 16/07/1817 — Casamentos de 1816 a 1820 (29)
 Isabel Martins Furriel,,cônjuge,Dezembro,06/09/1969,casamento depois do óbito,Genealogia — Família Carrilho; Casamento 01/05/1899 — Casamentos 1895 a 1899
@@ -131,83 +111,69 @@ Miguel Maria Robalo,,cônjuge,Josefa de Jesus Pereira,04/12/1961,casamento depoi
 José Nunes do Gabriel,28/11/1910,cônjuge,Catharina Carrilho,07/12/1843,idade impossível à data do casamento,Genealogia — Família Carrilho; Batismo 1910 — Batismos 1906 a 1910
 Isabel Augusta dos Santos Parada,07/09/1917,cônjuge,Novembro,15/11/1947,casamento depois do óbito,Genealogia — Família Ventura; Batismo 1917 — Batismos 1916 a 1920
 Eliza Lopes Monteiro,10/03/1938,cônjuge,Junho,04/04/1964,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Batismo 1938 — Batismos 1938
+Maria Benedita Neves da Calva,15/09/1948,cônjuge,Agosto,18/08/1973,casamento depois do óbito,Genealogia — Família Ventura; Batismo 1948 — Batismos 1948
 Horácio Ferreira de Matos,,cônjuge,Março,11/09/1963,casamento depois do óbito,Genealogia — Família Ventura; Casamento 11/09/1963 — Casamentos 1963
-Maria Aurelina Ventura Rito,19/01/1946,cônjuge,Artur Ventura Pereira,19/07/1970,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Genealogia — Família Ventura
 Manuel Joaquim Fogeiro de Carvalho,,cônjuge,Julho,21/09/1958,casamento depois do óbito,Genealogia — Família Ventura; Óbito 15/09/1929 — Óbitos 1929 (63)
-Luísa Corceiro Lopes,15/03/1920,cônjuge,Artur Nabais,22/11/1941,casamento depois do óbito,Batismo 1920 — Batismos 1916 a 1920; Casamento 22/11/1941 — Casamentos 1941-1945
+Luísa Corceiro Lopes,,cônjuge,Artur Nabais,22/11/1941,casamento depois do óbito,Casamento 22/11/1941 — Casamentos 1941-1945; Óbito 17/10/1918 — Óbitos 1918 (123)
 José Neves da Calva,27/11/1941,cônjuge,Janeiro,18/05/1968,casamento depois do óbito,Genealogia — Família Ventura; Batismo 1941 — Batismos 1941
 Eliza Lopes Monteiro,10/03/1938,cônjuge,Junho,04/04/1964,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Batismo 1938 — Batismos 1938
 Modesto Nunes Dias,,cônjuge,Isabel Augusta Martins Nicolau,08/01/1959,casamento depois do óbito,Genealogia — Família Nicolau; Óbito 18/05/1926 — Óbitos 1926 (66)
 Manuel Nabais,,cônjuge,Luísa Antunes Lousa,22/09/1922,casamento depois do óbito,Casamento 28/01/1861 — Casamentos de 1860 a 1864 (54); Casamento 22/09/1922 — Casamentos 1921-1925
 Manuel Luís Russo da Teresa,10/12/1922,cônjuge,Armanda de Jesus Lousa Nicolau,22/11/1964,casamento depois do óbito,Batismo 1923 — Batismos 1921 a 1925; Batismo 1929 — Batismos 1929
-Manuel Manso Rito,17/12/1881,cônjuge,Viúva,22/11/1919,casamento depois do óbito,Casamento 27/11/1915 — Casamentos 1910-1915; Casamento 22/11/1919 — Casamentos 1916-1920
 João Carvalho da Teresa,,cônjuge,Isabel Maria Carrilho Rodrigues,09/09/1944,casamento depois do óbito,Casamento 14/04/1947 — Casamentos 1946-1950; Óbito 11/03/1919 — Óbitos 1919 (82)
 Isabel Fernandes Russo,24/06/1903,cônjuge,José Rodrigues,26/06/1889,idade impossível à data do casamento,Batismo 1903 — Batismos 1901 a 1905; Óbito 15/07/1904 — Óbitos 1904 (85)
-Manuel Vaz Lavrador,30/03/1907,cônjuge,Maria Augusta Vaz,21/11/1887,idade impossível à data do casamento,Batismo 1907 — Batismos 1906 a 1910; Óbito 07/10/1910 — Óbitos 1910 (58)
 Isabel Gomes de Carvalho,27/09/1925,cônjuge,José Augusto Antunes Lousa,02/11/1922,idade impossível à data do casamento,Batismo 1925 — Batismos 1921 a 1925; Batismo 1927 — Batismos 1927
 Isabel Alves,,cônjuge,António Martins Corceiro,19/09/1921,casamento depois do óbito,Casamento 07/09/1889 — Casamentos 1885 a 1889; Casamento 19/09/1921 — Casamentos 1921-1925
-Manuel Martins de Paulo,24/12/1891,cônjuge,Adelaide Fernandes,17/05/1923,casamento depois do óbito,Casamento 11/09/1915 — Casamentos 1910-1915; Óbito 23/11/1916 — Óbitos 1916 (87)
 Maria Augusta Robalo,30/05/1908,cônjuge,José Augusto Martinho,15/11/1909,idade impossível à data do casamento,Batismo 1908 — Batismos 1906 a 1910; Casamento 15/11/1909 — Casamentos 1905-1909
 Maria dos Anjos Vaz Lavrador,,cônjuge,Manuel Gonçalves Ambrósio,31/11/1931,casamento depois do óbito,Casamento 31/11/1931 — Casamentos 1931-1935; Óbito 01/06/1908 — Óbitos 1908 (53)
-Manuel Antunes,08/09/1861,cônjuge,Maria Garcia Fojeiro,04/11/1886,casamento depois do óbito,Casamento 04/11/1886 — Casamentos 1885 a 1889
 António José de Matos Lopes,,cônjuge,Maria dos Anjos Caria,18/04/1942,casamento depois do óbito,Casamento 18/04/1942 — Casamentos 1941-1945; Óbito 08/08/1923 — Óbitos 1923 (88)
-Isabel Augusta Perloiro da Teresa,,cônjuge,Manuel Octávio Pereira Dias,04/11/1940,casamento depois do óbito,Casamento 04/11/1940 — Casamentos 1936-1940; Óbito 10/10/1932 — Óbitos 1932 (85)
-José Manuel Rodrigues Antunes,15/11/1915,cônjuge,Maria dos Anjos Gomes Antunes,18/11/1939,casamento depois do óbito,Batismo 1915 — Batismos  1911 a 1915; Batismo 1923 — Batismos 1921 a 1925
-Maria da Silva Barbosa,,cônjuge,João Emídio Barbosa,01/02/1947,casamento depois do óbito,Casamento 01/02/1947 — Casamentos 1946-1950; Óbito 16/08/1922 — Óbitos 1922 (75)
 José Manuel Viegas de Carvalho,,cônjuge,Maria Augusta Dias Robalo,26/11/1949,casamento depois do óbito,Casamento 26/11/1949 — Casamentos 1946-1950; Óbito 02/08/1925 — Óbitos 1925 (77)
 Maria Augusta Dias Robalo,,cônjuge,?,26/11/1949,casamento depois do óbito,Óbito 01/08/1921 — Óbitos 1921 (51); Casamento 26/11/1949 — Casamentos 1946-1950
 Maria Luísa da Silva Oliveira,,cônjuge,Manuel Maria Marques Ambrósio,01/09/1949,casamento depois do óbito,Casamento 01/09/1949 — Casamentos 1946-1950; Casamento 27/11/1954 — Casamentos 1954
 Manuel Gomes,21/04/1890,cônjuge,Maria Vas,29/06/1813,idade impossível à data do casamento,Casamento 17/06/1916 — Casamentos 1916-1920; Casamento 08/04/1918 — Casamentos 1916-1920
 Manuel Gomes,21/04/1890,cônjuge,Maria Lourença,23/12/1816,idade impossível à data do casamento,Casamento 17/06/1916 — Casamentos 1916-1920; Casamento 08/04/1918 — Casamentos 1916-1920
-Maria Robalo,29/12/1901,cônjuge,José Lourenço d’Inês,06/02/1841,idade impossível à data do casamento,Batismo 1902 — Batismos 1901 a 1905; Casamento 06/02/1841 — Casamentos de 1840 a 1844 (38)
-Ana Martins da Teresa,22/01/1897,cônjuge,José Nunes Dias,22/11/1843,idade impossível à data do casamento,Casamento 30/11/1918 — Casamentos 1916-1920; Casamento 22/11/1843 — Casamentos de 1840 a 1844 (38)
 Manuel Manso Rito,25/06/1874,cônjuge,Ana Gonçalves,16/05/1864,idade impossível à data do casamento,Casamento 16/05/1864 — Casamentos de 1860 a 1864 (54); Casamento 28/11/1895 — Casamentos 1895 a 1899
 Manuel Lourenço da Inês,09/07/1876,cônjuge,Isabel Sagaz,10/08/1874,idade impossível à data do casamento,Casamento 10/08/1874 — Casamentos de 1870 a 1874; Casamento 07/09/1898 — Casamentos 1895 a 1899
-Bernardo Gomes,28/10/1893,cônjuge,Maria Luísa Manso,23/11/1874,idade impossível à data do casamento,Casamento 23/11/1874 — Casamentos de 1870 a 1874; Casamento 14/07/1879 — Casamentos 1875-1879
 Manuel Gomes,21/04/1890,cônjuge,Ana Alves,14/11/1887,idade impossível à data do casamento,Casamento 17/06/1916 — Casamentos 1916-1920; Casamento 08/04/1918 — Casamentos 1916-1920
 Manuel Correia,24/12/1909,cônjuge,Maria Luísa Gonçalves Garrido,11/01/1888,idade impossível à data do casamento,Batismo 1910 — Batismos 1906 a 1910; Casamento 11/01/1932 — Casamentos 1931-1935
 José Garcia de Carvalho,,cônjuge,Domingos de Oliveira,21/11/1910,casamento depois do óbito,Casamento 21/11/1910 — Casamentos 1910-1915; Casamento 22/05/1915 — Casamentos 1910-1915
 José Garcia de Carvalho,,cônjuge,Manuel Lopes Pereira,22/05/1915,casamento depois do óbito,Casamento 21/11/1910 — Casamentos 1910-1915; Casamento 22/05/1915 — Casamentos 1910-1915
-Ana de Jesus Pereira Carrilho,29/08/1892,cônjuge,Manuel Martins da Teresa,15/11/1919,casamento depois do óbito,Casamento 15/11/1919 — Casamentos 1916-1920
 Isabel Martinho,,cônjuge,João Batista Nunes,07/09/1920,casamento depois do óbito,"Casamento 07/09/1920 — Casamentos no Soito, em que um é de Vale de Espinho.; Casamento 27/11/1920 — Casamentos 1916-1920"
 Isabel Martinho,,cônjuge,José Baptista Nunes,27/11/1920,casamento depois do óbito,"Casamento 07/09/1920 — Casamentos no Soito, em que um é de Vale de Espinho.; Casamento 27/11/1920 — Casamentos 1916-1920"
 Mariana Lourenço Logrado,,cônjuge,Joaquim Gonçalves,26/11/1921,casamento depois do óbito,Casamento 26/11/1921 — Casamentos 1921-1925; Óbito 09/10/1904 — Óbitos 1904 (85)
 Manuel Lourenço da Inês,,cônjuge,Maria Augusta Martinho,22/11/1923,casamento depois do óbito,Casamento 09/06/1862 — Casamentos de 1860 a 1864 (54); Casamento 15/05/1875 — Casamentos 1875-1879
-José Gomes de Carvalho,31/05/1933,cônjuge,Leonor Garcia Fogeiro de 19,23/07/1923,idade impossível à data do casamento,Batismo 1933 — Batismos 1933; Batismo 1937 — Batismos 1937
 Isabel Fernandes Russo,24/06/1903,cônjuge,Prazeres Garcia de Carvalho,30/10/1924,casamento depois do óbito,Batismo 1903 — Batismos 1901 a 1905; Óbito 15/07/1904 — Óbitos 1904 (85)
 José Augusto Gonçalves de Matos,,cônjuge,Isabel do Nascimento Gonçalves,30/05/1925,casamento depois do óbito,Casamento 05/09/1912 — Casamentos 1910-1915; Casamento 30/05/1925 — Casamentos 1921-1925
 António d’Oliveira,,cônjuge,Maria da Ressurreição Pires,15/09/1926,casamento depois do óbito,Casamento 15/09/1926 — Casamentos 1926-1930; Óbito 12/01/1925 — Óbitos 1925 (77)
 Maria Augusta Jorge Perlouro,,cônjuge,José Augusto Vaz Fazenda,26/09/1927,casamento depois do óbito,Casamento 26/09/1927 — Casamentos 1926-1930; Óbito 14/05/1920 — Obitos 1920 (89)
-Manuel Martins de Paulo,24/12/1891,cônjuge,João Vaz Lavrador,01/12/1928,casamento depois do óbito,Casamento 11/09/1915 — Casamentos 1910-1915; Óbito 23/11/1916 — Óbitos 1916 (87)
 Ana dos Santos Fogeiro,24/08/1907,cônjuge,José Antunes Lousa,15/07/1929,casamento depois do óbito,Batismo 1907 — Batismos 1906 a 1910; Batismo 1922 — Batismos 1921 a 1925
 Maria dos Prazeres Garcia de Carvalho,,cônjuge,João Baptista Martins Viegas,24/01/1929,casamento depois do óbito,Casamento 24/01/1929 — Casamentos 1926-1930; Óbito 18/11/1918 — Óbitos 1918 (123)
 Rita Gonçalves Garrido,,cônjuge,José Augusto Gonçalves,15/10/1930,casamento depois do óbito,Genealogia — Família Ventura; Casamento 15/05/1875 — Casamentos 1875-1879
 Prazeres Garcia de Carvalho,,cônjuge,Isabel Antunes Morgado,30/10/1934,casamento depois do óbito,Casamento 30/10/1934 — Casamentos 1931-1935; Casamento 23/01/1937 — Casamentos 1936-1940
 Maria Luísa da Teresa Fogeiro,09/03/1919,cônjuge,Ana Garcia Fogeiro,18/01/1937,casamento depois do óbito,Batismo 1919 — Batismos 1916 a 1920; Batismo 1922 — Batismos 1921 a 1925
-João Luís Robalo de Paula,30/12/1915,cônjuge,José Lourenço da Inês,10/09/1938,casamento depois do óbito,Batismo 1915 — Batismos  1911 a 1915; Batismo 1926 — Batismos 1926
 José dos Santos Escolástico,15/08/1916,cônjuge,Maria da Glória Nicolau Carvalho,24/08/1938,casamento depois do óbito,Batismo 1916 — Batismos 1916 a 1920; Batismo 1924 — Batismos 1921 a 1925
 Isabel Maria Dias Garrido,27/09/1920,cônjuge,João Augusto Patrício Pereira,25/04/1938,casamento depois do óbito,Batismo 1920 — Batismos 1916 a 1920; Casamento 25/04/1938 — Casamentos 1936-1940
 José Garcia de Carvalho,,cônjuge,Josefa Fernandes,06/02/1939,casamento depois do óbito,Casamento 21/11/1910 — Casamentos 1910-1915; Casamento 22/05/1915 — Casamentos 1910-1915
+Isabel Augusta Perloiro da Teresa,,cônjuge,Manuel Octávio Pereira Dias,04/11/1940,casamento depois do óbito,Casamento 04/11/1940 — Casamentos 1936-1940; Óbito 10/10/1932 — Óbitos 1932 (85)
 José Manuel de Oliveira Dias,13/08/1920,cônjuge,Maria da Glória de Oliveira,07/09/1940,casamento depois do óbito,Batismo 1920 — Batismos 1916 a 1920; Batismo 1921 — Batismos 1921 a 1925
 José Ramos Lourenço da Inês,21/03/1880,cônjuge,Maria Rosa Santo Furriel,16/11/1940,casamento depois do óbito,Casamento 20/05/1903 — Casamentos 1900-1904; Casamento 16/11/1940 — Casamentos 1936-1940
 Isabel Maria Pereira Correia,10/08/1922,cônjuge,Jaime dos Santos Pereira Logrado,20/04/1940,casamento depois do óbito,Batismo 1922 — Batismos 1921 a 1925; Batismo 1924 — Batismos 1921 a 1925
 Felismina da Josefa Neves,01/11/1923,cônjuge,Júlio Pereira da Calva,23/11/1940,casamento depois do óbito,Batismo 1923 — Batismos 1921 a 1925; Batismo 1926 — Batismos 1926
-Isabel Filipe Dias,23/02/1908,cônjuge,Glória Afonso de Oliveira,28/08/1940,casamento depois do óbito,Batismo 1908 — Batismos 1906 a 1910; Batismo 1919 — Batismos 1916 a 1920
 José Manuel dos Santos Parada,,cônjuge,Maria Correia Dias,22/11/1941,casamento depois do óbito,Casamento 22/11/1941 — Casamentos 1941-1945; Óbito 13/10/1928 — Óbitos 1928 (75)
 Maria Correia Dias,16/02/1920,cônjuge,?,22/11/1941,casamento depois do óbito,Batismo 1920 — Batismos 1916 a 1920; Batismo 1924 — Batismos 1921 a 1925
-Manuel Luís Correia,26/01/1917,cônjuge,Isabel Augusta de Paula Martinho,22/01/1942,casamento depois do óbito,Óbito 11/10/1918 — Óbitos 1918 (123); Casamento 22/01/1942 — Casamentos 1941-1945
-Isabel Augusta de Paula Martinho,,cônjuge,?,22/01/1942,casamento depois do óbito,Casamento 22/01/1942 — Casamentos 1941-1945; Óbito 21/10/1919 — Óbitos 1919 (82)
+Isabel Augusta de Paula Martinho,,cônjuge,Manuel Luís Correia,22/01/1942,casamento depois do óbito,Casamento 22/01/1942 — Casamentos 1941-1945; Óbito 21/10/1919 — Óbitos 1919 (82)
 José Alfredo da Inês Manso,,cônjuge,José Manuel Meirinho de Oliveira,28/11/1942,casamento depois do óbito,Casamento 28/11/1942 — Casamentos 1941-1945; Óbito 28/08/1923 — Óbitos 1923 (88)
 José Manuel Meirinho de Oliveira,24/09/1919,cônjuge,?,28/11/1942,casamento depois do óbito,Batismo 1919 — Batismos 1916 a 1920; Batismo 1920 — Batismos 1916 a 1920
 Isabel Augusta Antunes de Marcos,,cônjuge,Francisco da Silva Ruim,01/05/1943,casamento depois do óbito,Casamento 01/05/1943 — Casamentos 1941-1945; Óbito 10/05/1902 — Óbitos 1902 (45)
-Amélia Afonso Gaião,27/03/1920,cônjuge,Manuel Fogeiro Dias,23/10/1943,casamento depois do óbito,Batismo 1920 — Batismos 1916 a 1920; Casamento 23/10/1943 — Casamentos 1941-1945
 Luísa Fernandes de Paulo,16/07/1939,cônjuge,António José Emídio Barbosa,11/11/1944,idade impossível à data do casamento,Batismo 1939 — Batismos 1939; Casamento 11/11/1944 — Casamentos 1941-1945
 João dos Santos Fogeiro,29/11/1923,cônjuge,Mariana Emídio Sanches,13/04/1944,casamento depois do óbito,Batismo 1923 — Batismos 1921 a 1925; Batismo 1928 — Batismos 1928
 Porfírio Nabais da Inês,31/07/1938,cônjuge,Isabel Maria Santo Furriel,29/01/1944,casamento depois do óbito,Batismo 1938 — Batismos 1938; Casamento 29/01/1944 — Casamentos 1941-1945
 José Augusto dos Santos Alfaiate,,cônjuge,Prazeres Corracha Filipe,30/11/1944,casamento depois do óbito,Casamento 30/11/1944 — Casamentos 1941-1945; Óbito 13/12/1927 — Óbitos 1927 (91)
+Maria da Silva Barbosa,,cônjuge,João Emídio Barbosa,01/02/1947,casamento depois do óbito,Casamento 01/02/1947 — Casamentos 1946-1950; Óbito 16/08/1922 — Óbitos 1922 (75)
 Celeste Nabais de Marcos,01/06/1920,cônjuge,Maria Filomena Carrilho Pereira de 21,11/11/1947,casamento depois do óbito,Batismo 1920 — Batismos 1916 a 1920; Batismo 1921 — Batismos 1921 a 1925
 Isabel Augusta dos Santos Parada,07/09/1917,cônjuge,Jeremias Ventura Sanches,15/11/1947,casamento depois do óbito,Genealogia — Família Ventura; Batismo 1917 — Batismos 1916 a 1920
 Isabel Augusta dos Santos Parada,07/09/1917,cônjuge,Maria Adélia Soares Tolda,15/11/1947,casamento depois do óbito,Genealogia — Família Ventura; Batismo 1917 — Batismos 1916 a 1920
+Maria Emília Martelo Pacheco,,cônjuge,José Emídio Sanches,03/01/1948,casamento depois do óbito,Casamento 03/01/1948 — Casamentos 1946-1950; Óbito 28/07/1923 — Óbitos 1923 (88)
 Maria Benedita Carrilho Lousa,06/11/1924,cônjuge,Manuel Sanches Manso,18/09/1948,casamento depois do óbito,Batismo 1924 — Batismos 1921 a 1925; Casamento 18/09/1948 — Casamentos 1946-1950
 Celeste Nabais de Marcos,01/06/1920,cônjuge,José Braga de Paiva,27/11/1948,casamento depois do óbito,Batismo 1920 — Batismos 1916 a 1920; Batismo 1921 — Batismos 1921 a 1925
 Ramos Augusto Corracha da Inês,,cônjuge,Cristina Alice Amaral Dias,03/09/1949,casamento depois do óbito,Casamento 03/09/1949 — Casamentos 1946-1950; Óbito 20/03/1935 — Óbitos 1935 (65)
@@ -228,7 +194,6 @@ Manuel Meirinho Gomes,09/10/1925,cônjuge,Isabel Maria Vaz Lousa,03/02/1951,casa
 Isabel Maria Vaz Lousa,07/04/1929,cônjuge,?,03/02/1951,casamento depois do óbito,Batismo 1929 — Batismos 1929; Casamento 03/02/1951 — Casamentos 1951-1953
 Gracinda Tavares Gomes,,cônjuge,José Manuel Martinho Barbosa,10/12/1951,casamento depois do óbito,Casamento 10/12/1951 — Casamentos 1951-1953; Óbito 26/01/1924 — Óbitos 1924 (50)
 João dos Santos Fogeiro,29/11/1923,cônjuge,João Cid Pereira,27/01/1951,casamento depois do óbito,Batismo 1923 — Batismos 1921 a 1925; Batismo 1928 — Batismos 1928
-Manuel Lucas Correia,24/11/1926,cônjuge,Maria Isabel Robalo Rito,29/11/1951,casamento depois do óbito,Batismo 1926 — Batismos 1926; Óbito 22/10/1928 — Óbitos 1928 (75)
 João de Matos Dora,13/01/1928,cônjuge,Germano de Oliveira Soares,09/08/1952,casamento depois do óbito,Batismo 1928 — Batismos 1928; Batismo 1930 — Batismos 1930
 Luísa Nabais Nicolau,15/12/1924,cônjuge,José Martelo Nabais,15/11/1952,casamento depois do óbito,Batismo 1925 — Batismos 1921 a 1925; Casamento 15/11/1952 — Casamentos 1951-1953
 João de Paula Lousa,12/06/1928,cônjuge,José Augusto Logrado Lavrador,22/11/1952,casamento depois do óbito,Batismo 1928 — Batismos 1928; Casamento 22/11/1952 — Casamentos 1951-1953
@@ -242,14 +207,13 @@ José Manuel da Teresa Rito,08/03/1924,cônjuge,Dolores Emídio Lopes,24/04/1954
 António da Ascenção Monteiro,,cônjuge,Julieta Carvalho Soares,24/07/1954,casamento depois do óbito,Casamento 24/07/1954 — Casamentos 1954; Óbito 18/07/1920 — Obitos 1920 (89)
 Manuel da Cruz Correia,,cônjuge,Cesar Saraiva Pereira,27/11/1954,casamento depois do óbito,Casamento 27/11/1954 — Casamentos 1954; Óbito 23/10/1923 — Óbitos 1923 (88)
 Maria Luísa da Silva Oliveira,,cônjuge,Jaime Antunes Lousa,27/11/1954,casamento depois do óbito,Casamento 01/09/1949 — Casamentos 1946-1950; Casamento 27/11/1954 — Casamentos 1954
-José Ramos Filipe,13/07/1929,cônjuge,Maria da Conceição Martinho Garcia,27/11/1954,casamento depois do óbito,Batismo 1929 — Batismos 1929; Casamento 27/11/1954 — Casamentos 1954
-Ermelinda Santo Furriel,25/01/1933,cônjuge,João Dias Jorge,01/10/1955,casamento depois do óbito,Batismo 1933 — Batismos 1933; Óbito 29/12/1933 — Óbitos 1933 (48)
 João Augusto Soares de Paulo,02/04/1925,cônjuge,Carlos Tavares Gomes,03/09/1955,casamento depois do óbito,Batismo 1925 — Batismos 1921 a 1925; Batismo 1930 — Batismos 1930
 João Gonçalves dos Santos,03/06/1925,cônjuge,Domingos Emídio Barbosa,03/09/1955,casamento depois do óbito,Batismo 1925 — Batismos 1921 a 1925; Batismo 1926 — Batismos 1926
 Porfírio Nabais da Inês,31/07/1938,cônjuge,Manuel Soares de Carvalho,15/01/1955,casamento depois do óbito,Batismo 1938 — Batismos 1938; Casamento 29/01/1944 — Casamentos 1941-1945
 Maria Alves Corceiro,28/09/1925,cônjuge,José Nicolau Robalo,26/11/1955,casamento depois do óbito,Batismo 1925 — Batismos 1921 a 1925; Batismo 1929 — Batismos 1929
 Glória Jorge da Inês,07/08/1916,cônjuge,Domingos Pereira Correia,30/07/1955,casamento depois do óbito,Batismo 1916 — Batismos 1916 a 1920; Batismo 1922 — Batismos 1921 a 1925
-Maria Emília Marcos Grencho,,cônjuge,José Lourenço da Inês,01/09/1956,casamento depois do óbito,Casamento 01/09/1956 — Casamentos 1956 (15); Óbito 25/09/1926 — Óbitos 1926 (66)
+Isabel Maria Lourenço da Inês,15/11/1916,cônjuge,Maria Emília Marcos Grencho,01/09/1956,casamento depois do óbito,Batismo 1916 — Batismos 1916 a 1920; Casamento 10/09/1938 — Casamentos 1936-1940
+Maria Emília Marcos Grencho,,cônjuge,?,01/09/1956,casamento depois do óbito,Casamento 01/09/1956 — Casamentos 1956 (15); Óbito 25/09/1926 — Óbitos 1926 (66)
 Armanda Corceiro de Carvalho,01/12/1926,cônjuge,6 (68) Maria de Lourdes Lavrador Ambrósio,01/09/1956,casamento depois do óbito,Batismo 1927 — Batismos 1927; Batismo 1930 — Batismos 1930
 Armanda Corceiro de Carvalho,01/12/1926,cônjuge,António José Estevinha,13/09/1956,casamento depois do óbito,Batismo 1927 — Batismos 1927; Batismo 1930 — Batismos 1930
 Maria do Céu Logrado Gonçalves,16/11/1931,cônjuge,Jeremias Fortuna Garcia,14/01/1956,casamento depois do óbito,Batismo 1931 — batismos 1931; Batismo 1937 — Batismos 1937
@@ -274,7 +238,6 @@ José Manuel Ramos Filipe,04/12/1927,cônjuge,Olívia Saraiva Pereira,22/12/1962
 Olívia de Carvalho Lavrador,23/09/1942,cônjuge,António José Gonçalves Garrido,11/09/1963,casamento depois do óbito,Batismo 1942 — Batismos 1942; Casamento 11/09/1963 — Casamentos 1963
 Horácio Ferreira de Matos,,cônjuge,Maria Dulce Nunes Ventura,11/09/1963,casamento depois do óbito,Genealogia — Família Ventura; Casamento 11/09/1963 — Casamentos 1963
 Eliza Madalena Lopes,08/08/1927,cônjuge,José Bairras Palinhos,15/04/1963,casamento depois do óbito,Batismo 1927 — Batismos 1927; Batismo 1942 — Batismos 1942
-Maria da Luz Inês Rodrigues,30/09/1929,cônjuge,José Carvalho Nicolau,30/10/1963,casamento depois do óbito,Batismo 1929 — Batismos 1929; Óbito 21/08/1930 — Óbitos 1930 (54)
 Eliza Lopes Monteiro,10/03/1938,cônjuge,João Ventura Pereira,04/04/1964,casamento depois do óbito,Genealogia — Família de Bernardo Pereira - Isabel Garcia; Batismo 1938 — Batismos 1938
 Maria de Deus Martinho Gomes,30/08/1936,cônjuge,José Nicolau Carvalhinho,11/06/1964,casamento depois do óbito,Batismo 1936 — Batismos 1936; Casamento 11/06/1964 — Casamentos 1964
 José Fernandes de Oliveira,19/05/1926,cônjuge,Maria Rosa Rito Alves,26/12/1964,casamento depois do óbito,Batismo 1926 — Batismos 1926; Batismo 1932 — batismos 1932
@@ -302,15 +265,24 @@ Isabel Maria Caria Lousa,12/01/1938,pai,Lourenço Antunes Lousa,1930,progenitor 
 Manuel Joaquim Antunes Lousa,18/02/1942,pai,Lourenço Antunes Lousa,1930,progenitor já falecido,
 Isabel Augusta Carvalho Lavrador,31/05/1925,mãe,Maria Garcia de Carvalho,15/08/1913,progenitor já falecido,Batismo 1925 — Batismos 1921 a 1925; Óbito 28/07/1925 — Óbitos 1925 (77)
 João Nabais Nicolau,08/03/1927,pai,Manuel Martins Nicolau,11/12/1925,progenitor já falecido,Batismo 1927 — Batismos 1927; Casamento 24/11/1951 — Casamentos 1951-1953
-José Nabais Nicolau,28/02/1938,pai,Manuel Martins Nicolau,11/12/1925,progenitor já falecido,Batismo 1938 — Batismos 1938; Óbito 28/01/1921 — Óbitos 1921 (51)
+José Nabais Nicolau,28/02/1938,pai,Manuel Martins Nicolau,11/12/1925,progenitor já falecido,Batismo 1938 — Batismos 1938
+Mariana Robalo Meirinho,04/06/1927,mãe,Maria Robalo,16/09/1919,progenitor já falecido,Batismo 1927 — Batismos 1927; Óbito 11/12/1929 — Óbitos 1929 (63)
+Benedita Robalo Meirinho,05/03/1929,mãe,Maria Robalo,16/09/1919,progenitor já falecido,Batismo 1929 — Batismos 1929
+6 (64) Maria Luísa Robalo Meirinho,31/07/1934,mãe,Maria Robalo,16/09/1919,progenitor já falecido,Batismo 1934 — Batismos 1934; Casamento 16/11/1957 — Casamentos 1957
 José Robalo de Paula,26/10/1920,pai,Manuel Pereira de Paula,29/08/1915,progenitor já falecido,Batismo 1920 — Batismos 1916 a 1920; Casamento 30/11/1946 — Casamentos 1946-1950
 Manuel Robalo de Paula,21/05/1924,pai,Manuel Pereira de Paula,29/08/1915,progenitor já falecido,Batismo 1924 — Batismos 1921 a 1925; Óbito 02/11/1924 — Óbitos 1924 (50)
 Maria Augusta Robalo de Paula,18/06/1929,pai,Manuel Pereira de Paula,29/08/1915,progenitor já falecido,Batismo 1929 — Batismos 1929; Óbito 04/08/1929 — Óbitos 1929 (63)
 Maria do Céu Robalo de Paula,05/06/1941,pai,Manuel Pereira de Paula,29/08/1915,progenitor já falecido,Batismo 1941 — Batismos 1941; Óbito 25/08/1941 — Obitos 1941
+Judite Inês Robalo,06/10/1942,mãe,Isabel Maria Lourenço da Inês,18/02/1940,progenitor já falecido,
+José da Inês Robalo,26/01/1944,mãe,Isabel Maria Lourenço da Inês,18/02/1940,progenitor já falecido,Batismo 1944 — Batismos 1944; Óbito 22/06/1944 — Obitos 1944
+José da Inês Robalo,18/10/1945,mãe,Isabel Maria Lourenço da Inês,18/02/1940,progenitor já falecido,Batismo 1945 — Batismos 1945; Óbito 10/08/1946 — Óbitos 1946
+Manuel da Inês Robalo de Paula,05/02/1950,mãe,Isabel Maria Lourenço da Inês,18/02/1940,progenitor já falecido,Batismo 1950 — Batismos 1950
+João da Inês Robalo,10/05/1952,mãe,Isabel Maria Lourenço da Inês,18/02/1940,progenitor já falecido,
+Maria Augusta Inês Robalo,18/11/1947,mãe,Isabel Maria Lourenço da Inês,18/02/1940,progenitor já falecido,Batismo 1947 — Batiamos 1947
+José Manuel Inês Robalo,02/02/1955,mãe,Isabel Maria Lourenço da Inês,18/02/1940,progenitor já falecido,
+Carlos Inês de Paulo,16/02/1957,mãe,Isabel Maria Lourenço da Inês,18/02/1940,progenitor já falecido,
 Batismos 1937 José Miguel Nunes Grencho,20/12/1936,mãe,Benedita Nunes de Marcos,04/04/1931,progenitor já falecido,Batismo 1937 — Batismos 1937; Óbito 23/03/1937 — Óbitos 1937 (57)
 João Luís Marques Grencho,22/03/1948,mãe,Benedita Nunes de Marcos,04/04/1931,progenitor já falecido,Batismo 1948 — Batismos 1948
-Prazeres Caria Lousa,27/10/1935,pai,Lourenço Antunes Lousa,1930,progenitor já falecido,Batismo 1935 — Batismos 1935; Casamento 12/04/1958 — Casamentos 1958
-Manuel Joaquim Caria Lousa,18/02/1942,pai,Lourenço Antunes Lousa,1930,progenitor já falecido,Batismo 1942 — Batismos 1942
 Amândio Carvalho Meirinho,18/09/1939,mãe,Laura Gomes de Carvalho,18/11/1910,progenitor já falecido,Batismo 1939 — Batismos 1939
 João Augusto Carvalho Meirinho,14/12/1941,mãe,Laura Gomes de Carvalho,18/11/1910,progenitor já falecido,Batismo 1942 — Batismos 1942; Casamento 25/01/1964 — Casamentos 1964
 Maria Lizete Carvalho Meirinho,24/02/1945,mãe,Laura Gomes de Carvalho,18/11/1910,progenitor já falecido,Batismo 1945 — Batismos 1945
@@ -330,7 +302,7 @@ Alice,31/05/1910,mãe,Isabel Martins Ferrador,25/04/1904,progenitor já falecido
 António,14/04/1912,mãe,Isabel Martins Ferrador,25/04/1904,progenitor já falecido,Óbito 12/07/1913 — Óbitos 1913 (57)
 Glória,01/01/1914,mãe,Isabel Martins Ferrador,25/04/1904,progenitor já falecido,Óbito 15/07/1915 — Obitos 1915 (56)
 João Augusto Patrício Garcia Pereira,10/10/1919,mãe,Isabel Martins Ferrador,25/04/1904,progenitor já falecido,
-Natividade Patrício Pereira,29/06/1923,mãe,Isabel Martins Ferrador,25/04/1904,progenitor já falecido,
+Natividade Patrício Pereira,29/06/1923,mãe,Isabel Martins Ferrador,25/04/1904,progenitor já falecido,Batismo 1923 — Batismos 1921 a 1925
 Glória,31/08/1908,mãe,Isabel Martins Ferrador,25/04/1904,progenitor já falecido,
 Alice,31/05/1910,mãe,Isabel Martins Ferrador,25/04/1904,progenitor já falecido,
 António,14/04/1912,mãe,Isabel Martins Ferrador,25/04/1904,progenitor já falecido,
@@ -384,9 +356,8 @@ Ilda Monteiro Pereira,12/10/1936,mãe,Lucinda Martins Nicolau,11/08/1925,progeni
 José Augusto Monteiro Pereira,25/04/1939,mãe,Lucinda Martins Nicolau,11/08/1925,progenitor já falecido,Batismo 1939 — Batismos 1939
 Virgínia Monteiro Pereira,20/05/1941,mãe,Lucinda Martins Nicolau,11/08/1925,progenitor já falecido,Batismo 1941 — Batismos 1941
 Manuel Lourenço da Inês,06/04/1924,pai,José Lourenço da Inês,30/11/1815,progenitor nascido cedo demais,Óbito 08/07/1932 — Óbitos 1932 (85)
-Maria Emília Lourenço da Inês,26/02/1893,pai,José Lourenço da Inês,30/11/1815,progenitor nascido cedo demais,Batismo 1916 — Batismos 1916 a 1920; Casamento 22/11/1913 — Casamentos 1910-1915
+Maria Emília Lourenço da Inês,26/02/1893,pai,José Lourenço da Inês,30/11/1815,progenitor nascido cedo demais,Casamento 22/11/1913 — Casamentos 1910-1915
 Manuel Joaquim Filipe da Inês,10/03/1917,pai,José Lourenço da Inês,30/11/1815,progenitor nascido cedo demais,
-Maria Glória Gaião Dias,06/08/1950,mãe,Amélia Afonso Gaião,07/10/1918,progenitor já falecido,Batismo 1950 — Batismos 1950
 Manuel Garcia Pereira,11/04/1870,pai,João Garcia Pereira,23/08/1880,progenitor nascido depois,
 Isabel Garcia Pereira,12/05/1872,pai,João Garcia Pereira,23/08/1880,progenitor nascido depois,
 José Garcia Pereira,08/10/1875,pai,João Garcia Pereira,23/08/1880,progenitor nascido depois,
@@ -403,7 +374,7 @@ José (Aires) Nunes Meirinho,21/02/1869,pai,Maria Lopes Pereira,1834,progenitor 
 Narciso Nunes Meirinho,15/10/1871,pai,Maria Lopes Pereira,1834,progenitor já falecido,
 Maria Augusta Nunes Meirinho,25/01/1874,pai,Maria Lopes Pereira,1834,progenitor já falecido,Casamento 28/11/1895 — Casamentos 1895 a 1899
 Maria dos Prazeres Nunes Meirinho,24/04/1876,pai,Maria Lopes Pereira,1834,progenitor já falecido,
-Isabel Maria Nunes Meirinho,15/09/1878,pai,Maria Lopes Pereira,1834,progenitor já falecido,"Casamento 30/11/1899 — Casamentos 1895 a 1899; Casamento 30/11/1899 — Casamentos de ""fora"" século XIX"
+Isabel Maria Nunes Meirinho,15/09/1878,pai,Maria Lopes Pereira,1834,progenitor já falecido,Casamento 30/11/1899 — Casamentos 1895 a 1899
 José Lourenço da Inês,01/12/1891,pai,Manuel Lourenço,21/05/1809,progenitor nascido cedo demais,Casamento 22/11/1913 — Casamentos 1910-1915; Casamento 05/04/1926 — Casamentos 1926-1930
 Isabel Augusta Lourenço da Inês,28/08/1893,pai,Manuel Lourenço,21/05/1809,progenitor nascido cedo demais,
 Maria Augusta Nunes Dias,27/05/1901,mãe,Luiza Pires dos Sanctos,02/12/1901,progenitor nascido cedo demais,Batismo 1901 — Batismos 1901 a 1905; Óbito 25/08/1901 — Óbitos 1901 (50)
@@ -412,22 +383,17 @@ Manuel Carvalho,,próprio,Manuel Carvalho,,pessoa ligada como filho de si mesma,
 Isabel Augusta Vas Lavrador,18/11/1903,pai,Manuel Vaz Lavrador,30/03/1907,progenitor nascido depois,Batismo 1903 — Batismos 1901 a 1905
 José Manuel,16/08/1908,pai,José Garcia,14/08/1903,progenitor já falecido,Batismo 1908 — Batismos 1906 a 1910; Óbito 10/02/1908 — Óbitos 1908 (53)
 Angela,29/05/1910,pai,José Garcia,14/08/1903,progenitor já falecido,Batismo 1910 — Batismos 1906 a 1910
+Isabel Filipe Dias,21/05/1919,pai,Domingos Nunes Dias,07/12/1908,progenitor já falecido,Batismo 1919 — Batismos 1916 a 1920; Casamento 28/08/1940 — Casamentos 1936-1940
 Manuel José,02/06/1920,pai,Manuel José dos Santos,24/10/1906,progenitor já falecido,Batismo 1920 — Batismos 1916 a 1920
 José Manuel Carrilho,31/07/1904,mãe,Maria Gomes de Carvalho,30/11/1922,progenitor nascido depois,Batismo 1904 — Batismos 1901 a 1905; Casamento 03/06/1929 — Casamentos 1926-1930
 Jeremias Carrilho Quinteiro,22/06/1920,mãe,Maria Gomes de Carvalho,30/11/1922,progenitor nascido depois,Batismo 1920 — Batismos 1916 a 1920; Batismo 1921 — Batismos 1921 a 1925
 José Garcia Fogeiro,,próprio,José Garcia Fogeiro,,pessoa ligada como filho de si mesma,
-Artur Nabais,03/10/1916,mãe,Maria Augusta Garcia da Nabais,21/11/1911,progenitor já falecido,Batismo 1916 — Batismos 1916 a 1920; Casamento 22/11/1941 — Casamentos 1941-1945
+Artur Nabais,03/10/1916,mãe,Maria Augusta Garcia da Nabais,21/11/1911,progenitor já falecido,Batismo 1916 — Batismos 1916 a 1920
 Manuel Ambrósio Correia,20/12/1907,mãe,Maria Gonçalves Ambrósio,30/07/1902,progenitor já falecido,Batismo 1908 — Batismos 1906 a 1910
 Manuel Correia,24/12/1909,mãe,Maria Gonçalves Ambrósio,30/07/1902,progenitor já falecido,Batismo 1910 — Batismos 1906 a 1910; Casamento 11/01/1932 — Casamentos 1931-1935
-Manuel Gonçalves Ambrósio,,próprio,Manuel Gonçalves Ambrósio,,pessoa ligada como filho de si mesma,Casamento 31/11/1931 — Casamentos 1931-1935
 Manuel Joaquim,19/06/1910,mãe,Maria Vaz da Furriela,09/11/1904,progenitor já falecido,Batismo 1910 — Batismos 1906 a 1910; Óbito 20/09/1911 — Óbitos 1911 (54)
 João Garrido Monteiro,07/05/1911,pai,Manuel Fernandes Monteiro,24/04/1900,progenitor já falecido,Batismo 1911 — Batismos  1911 a 1915; Casamento 20/04/1936 — Casamentos 1936-1940
-Isabel Augusta,22/05/1916,pai,José Augusto Carvalho,25/03/1906,progenitor nascido cedo demais,Batismo 1916 — Batismos 1916 a 1920
 Maria Augusta,17/04/1916,pai,Manuel Carvalho Morgado,15/10/1914,progenitor já falecido,Batismo 1916 — Batismos 1916 a 1920; Óbito 21/08/1916 — Óbitos 1916 (87)
-Maria dos Anjos,15/10/1917,pai,Manuel Joaquim Antunes,1915,progenitor já falecido,Batismo 1917 — Batismos 1916 a 1920
-Manuel,13/07/1917,pai,Domingos Nunes Dias,07/12/1908,progenitor já falecido,Batismo 1917 — Batismos 1916 a 1920
-Manuel José,02/07/1918,pai,Manuel Vaz da Furriela,17/12/1908,progenitor já falecido,Batismo 1918 — Batismos 1916 a 1920
-Artur,28/03/1918,pai,Manuel Antunes,20/06/1846,progenitor nascido cedo demais,Batismo 1918 — Batismos 1916 a 1920
 Isabel Augusta,27/06/1919,mãe,Isabel Maria de Carvalho,06/02/1914,progenitor já falecido,Batismo 1915 — Batismos  1911 a 1915; Batismo 1919 — Batismos 1916 a 1920
 Manuel Garrido Nabais,12/11/1920,mãe,Isabel Gonçalves Garrido,04/11/1918,progenitor já falecido,Batismo 1920 — Batismos 1916 a 1920; Batismo 1921 — Batismos 1921 a 1925
 José Joaquim Garrido da Nabais,23/01/1925,mãe,Isabel Gonçalves Garrido,04/11/1918,progenitor já falecido,Batismo 1934 — Batismos 1934; Batismo 1939 — Batismos 1939
@@ -439,107 +405,55 @@ Olívia Rito Santo,24/03/1923,pai,José Robalo Santo,18/01/1917,progenitor já f
 Isabel Augusta Rito Santo,27/11/1925,pai,José Robalo Santo,18/01/1917,progenitor já falecido,Batismo 1926 — Batismos 1926; Casamento 03/09/1949 — Casamentos 1946-1950
 José Manuel,19/02/1920,pai,José Robalo Santo,18/01/1917,progenitor já falecido,Batismo 1920 — Batismos 1916 a 1920; Batismo 1921 — Batismos 1921 a 1925
 Celeste Rito Robalo,17/02/1928,pai,José Robalo Santo,18/01/1917,progenitor já falecido,Batismo 1928 — Batismos 1928
-Mário Corracha da Inês,14/01/1924,pai,Manuel Lourenço da Inês,12/04/1920,progenitor já falecido,Batismo 1924 — Batismos 1921 a 1925; Batismo 1926 — Batismos 1926
-Maria Augusta Corracha da Inês,16/09/1928,pai,Manuel Lourenço da Inês,12/04/1920,progenitor já falecido,Batismo 1928 — Batismos 1928; Casamento 18/11/1950 — Casamentos 1946-1950
-Maria Alice Corracha da Inês,31/01/1933,pai,Manuel Lourenço da Inês,12/04/1920,progenitor já falecido,Batismo 1933 — Batismos 1933; Óbito 12/08/1933 — Óbitos 1933 (48)
+José Manuel,19/03/1918,pai,José Garcia Pereira,26/06/1902,progenitor já falecido,Batismo 1920 — Batismos 1916 a 1920
 Isabel Maria Gomes Pereira,01/04/1928,pai,José Garcia Pereira,26/06/1902,progenitor já falecido,Batismo 1928 — Batismos 1928; Casamento 14/06/1961 — Casamentos 1961 (24)
-José Manuel,20/08/1920,pai,José Garcia Pereira,26/06/1902,progenitor já falecido,Batismo 1920 — Batismos 1916 a 1920
-Maria,14/12/1919,pai,Manuel Vaz da Furriela,17/12/1908,progenitor já falecido,Batismo 1920 — Batismos 1916 a 1920
-José Manuel Perloiro da Furriela,15/03/1923,pai,Manuel Vaz da Furriela,17/12/1908,progenitor já falecido,Batismo 1923 — Batismos 1921 a 1925; Batismo 1928 — Batismos 1928
 Isabel Augusta Garcia Pereira,28/05/1905,pai,Manuel Garcia Pereira,18/08/1895,progenitor nascido cedo demais,Batismo 1924 — Batismos 1921 a 1925
-Florentino,24/02/1922,mãe,Mariana Pires dos Santos,26/07/1919,progenitor já falecido,Batismo 1922 — Batismos 1921 a 1925
-Maria dos Anjos Fernandes de Paulo,03/02/1924,pai,Manuel Martins de Paulo,23/11/1916,progenitor já falecido,Batismo 1924 — Batismos 1921 a 1925; Batismo 1925 — Batismos 1921 a 1925
-Luísa Fernandes de Paulo,16/07/1939,pai,Manuel Martins de Paulo,23/11/1916,progenitor já falecido,Batismo 1939 — Batismos 1939; Casamento 11/11/1944 — Casamentos 1941-1945
-Maria do Céu Fogeiro de Carvalho,14/02/1924,pai,José Gomes de Carvalho,31/05/1933,progenitor nascido depois,Batismo 1924 — Batismos 1921 a 1925; Batismo 1926 — Batismos 1926
-Isabel Maria Gaião Antunes,30/11/1924,mãe,Isabel Gonçalves Gaião,1902,progenitor já falecido,Batismo 1924 — Batismos 1921 a 1925; Casamento 17/09/1947 — Casamentos 1946-1950
+Maria do Céu Fogeiro de Carvalho,14/02/1924,mãe,Leonor,18/06/1903,progenitor já falecido,Batismo 1924 — Batismos 1921 a 1925; Batismo 1926 — Batismos 1926
 Manuel Alves Gomes,29/05/1929,pai,Manuel Gomes Frade,07/08/1915,progenitor já falecido,Batismo 1929 — Batismos 1929; Óbito 07/06/1929 — Óbitos 1929 (63)
 Alberto Alves Gomes,19/08/1938,pai,Manuel Gomes Frade,07/08/1915,progenitor já falecido,Batismo 1938 — Batismos 1938; Casamento 28/12/1963 — Casamentos 1963
 Belmira Alves Frade,24/06/1924,pai,Manuel Gomes Frade,07/08/1915,progenitor já falecido,Batismo 1924 — Batismos 1921 a 1925
 Isabel Augusta Russo de Carvalho,06/11/1925,mãe,Isabel Fernandes Russo,15/07/1904,progenitor já falecido,Batismo 1925 — Batismos 1921 a 1925; Batismo 1928 — Batismos 1928
 Manuel Martinho Nunes,08/05/1925,mãe,Isabel Martinho,10/03/1903,progenitor já falecido,Batismo 1925 — Batismos 1921 a 1925; Óbito 15/05/1925 — Óbitos 1925 (77)
-Maria dos Anjos Fernandes de Paulo,03/02/1924,pai,Manuel Martins de Paulo,23/11/1916,progenitor já falecido,Batismo 1924 — Batismos 1921 a 1925; Batismo 1925 — Batismos 1921 a 1925
-2 (29) Maria da Glória Fernandes de Paulo,27/02/1934,pai,Manuel Martins de Paulo,23/11/1916,progenitor já falecido,Batismo 1934 — Batismos 1934; Batismo 1936 — Batismos 1936
-Belmira Antunes Nabais,30/08/1925,pai,Manuel Nabais,08/04/1917,progenitor já falecido,Batismo 1925 — Batismos 1921 a 1925
-José Aires Carvalho Meirinho,22/02/1935,mãe,Laura Gomes de Carvalho,18/11/1910,progenitor já falecido,Batismo 1935 — Batismos 1935
-Maria Benedita Carvalho Meirinho,07/10/1926,mãe,Laura Gomes de Carvalho,18/11/1910,progenitor já falecido,Batismo 1926 — Batismos 1926; Casamento 28/01/1956 — Casamentos 1956 (15)
 Inês Caria Filipe,30/01/1926,pai,José Gonçalves Filipe,17/10/1918,progenitor já falecido,Batismo 1926 — Batismos 1926; Óbito 29/06/1927 — Óbitos 1927 (91)
 Inês Gomes Caria Filipe,29/03/1928,pai,José Gonçalves Filipe,17/10/1918,progenitor já falecido,Batismo 1928 — Batismos 1928
-Dionísia dos Anjos Garrido Gonçalves,10/08/1926,mãe,Isabel Maria Gonçalves Garrido,16/01/1887,progenitor já falecido,Batismo 1926 — Batismos 1926; Óbito 30/07/1927 — Óbitos 1927 (91)
-Jaime Garrido Gonçalves,17/06/1928,mãe,Isabel Maria Gonçalves Garrido,16/01/1887,progenitor já falecido,Batismo 1928 — Batismos 1928; Óbito 08/09/1929 — Óbitos 1929 (63)
 Isabel Augusta Filipe dos Santos,09/07/1926,mãe,Ana Gonçalves Filipe,14/08/1902,progenitor já falecido,Batismo 1926 — Batismos 1926
 José Manuel Filipe dos Santos,25/01/1928,mãe,Ana Gonçalves Filipe,14/08/1902,progenitor já falecido,Batismo 1928 — Batismos 1928; Batismo 1930 — Batismos 1930
 João Filipe dos Santos,17/09/1933,pai,Manuel Pires dos Santos,29/04/1929,progenitor já falecido,Batismo 1933 — Batismos 1933; Batismo 1937 — Batismos 1937
-Domingos Perlouro da Furriela,08/03/1926,pai,Manuel Vaz da Furriela,17/12/1908,progenitor já falecido,Batismo 1926 — Batismos 1926
 3 de Setembro; Maria Luísa da Silva Oliveira,12/08/1927,pai,António d’Oliveira,12/01/1925,progenitor já falecido,Batismo 1927 — Batismos 1927; Batismo 1929 — Batismos 1929
-Maria dos Anjos Fernandes de Paulo,03/02/1924,pai,Manuel Martins de Paulo,23/11/1916,progenitor já falecido,Batismo 1924 — Batismos 1921 a 1925; Batismo 1925 — Batismos 1921 a 1925
-Maria Benedita Foijeiro de Carvalho,24/06/1927,pai,José Gomes de Carvalho,31/05/1933,progenitor nascido depois,Batismo 1927 — Batismos 1927
 João dos Santos Fogeiro,29/11/1923,mãe,Isabel Pires dos Santos,03/07/1916,progenitor já falecido,Batismo 1923 — Batismos 1921 a 1925; Batismo 1928 — Batismos 1928
 Gracinda dos Santos Fojeiro,26/03/1943,mãe,Isabel Pires dos Santos,03/07/1916,progenitor já falecido,Batismo 1943 — Batismos 1943
-Isabel Fojeiro de Carvalho,08/07/1929,pai,José Gomes de Carvalho,31/05/1933,progenitor nascido depois,Batismo 1929 — Batismos 1929; Batismo 1942 — Batismos 1942
-Jaime Marques Soares,26/10/1936,pai,João Soares,05/11/1927,progenitor já falecido,Batismo 1936 — Batismos 1936; Óbito 07/06/1937 — Óbitos 1937 (57)
-José Manuel Escolástico Arménio,12/11/1929,mãe,Maria dos Anjos Martins Escolástico,17/08/1903,progenitor já falecido,Batismo 1929 — Batismos 1929; Casamento 29/05/1954 — Casamentos 1954
-João Arlindo Martins Arménio,12/04/1937,mãe,Maria dos Anjos Martins Escolástico,17/08/1903,progenitor já falecido,Batismo 1937 — Batismos 1937
-João Antunes dos Santos,01/08/1930,mãe,Elvira Antunes,16/08/1903,progenitor já falecido,Batismo 1930 — Batismos 1930; Casamento 12/01/1952 — Casamentos 1951-1953
-Isabel Maria Carvalho Meirinho,15/02/1930,mãe,Laura Gomes de Carvalho,18/11/1910,progenitor já falecido,Batismo 1930 — Batismos 1930; Batismo 1932 — batismos 1932
-Manuel José Nunes Lopes,30/10/1930,mãe,Prazeres Nunes Emídio,04/09/1901,progenitor já falecido,Batismo 1930 — Batismos 1930; Óbito 27/09/1932 — Óbitos 1932 (85)
 João Carvalho Lavrador,09/11/1930,mãe,Maria Garcia de Carvalho,06/02/1920,progenitor já falecido,Batismo 1930 — Batismos 1930
-Maria Agostinha Garrido Antunes,05/08/1930,mãe,Lucinda Gonçalves Garrido,11/11/1929,progenitor nascido cedo demais,Batismo 1930 — Batismos 1930
-Isabel Augusta Russo de Carvalho,06/11/1925,mãe,Isabel Fernandes Russo,15/07/1904,progenitor já falecido,Batismo 1925 — Batismos 1921 a 1925; Batismo 1928 — Batismos 1928
-José Manuel Filipe dos Santos,25/01/1928,mãe,Ana Gonçalves Filipe,14/08/1902,progenitor já falecido,Batismo 1928 — Batismos 1928; Batismo 1930 — Batismos 1930
-Manuel de Oliveira Antunes,19/10/1930,mãe,Maria de Jesus Oliveira,04/09/1867,progenitor já falecido,Batismo 1930 — Batismos 1930; Batismo 1932 — batismos 1932
-José Alves Corceiro,29/12/1930,mãe,Isabel Alves,15/11/1915,progenitor já falecido,Batismo 1931 — batismos 1931
-José Alves Martins Corceiro,12/08/1932,mãe,Isabel Alves,15/11/1915,progenitor já falecido,Batismo 1932 — batismos 1932; Óbito 09/02/1934 — Óbitos 1934 (58)
-Jaime Antunes Lousa,20/11/1931,mãe,Isabel Gonçalves Gaião,1902,progenitor já falecido,Batismo 1931 — batismos 1931; Casamento 27/11/1954 — Casamentos 1954
-Rufina dos Anjos Gonçalves,07/02/1931,mãe,Isabel Maria Gonçalves Garrido,16/01/1887,progenitor já falecido,Batismo 1931 — batismos 1931; Óbito 12/10/1932 — Óbitos 1932 (85)
-César Augusto Martins Arménio,01/12/1930,mãe,Maria dos Anjos Martins Escolástico,17/08/1903,progenitor já falecido,Batismo 1931 — batismos 1931
-Maria da Ascenção Rito Dias,12/11/1932,mãe,Glória Manso Rito,09/08/1909,progenitor já falecido,Batismo 1932 — batismos 1932; Óbito 11/09/1941 — Obitos 1941
 9 (96) Olívia Saraiva Pereira,17/10/1934,mãe,Maria Augusta dos Santos Saraiva,01/04/1919,progenitor já falecido,Batismo 1934 — Batismos 1934
 Manuel Rito Alves,05/10/1936,pai,José Joaquim Alves,06/07/1901,progenitor já falecido,Batismo 1936 — Batismos 1936; Óbito 03/09/1937 — Óbitos 1937 (57)
 6 (69) Fausto Rito Alves,14/08/1934,pai,José Joaquim Alves,06/07/1901,progenitor já falecido,Batismo 1934 — Batismos 1934
-5(5) Manuel Joaquim Antunes Lousa,20/12/1933,pai,Lourenço Antunes Lousa,1930,progenitor já falecido,Batismo 1934 — Batismos 1934
 8 (80) Daniel Ramos Pereira Gonçalves,23/08/1934,pai,José Gonçalves Garrido,08/06/1901,progenitor já falecido,Batismo 1934 — Batismos 1934
 Fernando Soares Gonçalves,26/07/1941,pai,José Gonçalves Garrido,08/06/1901,progenitor já falecido,Batismo 1941 — Batismos 1941
 Manuel José Gaião Lousa,22/10/1935,pai,Joaquim Antunes Lousa,15/02/1918,progenitor já falecido,Batismo 1935 — Batismos 1935; Casamento 24/10/1959 — Casamentos 1959
-Maria do Céu Fogeiro de Carvalho,14/02/1924,pai,José Gomes de Carvalho,31/05/1933,progenitor nascido depois,Batismo 1924 — Batismos 1921 a 1925; Batismo 1926 — Batismos 1926
 José Garcia Filipe,01/02/1935,mãe,Maria Garcia Pereira,24/12/1843,progenitor nascido cedo demais,Batismo 1935 — Batismos 1935
 Amílcar Martins Meirinho,07/01/1935,pai,Manuel Luís Nunes Meirinho,25/08/1901,progenitor já falecido,Batismo 1935 — Batismos 1935
 Manuel Emídio Martinho,24/01/1935,pai,João Patrício Martinho,11/05/1926,progenitor já falecido,Batismo 1935 — Batismos 1935
 Maria Lídia Soares Martins,25/01/1935,pai,José Martins da Teresa,30/04/1912,progenitor já falecido,Batismo 1935 — Batismos 1935; Casamento 25/09/1957 — Casamentos 1957
-Prazeres Caria Lousa,27/10/1935,pai,Lourenço Antunes Lousa,1930,progenitor já falecido,Batismo 1935 — Batismos 1935; Casamento 12/04/1958 — Casamentos 1958
-Maria Isabel Nabais Nicolau,30/03/1935,pai,Manuel Martins Nicolau,11/12/1925,progenitor já falecido,Batismo 1935 — Batismos 1935
 José Manuel Nunes Garrido,24/11/1936,mãe,Isabel Augusta Nunes de Marcos,09/03/1928,progenitor já falecido,Batismo 1936 — Batismos 1936; Casamento 21/11/1959 — Casamentos 1959
 Maria Alice Nunes Garrido,16/12/1937,mãe,Isabel Augusta Nunes de Marcos,09/03/1928,progenitor já falecido,Batismo 1938 — Batismos 1938
 8 81) João de Marcos Antunes,23/09/1934,mãe,Isabel Augusta Antunes de Marcos,10/05/1902,progenitor já falecido,Batismo 1934 — Batismos 1934; Batismo 1936 — Batismos 1936
-Mário Corracha da Inês,14/01/1924,pai,Manuel Lourenço da Inês,12/04/1920,progenitor já falecido,Batismo 1924 — Batismos 1921 a 1925; Batismo 1926 — Batismos 1926
-João Filipe dos Santos,17/09/1933,mãe,Ana Gonçalves Filipe,14/08/1902,progenitor já falecido,Batismo 1933 — Batismos 1933; Batismo 1937 — Batismos 1937
-José Manuel Carvalho Meirinho,27/10/1937,mãe,Laura Gomes de Carvalho,18/11/1910,progenitor já falecido,Batismo 1937 — Batismos 1937; Casamento 22/08/1970 — Casamentos 1970 (6)
 Maximino Nabais Viegas,10/05/1938,mãe,Maria Augusta Nabais,04/09/1919,progenitor já falecido,Batismo 1938 — Batismos 1938
 João Luís Inês Vaz,26/08/1941,mãe,Arminda Carvalho da Inês,08/06/1921,progenitor já falecido,Batismo 1941 — Batismos 1941; Óbito 02/09/1941 — Obitos 1941
-Ana Maria Dias Oliveira,27/07/1941,mãe,Isabel Filipe Dias,29/07/1908,progenitor já falecido,Batismo 1941 — Batismos 1941
-Domingos Dias de Oliveira,12/10/1942,mãe,Isabel Filipe Dias,29/07/1908,progenitor já falecido,Batismo 1942 — Batismos 1942; Batismo 1943 — Batismos 1943
 Maria do Céu Dias Parada,28/08/1942,pai,José Manuel dos Santos Parada,13/10/1928,progenitor já falecido,Batismo 1942 — Batismos 1942; Casamento 27/01/1968 — Casamentos 1968 (13)
 José Manuel Dias Parada,29/07/1945,pai,José Manuel dos Santos Parada,13/10/1928,progenitor já falecido,Batismo 1945 — Batismos 1945; Casamento 30/08/1969 — Casamentos 1969 (10)
 Maria dos Prazeres Dias Parada,28/01/1950,pai,José Manuel dos Santos Parada,13/10/1928,progenitor já falecido,Batismo 1950 — Batismos 1950
 João Garcia Luís,23/04/1944,pai,José Manuel Luís,30/07/1939,progenitor já falecido,Batismo 1944 — Batismos 1944
 José Maurício Garcia Luís,15/10/1949,pai,José Manuel Luís,30/07/1939,progenitor já falecido,Batismo 1949 — Batismos 1949
 Maria Salete Garcia Luís,25/02/1949,pai,José Manuel Luís,30/07/1939,progenitor já falecido,Batismo 1949 — Batismos 1949
-Isabel Maria Filipe Logrado,30/04/1944,pai,João Pereira Logrado,1916,progenitor já falecido,Batismo 1944 — Batismos 1944; Casamento 28/01/1967 — Casamentos 1967
 Maria do Céu Garcia Dias,16/03/1945,mãe,Maria Garcia da Nabais,31/12/1906,progenitor já falecido,Batismo 1945 — Batismos 1945
 Luísa Garcia Dias,25/06/1950,mãe,Maria Garcia da Nabais,31/12/1906,progenitor já falecido,Batismo 1950 — Batismos 1950
 Artur Filipe dos Santos Alfaiate,28/07/1945,pai,José Augusto dos Santos Alfaiate,13/12/1927,progenitor já falecido,Batismo 1945 — Batismos 1945
 José Manuel Oliveira,09/06/1945,pai,José Manuel Meirinho de Oliveira,22/05/1942,progenitor já falecido,Batismo 1945 — Batismos 1945; Óbito 17/06/1945 — Obitos 1945 (55)
 José Lourenço Perloiro de Oliveira,25/01/1948,pai,José Manuel Meirinho de Oliveira,22/05/1942,progenitor já falecido,Batismo 1948 — Batismos 1948
-Maria do Céu Patrício Correia,13/02/1945,pai,Manuel Luís Correia,1918,progenitor já falecido,Batismo 1945 — Batismos 1945
 José Manuel Lavrador da Inês,16/09/1945,pai,Ramos Augusto Corracha da Inês,20/03/1935,progenitor já falecido,Batismo 1945 — Batismos 1945; Batismo 1949 — Batismos 1949
-Maria do Céu Rito Alfaiate,08/07/1946,pai,José Alexandre Perloiro Alfaiate,10/08/1920,progenitor já falecido,Batismo 1946 — Batismos 1946
-Maria de Lourdes Rito Alfaiate,24/12/1947,pai,José Alexandre Perloiro Alfaiate,10/08/1920,progenitor já falecido,Batismo 1948 — Batismos 1948
-Glória Filipe Logrado,29/04/1948,pai,João Pereira Logrado,1916,progenitor já falecido,Batismo 1948 — Batismos 1948; Casamento 23/08/1969 — Casamentos 1969 (10)
-João Filipe Logrado,20/01/1950,pai,João Pereira Logrado,1916,progenitor já falecido,Batismo 1950 — Batismos 1950
-José Martins Nicolau,24/12/1947,pai,João Nunes Nicolau,16/04/1923,progenitor já falecido,Batismo 1948 — Batismos 1948
+Luísa da Teresa Dias,20/03/1945,mãe,Isabel Augusta Perloiro da Teresa,10/10/1932,progenitor já falecido,Batismo 1945 — Batismos 1945; Óbito 18/06/1945 — Obitos 1945 (55)
+José Manuel Barbosa,27/05/1948,mãe,Maria da Silva Barbosa,16/08/1922,progenitor já falecido,Batismo 1948 — Batismos 1948
+Maria da Glória Barbosa,19/10/1949,mãe,Maria da Silva Barbosa,16/08/1922,progenitor já falecido,Batismo 1949 — Batismos 1949
 Maria Graciete Nicolau da Teresa,31/08/1948,pai,Manuel Luís Fernandes Russo da Teresa,22/09/1920,progenitor já falecido,Batismo 1948 — Batismos 1948
-Jaime Gomes da Furriela,10/05/1949,pai,José Manuel Perloiro da Furriela,04/09/1932,progenitor já falecido,Batismo 1949 — Batismos 1949
+Jaime Gomes da Furriela,10/05/1949,pai,José Manuel Perloiro da Furriela,12/11/1939,progenitor já falecido,Batismo 1949 — Batismos 1949
 Maria do Céu Ferreira Correia,31/08/1949,pai,Manuel da Cruz Correia,23/10/1923,progenitor já falecido,Batismo 1949 — Batismos 1949
-Maria Adélia Patrício Correia,12/03/1949,pai,Manuel Luís Correia,1918,progenitor já falecido,Batismo 1949 — Batismos 1949
 Ana Marques Garrido,25/03/1949,pai,António José Gonçalves Garrido,20/10/1939,progenitor já falecido,Batismo 1949 — Batismos 1949
-Fernando Rodrigues Antunes,13/05/1950,pai,José Manuel Rodrigues Antunes,01/02/1933,progenitor já falecido,Batismo 1950 — Batismos 1950
-Jaime Gomes da Furriela,28/06/1950,pai,José Manuel Perloiro da Furriela,04/09/1932,progenitor já falecido,Batismo 1950 — Batismos 1950
