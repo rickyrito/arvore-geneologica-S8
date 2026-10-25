@@ -60,6 +60,7 @@ a{color:var(--azulejo)}
 .chip{font-size:12px;letter-spacing:.04em;border:1px solid var(--linha);padding:3px 8px;border-radius:2px;color:var(--tinta-fraca);
   font-variant-numeric:tabular-nums}
 .chip.cod{color:var(--ocre);border-color:var(--ocre)}
+.chip.ref{color:var(--azulejo);border-color:var(--azulejo);background:var(--azulejo-claro)}
 .datas{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:12px;margin-top:18px}
 .datas div{border-left:2px solid var(--azulejo);padding-left:10px}
 .datas dt{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--tinta-fraca)}
@@ -141,13 +142,13 @@ footer p{margin:0 0 8px}
   <p>Cônjuges vindos de outras famílias aparecem sem código. Datas em dia/mês/ano; «c.» indica data aproximada.</p>
 </footer>
 
-<script src="dados.js?v=3"></script>
+<script src="dados.js?v=4"></script>
 <script>
 (function(){
   var D = window.ARVORE || {p:[],f:[]};
   var P = D.p, F = D.f;
   var el = function(id){ return document.getElementById(id); };
-  var NOME=0, SEXO=1, NASC=2, BAPT=3, OBITO=4, COD=5, FAMC=6, FAMS=7, FAMILIA=8;
+  var NOME=0, SEXO=1, NASC=2, BAPT=3, OBITO=4, COD=5, FAMC=6, FAMS=7, FAMILIA=8, REFS=9;
   var HUSB=0, WIFE=1, MARR=2, NOTA=3, CHIL=4;
 
   el('nPessoas').textContent = P.length;
@@ -194,6 +195,9 @@ footer p{margin:0 0 8px}
     chips.textContent = '';
     if (p[FAMILIA]){ var fchip = document.createElement('span'); fchip.className = 'chip'; fchip.textContent = 'Família ' + p[FAMILIA]; chips.appendChild(fchip); }
     if (p[COD]){ var c = document.createElement('span'); c.className = 'chip cod'; c.textContent = 'Código ' + p[COD]; chips.appendChild(c); }
+    (p[REFS] || []).forEach(function(r){
+      var rc = document.createElement('span'); rc.className = 'chip ref'; rc.textContent = 'também em ' + r; chips.appendChild(rc);
+    });
     var sx = document.createElement('span'); sx.className = 'chip';
     sx.textContent = p[SEXO] === 'F' ? 'Feminino' : p[SEXO] === 'M' ? 'Masculino' : 'Sexo não registado';
     chips.appendChild(sx);
