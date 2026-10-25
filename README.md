@@ -5,7 +5,7 @@ Página: https://rickyrito.github.io/arvore-geneologica-S8/
 Dados transcritos dos assentos paroquiais do Soito publicados no blogue [Saber Soito](https://soitoribacoa.blogspot.com/) (294 artigos, 1624-1984).
 
 ## Página
-- `index.html` + `dados.js` — explorador: 4067 pessoas de 12 famílias, com filtro por família. Pessoas possivelmente vivas (1034) aparecem como «(pessoa viva)».
+- `index.html` + `dados.js` — explorador: 4067 pessoas de 12 famílias, com filtro por família. Nomes completos, como no blogue de origem; página não indexada.
 
 ## GEDCOM
 - `familia_soito.ged` — toda a base da freguesia: 4067 indivíduos, 1276 núcleos familiares
