@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Árvore genealógica da família Rito do Soito (Sabugal), a partir dos assentos paroquiais transcritos no blogue Saber Soito.">
+<style>html{color-scheme:light}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Rito do Soito</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Faustina:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: coluna de pesquisa fixa à esquerda, ficha individual à direita; empilha no telemóvel */
+:root{
+  --papel:#f4f4f0; --papel-2:#eceae3; --tinta:#1f2328; --tinta-fraca:#5d6670;
+  --linha:#d8d5cb; --azulejo:#2d4f7c; --azulejo-claro:#e3ebf5; --ocre:#8a6a2f;
+  --display:"Faustina",Georgia,"Times New Roman",serif;
+  --corpo:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --papel:#14171b; --papel-2:#1b1f25; --tinta:#e8e6e0; --tinta-fraca:#9aa3ad;
+  --linha:#2c323a; --azulejo:#8fb3dd; --azulejo-claro:#1e2832; --ocre:#d2ab63; color-scheme:dark;}}
+:root[data-theme="dark"]{
+  --papel:#14171b; --papel-2:#1b1f25; --tinta:#e8e6e0; --tinta-fraca:#9aa3ad;
+  --linha:#2c323a; --azulejo:#8fb3dd; --azulejo-claro:#1e2832; --ocre:#d2ab63; color-scheme:dark;}
+
+*{box-sizing:border-box}
+body{background:var(--papel);color:var(--tinta);font-family:var(--corpo);line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;margin:0}
+a{color:var(--azulejo)}
+.topo{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 18px;padding-block:22px 14px;border-bottom:2px solid var(--tinta)}
+.topo h1{font-size:clamp(26px,4.5vw,38px);font-weight:700;letter-spacing:-.01em}
+.topo .sub{color:var(--tinta-fraca);font-size:13.5px}
+.topo .sub b{color:var(--tinta);font-variant-numeric:tabular-nums}
+.grelha{display:grid;grid-template-columns:minmax(260px,330px) minmax(0,1fr);gap:28px;align-items:start;padding-block:20px 40px}
+@media (max-width:820px){.grelha{grid-template-columns:1fr;gap:20px}}
+
+.busca{position:sticky;top:env(safe-area-inset-top,0px);display:flex;flex-direction:column;gap:10px;background:var(--papel);padding-block:10px}
+@media (max-width:820px){.busca{position:static}}
+.busca input{width:100%;font:500 16px/1.4 var(--corpo);color:var(--tinta);background:var(--papel-2);
+  border:1px solid var(--linha);border-radius:2px;padding:11px 12px}
+.busca input:focus{outline:2px solid var(--azulejo);outline-offset:1px}
+.contagem{font-size:12px;color:var(--tinta-fraca);letter-spacing:.06em;text-transform:uppercase}
+.lista{list-style:none;margin:0;padding:0;max-height:62vh;overflow-y:auto;border-top:1px solid var(--linha)}
+@media (max-width:820px){.lista{max-height:46vh}}
+.lista li{border-bottom:1px solid var(--linha)}
+.lista button{width:100%;text-align:left;background:none;border:0;cursor:pointer;color:inherit;font:inherit;
+  padding:9px 6px;display:flex;flex-direction:column;gap:2px}
+.lista button:hover,.lista button:focus-visible{background:var(--azulejo-claro);outline:none}
+.lista .nm{font-weight:500}
+.lista .mt{font-size:12px;color:var(--tinta-fraca);font-variant-numeric:tabular-nums}
+.lista .cod{font-family:var(--corpo);color:var(--ocre)}
+
+.ficha{min-width:0;display:flex;flex-direction:column;gap:22px}
+.cartao{background:var(--papel-2);border:1px solid var(--linha);padding:20px}
+.cartao h2{font-size:clamp(21px,3vw,27px);font-weight:600}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.chip{font-size:12px;letter-spacing:.04em;border:1px solid var(--linha);padding:3px 8px;border-radius:2px;color:var(--tinta-fraca);
+  font-variant-numeric:tabular-nums}
+.chip.cod{color:var(--ocre);border-color:var(--ocre)}
+.datas{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:12px;margin-top:18px}
+.datas div{border-left:2px solid var(--azulejo);padding-left:10px}
+.datas dt{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--tinta-fraca)}
+.datas dd{margin:2px 0 0;font-size:17px;font-variant-numeric:tabular-nums}
+
+section h3{font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--tinta-fraca);
+  font-family:var(--corpo);font-weight:600;padding-bottom:6px;border-bottom:1px solid var(--linha);margin-bottom:12px}
+.pessoas{display:flex;flex-wrap:wrap;gap:8px}
+.pbtn{background:var(--papel-2);border:1px solid var(--linha);border-radius:2px;padding:7px 11px;cursor:pointer;
+  font:500 14px/1.3 var(--corpo);color:var(--tinta);display:flex;align-items:baseline;gap:8px}
+.pbtn:hover,.pbtn:focus-visible{border-color:var(--azulejo);background:var(--azulejo-claro);outline:none}
+.pbtn small{color:var(--tinta-fraca);font-weight:400;font-variant-numeric:tabular-nums}
+.vazio{color:var(--tinta-fraca);font-size:14px}
+
+.casamento{border-left:3px solid var(--ocre);padding:2px 0 2px 12px;margin-bottom:16px}
+.casamento .lin1{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px}
+.casamento .data{font-size:13px;color:var(--ocre);font-variant-numeric:tabular-nums;white-space:nowrap}
+.casamento .nota{font-size:13.5px;color:var(--tinta-fraca);margin-top:6px;max-width:68ch}
+.filhos{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px}
+
+.arvore{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;align-items:stretch}
+@media (max-width:560px){.arvore{grid-template-columns:1fr}}
+.col{display:flex;flex-direction:column;gap:8px;justify-content:center}
+.col .rot{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--tinta-fraca)}
+.no{border:1px solid var(--linha);background:var(--papel-2);padding:8px 10px;font-size:13.5px;cursor:pointer;text-align:left;
+  color:var(--tinta);font-family:var(--corpo);border-radius:2px}
+.no:hover{border-color:var(--azulejo)}
+.no.vaz{opacity:.45;cursor:default;font-style:italic}
+.no b{font-weight:500;display:block}
+.no small{color:var(--tinta-fraca);font-variant-numeric:tabular-nums}
+
+footer{border-top:1px solid var(--linha);padding-block:18px 34px;font-size:13px;color:var(--tinta-fraca);max-width:72ch}
+footer p{margin:0 0 8px}
+</style>
+
+</head>
+<body>
+<header class="topo">
+  <h1>Rito do Soito</h1>
+  <p class="sub"><b id="nPessoas">—</b> pessoas · <b id="nFamilias">—</b> famílias · Soito, Sabugal · <b>1741–1984</b></p>
+</header>
+
+<div class="grelha">
+  <aside class="busca">
+    <label class="contagem" for="q">Procurar pessoa</label>
+    <input id="q" type="search" placeholder="Nome, apelido ou código (2:1:6)" autocomplete="off">
+    <p class="contagem" id="cont">—</p>
+    <ul class="lista" id="res"></ul>
+  </aside>
+
+  <main class="ficha">
+    <article class="cartao">
+      <h2 id="nome">—</h2>
+      <div class="chips" id="chips"></div>
+      <dl class="datas" id="datas"></dl>
+    </article>
+
+    <section>
+      <h3>Ascendência</h3>
+      <div class="arvore" id="asc"></div>
+    </section>
+
+    <section>
+      <h3>Casamentos e filhos</h3>
+      <div id="casamentos"></div>
+    </section>
+
+    <section>
+      <h3>Irmãos</h3>
+      <div class="pessoas" id="irmaos"></div>
+    </section>
+  </main>
+</div>
+
+<footer>
+  <p>Dados transcritos do blogue <a href="https://soitoribacoa.blogspot.com/2018/02/familia-rito.html" target="_blank" rel="noopener">Saber Soito — Família Rito</a>, dos assentos paroquiais do Soito (Sabugal, antiga Riba-Côa, bispado de Pinhel). Os códigos (G0, R, 2:1:6:11B) são os da numeração do blogue: cada segmento é um filho dentro da geração anterior.</p>
+  <p><strong>Pessoas vivas ocultadas.</strong> Quem não tem óbito registado e nasceu depois de 1926 aparece como «(pessoa viva)», sem datas e sem notas de casamento: 516 das 1222 pessoas. A versão completa não é pública.</p>
+  <p>Cônjuges vindos de outras famílias aparecem sem código. Datas em dia/mês/ano; «c.» indica data aproximada.</p>
+</footer>
+
+<script src="dados.js"></script>
+<script>
+(function(){
+  var D = window.ARVORE || {p:[],f:[]};
+  var P = D.p, F = D.f;
+  var el = function(id){ return document.getElementById(id); };
+  var NOME=0, SEXO=1, NASC=2, BAPT=3, OBITO=4, COD=5, FAMC=6, FAMS=7;
+  var HUSB=0, WIFE=1, MARR=2, NOTA=3, CHIL=4;
+
+  el('nPessoas').textContent = P.length;
+  el('nFamilias').textContent = F.length;
+
+  function semAcento(s){
+    try { return s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase(); }
+    catch(e){ return s.toLowerCase(); }
+  }
+  var chaves = P.map(function(p){ return semAcento(p[NOME] + ' ' + p[COD]); });
+
+  function vida(i){
+    var p = P[i], n = p[NASC] || p[BAPT], o = p[OBITO];
+    if (n && o) return n + ' – ' + o;
+    if (n) return n;
+    if (o) return '† ' + o;
+    return '';
+  }
+  function botaoPessoa(i, classe){
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = classe || 'pbtn';
+    var nm = document.createElement('span');
+    nm.textContent = P[i][NOME];
+    b.appendChild(nm);
+    var v = vida(i);
+    if (v){ var s = document.createElement('small'); s.textContent = v; b.appendChild(s); }
+    b.addEventListener('click', function(){ mostrar(i); });
+    return b;
+  }
+
+  function mostrar(i){
+    var p = P[i];
+    el('nome').textContent = p[NOME];
+
+    var chips = el('chips');
+    chips.textContent = '';
+    if (p[COD]){ var c = document.createElement('span'); c.className = 'chip cod'; c.textContent = 'Código ' + p[COD]; chips.appendChild(c); }
+    var sx = document.createElement('span'); sx.className = 'chip';
+    sx.textContent = p[SEXO] === 'F' ? 'Feminino' : p[SEXO] === 'M' ? 'Masculino' : 'Sexo não registado';
+    chips.appendChild(sx);
+    var nf = p[FAMS].reduce(function(a,f){ return a + F[f][CHIL].length; }, 0);
+    if (nf){ var fc = document.createElement('span'); fc.className = 'chip'; fc.textContent = nf + (nf === 1 ? ' filho registado' : ' filhos registados'); chips.appendChild(fc); }
+
+    var datas = el('datas');
+    datas.textContent = '';
+    [['Nascimento', p[NASC]], ['Batismo', p[BAPT]], ['Óbito', p[OBITO]]].forEach(function(par){
+      var d = document.createElement('div');
+      var dt = document.createElement('dt'); dt.textContent = par[0];
+      var dd = document.createElement('dd'); dd.textContent = par[1] || '—';
+      if (!par[1]) dd.style.color = 'var(--tinta-fraca)';
+      d.appendChild(dt); d.appendChild(dd); datas.appendChild(d);
+    });
+
+    // Ascendência: pais e avós
+    var asc = el('asc');
+    asc.textContent = '';
+    var pais = p[FAMC] >= 0 ? [F[p[FAMC]][HUSB], F[p[FAMC]][WIFE]] : [-1,-1];
+    var avos = [];
+    pais.forEach(function(x){
+      var fc = x >= 0 && P[x][FAMC] >= 0 ? F[P[x][FAMC]] : null;
+      avos.push(fc ? fc[HUSB] : -1, fc ? fc[WIFE] : -1);
+    });
+    asc.appendChild(coluna('Avós', avos));
+    asc.appendChild(coluna('Pais', pais));
+    asc.appendChild(coluna('Próprio', [i]));
+
+    // Casamentos
+    var cas = el('casamentos');
+    cas.textContent = '';
+    if (!p[FAMS].length){
+      var v = document.createElement('p'); v.className = 'vazio'; v.textContent = 'Sem casamento registado.'; cas.appendChild(v);
+    }
+    p[FAMS].forEach(function(fi){
+      var f = F[fi];
+      var outro = f[HUSB] === i ? f[WIFE] : f[HUSB];
+      var bloco = document.createElement('div'); bloco.className = 'casamento';
+      var l1 = document.createElement('div'); l1.className = 'lin1';
+      if (outro >= 0) l1.appendChild(botaoPessoa(outro));
+      else { var x = document.createElement('span'); x.className = 'vazio'; x.textContent = 'Cônjuge não identificado'; l1.appendChild(x); }
+      if (f[MARR]){ var dd = document.createElement('span'); dd.className = 'data'; dd.textContent = 'casaram ' + f[MARR]; l1.appendChild(dd); }
+      bloco.appendChild(l1);
+      if (f[NOTA]){ var nt = document.createElement('p'); nt.className = 'nota'; nt.textContent = f[NOTA]; bloco.appendChild(nt); }
+      if (f[CHIL].length){
+        var fl = document.createElement('div'); fl.className = 'filhos';
+        f[CHIL].forEach(function(c){ fl.appendChild(botaoPessoa(c)); });
+        bloco.appendChild(fl);
+      }
+      cas.appendChild(bloco);
+    });
+
+    // Irmãos
+    var irm = el('irmaos');
+    irm.textContent = '';
+    var lista = p[FAMC] >= 0 ? F[p[FAMC]][CHIL].filter(function(c){ return c !== i; }) : [];
+    if (!lista.length){ var v2 = document.createElement('p'); v2.className = 'vazio'; v2.textContent = 'Sem irmãos registados.'; irm.appendChild(v2); }
+    lista.forEach(function(c){ irm.appendChild(botaoPessoa(c)); });
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function coluna(rotulo, ids){
+    var col = document.createElement('div'); col.className = 'col';
+    var r = document.createElement('p'); r.className = 'rot'; r.textContent = rotulo; col.appendChild(r);
+    ids.forEach(function(x){
+      if (x < 0){
+        var vz = document.createElement('div'); vz.className = 'no vaz'; vz.textContent = 'desconhecido'; col.appendChild(vz); return;
+      }
+      var b = document.createElement('button'); b.type = 'button'; b.className = 'no';
+      var nm = document.createElement('b'); nm.textContent = P[x][NOME]; b.appendChild(nm);
+      var v = vida(x); var s = document.createElement('small'); s.textContent = v || (P[x][COD] ? 'código ' + P[x][COD] : ''); b.appendChild(s);
+      b.addEventListener('click', function(){ mostrar(x); });
+      col.appendChild(b);
+    });
+    return col;
+  }
+
+  function procurar(termo){
+    var t = semAcento(termo.trim());
+    var out = [];
+    if (!t){
+      for (var i = 0; i < P.length && out.length < 80; i++) if (P[i][COD]) out.push(i);
+    } else {
+      for (var j = 0; j < chaves.length && out.length < 200; j++) if (chaves[j].indexOf(t) >= 0) out.push(j);
+    }
+    var ul = el('res');
+    ul.textContent = '';
+    out.forEach(function(i){
+      var li = document.createElement('li');
+      var b = document.createElement('button'); b.type = 'button';
+      var nm = document.createElement('span'); nm.className = 'nm'; nm.textContent = P[i][NOME];
+      var mt = document.createElement('span'); mt.className = 'mt';
+      var v = vida(i);
+      mt.textContent = v;
+      if (P[i][COD]){ var cd = document.createElement('span'); cd.className = 'cod'; cd.textContent = (v ? '  ·  ' : '') + P[i][COD]; mt.appendChild(cd); }
+      b.appendChild(nm); b.appendChild(mt);
+      b.addEventListener('click', function(){ mostrar(i); });
+      li.appendChild(b); ul.appendChild(li);
+    });
+    el('cont').textContent = t
+      ? (out.length >= 200 ? 'mais de 200 resultados' : out.length + (out.length === 1 ? ' resultado' : ' resultados'))
+      : 'primeiras gerações — escreva para procurar';
+  }
+
+  el('q').addEventListener('input', function(e){ procurar(e.target.value); });
+  procurar('');
+  // abre no tronco: Manoel Manso Vas (Manso Rito), o primeiro a usar o apelido
+  var inicio = 0;
+  for (var k = 0; k < P.length; k++){ if (P[k][COD] === 'R'){ inicio = k; break; } }
+  mostrar(inicio);
+})();
+</script>
+
+</body>
+</html>
