@@ -21,3 +21,10 @@ Dados transcritos dos assentos paroquiais do Soito publicados no blogue [Saber S
 | `familias.csv` | 397 | uniões extraídas das genealogias em prosa |
 
 Tudo gerado por extração automática; erros de transcrição e de leitura são possíveis.
+
+## Documentação
+
+- `docs/DESIGN.md` — cores, bordas, tipografia, espaçamento e notação das datas
+- `docs/ARCHITECTURE.md` — cadeia de processamento, contratos de dados, estrutura de pastas e publicação
+- `docs/CONTEXT.md` — regras de negócio: proveniência, regras genealógicas de ligação, conflitos e pessoas vivas
+- `scripts/validar_design.py` — confere `index.html` contra o DESIGN.md; correr antes de publicar
