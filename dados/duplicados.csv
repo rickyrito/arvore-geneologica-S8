@@ -100,6 +100,7 @@ Manuel Gomes,Rito,,07/08/1915,Manuel Gomes,de Bernardo Pereira - Isabel Garcia,,
 Manuel Gomes,Pereira,,,Manuel Gomes,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
 Bernardo,Pereira,PER-A:3:1:4,07/06/1812,Bernardo,Garcia Pereira,GAR-A:3:1:4,07/06/1812,data coincidente: 07/06/1812,,sim
 Bernardo,Pereira,PER-A:3:2:5:7,1858,Bernardo,Garcia Pereira,GAR-A:3:2:5:7,1858,data coincidente: 1858,,sim
+José Lourenço da Inês,Rito,4:6:3,01/12/1891 / 01/01/1892 / 29/08/1958,José Lourenço da Inês,Inês,INÊ-B:1:1:1:2,01/12/1891 / 01/01/1892 / 1958,"data coincidente: 01/01/1892, 01/12/1891",óbito: 29/08/1958 vs 1958,sim
 José Lourenço da Inês,Rito,4:6:3,01/12/1891 / 01/01/1892 / 29/08/1958,José Lourenço da Inês,Rito,,,"nome igual, um sem datas",,não
 José Lourenço da Inês,Rito,4:6:3,01/12/1891 / 01/01/1892 / 29/08/1958,José Lourenço da Inês,Rito,,,"nome igual, um sem datas",,não
 José Lourenço da Inês,Rito,4:6:3,01/12/1891 / 01/01/1892 / 29/08/1958,José Lourenço da Inês,Pereira,,,"nome igual, um sem datas",,não
@@ -122,6 +123,10 @@ José Lourenço da Inês,Inês,INÊ-B:1:1:3,30/11/1815,José Lourenço da Inês,
 José Lourenço da Inês,Inês,INÊ-B:1:1:3,30/11/1815,José Lourenço da Inês,Rito,,,"nome igual, um sem datas",,não
 José Lourenço da Inês,Inês,INÊ-B:1:1:3,30/11/1815,José Lourenço da Inês,Pereira,,,"nome igual, um sem datas",,não
 José Lourenço da Inês,Inês,INÊ-B:1:1:3,30/11/1815,José Lourenço da Inês,Inês,,,"nome igual, um sem datas",,não
+José Lourenço da Inês,Inês,INÊ-B:1:1:1:2,01/12/1891 / 01/01/1892 / 1958,José Lourenço da Inês,Rito,,,"nome igual, um sem datas",,não
+José Lourenço da Inês,Inês,INÊ-B:1:1:1:2,01/12/1891 / 01/01/1892 / 1958,José Lourenço da Inês,Rito,,,"nome igual, um sem datas",,não
+José Lourenço da Inês,Inês,INÊ-B:1:1:1:2,01/12/1891 / 01/01/1892 / 1958,José Lourenço da Inês,Pereira,,,"nome igual, um sem datas",,não
+José Lourenço da Inês,Inês,INÊ-B:1:1:1:2,01/12/1891 / 01/01/1892 / 1958,José Lourenço da Inês,Inês,,,"nome igual, um sem datas",,não
 José Lourenço da Inês,Inês,INÊ-B:1:1:1:4:3,27/10/1881 / 09/11/1881,José Lourenço da Inês,Rito,,,"nome igual, um sem datas",,não
 José Lourenço da Inês,Inês,INÊ-B:1:1:1:4:3,27/10/1881 / 09/11/1881,José Lourenço da Inês,Rito,,,"nome igual, um sem datas",,não
 José Lourenço da Inês,Inês,INÊ-B:1:1:1:4:3,27/10/1881 / 09/11/1881,José Lourenço da Inês,Pereira,,,"nome igual, um sem datas",,não
@@ -265,6 +270,7 @@ Isabel Augusta Carrilho Martins,Rito,2:2:1:10B,08/08/1920 / 22/08/1920 / 09/09/2
 Isabel Augusta Carrilho Martins,Rito,2:2:1:7:4,25/03/1938 / 03/04/1938,Isabel Augusta Carrilho Martins,Carrilho,,,"nome igual, um sem datas",,não
 João Carrilho Martins,Rito,2:2:1:14B,13/09/1926 / 14/09/1926 / 05/06/2013,João Carrilho Martins,Pereira,,,"nome igual, um sem datas",,não
 João Carrilho Martins,Rito,2:2:1:7:2,14/08/1935 / 16/09/1935,João Carrilho Martins,Pereira,,,"nome igual, um sem datas",,não
+Fernando Carrilho Martins,Rito,2:2:1:18B,12/09/1934 / 19/09/1934,Fernando Carrilho Martins,Carrilho,,,"nome igual, um sem datas",,não
 Mariana Rito Dora,Rito,2:6:4:7,12/03/1928 / 01/03/1928,Mariana Rito Dora,Gaião,,,"nome igual, um sem datas",,não
 João Maria Martins da Teresa,Rito,2:7:5:5,03/02/1914 / 23/02/1914 / 13/07/1914,João Maria Martins da Teresa,Rito,,,"nome igual, um sem datas",,não
 Mariana Rito da Teresa,Rito,2:7:5:8,08/09/1920 / 03/10/1920 / 08/07/2009,Mariana Rito da Teresa,Pereira,,,"nome igual, um sem datas",,não
@@ -328,7 +334,7 @@ José Martins Gaião,Rito,2:1:3:3:7,20/10/1930 / 23/11/1930,José Martins Gaião
 Manuel da Teresa Rito,Rito,2:1:5:2:3,22/10/1929 / 17/11/1929 / 02/09/1932,Manuel da Teresa Rito,Rito,,,"nome igual, um sem datas",,não
 Manuel da Teresa Rito (2.º),Rito,2:1:5:2:5,05/05/1935 / 19/05/1935 / 12/09/1987,Manuel da Teresa Rito,Rito,,,"nome igual, um sem datas",,não
 José Nunes Fojeiro,Rito,2:1:5:3:6,30/08/1947 / 14/09/1947 / 26/09/1947,José Nunes Fojeiro,Rito,,,"nome igual, um sem datas",,não
-Maria da Ascenção Rito Dias (2.ª),Rito,2:1:6:6:6,15/06/1943 / 27/06/1943,Maria da Ascenção Rito Dias (2ª.),Garcia Pereira,GAR-A:3:2:5:2:6:1:6,15/06/1943,data coincidente: 15/06/1943,,sim
+Maria da Ascenção Rito Dias (2.ª),Rito,2:1:6:6:6,15/06/1943 / 27/06/1943,Maria da Ascenção Rito Dias,Garcia Pereira,GAR-A:3:2:5:2:6:1:6,15/06/1943,data coincidente: 15/06/1943,,sim
 José Rito Dias,Rito,2:1:6:6:2,24/07/1934 / 04/08/1934 / 13/10/2002,José Rito Dias,Garcia Pereira,GAR-A:3:2:5:2:6:1:2,24/07/1934 / 2002,data coincidente: 24/07/1934,óbito: 13/10/2002 vs 2002,sim
 Manuel Rito Dias,Rito,2:1:6:6:4,18/04/1939 / 30/04/1939,Manuel Rito Dias,Garcia Pereira,GAR-A:3:2:5:2:6:1:4,18/04/1939,data coincidente: 18/04/1939,,sim
 Mário Rito Dias,Rito,2:1:6:6:5,22/05/1941 / 08/06/1941 / 06/08/2005,Mário Rito Dias,Garcia Pereira,GAR-A:3:2:5:2:6:1:5,22/05/1941 / 2005,data coincidente: 22/05/1941,óbito: 06/08/2005 vs 2005,sim
@@ -346,6 +352,13 @@ Maria Inês Rito Lavrador,Rito,2:4:10:3:4,18/06/1955 / 10/07/1955,Maria Inês Ri
 Manuel Joaquim Fojeiro Rito,Rito,2:6:3:2:3,26/10/1941 / 29/10/1941,Manuel Joaquim Fojeiro Rito,Garcia Pereira,,,"nome igual, um sem datas",,não
 Manuel Joaquim Fojeiro Rito,Rito,2:6:3:2:3,26/10/1941 / 29/10/1941,Manuel Joaquim Fojeiro Rito,Pereira,,,"nome igual, um sem datas",,não
 Manuel Joaquim Fojeiro Rito,Garcia Pereira,,,Manuel Joaquim Fojeiro Rito,Pereira,,,"nome igual, um sem datas",,não
+Maria Rito Gaião,Rito,2:6:4:7:1,17/11/1948 / 05/12/1948,Maria Rito Gaião,Gaião,,17/11/1948 / 05/12/1948,"data coincidente: 05/12/1948, 17/11/1948",,sim
+Maria da Glória Dora Gaião,Rito,2:6:4:7:2,04/04/1951 / 15/04/1951,Maria da Glória Dora Gaião,Gaião,,15/04/1951 / 15/04/1951,data coincidente: 15/04/1951,nascimento: 04/04/1951 vs 15/04/1951,sim
+Manuel Augusto Dora Gaião,Rito,2:6:4:7:3,25/08/1952 / 13/09/1952 / 23/03/1953,Manuel Augusto Dora Gaião,Gaião,,25/08/1952 / 13/09/1952 / 1953,"data coincidente: 13/09/1952, 25/08/1952",óbito: 23/03/1953 vs 1953,sim
+Manuel Augusto Dora Gaião (2.º),Rito,2:6:4:7:5,10/03/1957 / 25/03/1957,Manuel Augusto Dora Gaião,Gaião,,25/03/1957 / 25/03/1957,data coincidente: 25/03/1957,nascimento: 10/03/1957 vs 25/03/1957,sim
+José Dora Gaião,Rito,2:6:4:7:4,26/02/1955 / 06/03/1955,José Dora Gaião,Gaião,,26/02/1955 / 06/03/1955,"data coincidente: 06/03/1955, 26/02/1955",,sim
+Maria dos Anjos Gaião Rito,Rito,2:6:4:7:6,21/08/1959 / 12/09/1959 / 01/09/1960,Maria dos Anjos Gaião Rito,Gaião,,21/08/1959 / 12/09/1959 / 1960,"data coincidente: 12/09/1959, 21/08/1959",óbito: 01/09/1960 vs 1960,sim
+Maria dos Anjos Gaião Dora,Rito,2:6:4:7:7,01/02/1961 / 12/02/1961,Maria dos Anjos Gaião Dora,Gaião,,12/02/1961 / 12/02/1961,data coincidente: 12/02/1961,nascimento: 01/02/1961 vs 12/02/1961,sim
 José Santo Freire,Rito,2:6:5:2:3,30/08/1946 / 10/09/1946,José Santo Freire,Garcia Pereira,,,"nome igual, um sem datas",,não
 José Manuel Rito Pereira,Rito,2:7:5:8:1,10/10/1942 / 25/10/1942 / 25/07/1943,José Manuel Rito Pereira,Pereira,PER-A:8:2:8:8:6:1,25/10/1942 / 25/10/1942 / 1943,data coincidente: 25/10/1942,nascimento: 10/10/1942 vs 25/10/1942; óbito: 25/07/1943 vs 1943,sim
 Amália Rito Pereira,Rito,2:7:5:8:4,22/07/1946 / 11/08/1946 / 16/09/1947,Amália Rito Pereira,Pereira,PER-A:8:2:8:8:6:4,22/07/1946 / 11/08/1946 / 1947,"data coincidente: 11/08/1946, 22/07/1946",óbito: 16/09/1947 vs 1947,sim
@@ -380,10 +393,10 @@ Maria da Glória Rito de Marcos,Rito,4:7:5:1:4,07/01/1944 / 16/01/1944,Maria da 
 Maria da Glória Rito de Marcos,Garcia Pereira,GAR-A:3:2:6:1:4:3:1:4,16/01/1944 / 16/01/1944,Maria da Glória Rito de Marcos,Pereira,PER-A:3:2:6:1:4:3:1:4,16/01/1944 / 16/01/1944,data coincidente: 16/01/1944,,sim
 João Rito de Marcos,Rito,4:7:5:1:5,12/02/1949 / 27/02/1949,João Rito de Marcos,Garcia Pereira,GAR-A:3:2:6:1:4:3:1:5,27/02/1949 / 27/02/1949,data coincidente: 27/02/1949,nascimento: 12/02/1949 vs 27/02/1949,sim
 João Rito de Marcos,Rito,4:7:5:1:5,12/02/1949 / 27/02/1949,João Rito de Marcos,Pereira,PER-A:3:2:6:1:4:3:1:5,27/02/1949 / 27/02/1949,data coincidente: 27/02/1949,nascimento: 12/02/1949 vs 27/02/1949,sim
-João Rito de Marcos (Marques),Rito,4:7:5:3:5,24/08/1948 / 19/09/1948,João Rito de Marcos (Marques),Garcia Pereira,GAR-A:3:2:6:1:4:3:3:5,24/08/1948 / 19/09/1948,"data coincidente: 19/09/1948, 24/08/1948",,sim
-João Rito de Marcos (Marques),Rito,4:7:5:3:5,24/08/1948 / 19/09/1948,João Rito de Marcos (Marques),Pereira,PER-A:3:2:6:1:4:3:3:5,24/08/1948 / 19/09/1948,"data coincidente: 19/09/1948, 24/08/1948",,sim
+João Rito de Marcos (Marques),Rito,4:7:5:3:5,24/08/1948 / 19/09/1948,João Rito de Marcos,Garcia Pereira,GAR-A:3:2:6:1:4:3:3:5,24/08/1948 / 19/09/1948,"data coincidente: 19/09/1948, 24/08/1948",,sim
+João Rito de Marcos (Marques),Rito,4:7:5:3:5,24/08/1948 / 19/09/1948,João Rito de Marcos,Pereira,PER-A:3:2:6:1:4:3:3:5,24/08/1948 / 19/09/1948,"data coincidente: 19/09/1948, 24/08/1948",,sim
 João Rito de Marcos,Garcia Pereira,GAR-A:3:2:6:1:4:3:1:5,27/02/1949 / 27/02/1949,João Rito de Marcos,Pereira,PER-A:3:2:6:1:4:3:1:5,27/02/1949 / 27/02/1949,data coincidente: 27/02/1949,,sim
-João Rito de Marcos (Marques),Garcia Pereira,GAR-A:3:2:6:1:4:3:3:5,24/08/1948 / 19/09/1948,João Rito de Marcos (Marques),Pereira,PER-A:3:2:6:1:4:3:3:5,24/08/1948 / 19/09/1948,"data coincidente: 19/09/1948, 24/08/1948",,sim
+João Rito de Marcos,Garcia Pereira,GAR-A:3:2:6:1:4:3:3:5,24/08/1948 / 19/09/1948,João Rito de Marcos,Pereira,PER-A:3:2:6:1:4:3:3:5,24/08/1948 / 19/09/1948,"data coincidente: 19/09/1948, 24/08/1948",,sim
 Maria dos Anjos Rito de Marcos,Rito,4:7:5:3:1,21/05/1939 / 16/06/1939,Maria dos Anjos Rito de Marcos,Garcia Pereira,GAR-A:3:2:6:1:4:3:3:1,21/05/1939 / 16/06/1939,"data coincidente: 16/06/1939, 21/05/1939",,sim
 Maria dos Anjos Rito de Marcos,Rito,4:7:5:3:1,21/05/1939 / 16/06/1939,Maria dos Anjos Rito de Marcos,Pereira,PER-A:3:2:6:1:4:3:3:1,21/05/1939 / 16/06/1939,"data coincidente: 16/06/1939, 21/05/1939",,sim
 Maria dos Anjos Rito de Marcos,Garcia Pereira,GAR-A:3:2:6:1:4:3:3:1,21/05/1939 / 16/06/1939,Maria dos Anjos Rito de Marcos,Pereira,PER-A:3:2:6:1:4:3:3:1,21/05/1939 / 16/06/1939,"data coincidente: 16/06/1939, 21/05/1939",,sim
@@ -424,20 +437,20 @@ Isabel Augusta Dias Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:4:2,18/03/1947 / 13/04
 João Dias Rito,Rito,4:7:5:4:3,08/01/1949 / 24/01/1949,João Dias Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:4:3,24/01/1949 / 24/01/1949,data coincidente: 24/01/1949,nascimento: 08/01/1949 vs 24/01/1949,sim
 João Dias Rito,Rito,4:7:5:4:3,08/01/1949 / 24/01/1949,João Dias Rito,Pereira,PER-A:3:2:6:1:4:3:4:3,24/01/1949 / 24/01/1949,data coincidente: 24/01/1949,nascimento: 08/01/1949 vs 24/01/1949,sim
 João Dias Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:4:3,24/01/1949 / 24/01/1949,João Dias Rito,Pereira,PER-A:3:2:6:1:4:3:4:3,24/01/1949 / 24/01/1949,data coincidente: 24/01/1949,,sim
-Maria Rosa Garrido Pereira (Rito),Rito,4:7:5:5:1,17/11/1947 / 14/12/1947 / 11/06/1949,Maria Rosa Garrido Pereira (Rito),Garcia Pereira,GAR-A:3:2:6:1:4:3:5:1,17/11/1947 / 14/12/1947 / 1949,"data coincidente: 14/12/1947, 17/11/1947",óbito: 11/06/1949 vs 1949,sim
-Maria Rosa Garrido Pereira (Rito),Rito,4:7:5:5:1,17/11/1947 / 14/12/1947 / 11/06/1949,Maria Rosa Garrido Pereira (Rito),Pereira,PER-A:3:2:6:1:4:3:5:1,17/11/1947 / 14/12/1947 / 1949,"data coincidente: 14/12/1947, 17/11/1947",óbito: 11/06/1949 vs 1949,sim
-Maria Rosa Garrido Pereira (Rito),Garcia Pereira,GAR-A:3:2:6:1:4:3:5:1,17/11/1947 / 14/12/1947 / 1949,Maria Rosa Garrido Pereira (Rito),Pereira,PER-A:3:2:6:1:4:3:5:1,17/11/1947 / 14/12/1947 / 1949,"data coincidente: 14/12/1947, 17/11/1947, 1949",,sim
+Maria Rosa Garrido Pereira (Rito),Rito,4:7:5:5:1,17/11/1947 / 14/12/1947 / 11/06/1949,Maria Rosa Garrido Pereira,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:1,17/11/1947 / 14/12/1947 / 1949,"data coincidente: 14/12/1947, 17/11/1947",óbito: 11/06/1949 vs 1949,sim
+Maria Rosa Garrido Pereira (Rito),Rito,4:7:5:5:1,17/11/1947 / 14/12/1947 / 11/06/1949,Maria Rosa Garrido Pereira,Pereira,PER-A:3:2:6:1:4:3:5:1,17/11/1947 / 14/12/1947 / 1949,"data coincidente: 14/12/1947, 17/11/1947",óbito: 11/06/1949 vs 1949,sim
+Maria Rosa Garrido Pereira,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:1,17/11/1947 / 14/12/1947 / 1949,Maria Rosa Garrido Pereira,Pereira,PER-A:3:2:6:1:4:3:5:1,17/11/1947 / 14/12/1947 / 1949,"data coincidente: 14/12/1947, 17/11/1947, 1949",,sim
 Maria Rosa Garrido Rito,Rito,4:7:5:5:2,06/01/1950 / 19/02/1950,Maria Rosa Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:2,06/01/1950 / 19/02/1950,"data coincidente: 06/01/1950, 19/02/1950",,sim
 Maria Rosa Garrido Rito,Rito,4:7:5:5:2,06/01/1950 / 19/02/1950,Maria Rosa Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:2,06/01/1950 / 19/02/1950,"data coincidente: 06/01/1950, 19/02/1950",,sim
 Maria Rosa Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:2,06/01/1950 / 19/02/1950,Maria Rosa Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:2,06/01/1950 / 19/02/1950,"data coincidente: 06/01/1950, 19/02/1950",,sim
 Maria da Graça Garrido Rito,Rito,4:7:5:5:3,14/02/1952 / 02/03/1952 / 30/06/1953,Maria da Graça Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:3,14/02/1952 / 02/03/1952 / 1953,"data coincidente: 02/03/1952, 14/02/1952",óbito: 30/06/1953 vs 1953,sim
 Maria da Graça Garrido Rito,Rito,4:7:5:5:3,14/02/1952 / 02/03/1952 / 30/06/1953,Maria da Graça Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:3,14/02/1952 / 02/03/1952 / 1953,"data coincidente: 02/03/1952, 14/02/1952",óbito: 30/06/1953 vs 1953,sim
-Maria da Graça Garrido Rito (2.ª),Rito,4:7:5:5:7,08/10/1962 / 01/11/1962,Maria da Graça Garrido Rito (2ª),Garcia Pereira,GAR-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,"data coincidente: 01/11/1962, 08/10/1962",,sim
-Maria da Graça Garrido Rito (2.ª),Rito,4:7:5:5:7,08/10/1962 / 01/11/1962,Maria da Graça Garrido Rito (2ª),Pereira,PER-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,"data coincidente: 01/11/1962, 08/10/1962",,sim
+Maria da Graça Garrido Rito (2.ª),Rito,4:7:5:5:7,08/10/1962 / 01/11/1962,Maria da Graça Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,"data coincidente: 01/11/1962, 08/10/1962",,sim
+Maria da Graça Garrido Rito (2.ª),Rito,4:7:5:5:7,08/10/1962 / 01/11/1962,Maria da Graça Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,"data coincidente: 01/11/1962, 08/10/1962",,sim
 Maria da Graça Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:3,14/02/1952 / 02/03/1952 / 1953,Maria da Graça Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:3,14/02/1952 / 02/03/1952 / 1953,"data coincidente: 02/03/1952, 14/02/1952, 1953",,sim
-Maria da Graça Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:3,14/02/1952 / 02/03/1952 / 1953,Maria da Graça Garrido Rito (2ª),Pereira,PER-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,mesma filiação,nascimento: 14/02/1952 vs 08/10/1962; batismo: 02/03/1952 vs 01/11/1962,sim
-Maria da Graça Garrido Rito (2ª),Garcia Pereira,GAR-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,Maria da Graça Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:3,14/02/1952 / 02/03/1952 / 1953,mesma filiação,nascimento: 08/10/1962 vs 14/02/1952; batismo: 01/11/1962 vs 02/03/1952,sim
-Maria da Graça Garrido Rito (2ª),Garcia Pereira,GAR-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,Maria da Graça Garrido Rito (2ª),Pereira,PER-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,"data coincidente: 01/11/1962, 08/10/1962",,sim
+Maria da Graça Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:3,14/02/1952 / 02/03/1952 / 1953,Maria da Graça Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,mesma filiação,nascimento: 14/02/1952 vs 08/10/1962; batismo: 02/03/1952 vs 01/11/1962,sim
+Maria da Graça Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,Maria da Graça Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:3,14/02/1952 / 02/03/1952 / 1953,mesma filiação,nascimento: 08/10/1962 vs 14/02/1952; batismo: 01/11/1962 vs 02/03/1952,sim
+Maria da Graça Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,Maria da Graça Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:7,08/10/1962 / 01/11/1962,"data coincidente: 01/11/1962, 08/10/1962",,sim
 Carlos Alberto Garrido Rito,Rito,4:7:5:5:5,25/02/1958 / 09/03/1958,Carlos Alberto Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:5,25/02/1958 / 09/03/1958,"data coincidente: 09/03/1958, 25/02/1958",,sim
 Carlos Alberto Garrido Rito,Rito,4:7:5:5:5,25/02/1958 / 09/03/1958,Carlos Alberto Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:5,25/02/1958 / 09/03/1958,"data coincidente: 09/03/1958, 25/02/1958",,sim
 Carlos Alberto Garrido Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:5:5,25/02/1958 / 09/03/1958,Carlos Alberto Garrido Rito,Pereira,PER-A:3:2:6:1:4:3:5:5,25/02/1958 / 09/03/1958,"data coincidente: 09/03/1958, 25/02/1958",,sim
@@ -453,16 +466,14 @@ João José Dias Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:6:2,30/10/1960 / 30/10/19
 Rosa Dias Rito,Rito,4:7:5:6:3,20/11/1963 / 15/12/1963,Rosa Dias Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:6:3,20/11/1963 / 15/12/1963,"data coincidente: 15/12/1963, 20/11/1963",,sim
 Rosa Dias Rito,Rito,4:7:5:6:3,20/11/1963 / 15/12/1963,Rosa Dias Rito,Pereira,PER-A:3:2:6:1:4:3:6:3,20/11/1963 / 15/12/1963,"data coincidente: 15/12/1963, 20/11/1963",,sim
 Rosa Dias Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:6:3,20/11/1963 / 15/12/1963,Rosa Dias Rito,Pereira,PER-A:3:2:6:1:4:3:6:3,20/11/1963 / 15/12/1963,"data coincidente: 15/12/1963, 20/11/1963",,sim
-Maria Rosa Rito Gonçalves (Costa),Rito,4:7:5:7:1,26/07/1953 / 15/08/1953,Maria Rosa Rito Gonçalves (Costa),Garcia Pereira,GAR-A:3:2:6:1:4:3:7:1,26/07/1953 / 15/08/1953,"data coincidente: 15/08/1953, 26/07/1953",,sim
-Maria Rosa Rito Gonçalves (Costa),Rito,4:7:5:7:1,26/07/1953 / 15/08/1953,Maria Rosa Rito Gonçalves (Costa),Pereira,PER-A:3:2:6:1:4:3:7:1,26/07/1953 / 15/08/1953,"data coincidente: 15/08/1953, 26/07/1953",,sim
-Maria Rosa Rito Gonçalves (Costa),Garcia Pereira,GAR-A:3:2:6:1:4:3:7:1,26/07/1953 / 15/08/1953,Maria Rosa Rito Gonçalves (Costa),Pereira,PER-A:3:2:6:1:4:3:7:1,26/07/1953 / 15/08/1953,"data coincidente: 15/08/1953, 26/07/1953",,sim
+Maria Rosa Rito Gonçalves (Costa),Rito,4:7:5:7:1,26/07/1953 / 15/08/1953,Maria Rosa Rito Gonçalves,Garcia Pereira,GAR-A:3:2:6:1:4:3:7:1,26/07/1953 / 15/08/1953,"data coincidente: 15/08/1953, 26/07/1953",,sim
+Maria Rosa Rito Gonçalves (Costa),Rito,4:7:5:7:1,26/07/1953 / 15/08/1953,Maria Rosa Rito Gonçalves,Pereira,PER-A:3:2:6:1:4:3:7:1,26/07/1953 / 15/08/1953,"data coincidente: 15/08/1953, 26/07/1953",,sim
+Maria Rosa Rito Gonçalves,Garcia Pereira,GAR-A:3:2:6:1:4:3:7:1,26/07/1953 / 15/08/1953,Maria Rosa Rito Gonçalves,Pereira,PER-A:3:2:6:1:4:3:7:1,26/07/1953 / 15/08/1953,"data coincidente: 15/08/1953, 26/07/1953",,sim
 Maria Lucinda Lousa Rito,Rito,4:7:5:8:1,13/02/1959 / 01/03/1959 / 12/08/1959,Maria Lucinda Lousa Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:8:1,13/02/1959 / 01/03/1959 / 1959,"data coincidente: 01/03/1959, 13/02/1959",óbito: 12/08/1959 vs 1959,sim
 Maria Lucinda Lousa Rito,Rito,4:7:5:8:1,13/02/1959 / 01/03/1959 / 12/08/1959,Maria Lucinda Lousa Rito,Pereira,PER-A:3:2:6:1:4:3:8:1,13/02/1959 / 01/03/1959 / 1959,"data coincidente: 01/03/1959, 13/02/1959",óbito: 12/08/1959 vs 1959,sim
 Maria Lucinda Lousa Rito (2.ª),Rito,4:7:5:8:2,05/06/1960 / 19/06/1960,Maria Lucinda Lousa Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:8:2,19/06/1960 / 19/06/1960,data coincidente: 19/06/1960,nascimento: 05/06/1960 vs 19/06/1960,sim
 Maria Lucinda Lousa Rito (2.ª),Rito,4:7:5:8:2,05/06/1960 / 19/06/1960,Maria Lucinda Lousa Rito,Pereira,PER-A:3:2:6:1:4:3:8:2,19/06/1960 / 19/06/1960,data coincidente: 19/06/1960,nascimento: 05/06/1960 vs 19/06/1960,sim
 Maria Lucinda Lousa Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:8:1,13/02/1959 / 01/03/1959 / 1959,Maria Lucinda Lousa Rito,Pereira,PER-A:3:2:6:1:4:3:8:1,13/02/1959 / 01/03/1959 / 1959,"data coincidente: 01/03/1959, 13/02/1959, 1959",,sim
-Maria Lucinda Lousa Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:8:1,13/02/1959 / 01/03/1959 / 1959,Maria Lucinda Lousa Rito,Pereira,PER-A:3:2:6:1:4:3:8:2,19/06/1960 / 19/06/1960,mesma filiação,nascimento: 13/02/1959 vs 19/06/1960; batismo: 01/03/1959 vs 19/06/1960,sim
-Maria Lucinda Lousa Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:8:2,19/06/1960 / 19/06/1960,Maria Lucinda Lousa Rito,Pereira,PER-A:3:2:6:1:4:3:8:1,13/02/1959 / 01/03/1959 / 1959,mesma filiação,nascimento: 19/06/1960 vs 13/02/1959; batismo: 19/06/1960 vs 01/03/1959,sim
 Maria Lucinda Lousa Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:8:2,19/06/1960 / 19/06/1960,Maria Lucinda Lousa Rito,Pereira,PER-A:3:2:6:1:4:3:8:2,19/06/1960 / 19/06/1960,data coincidente: 19/06/1960,,sim
 José Manuel Lousa Rito,Rito,4:7:5:8:3,09/09/1962 / 16/09/1962,José Manuel Lousa Rito,Garcia Pereira,GAR-A:3:2:6:1:4:3:8:3,16/09/1962 / 16/09/1962,data coincidente: 16/09/1962,nascimento: 09/09/1962 vs 16/09/1962,sim
 José Manuel Lousa Rito,Rito,4:7:5:8:3,09/09/1962 / 16/09/1962,José Manuel Lousa Rito,Pereira,PER-A:3:2:6:1:4:3:8:3,16/09/1962 / 16/09/1962,data coincidente: 16/09/1962,nascimento: 09/09/1962 vs 16/09/1962,sim
@@ -476,12 +487,14 @@ José Manuel,Pereira,PER-A:1:3:2:5:6:1,1910,José Manuel,Garcia Pereira,GAR-A:3:
 José Manuel,Pereira,PER-A:3:2:5:5:3:3,04/08/1906 / 04/08/1906 / 1908,José Manuel,Garcia Pereira,GAR-A:3:2:5:5:3:3,04/08/1906 / 04/08/1906 / 1908,"data coincidente: 04/08/1906, 1908",,sim
 José Manuel,Pereira,PER-A:3:2:5:5:3:3,04/08/1906 / 04/08/1906 / 1908,José Manuel,Garcia Pereira,GAR-A:3:2:5:5:3:4,13/03/1910 / 1910,mesma filiação,nascimento: 04/08/1906 vs 13/03/1910; óbito: 1908 vs 1910,sim
 José Manuel,Pereira,PER-A:3:2:5:5:3:3,04/08/1906 / 04/08/1906 / 1908,José Manuel,Garcia Pereira,GAR-A:3:2:5:5:3:8,19/03/1918 / 19/03/1918,mesma filiação,nascimento: 04/08/1906 vs 19/03/1918; batismo: 04/08/1906 vs 19/03/1918,sim
+José Manuel,Pereira,PER-A:3:2:5:5:3:3,04/08/1906 / 04/08/1906 / 1908,José Manuel,Gaião,,24/11/1906 / 09/12/1906 / 1908,data coincidente: 1908,nascimento: 04/08/1906 vs 24/11/1906; batismo: 04/08/1906 vs 09/12/1906,sim
 José Manuel,Pereira,PER-A:3:2:5:5:3:4,13/03/1910 / 1910,José Manuel,Garcia Pereira,GAR-A:3:2:5:5:3:3,04/08/1906 / 04/08/1906 / 1908,mesma filiação,nascimento: 13/03/1910 vs 04/08/1906; óbito: 1910 vs 1908,sim
 José Manuel,Pereira,PER-A:3:2:5:5:3:4,13/03/1910 / 1910,José Manuel,Garcia Pereira,GAR-A:3:2:5:5:3:4,13/03/1910 / 1910,"data coincidente: 13/03/1910, 1910",,sim
 José Manuel,Pereira,PER-A:3:2:5:5:3:4,13/03/1910 / 1910,José Manuel,Garcia Pereira,GAR-A:3:2:5:5:3:8,19/03/1918 / 19/03/1918,mesma filiação,nascimento: 13/03/1910 vs 19/03/1918,sim
 José Manuel,Pereira,PER-A:3:2:5:5:3:8,19/03/1918 / 19/03/1918,José Manuel,Garcia Pereira,GAR-A:3:2:5:5:3:3,04/08/1906 / 04/08/1906 / 1908,mesma filiação,nascimento: 19/03/1918 vs 04/08/1906; batismo: 19/03/1918 vs 04/08/1906,sim
 José Manuel,Pereira,PER-A:3:2:5:5:3:8,19/03/1918 / 19/03/1918,José Manuel,Garcia Pereira,GAR-A:3:2:5:5:3:4,13/03/1910 / 1910,mesma filiação,nascimento: 19/03/1918 vs 13/03/1910,sim
 José Manuel,Pereira,PER-A:3:2:5:5:3:8,19/03/1918 / 19/03/1918,José Manuel,Garcia Pereira,GAR-A:3:2:5:5:3:8,19/03/1918 / 19/03/1918,data coincidente: 19/03/1918,,sim
+José Manuel,Garcia Pereira,GAR-A:3:2:5:5:3:3,04/08/1906 / 04/08/1906 / 1908,José Manuel,Gaião,,24/11/1906 / 09/12/1906 / 1908,data coincidente: 1908,nascimento: 04/08/1906 vs 24/11/1906; batismo: 04/08/1906 vs 09/12/1906,sim
 Manuel Nabais Pereira,Pereira,PER-A:8:2:8:8:6,30/06/1916 / 20/08/1916 / 2009,Manuel Nabais Pereira,Rito,,11/08/1972,mesma filiação,óbito: 2009 vs 11/08/1972,sim
 João Oliveira,Pereira,PER-A:1:3:1:1:2:1,29/06/1886 / 29/06/1886 / 1923,João Oliveira,Pereira,,,"nome igual, um sem datas",,não
 Maria dos Anjos Oliveira,Pereira,PER-A:1:3:1:1:2:2,10/02/1889 / 10/02/1889 / 1893,Maria dos Anjos Oliveira,Pereira,,,"nome igual, um sem datas",,não
@@ -508,7 +521,7 @@ Manuel Gonçalves Martelo,Pereira,PER-A:1:3:2:5:6:2,20/08/1911 / 10/09/1911 / 19
 Manuel Gonçalves Martelo,Pereira,PER-A:1:3:2:3,21/07/1830,Manuel Gonçalves Martelo,Pereira,,,"nome igual, um sem datas",,não
 Manuel Gonçalves Martelo,Pereira,PER-A:1:3:2:3:1,26/03/1864 / 03/04/1864,Manuel Gonçalves Martelo,Pereira,,,"nome igual, um sem datas",,não
 Manuel Gonçalves Martelo,Pereira,PER-A:1:3:2:5:3,26/01/1879 / 26/01/1879,Manuel Gonçalves Martelo,Pereira,,,"nome igual, um sem datas",,não
-José Gonçalves (Martelo),Pereira,PER-A:1:3:1:4:3:2,29/03/1902 / 07/04/1902 / 1903,José Gonçalves,Rito,,,"nome igual, um sem datas",,não
+José Gonçalves,Pereira,PER-A:1:3:1:4:3:2,29/03/1902 / 07/04/1902 / 1903,José Gonçalves,Rito,,,"nome igual, um sem datas",,não
 José Gonçalves,Pereira,PER-A:3:2:4:6:1:3,19/09/1904 / 09/10/1904,José Gonçalves,Rito,,,"nome igual, um sem datas",,não
 José Gonçalves,Pereira,PER-A:3:2:4:6:4,23/09/1888 / 23/09/1888 / 1962,José Gonçalves,Rito,,,"nome igual, um sem datas",,não
 Maria Gonçalves Martelo,Pereira,PER-A:1:3:2:3:2,28/10/1866 / 28/10/1866,Maria Gonçalves Martelo,Rito,,,"nome igual, um sem datas",,não
@@ -536,7 +549,10 @@ José Augusto Lourenço da Inês,Inês,,10/04/1901,José Augusto Lourenço da In
 José Augusto Lourenço da Inês,Inês,,10/04/1901,José Augusto Lourenço da Inês,Pereira,,,"nome igual, um sem datas",,não
 José Augusto Lourenço da Inês,Rito,,,José Augusto Lourenço da Inês,Pereira,,,"nome igual, um sem datas",,não
 Maria Emília Lourenço da Inês,Pereira,PER-A:1:4:7:2:2:2,20/04/1907 / 28/04/1907,Maria Emília Lourenço da Inês,Inês,,,"nome igual, um sem datas",,não
+Maria Emília Lourenço da Inês,Pereira,PER-A:1:4:7:2:5,26/02/1893 / 26/02/1893 / 1958,Maria Emília Lourenço da Inês,Inês,INÊ-B:1:1:3:4,26/02/1893 / 26/02/1893 / 1958,"data coincidente: 1958, 26/02/1893",,sim
 Maria Emília Lourenço da Inês,Pereira,PER-A:1:4:7:2:5,26/02/1893 / 26/02/1893 / 1958,Maria Emília Lourenço da Inês,Inês,,,"nome igual, um sem datas",,não
+Maria Emília Lourenço da Inês,Inês,INÊ-B:1:1:3:4,26/02/1893 / 26/02/1893 / 1958,Maria Emília Lourenço da Inês,Rito,,19/05/1967,mesma filiação,óbito: 1958 vs 19/05/1967,sim
+Maria Emília Lourenço da Inês,Inês,INÊ-B:1:1:3:4,26/02/1893 / 26/02/1893 / 1958,Maria Emília Lourenço da Inês,Inês,,,"nome igual, um sem datas",,não
 Maria Emília Lourenço da Inês,Rito,,19/05/1967,Maria Emília Lourenço da Inês,Inês,,,"nome igual, um sem datas",,não
 José Luís,Pereira,PER-A:1:4:7:2:2:3,28/08/1903 / 06/09/1903 / 1904,José Luís,Rito,,,"nome igual, um sem datas",,não
 José Luís,Pereira,PER-A:1:4:7:2:2:3,28/08/1903 / 06/09/1903 / 1904,José Luís,Inês,,,"nome igual, um sem datas",,não
@@ -551,11 +567,12 @@ Isabel Augusta,Pereira,PER-A:3:2:5:5:3:5,24/08/1912 / 24/08/1912,Isabel Augusta,
 Maria Augusta Corracha da Inês,Pereira,PER-A:1:4:7:2:2:13,16/09/1928 / 16/09/1928 / 2003,Maria Augusta Corracha da Inês,Inês,,16/09/1928 / 16/09/1928 / 2003,"data coincidente: 16/09/1928, 2003",,sim
 Maria Augusta Corracha da Inês,Pereira,PER-A:1:4:7:2:2:13,16/09/1928 / 16/09/1928 / 2003,Maria Augusta Corracha da Inês,Gaião,,,"nome igual, um sem datas",,não
 Maria Augusta Corracha da Inês,Inês,,16/09/1928 / 16/09/1928 / 2003,Maria Augusta Corracha da Inês,Gaião,,,"nome igual, um sem datas",,não
-José Pereira (de Paula),Pereira,PER-A:1:4:7:8:2,30/05/1889 / 30/05/1889,José Pereira,Pereira,,,"nome igual, um sem datas",,não
+Manuel José,Pereira,PER-A:1:4:12:6:3,,Manuel José,Gaião,,29/12/1904 / 1906,"nome igual, um sem datas",,não
+José Pereira,Pereira,PER-A:1:4:7:8:2,30/05/1889 / 30/05/1889,José Pereira,Pereira,,,"nome igual, um sem datas",,não
 José Pereira,Pereira,PER-A:3:3:3:3:2:1,19/12/1897 / 19/12/1897 / 1899,José Pereira,Pereira,,,"nome igual, um sem datas",,não
 José Pereira,Pereira,PER-A:5,26/11/1747,José Pereira,Garcia Pereira,GAR-A:5,26/11/1747,data coincidente: 26/11/1747,,sim
 José Pereira,Pereira,PER-A:5,26/11/1747,José Pereira,Pereira,,,"nome igual, um sem datas",,não
-José Pereira (Justificação feita em Abril de 1822),Pereira,PER-A:5:1,25/08/1817,José Pereira,Pereira,,,"nome igual, um sem datas",,não
+José Pereira,Pereira,PER-A:5:1,25/08/1817,José Pereira,Pereira,,,"nome igual, um sem datas",,não
 José Pereira,Pereira,PER-A:1:4:7,20/05/1823,José Pereira,Pereira,,,"nome igual, um sem datas",,não
 José Pereira,Pereira,PER-A:3:3:2,17/05/1816 / 1834,José Pereira,Pereira,,,"nome igual, um sem datas",,não
 José Pereira,Pereira,PER-A:5:1:3,22/12/1824,José Pereira,Pereira,,,"nome igual, um sem datas",,não
@@ -600,6 +617,14 @@ João Logrado Gonçalves,Pereira,PER-A:3:2:4:6:1:7,15/10/1914 / 01/11/1914 / 192
 João Logrado Gonçalves,Rito,,,João Logrado Gonçalves,Rito,,,"nome igual, um sem datas",,não
 João Logrado Gonçalves,Rito,,,João Logrado Gonçalves,Pereira,,,"nome igual, um sem datas",,não
 João Logrado Gonçalves,Rito,,,João Logrado Gonçalves,Pereira,,,"nome igual, um sem datas",,não
+Maria dos Prazeres,Pereira,PER-A:3:2:4:9:2:1,22/04/1906 / 22/04/1906 / 1907,Maria dos Prazeres,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
+Maria dos Prazeres,Pereira,PER-A:3:3:3:3:3:5,04/01/1905 / 05/02/1905 / 1996,Maria dos Prazeres,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
+Maria dos Prazeres,Pereira,PER-A:3:3:5:1:2:4,09/08/1900,Maria dos Prazeres,de Bernardo Pereira - Isabel Garcia,,09/08/1900,data coincidente: 09/08/1900,,sim
+Maria dos Prazeres,Pereira,PER-A:3:3:5:1:2:4,09/08/1900,Maria dos Prazeres,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
+Maria dos Prazeres,Pereira,PER-A:3:3:5:1:2:7,,Maria dos Prazeres,de Bernardo Pereira - Isabel Garcia,,09/08/1900,"nome igual, um sem datas",,não
+Maria dos Prazeres,Pereira,PER-A:3:3:5:1:2:7,,Maria dos Prazeres,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
+Maria dos Prazeres,Pereira,PER-A:3:4:4:3:8:6,14/05/1934 / 02/06/1934,Maria dos Prazeres,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
+Maria dos Prazeres,de Bernardo Pereira - Isabel Garcia,,09/08/1900,Maria dos Prazeres,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
 José Garcia de Carvalho,Pereira,PER-A:3:2:4:9:2:5,20/07/1915 / 16/11/1915 / 1917,José Garcia de Carvalho,Rito,,,"nome igual, um sem datas",,não
 José Garcia de Carvalho,Pereira,PER-A:3:2:4:9:2:5,20/07/1915 / 16/11/1915 / 1917,José Garcia de Carvalho,Pereira,,,"nome igual, um sem datas",,não
 José Garcia de Carvalho,Rito,,,José Garcia de Carvalho,Pereira,,,"nome igual, um sem datas",,não
@@ -1080,9 +1105,9 @@ João Paulo Pereira,Pereira,PER-A:3:2:6:11:1:7,20/03/1924 / 13/04/1924,João Pau
 Ana de Paulo Pereira,Pereira,PER-A:3:2:6:11:1:8,27/09/1925 / 27/09/1925 / 1926,Ana de Paulo Pereira,Garcia Pereira,GAR-A:3:2:6:11:1:8,27/09/1925 / 27/09/1925 / 1926,"data coincidente: 1926, 27/09/1925",,sim
 João (no Civil José) de Paulo Pereira,Pereira,PER-A:3:2:6:11:1:9,31/03/1927 / 17/04/1927,João (no Civil José) de Paulo Pereira,Garcia Pereira,GAR-A:3:2:6:11:1:9,31/03/1927 / 17/04/1927,"data coincidente: 17/04/1927, 31/03/1927",,sim
 Manuel de Paulo Pereira,Pereira,PER-A:3:2:6:11:1:10,31/03/1929 / 31/03/1929,Manuel de Paulo Pereira,Garcia Pereira,GAR-A:3:2:6:11:1:10,31/03/1929 / 31/03/1929,data coincidente: 31/03/1929,,sim
-António de Paulo Pereira (Martins Garcia no civil),Pereira,PER-A:3:2:6:11:1:11,14/09/1930 / 19/10/1930,António de Paulo Pereira (Martins Garcia no civil),Garcia Pereira,GAR-A:3:2:6:11:1:11,14/09/1930 / 19/10/1930,"data coincidente: 14/09/1930, 19/10/1930",,sim
-António de Paulo Pereira (Martins Garcia no civil),Pereira,PER-A:3:2:6:11:1:11,14/09/1930 / 19/10/1930,António de Paulo Pereira,Pereira,,,"nome igual, um sem datas",,não
-António de Paulo Pereira (Martins Garcia no civil),Garcia Pereira,GAR-A:3:2:6:11:1:11,14/09/1930 / 19/10/1930,António de Paulo Pereira,Pereira,,,"nome igual, um sem datas",,não
+António de Paulo Pereira,Pereira,PER-A:3:2:6:11:1:11,14/09/1930 / 19/10/1930,António de Paulo Pereira,Garcia Pereira,GAR-A:3:2:6:11:1:11,14/09/1930 / 19/10/1930,"data coincidente: 14/09/1930, 19/10/1930",,sim
+António de Paulo Pereira,Pereira,PER-A:3:2:6:11:1:11,14/09/1930 / 19/10/1930,António de Paulo Pereira,Pereira,,,"nome igual, um sem datas",,não
+António de Paulo Pereira,Garcia Pereira,GAR-A:3:2:6:11:1:11,14/09/1930 / 19/10/1930,António de Paulo Pereira,Pereira,,,"nome igual, um sem datas",,não
 Amadeu de Paulo Pereira,Pereira,PER-A:3:2:6:11:1:12,11/04/1932 / 08/05/1932,Amadeu de Paulo Pereira,Garcia Pereira,GAR-A:3:2:6:11:1:12,11/04/1932 / 08/05/1932,"data coincidente: 08/05/1932, 11/04/1932",,sim
 Ana Martins Garcia,Pereira,PER-A:3:2:6:11:1:13,02/12/1934 / 07/01/1935,Ana Martins Garcia,Garcia Pereira,GAR-A:3:2:6:11:1:13,02/12/1934 / 07/01/1935,"data coincidente: 02/12/1934, 07/01/1935",,sim
 Maria Augusta de Paulo Pereira,Pereira,PER-A:3:2:6:11:1:14,15/05/1936 / 13/06/1936 / 1962,Maria Augusta de Paulo Pereira,Garcia Pereira,GAR-A:3:2:6:11:1:14,15/05/1936 / 13/06/1936 / 1962,"data coincidente: 13/06/1936, 15/05/1936, 1962",,sim
@@ -1106,13 +1131,11 @@ António Cid Pereira,Pereira,PER-A:3:2:6:11:3:6,15/05/1931 / 11/06/1931,António
 José Manuel Cid Pereira,Pereira,PER-A:3:2:6:11:3:7,24/05/1933 / 29/06/1933 / 1940,José Manuel Cid Pereira,Garcia Pereira,GAR-A:3:2:6:11:3:7,24/05/1933 / 29/06/1933 / 1940,"data coincidente: 1940, 24/05/1933, 29/06/1933",,sim
 Serafim Cid Pereira,Pereira,PER-A:3:2:6:11:3:8,14/07/1935 / 14/07/1935,Serafim Cid Pereira,Garcia Pereira,GAR-A:3:2:6:11:3:8,14/07/1935 / 14/07/1935,data coincidente: 14/07/1935,,sim
 Mário Cid Pereira,Pereira,PER-A:3:2:6:11:3:9,09/03/1938 / 09/04/1938,Mário Cid Pereira,Garcia Pereira,GAR-A:3:2:6:11:3:9,09/03/1938 / 09/04/1938,"data coincidente: 09/03/1938, 09/04/1938",,sim
-Manuel Garcia Pereira e Maria Rosa Alves Caria. A:3:2,Pereira,PER-6:11:4,,Manuel Garcia Pereira e Maria Rosa Alves Caria. A:3:2,Garcia Pereira,GAR-6:11:4,,"nome igual, um sem datas",,não
 José Manuel Caria Pereira,Pereira,PER-6:11:4:1,31/07/1921 / 31/07/1921 / 1922,José Manuel Caria Pereira,Garcia Pereira,GAR-6:11:4:1,31/07/1921 / 31/07/1921 / 1922,"data coincidente: 1922, 31/07/1921",,sim
 João Alves Caria Pereira,Pereira,PER-6:11:4:2,25/05/1924 / 25/05/1924 / 1924,João Alves Caria Pereira,Garcia Pereira,GAR-6:11:4:2,25/05/1924 / 25/05/1924 / 1924,"data coincidente: 1924, 25/05/1924",,sim
 Maria José Caria Pereira,Pereira,PER-6:11:4:3,23/05/1927 / 03/06/1927 / 1927,Maria José Caria Pereira,Garcia Pereira,GAR-6:11:4:3,23/05/1927 / 03/06/1927 / 1927,"data coincidente: 03/06/1927, 1927, 23/05/1927",,sim
 Glória Alves Caria Pereira,Pereira,PER-6:11:4:4,21/05/1928 / 17/06/1928 / 1928,Glória Alves Caria Pereira,Garcia Pereira,GAR-6:11:4:4,21/05/1928 / 17/06/1928 / 1928,"data coincidente: 17/06/1928, 1928, 21/05/1928",,sim
 João Caria Pereira,Pereira,PER-6:11:4:5,23/09/1929 / 23/09/1929 / 1929,João Caria Pereira,Garcia Pereira,GAR-6:11:4:5,23/09/1929 / 23/09/1929 / 1929,"data coincidente: 1929, 23/09/1929",,sim
-Catarina Garcia Pereira e João Augusto Arménio A:3:2,Pereira,PER-6:11:5,,Catarina Garcia Pereira e João Augusto Arménio A:3:2,Garcia Pereira,GAR-6:11:5,,"nome igual, um sem datas",,não
 António José Pereira Arménio,Pereira,PER-6:11:5:1,24/12/1934 / 24/12/1934,António José Pereira Arménio,Garcia Pereira,GAR-6:11:5:1,24/12/1934 / 24/12/1934,data coincidente: 24/12/1934,,sim
 António José Pereira Arménio,Pereira,PER-6:11:5:1,24/12/1934 / 24/12/1934,António José Pereira Arménio,Pereira,,,"nome igual, um sem datas",,não
 António José Pereira Arménio,Pereira,PER-6:11:5:1,24/12/1934 / 24/12/1934,António José Pereira Arménio,Gaião,,,"nome igual, um sem datas",,não
@@ -1120,8 +1143,6 @@ António José Pereira Arménio,Garcia Pereira,GAR-6:11:5:1,24/12/1934 / 24/12/1
 António José Pereira Arménio,Garcia Pereira,GAR-6:11:5:1,24/12/1934 / 24/12/1934,António José Pereira Arménio,Gaião,,,"nome igual, um sem datas",,não
 António José Pereira Arménio,Pereira,,,António José Pereira Arménio,Gaião,,,"nome igual, um sem datas",,não
 Manuel Pereira Arménio,Pereira,PER-6:11:5:2,17/12/1936 / 17/12/1936 / 1937,Manuel Pereira Arménio,Garcia Pereira,GAR-6:11:5:2,17/12/1936 / 17/12/1936 / 1937,"data coincidente: 17/12/1936, 1937",,sim
-Manuel Pereira Arménio,Pereira,PER-6:11:5:2,17/12/1936 / 17/12/1936 / 1937,Manuel Pereira Arménio,Garcia Pereira,GAR-6:11:5:3,27/12/1938 / 27/12/1938,mesma filiação,nascimento: 17/12/1936 vs 27/12/1938; batismo: 17/12/1936 vs 27/12/1938,sim
-Manuel Pereira Arménio,Pereira,PER-6:11:5:3,27/12/1938 / 27/12/1938,Manuel Pereira Arménio,Garcia Pereira,GAR-6:11:5:2,17/12/1936 / 17/12/1936 / 1937,mesma filiação,nascimento: 27/12/1938 vs 17/12/1936; batismo: 27/12/1938 vs 17/12/1936,sim
 Manuel Pereira Arménio,Pereira,PER-6:11:5:3,27/12/1938 / 27/12/1938,Manuel Pereira Arménio,Garcia Pereira,GAR-6:11:5:3,27/12/1938 / 27/12/1938,data coincidente: 27/12/1938,,sim
 João Morgado Pereira,Pereira,PER-A:3:2:6:11:6:1,27/11/1934 / 27/11/1934,João Morgado Pereira,Garcia Pereira,GAR-A:3:2:6:11:6:1,27/11/1934 / 27/11/1934,data coincidente: 27/11/1934,,sim
 Mariana da Ressurreição Carvalho Pereira,Pereira,PER-A:3:2:6:11:6:2,28/03/1937 / 18/04/1937,Mariana da Ressurreição Carvalho Pereira,Garcia Pereira,GAR-A:3:2:6:11:6:2,28/03/1937 / 18/04/1937,"data coincidente: 18/04/1937, 28/03/1937",,sim
@@ -1131,6 +1152,7 @@ Isabel Augusta Carvalho Pereira,Pereira,PER-A:3:2:6:11:6:5,14/04/1945 / 06/05/19
 Manuel Carvalho Pereira,Pereira,PER-A:3:2:6:11:6:6,30/04/1947 / 25/05/1947,Manuel Carvalho Pereira,Garcia Pereira,GAR-A:3:2:6:11:6:6,30/04/1947 / 25/05/1947,"data coincidente: 25/05/1947, 30/04/1947",,sim
 José Carvalho Pereira,Pereira,PER-A:3:2:6:11:6:7,16/01/1949 / 16/01/1949,José Carvalho Pereira,Garcia Pereira,GAR-A:3:2:6:11:6:7,16/01/1949 / 16/01/1949 / 1941,data coincidente: 16/01/1949,,sim
 Isabel Augusta Lourenço da Inês,Pereira,PER-A:3:3:3:1:5:5,10/03/1901 / 1903,Isabel Augusta Lourenço da Inês,Rito,,,"nome igual, um sem datas",,não
+Isabel Augusta Lourenço da Inês,Inês,INÊ-B:1:1:1:1,28/08/1893 / 03/09/1893 / 1959,Isabel Augusta Lourenço da Inês,Rito,,,"nome igual, um sem datas",,não
 José Carvalho,Pereira,PER-A:3:3:3:1:7:3,30/10/1901 / 17/11/1901 / 1903,José Carvalho,Rito,,,"nome igual, um sem datas",,não
 José Carvalho (Carvalhinho),Rito,,08/10/1918,José Carvalho,Rito,,,"nome igual, um sem datas",,não
 José Augusto Carvalho,Pereira,PER-A:3:3:3:1:7:5,25/03/1906 / 25/03/1906,José Augusto Carvalho,Rito,,,mesma filiação,,sim
@@ -1160,12 +1182,27 @@ Manuel Pereira Logrado,Pereira,PER-A:3:3:3:3:7:7,26/10/1912 / 18/11/1912,Manuel 
 João Pereira Logrado,Pereira,PER-A:3:3:3:3:7:8,10/03/1915 / 18/04/1915 / 1916,João Pereira Logrado,Rito,,,"nome igual, um sem datas",,não
 João Pereira Logrado,Pereira,PER-A:3:3:3:3:7:9,15/07/1917 / 15/07/1917,João Pereira Logrado,Rito,,,"nome igual, um sem datas",,não
 Isabel Maria Nunes Meirinho,Pereira,PER-A:3:3:5:1:2:1,03/07/1892,Isabel Maria Nunes Meirinho,de Bernardo Pereira - Isabel Garcia,,03/07/1892,data coincidente: 03/07/1892,,sim
+José Luís Nunes Meirinho,Pereira,PER-A:3:3:5:1:2:2,18/12/1894,José Luís Nunes Meirinho,de Bernardo Pereira - Isabel Garcia,,18/12/1894,data coincidente: 18/12/1894,,sim
 José Luís Nunes Meirinho,Pereira,PER-A:3:3:5:1:2:2,18/12/1894,José Luís Nunes Meirinho,Rito,,,"nome igual, um sem datas",,não
+José Luís Nunes Meirinho,de Bernardo Pereira - Isabel Garcia,,18/12/1894,José Luís Nunes Meirinho,Rito,,,"nome igual, um sem datas",,não
 José Luís Nunes Meirinho,Rito,,,José Luís Nunes Meirinho,Rito,,19/02/1965,"nome igual, um sem datas",,não
+Maria Augusta Nunes Meirinho,Pereira,PER-A:3:3:5:1:2:3,13/03/1898,Maria Augusta Nunes Meirinho,de Bernardo Pereira - Isabel Garcia,,13/03/1898,data coincidente: 13/03/1898,,sim
+João Augusto Nunes Meirinho,Pereira,PER-A:3:3:5:1:2:5,30/06/1902,João Augusto Nunes Meirinho,de Bernardo Pereira - Isabel Garcia,,30/06/1902,data coincidente: 30/06/1902,,sim
 João Augusto Nunes Meirinho,Pereira,PER-A:3:3:5:1:2:5,30/06/1902,João Augusto Nunes Meirinho,Rito,,,"nome igual, um sem datas",,não
+João Augusto Nunes Meirinho,de Bernardo Pereira - Isabel Garcia,,30/06/1902,João Augusto Nunes Meirinho,Rito,,,"nome igual, um sem datas",,não
+José Aires,Pereira,PER-A:3:3:5:1:2:6,25/11/1904 / 18/12/1904,José Aires,de Bernardo Pereira - Isabel Garcia,,25/11/1904,data coincidente: 25/11/1904,,sim
+Albertino Robalo Dias,Pereira,PER-A:3:3:5:1:5:1,09/05/1907 / 1966,Albertino Robalo Dias,de Bernardo Pereira - Isabel Garcia,,09/05/1907 / 1966,"data coincidente: 09/05/1907, 1966",,sim
+Cristina Augusta Dias,Pereira,PER-A:3:3:5:1:5:2,19/08/1899 / 1960,Cristina Augusta Dias,de Bernardo Pereira - Isabel Garcia,,19/08/1899 / 1960,"data coincidente: 19/08/1899, 1960",,sim
+Cecília Dias,Pereira,PER-A:3:3:5:1:5:3,25/03/1902,Cecília Dias,de Bernardo Pereira - Isabel Garcia,,25/03/1902 / 1995,data coincidente: 25/03/1902,,sim
 Isabel Maria Dias,Pereira,PER-A:3:3:5:1:5:4,23/11/1909 / 1995,Isabel Maria Dias,Pereira,,,"nome igual, um sem datas",,não
 Isabel Maria Dias,Pereira,PER-A:3:3:5:1:5:4,23/11/1909 / 1995,Isabel Maria Dias,Garcia Pereira,,,"nome igual, um sem datas",,não
 Isabel Maria Dias,Pereira,,,Isabel Maria Dias,Garcia Pereira,,,"nome igual, um sem datas",,não
+Luzia do Nascimento,Pereira,PER-A:3:3:5:1:5:5,23/12/1911 / 1912,Luzia do Nascimento,de Bernardo Pereira - Isabel Garcia,,23/12/1911 / 1912,"data coincidente: 1912, 23/12/1911",,sim
+Luzia de Jesus,Pereira,PER-A:3:3:5:1:5:6,08/02/1914,Luzia de Jesus,de Bernardo Pereira - Isabel Garcia,,08/02/1914,data coincidente: 08/02/1914,,sim
+Américo dos Santos,Pereira,PER-A:3:3:5:1:5:7,15/12/1915,Américo dos Santos,de Bernardo Pereira - Isabel Garcia,,15/12/1915,data coincidente: 15/12/1915,,sim
+Américo dos Santos,Pereira,PER-A:3:3:5:1:5:8,20/11/1916 / 1917,Américo dos Santos,de Bernardo Pereira - Isabel Garcia,,20/11/1916 / 1917,"data coincidente: 1917, 20/11/1916",,sim
+Américo dos Santos,Pereira,PER-A:3:3:5:1:5:9,09/05/1918,Américo dos Santos,de Bernardo Pereira - Isabel Garcia,,09/05/1918,data coincidente: 09/05/1918,,sim
+Adélia Robalo Dias,Pereira,PER-A:3:3:5:1:5:10,18/07/1920,Adélia Robalo Dias,de Bernardo Pereira - Isabel Garcia,,18/07/1920,data coincidente: 18/07/1920,,sim
 José Augusto Pereira,Pereira,PER-A:3:3:5:2:2:1,,José Augusto Pereira,Rito,,,"nome igual, um sem datas",,não
 José Augusto Pereira,Pereira,PER-A:3:3:5:2:2:1,,José Augusto Pereira,Pereira,,,"nome igual, um sem datas",,não
 José Augusto Pereira,Pereira,PER-A:3:3:5:2:2:1,,José Augusto Pereira,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
@@ -1237,20 +1274,48 @@ José Antunes Lousa,Rito,,,José Antunes Lousa,Gaião,,,"nome igual, um sem data
 José Antunes Lousa,Pereira,,,José Antunes Lousa,Pereira,,,"nome igual, um sem datas",,não
 José Antunes Lousa,Pereira,,,José Antunes Lousa,Gaião,,,"nome igual, um sem datas",,não
 José Antunes Lousa,Pereira,,,José Antunes Lousa,Gaião,,,"nome igual, um sem datas",,não
+Isabel Maria Gaião Antunes,Pereira,PER-A:3:5:1:2:4:1,30/11/1924 / 30/11/1924,Isabel Maria Gaião Antunes,Gaião,,30/11/1924 / 30/11/1924,data coincidente: 30/11/1924,,sim
 Isabel Maria Gaião Antunes,Pereira,PER-A:3:5:1:2:4:1,30/11/1924 / 30/11/1924,Isabel Maria Gaião Antunes,Pereira,,,"nome igual, um sem datas",,não
 Isabel Maria Gaião Antunes,Pereira,PER-A:3:5:1:2:4:1,30/11/1924 / 30/11/1924,Isabel Maria Gaião Antunes,Garcia Pereira,,,"nome igual, um sem datas",,não
+Isabel Maria Gaião Antunes,Gaião,,30/11/1924 / 30/11/1924,Isabel Maria Gaião Antunes,Pereira,,,"nome igual, um sem datas",,não
+Isabel Maria Gaião Antunes,Gaião,,30/11/1924 / 30/11/1924,Isabel Maria Gaião Antunes,Garcia Pereira,,,"nome igual, um sem datas",,não
 Isabel Maria Gaião Antunes,Pereira,,,Isabel Maria Gaião Antunes,Garcia Pereira,,,"nome igual, um sem datas",,não
+José Joaquim Gaião Lousa,Pereira,PER-A:3:5:1:2:4:2,25/11/1926 / 25/11/1926,José Joaquim Gaião Lousa,Gaião,,25/11/1926 / 25/11/1926 / 2003,data coincidente: 25/11/1926,,sim
 José Joaquim Gaião Lousa,Pereira,PER-A:3:5:1:2:4:2,25/11/1926 / 25/11/1926,José Joaquim Gaião Lousa,Pereira,,,"nome igual, um sem datas",,não
 José Joaquim Gaião Lousa,Pereira,PER-A:3:5:1:2:4:2,25/11/1926 / 25/11/1926,José Joaquim Gaião Lousa,Inês,,,"nome igual, um sem datas",,não
+José Joaquim Gaião Lousa,Pereira,PER-A:3:5:1:2:5:10,27/04/1946 / 27/04/1946,José Joaquim Gaião Lousa,Gaião,,27/04/1946 / 27/04/1946,data coincidente: 27/04/1946,,sim
 José Joaquim Gaião Lousa,Pereira,PER-A:3:5:1:2:5:10,27/04/1946 / 27/04/1946,José Joaquim Gaião Lousa,Pereira,,,"nome igual, um sem datas",,não
 José Joaquim Gaião Lousa,Pereira,PER-A:3:5:1:2:5:10,27/04/1946 / 27/04/1946,José Joaquim Gaião Lousa,Inês,,,"nome igual, um sem datas",,não
+José Joaquim Gaião Lousa,Gaião,,25/11/1926 / 25/11/1926 / 2003,José Joaquim Gaião Lousa,Pereira,,,"nome igual, um sem datas",,não
+José Joaquim Gaião Lousa,Gaião,,25/11/1926 / 25/11/1926 / 2003,José Joaquim Gaião Lousa,Inês,,,"nome igual, um sem datas",,não
+José Joaquim Gaião Lousa,Gaião,,27/04/1946 / 27/04/1946,José Joaquim Gaião Lousa,Pereira,,,"nome igual, um sem datas",,não
+José Joaquim Gaião Lousa,Gaião,,27/04/1946 / 27/04/1946,José Joaquim Gaião Lousa,Inês,,,"nome igual, um sem datas",,não
 José Joaquim Gaião Lousa,Pereira,,,José Joaquim Gaião Lousa,Inês,,,"nome igual, um sem datas",,não
+Maria dos Prazeres Gaião Lousa,Pereira,PER-A:3:5:1:2:4:3,28/04/1929 / 28/04/1929,Maria dos Prazeres Gaião Lousa,Gaião,,28/04/1929 / 28/04/1929 / 2012,data coincidente: 28/04/1929,,sim
+Jaime Antunes Lousa,Pereira,PER-A:3:5:1:2:4:4,20/11/1931 / 13/12/1931,Jaime Antunes Lousa,Gaião,,20/11/1931 / 13/12/1931,"data coincidente: 13/12/1931, 20/11/1931",,sim
+Glória Gaião Lousa,Pereira,PER-A:3:5:1:2:4:5,31/08/1933 / 31/08/1933,Glória Gaião Lousa,Gaião,,31/08/1933 / 31/08/1933 / 2012,data coincidente: 31/08/1933,,sim
+Manuel José Gaião Lousa,Pereira,PER-A:3:5:1:2:4:6,22/10/1935 / 01/12/1935,Manuel José Gaião Lousa,Gaião,,22/10/1935 / 01/12/1935,"data coincidente: 01/12/1935, 22/10/1935",,sim
 Manuel José Gaião Lousa,Pereira,PER-A:3:5:1:2:4:6,22/10/1935 / 01/12/1935,Manuel José Gaião Lousa,Pereira,,,"nome igual, um sem datas",,não
+Manuel José Gaião Lousa,Gaião,,22/10/1935 / 01/12/1935,Manuel José Gaião Lousa,Pereira,,,"nome igual, um sem datas",,não
 Amélia Gaião Lousa,Pereira,PER-A:3:5:1:2:4:7,12/11/1938 / 12/11/1938,Amélia Gaião Lousa,Gaião,,,"nome igual, um sem datas",,não
+Amélia Gaião Lousa,Pereira,PER-A:3:5:1:2:5:7,1942,Amélia Gaião Lousa,Gaião,,1942,data coincidente: 1942,,sim
 Amélia Gaião Lousa,Pereira,PER-A:3:5:1:2:5:7,1942,Amélia Gaião Lousa,Gaião,,,"nome igual, um sem datas",,não
+Amélia Gaião Lousa,Gaião,,12/11/1928 / 12/11/1928 / 1999,Amélia Gaião Lousa,Gaião,,,"nome igual, um sem datas",,não
+Amélia Gaião Lousa,Gaião,,1942,Amélia Gaião Lousa,Gaião,,,"nome igual, um sem datas",,não
+Leonor Gaião Lousa,Pereira,PER-A:3:5:1:2:5:1,27/09/1931 / 27/09/1931 / 1932,Leonor Gaião Lousa,Gaião,,27/09/1931 / 27/09/1931 / 1932,"data coincidente: 1932, 27/09/1931",,sim
 Leonor Gaião Lousa,Pereira,PER-A:3:5:1:2:5:1,27/09/1931 / 27/09/1931 / 1932,Leonor Gaião Lousa,Pereira,,,"nome igual, um sem datas",,não
 Leonor Gaião Lousa,Pereira,PER-A:3:5:1:2:5:1,27/09/1931 / 27/09/1931 / 1932,Leonor Gaião Lousa,Garcia Pereira,,,"nome igual, um sem datas",,não
+Leonor Gaião Lousa,Gaião,,27/09/1931 / 27/09/1931 / 1932,Leonor Gaião Lousa,Pereira,,,"nome igual, um sem datas",,não
+Leonor Gaião Lousa,Gaião,,27/09/1931 / 27/09/1931 / 1932,Leonor Gaião Lousa,Garcia Pereira,,,"nome igual, um sem datas",,não
 Leonor Gaião Lousa,Pereira,,,Leonor Gaião Lousa,Garcia Pereira,,,"nome igual, um sem datas",,não
+Amândio Gaião Antunes,Pereira,PER-A:3:5:1:2:5:2,26/02/1933 / 26/02/1933 / 1934,Amândio Gaião Antunes,Gaião,,26/02/1933 / 26/02/1933 / 1934,"data coincidente: 1934, 26/02/1933",,sim
+Leonor Gaião Lousa 2ª,Pereira,PER-A:3:5:1:2:5:3,15/10/1934 / 03/11/1934,Leonor Gaião Lousa 2ª,Gaião,,15/10/1934 / 03/11/1934,"data coincidente: 03/11/1934, 15/10/1934",,sim
+Amândio Gaião Lousa,Pereira,PER-A:3:5:1:2:5:4,13/04/1936 / 05/05/1936,Amândio Gaião Lousa,Gaião,,13/04/1936 / 05/05/1936,"data coincidente: 05/05/1936, 13/04/1936",,sim
+Albertino Gaião Lousa,Pereira,PER-A:3:5:1:2:5:5,28/02/1938 / 22/03/1938,Albertino Gaião Lousa,Gaião,,28/02/1938 / 22/03/1938,"data coincidente: 22/03/1938, 28/02/1938",,sim
+João Gaião Lousa,Pereira,PER-A:3:5:1:2:5:6,27/10/1939 / 18/11/1939 / 1940,João Gaião Lousa,Gaião,,27/10/1939 / 18/11/1939 / 1940,"data coincidente: 18/11/1939, 1940, 27/10/1939",,sim
+Maria Gaião Lousa,Pereira,PER-A:3:5:1:2:5:8,12/04/1943 / 02/05/1943 / 1944,Maria Gaião Lousa,Gaião,,12/04/1943 / 02/05/1943 / 1944,"data coincidente: 02/05/1943, 12/04/1943, 1944",,sim
+José Manuel Gaião Lousa,Pereira,PER-A:3:5:1:2:5:9,27/12/1944 / 27/12/1944 / 1945,José Manuel Gaião Lousa,Gaião,,27/12/1944 / 27/12/1944 / 1945,"data coincidente: 1945, 27/12/1944",,sim
+José Manuel Gaião Lousa,Pereira,PER-A:3:5:1:2:5:11,29/08/1947 / 29/08/1947 / 1947,José Manuel Gaião Lousa,Gaião,,29/08/1947 / 29/08/1947 / 1947,"data coincidente: 1947, 29/08/1947",,sim
 Manuel Correia,Pereira,PER-A:7:1:2:3:1,19/09/1882 / 01/10/1882,Manuel Correia,Rito,,,"nome igual, um sem datas",,não
 Manuel Correia,Pereira,PER-A:7:1:2:3:1,19/09/1882 / 01/10/1882,Manuel Correia,Pereira,,,"nome igual, um sem datas",,não
 Manuel Correia,Pereira,PER-A:7:1:2:3:1:2,1966,Manuel Correia,Rito,,,"nome igual, um sem datas",,não
@@ -1348,12 +1413,12 @@ Luísa Garcia Pereira,Pereira,PER-A:3:2:5:2,19/11/1843,Luísa Garcia Pereira,Gar
 Luísa Garcia Pereira,Pereira,PER-A:3:2:5:5:6,30/07/1882 / 30/07/1882 / 1884,Luísa Garcia Pereira,Garcia Pereira,GAR-A:3:2:5:5:6,30/07/1882 / 30/07/1882 / 1884,"data coincidente: 1884, 30/07/1882",,sim
 Bernardo Garcia Pereira e de Luísa Luís,Pereira,PER-A:3:2:6,,Bernardo Garcia Pereira e de Luísa Luís,Garcia Pereira,GAR-A:3:2:6,,"nome igual, um sem datas",,não
 António Garcia Pereira,Pereira,PER-A:3:2:6:10,28/08/1859 / 1861,António Garcia Pereira,Garcia Pereira,GAR-A:3:2:6:10,28/08/1859 / 1861,"data coincidente: 1861, 28/08/1859",,sim
-Maria Pereira: batizada no dia 29 de Dezembro de 1845,Pereira,PER-A:3:3:5:1,29/12/1845 / 1884,Maria Pereira: batizada no dia 29 de Dezembro de 1845,de Bernardo Pereira - Isabel Garcia,,29/12/1845 / 1884,"data coincidente: 1884, 29/12/1845",,sim
-Isabel Pereira: Batizada no dia 28 de Novembro de 1847,Pereira,PER-A:3:3:5:2,28/11/1847,Isabel Pereira: Batizada no dia 28 de Novembro de 1847,de Bernardo Pereira - Isabel Garcia,,28/11/1847,data coincidente: 28/11/1847,,sim
-Barbara: Batizada no dia 16 de Abril de 1850,Pereira,PER-A:3:3:5:3,16/04/1850,Barbara: Batizada no dia 16 de Abril de 1850,de Bernardo Pereira - Isabel Garcia,,16/04/1850,data coincidente: 16/04/1850,,sim
-Manuel: Batizado no dia 24 de Fevereiro de 1858,Pereira,PER-A:3:3:5:5,24/02/1858,Manuel: Batizado no dia 24 de Fevereiro de 1858,de Bernardo Pereira - Isabel Garcia,,24/02/1858,data coincidente: 24/02/1858,,sim
+Batizada no dia 28 de Novembro de 1847,Pereira,PER-A:3:3:5:2,28/11/1847,Batizada no dia 28 de Novembro de 1847,de Bernardo Pereira - Isabel Garcia,,28/11/1847,data coincidente: 28/11/1847,,sim
+Batizada no dia 16 de Abril de 1850,Pereira,PER-A:3:3:5:3,16/04/1850,Batizada no dia 16 de Abril de 1850,de Bernardo Pereira - Isabel Garcia,,16/04/1850,data coincidente: 16/04/1850,,sim
+Batizado no dia 19 de Setembro de 1852,Pereira,PER-A:3:3:5:4,19/09/1852 / 1858,Batizado no dia 19 de Setembro de 1852,de Bernardo Pereira - Isabel Garcia,,19/09/1852 / 1858,"data coincidente: 1858, 19/09/1852",,sim
+Batizado no dia 24 de Fevereiro de 1858,Pereira,PER-A:3:3:5:5,24/02/1858,Batizado no dia 24 de Fevereiro de 1858,de Bernardo Pereira - Isabel Garcia,,24/02/1858,data coincidente: 24/02/1858,,sim
 António José Pereira,Pereira,PER-A:3:3:5:6,28/11/1860 / 03/12/1860 / 1895,António José Pereira,de Bernardo Pereira - Isabel Garcia,,28/11/1860 / 03/12/1860 / 1895,"data coincidente: 03/12/1860, 1895, 28/11/1860",,sim
-João: Não encontro assento de batismo,Pereira,PER-A:3:3:5:8,,João: Não encontro assento de batismo,de Bernardo Pereira - Isabel Garcia,,19/09/1852,"nome igual, um sem datas",,não
+Não encontro assento de batismo,Pereira,PER-A:3:3:5:8,,Não encontro assento de batismo,de Bernardo Pereira - Isabel Garcia,,19/09/1852,"nome igual, um sem datas",,não
 Manuel Nunes,Pereira,PER-A:3:4:1:1,07/02/1847,Manuel Nunes,Pereira,,,"nome igual, um sem datas",,não
 José Narciso Nunes,Pereira,PER-A:3:4:1:2,,José Narciso Nunes,Pereira,,,"nome igual, um sem datas",,não
 Luísa Nunes,Pereira,PER-A:3:4:1:4,03/06/1852 / 1968,Luísa Nunes,Pereira,,,"nome igual, um sem datas",,não
@@ -1471,6 +1536,12 @@ João Augusto Garcia Pereira,Pereira,PER-A:3:2:6:9:9,23/11/1901 / 23/11/1901 / 1
 Catarina dos Prazeres Garcia Pereira,Pereira,PER-A:3:2:6:11:2,19/04/1891 / 19/04/1891 / 1893,Catarina dos Prazeres Garcia Pereira,Garcia Pereira,GAR-A:3:2:6:11:2,19/04/1891 / 19/04/1891 / 1893,"data coincidente: 1893, 19/04/1891",,sim
 Catarina Garcia Pereira,Pereira,PER-A:3:2:6:11:5,28/07/1903 / 09/08/1903,Catarina Garcia Pereira,Garcia Pereira,GAR-A:3:2:6:11:5,28/07/1903 / 09/08/1903,"data coincidente: 09/08/1903, 28/07/1903",,sim
 Abílio da Nazaré Pereira,Pereira,PER-A:3:3:3:3:2,29/07/1871 / 29/07/1871,Abílio da Nazaré Pereira,Pereira,,,"nome igual, um sem datas",,não
+Isabel Augusta Robalo,Pereira,PER-A:3:3:5:1:1,09/04/1870,Isabel Augusta Robalo,de Bernardo Pereira - Isabel Garcia,,09/04/1870,data coincidente: 09/04/1870,,sim
+Maria Isabel Robalo,Pereira,PER-A:3:3:5:1:2,,Maria Isabel Robalo,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
+José Augusto Robalo,Pereira,PER-A:3:3:5:1:3,,José Augusto Robalo,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
+João Augusto Robalo,Pereira,PER-A:3:3:5:1:4,,João Augusto Robalo,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
+Isabel Maria Robalo,Pereira,PER-A:3:3:5:1:5,24/05/1880,Isabel Maria Robalo,de Bernardo Pereira - Isabel Garcia,,24/05/1880,data coincidente: 24/05/1880,,sim
+Cândido Augusto,Pereira,PER-A:3:3:5:1:6,1884,Cândido Augusto,de Bernardo Pereira - Isabel Garcia,,1884,data coincidente: 1884,,sim
 Augusto Pereira,Pereira,PER-A:3:3:5:2:1,29/06/1873,Augusto Pereira,de Bernardo Pereira - Isabel Garcia,DE -2:1,29/06/1873,data coincidente: 29/06/1873,,sim
 Norberto Pereira,Pereira,PER-A:3:3:5:2:2,26/12/1875,Norberto Pereira,de Bernardo Pereira - Isabel Garcia,DE -2:2,26/12/1875,data coincidente: 26/12/1875,,sim
 Norberto Pereira,Pereira,PER-A:3:3:5:2:2,26/12/1875,Norberto Pereira,Gaião,,,"nome igual, um sem datas",,não
@@ -1511,6 +1582,15 @@ Ana Lourença,Inês,INÊ-B:4:2,,Ana Lourença,Pereira,,,"nome igual, um sem data
 Ana Lourença,Inês,INÊ-B:4:2,,Ana Lourença,Garcia Pereira,,,"nome igual, um sem datas",,não
 Ana Lourença,Pereira,,,Ana Lourença,Garcia Pereira,,,"nome igual, um sem datas",,não
 Alexandrina Pereira de Paulo,Inês,INÊ-B:1:1:1:3:2,27/02/1886 / 27/02/1886 / 1891,Alexandrina Pereira de Paulo,Pereira,,,"nome igual, um sem datas",,não
+João Jorge da Inês,Inês,,28/10/1921 / 19/11/1921,João Jorge da Inês,Rito,,,"nome igual, um sem datas",,não
+João Jorge da Inês,Inês,,28/10/1921 / 19/11/1921,João Jorge da Inês,Rito,,,"nome igual, um sem datas",,não
+João Jorge da Inês,Rito,,,João Jorge da Inês,Rito,,,"nome igual, um sem datas",,não
+Isabel Maria Saraiva da Inês,Inês,,15/03/1947 / 13/04/1947,Isabel Maria Saraiva da Inês,Rito,,,"nome igual, um sem datas",,não
+Isabel Maria Saraiva da Inês,Inês,,15/03/1947 / 13/04/1947,Isabel Maria Saraiva da Inês,Garcia Pereira,,,"nome igual, um sem datas",,não
+Isabel Maria Saraiva da Inês,Inês,,15/03/1947 / 13/04/1947,Isabel Maria Saraiva da Inês,Pereira,,,"nome igual, um sem datas",,não
+Isabel Maria Saraiva da Inês,Rito,,,Isabel Maria Saraiva da Inês,Garcia Pereira,,,"nome igual, um sem datas",,não
+Isabel Maria Saraiva da Inês,Rito,,,Isabel Maria Saraiva da Inês,Pereira,,,"nome igual, um sem datas",,não
+Isabel Maria Saraiva da Inês,Garcia Pereira,,,Isabel Maria Saraiva da Inês,Pereira,,,"nome igual, um sem datas",,não
 Artur Carvalho Dias,Garcia Pereira,GAR-A:3:2:5:2:6:3:8,10/08/1953,Artur Carvalho Dias,Rito,,,mesma filiação,,sim
 Ana Maria de Oliveira Dias,Garcia Pereira,GAR-A:3:2:5:2:6:8:2,12/09/1951 / 27/08/1977,Ana Maria de Oliveira Dias,Rito,,,"nome igual, um sem datas",,não
 José Ramos Gomes Pereira e Benedita Gomes de Carvalho,Garcia Pereira,GAR-A:3:2:5:5:1:1:3,,José Ramos Gomes Pereira e Benedita Gomes de Carvalho,Pereira,PER-A:3:2:5:5:1:1:3,,mesma filiação,,sim
@@ -1526,13 +1606,16 @@ José Manuel Pereira Rito e de Rosalina Frade Dias,Garcia Pereira,GAR-A:3:2:6:1:
 João Pereira Rito e de Maria da Glória Dias Garrido,Garcia Pereira,GAR-A:3:2:6:1:4:3:5,,João Pereira Rito e de Maria da Glória Dias Garrido,Pereira,PER-A:3:2:6:1:4:3:5,,mesma filiação,,sim
 Manuel Pereira Rito e Filomena Gomes Dias,Garcia Pereira,GAR-A:3:2:6:1:4:3:6,,Manuel Pereira Rito e Filomena Gomes Dias,Pereira,PER-A:3:2:6:1:4:3:6,,mesma filiação,,sim
 Glória Pereira Rito e José da Costa,Garcia Pereira,GAR-A:3:2:6:1:4:3:7,,Glória Pereira Rito e José da Costa,Pereira,PER-A:3:2:6:1:4:3:7,,mesma filiação,,sim
-Joaquim Pereira Rito e Prazeres Caria Lousa (A:3:5:1:2:2:5),Garcia Pereira,GAR-A:3:2:6:1:4:3:8,,Joaquim Pereira Rito e Prazeres Caria Lousa (A:3:5:1:2:2:5),Pereira,PER-A:3:2:6:1:4:3:8,,mesma filiação,,sim
+Maria do Céu Carvalhinho Meirinho,de Bernardo Pereira - Isabel Garcia,,,Maria do Céu Carvalhinho Meirinho,de Bernardo Pereira - Isabel Garcia,,01/02/1934,"nome igual, um sem datas",,não
+Manuel Meirinho de Oliveira,de Bernardo Pereira - Isabel Garcia,,03/09/1923,Manuel Meirinho de Oliveira,Rito,,,"nome igual, um sem datas",,não
+José Carrilho,Carrilho,,,José Carrilho,Rito,,,"nome igual, um sem datas",,não
 Emília Grencho de Oliveira,Oliveira,,,Emília Grencho de Oliveira,Rito,,,"nome igual, um sem datas",,não
 Manuel Ventura,Ventura,,,Manuel Ventura,Rito,,,"nome igual, um sem datas",,não
 José Gonçalves Gaião,Gaião,,25/09/1876 / 01/10/1876 / 1953,José Gonçalves Gaião,Rito,,,"nome igual, um sem datas",,não
 José Gonçalves Gaião,Gaião,,25/09/1876 / 01/10/1876 / 1953,José Gonçalves Gaião,Rito,,,"nome igual, um sem datas",,não
 José Gonçalves Gaião,Rito,,,José Gonçalves Gaião,Rito,,,"nome igual, um sem datas",,não
 Isabel Gonçalves Gaião,Gaião,,19/01/1879 / 19/01/1879 / 1923,Isabel Gonçalves Gaião,Pereira,,,"nome igual, um sem datas",,não
+Isabel Gonçalves Gaião,Gaião,,13/10/1901 / 13/10/1901 / 1902,Isabel Gonçalves Gaião,Pereira,,,"nome igual, um sem datas",,não
 Maria Luísa Gonçalves Gaião,Gaião,,26/06/1881 / 26/06/1881 / 1938,Maria Luísa Gonçalves Gaião,Pereira,,,"nome igual, um sem datas",,não
 Maria Luísa Gonçalves Gaião,Gaião,,26/06/1881 / 26/06/1881 / 1938,Maria Luísa Gonçalves Gaião,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
 Maria Luísa Gonçalves Gaião,Pereira,,,Maria Luísa Gonçalves Gaião,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
@@ -1670,7 +1753,6 @@ José Augusto Dias,Rito,,,José Augusto Dias,Pereira,,,"nome igual, um sem datas
 José Augusto Dias,Rito,,,José Augusto Dias,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
 José Augusto Dias,Pereira,,,José Augusto Dias,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
 Prazeres Garcia de Carvalho,Rito,,,Prazeres Garcia de Carvalho,Pereira,,,"nome igual, um sem datas",,não
-Luísa Felismina Carrilho,Rito,,,Luísa Felismina Carrilho,Carrilho,,,"nome igual, um sem datas",,não
 João Martins Nicolau,Rito,,,João Martins Nicolau,Rito,,,"nome igual, um sem datas",,não
 Isabel Nunes de Carvalho,Rito,,,Isabel Nunes de Carvalho,Rito,,,"nome igual, um sem datas",,não
 Dolores Lopes,Rito,,,Dolores Lopes,Rito,,,"nome igual, um sem datas",,não
@@ -1761,10 +1843,6 @@ Isabel Maria Nicolau da Teresa,Garcia Pereira,,,Isabel Maria Nicolau da Teresa,P
 António Dias Sanches,Rito,,,António Dias Sanches,Garcia Pereira,,,"nome igual, um sem datas",,não
 António Dias Sanches,Rito,,,António Dias Sanches,Pereira,,,"nome igual, um sem datas",,não
 António Dias Sanches,Garcia Pereira,,,António Dias Sanches,Pereira,,,"nome igual, um sem datas",,não
-Isabel Maria Saraiva da Inês,Rito,,,Isabel Maria Saraiva da Inês,Garcia Pereira,,,"nome igual, um sem datas",,não
-Isabel Maria Saraiva da Inês,Rito,,,Isabel Maria Saraiva da Inês,Pereira,,,"nome igual, um sem datas",,não
-Isabel Maria Saraiva da Inês,Garcia Pereira,,,Isabel Maria Saraiva da Inês,Pereira,,,"nome igual, um sem datas",,não
-João Jorge da Inês,Rito,,,João Jorge da Inês,Rito,,,"nome igual, um sem datas",,não
 Maria Cândida dos Santos Saraiva,Rito,,,Maria Cândida dos Santos Saraiva,Rito,,,"nome igual, um sem datas",,não
 Maria de Lourdes Saraiva da Inês,Rito,,,Maria de Lourdes Saraiva da Inês,Garcia Pereira,,,"nome igual, um sem datas",,não
 Maria de Lourdes Saraiva da Inês,Rito,,,Maria de Lourdes Saraiva da Inês,Pereira,,,"nome igual, um sem datas",,não
@@ -1907,7 +1985,6 @@ Isabel Pereira Robalo,Pereira,,,Isabel Pereira Robalo,Garcia Pereira,,,"nome igu
 Maria Fernandes Farinha,Pereira,,,Maria Fernandes Farinha,Garcia Pereira,,,"nome igual, um sem datas",,não
 Maria Neves Pereira,Pereira,,,Maria Neves Pereira,Garcia Pereira,,,"nome igual, um sem datas",,não
 Maria José Vaz,Pereira,,,Maria José Vaz,Garcia Pereira,,,"nome igual, um sem datas",,não
-Bernardo Robalo,Pereira,,,Bernardo Robalo,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
 Maria José Viriato Sorried Pompeu,Pereira,,,Maria José Viriato Sorried Pompeu,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
 Maria Carvalha,Pereira,,,Maria Carvalha,de Bernardo Pereira - Isabel Garcia,,,"nome igual, um sem datas",,não
 Bernardo Lourenço da Inês,Pereira,,,Bernardo Lourenço da Inês,Pereira,,,"nome igual, um sem datas",,não
@@ -1925,6 +2002,17 @@ Manuel Ribeiro da Silva e faleceu em França aos 23 anos,Garcia Pereira,,,Manuel
 Maria da Glória Robalo Meirinho de 23,Garcia Pereira,,,Maria da Glória Robalo Meirinho de 23,Pereira,,,"nome igual, um sem datas",,não
 Maria Moreira Garrido,Garcia Pereira,,,Maria Moreira Garrido,Pereira,,,"nome igual, um sem datas",,não
 José Manso Rito,Rito,2:4:4,01/02/1887 / 09/02/1887 / 28/11/1944,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Carrilho,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Carrilho,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Carrilho,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Carrilho,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Carrilho,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Carrilho,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Assentos paroquiais,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Assentos paroquiais,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Assentos paroquiais,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Assentos paroquiais,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manso Rito,Assentos paroquiais,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manso Rito,Assentos paroquiais,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manso Rito,Assentos paroquiais,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manso Rito,Assentos paroquiais,,,José Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -1943,6 +2031,8 @@ Maria Antunes,Assentos paroquiais,,,Maria Antunes,Assentos paroquiais,,,mesmo pa
 Maria Antunes,Assentos paroquiais,,,Maria Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Antunes,Assentos paroquiais,,,Maria Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Antunes,Rito,,18/01/1964,Manuel Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso Rito,Rito,2:4:1,17/12/1881 / 25/12/1881 / 02/11/1884,Manuel Manso Rito,da Teresa,,,mesmo pai e mesma mãe,,sim
+Manuel Manso Rito,Rito,2:4:3,25/12/1884 / 03/01/1885 / 20/04/1944,Manuel Manso Rito,da Teresa,,,mesmo pai e mesma mãe,,sim
 Manuel Manso Rito,Assentos paroquiais,,,Manuel Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Manso Rito,Assentos paroquiais,,,Manuel Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Manso Rito,Assentos paroquiais,,,Manuel Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -1968,16 +2058,12 @@ Isabel Maria Manso Rito,Rito,2:6:5,12/10/1891 / 18/10/1891 / 10/05/1976,Isabel M
 Isabel Maria Manso Rito,Assentos paroquiais,,,Isabel Maria Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Manso Rito,Assentos paroquiais,,,Isabel Maria Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Manso Rito,Assentos paroquiais,,,Isabel Maria Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Maria Manso Rito,Assentos paroquiais,,,Isabel Maria Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Gomes,Rito,4:5:1,04/08/1873 / 10/08/1873,Isabel Maria Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Gomes,Rito,4:5:2,14/09/1874 / 23/09/1874,Isabel Maria Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Gomes,Rito,4:5:3,31/03/1877 / 08/04/1877 / 30/12/1950,Isabel Maria Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Lourenço da Inês,Inês,INÊ-B:1:1:3:3:5,19/06/1887 / 19/06/1887 / 1933,José Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Lourenço da Inês,Inês,INÊ-B:1:1:3:3:8,05/06/1887 / 11/06/1933 / 1933,José Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Rita Lourenço da Inês,Assentos paroquiais,,,Maria Rita Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Rita Lourenço da Inês,Assentos paroquiais,,,Maria Rita Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Rita Lourenço da Inês,Assentos paroquiais,,,Maria Rita Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Rita Lourenço da Inês,Assentos paroquiais,,,Maria Rita Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Rita Lourenço da Inês,Assentos paroquiais,,,Maria Rita Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Rita Lourenço da Inês,Assentos paroquiais,,,Maria Rita Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Rita Lourenço da Inês,Assentos paroquiais,,,Maria Rita Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Rita Lourenço da Inês,Assentos paroquiais,,,Maria Rita Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2022,13 +2108,17 @@ Ana Martins da Teresa,Assentos paroquiais,,,Ana Martins da Teresa,Assentos paroq
 Ana Martins da Teresa,Assentos paroquiais,,,Ana Martins da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Martins da Teresa,Rito,2:1:3:5,15/12/1899 / 31/12/1899,Maria dos Anjos Martins da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Martins da Teresa,Rito,2:1:3:6,21/08/1901 / 15/09/1901 / 11/01/1989,Maria dos Anjos Martins da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Mariana Manso Rito,Rito,2:1:6:1,13/04/1902 / 20/04/1902 / 12/07/1959,Mariana Manso Rito,Alves,,,mesmo pai e mesma mãe,,sim
 Mariana Manso Rito,Rito,2:1:6:1,13/04/1902 / 20/04/1902 / 12/07/1959,Mariana Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Mariana Manso Rito,Alves,,,Mariana Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Glória Manso Rito,Rito,2:1:6:4,10/09/1908 / 20/09/1908 / 09/08/1909,Glória Manso Rito,de Bernardo Pereira - Isabel Garcia,,,mesmo pai e mesma mãe,,sim
 Glória Manso Rito,Rito,2:1:6:4,10/09/1908 / 20/09/1908 / 09/08/1909,Glória Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Glória Manso Rito,Rito,2:1:6:6,23/08/1910 / 04/09/1910 / 26/11/1994,Glória Manso Rito,de Bernardo Pereira - Isabel Garcia,,,mesmo pai e mesma mãe,,sim
 Glória Manso Rito,Rito,2:1:6:6,23/08/1910 / 04/09/1910 / 26/11/1994,Glória Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Glória Manso Rito,de Bernardo Pereira - Isabel Garcia,,,Glória Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Martins Garcia,Assentos paroquiais,,,Maria dos Anjos Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Anjos Martins Garcia,Assentos paroquiais,,,Maria dos Anjos Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Anjos Martins Garcia,Assentos paroquiais,,,Maria dos Anjos Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Martins Garcia ( 2º. deste nome),Assentos paroquiais,,30/03/1902 / 30/03/1902 / 24/10/1975,José Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Martins Garcia,Carrilho,,,José Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Martins Garcia,Assentos paroquiais,,30/03/1902 / 30/03/1902 / 24/10/1975,José Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Joaquim Carvalhinho,Assentos paroquiais,,,José Joaquim Carvalhinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Mariana Martins da Teresa,Assentos paroquiais,,,Mariana Martins da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Mariana Martins da Teresa,Assentos paroquiais,,,Mariana Martins da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2049,7 +2139,17 @@ Glória Rito dos Santos,Rito,4:7:9:1,27/10/1920 / 13/02/1921 / 19/09/1941,Glóri
 João Dias Garrido,Rito,10:1:5:1,20/07/1913 / 09/08/1913,João Dias Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Dias Garrido,Rito,10:1:5:1,20/07/1913 / 09/08/1913,João Dias Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Dias Garrido,Assentos paroquiais,,,João Dias Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Aurelina Ventura Rito,Rito,2:4:4:4:3,19/01/1946 / 18/11/1947,Maria Aurelina Ventura Rito,de Bernardo Pereira - Isabel Garcia,,,mesmo pai e mesma mãe,,sim
+Maria Aurelina Ventura Rito,Rito,2:4:4:4:3,19/01/1946 / 18/11/1947,Maria Aurelina Ventura Rito,Ventura,,,mesmo pai e mesma mãe,,sim
+Maria Aurelina Ventura Rito,Rito,2:4:4:4:3,19/01/1946 / 18/11/1947,Maria Aurelina Ventura Rito,Gaião,,,mesmo pai e mesma mãe,,sim
+Maria Aurelina Ventura Rito (2.ª),Rito,2:4:4:4:5,06/05/1949,Maria Aurelina Ventura Rito,de Bernardo Pereira - Isabel Garcia,,,mesmo pai e mesma mãe,,sim
+Maria Aurelina Ventura Rito (2.ª),Rito,2:4:4:4:5,06/05/1949,Maria Aurelina Ventura Rito,Ventura,,,mesmo pai e mesma mãe,,sim
+Maria Aurelina Ventura Rito (2.ª),Rito,2:4:4:4:5,06/05/1949,Maria Aurelina Ventura Rito,Gaião,,,mesmo pai e mesma mãe,,sim
+Maria Aurelina Ventura Rito,de Bernardo Pereira - Isabel Garcia,,,Maria Aurelina Ventura Rito,Ventura,,,mesmo pai e mesma mãe,,sim
+Maria Aurelina Ventura Rito,de Bernardo Pereira - Isabel Garcia,,,Maria Aurelina Ventura Rito,Gaião,,,mesmo pai e mesma mãe,,sim
+Maria Aurelina Ventura Rito,Ventura,,,Maria Aurelina Ventura Rito,Gaião,,,mesmo pai e mesma mãe,,sim
 João da Inês Robalo,Assentos paroquiais,,22/02/1926 / 14/03/1926,João da Inês Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Narciso da Inês Russo,Rito,4:6:3:8:4,11/03/1956 / 19/03/1956,Narciso da Inês Russo,Ventura,,,mesmo pai e mesma mãe,,sim
 António José Gonçalves Garrido,Assentos paroquiais,,,António José Gonçalves Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Joaquim Pereira,Assentos paroquiais,,01/10/1943,Manuel Joaquim Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Oliveira,Pereira,PER-A:1:3:1:1:2:1,29/06/1886 / 29/06/1886 / 1923,João Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2070,8 +2170,6 @@ Maria dos Anjos Gomes,Assentos paroquiais,,,Maria dos Anjos Gomes,Assentos paroq
 Maria dos Anjos Gomes,Assentos paroquiais,,,Maria dos Anjos Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Gomes,Assentos paroquiais,,,Maria dos Anjos Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Augusta Gomes,Pereira,PER-A:1:3:1:1:4:3,25/09/1898 / 25/09/1898 / 24/07/1931,Isabel Augusta Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Augusta Gomes,Pereira,PER-A:1:3:1:1:4:3,25/09/1898 / 25/09/1898 / 24/07/1931,Isabel Augusta Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Augusta Gomes,Assentos paroquiais,,,Isabel Augusta Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Lourenço Robalo,Assentos paroquiais,,,Lourenço Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Lourenço Robalo,Assentos paroquiais,,,Lourenço Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Batista Martins Viegas,Assentos paroquiais,,,João Batista Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2098,17 +2196,13 @@ José Joaquim Gonçalves Garrido,Pereira,,,José Joaquim Gonçalves Garrido,Asse
 Manuel Joaquim Antunes,Assentos paroquiais,,,Manuel Joaquim Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Lourenço da Inês,Pereira,PER-A:1:4:7:2:2:1,10/04/1901 / 23/12/1941,José Augusto Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Emília Lourenço da Inês,Pereira,PER-A:1:4:7:2:2:2,20/04/1907 / 28/04/1907,Maria Emília Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Emília Lourenço da Inês,Rito,,19/05/1967,Maria Emília Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Emília Lourenço da Inês,Pereira,PER-A:1:4:7:2:5,26/02/1893 / 26/02/1893 / 1958,Maria Emília Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Pereira,Assentos paroquiais,,,José Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Pereira de Paula,Assentos paroquiais,,01/09/1946,Manuel Pereira de Paula,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Antónia Martins de Paulo,Rito,,,Maria Antónia Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins de Paulo,Pereira,PER-A:2:1:1:2:3:3,24/12/1891 / 01/01/1892 / 23/11/1916,Manuel Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins de Paulo,Pereira,PER-A:2:1:1:2:3:3,24/12/1891 / 01/01/1892 / 23/11/1916,Manuel Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins de Paulo,Pereira,PER-A:2:1:1:2:3:3,24/12/1891 / 01/01/1892 / 23/11/1916,Manuel Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Martins de Paulo,Pereira,PER-A:2:1:1:2:3:3,24/12/1891 / 01/01/1892 / 23/11/1916,Manuel Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Martins de Paulo,Assentos paroquiais,,,Manuel Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Martins de Paulo,Assentos paroquiais,,,Manuel Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Martins de Paulo,Assentos paroquiais,,,Manuel Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins de Paulo,Assentos paroquiais,,,Manuel Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins de Paulo,Assentos paroquiais,,,Manuel Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins de Paulo,Assentos paroquiais,,,Manuel Martins de Paulo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2119,6 +2213,7 @@ José Rodrigues,Rito,,28/01/1943,José Rodrigues,Assentos paroquiais,,,mesmo pai
 José Rodrigues,Assentos paroquiais,,,José Rodrigues,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Rodrigues,Assentos paroquiais,,,José Rodrigues,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Rodrigues,Assentos paroquiais,,,José Rodrigues,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manuel Rodrigues,Carrilho,,,José Manuel Rodrigues,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Benedita Dias,Pereira,PER-A:3:2:4:2:1:1,21/11/1889 / 21/11/1889 / 1982,Maria Benedita Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Santos João,Assentos paroquiais,,,Maria dos Santos João,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Santos João,Assentos paroquiais,,,Maria dos Santos João,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2144,6 +2239,7 @@ João Garcia de Carvalho,Assentos paroquiais,,,João Garcia de Carvalho,Assentos
 João Garcia de Carvalho,Assentos paroquiais,,,João Garcia de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Garcia de Carvalho,Assentos paroquiais,,,João Garcia de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Augusta Pereira de Carvalho,Pereira,PER-A:3:2:4:4:6:7,01/10/1917 / 08/02/1918 / 1948,Isabel Augusta Pereira de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria da Glória Carvalho Pereira,Rito,,,Maria da Glória Carvalho Pereira,Carrilho,,,mesmo pai e mesma mãe,,sim
 Maria Nunes Meirinho,Pereira,PER-A:3:2:4:5:4:3,22/09/1907 / 22/09/1907 / 1979,Maria Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Nunes Meirinho,Pereira,PER-A:3:2:4:5:4:3,22/09/1907 / 22/09/1907 / 1979,Maria Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Nunes Meirinho,Pereira,PER-A:3:2:4:5:4:3,22/09/1907 / 22/09/1907 / 1979,Maria Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2151,8 +2247,6 @@ Maria Nunes Meirinho,Assentos paroquiais,,,Maria Nunes Meirinho,Assentos paroqui
 Maria Nunes Meirinho,Assentos paroquiais,,,Maria Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Nunes Meirinho,Assentos paroquiais,,,Maria Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Lopes Pereira,Assentos paroquiais,,04/08/1922,José Lopes Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Lopes Pereira,Assentos paroquiais,,04/08/1922,José Lopes Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Lopes Pereira,Assentos paroquiais,,,José Lopes Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Garcia de Carvalho,Rito,,,José Garcia de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Garcia de Carvalho,Rito,,,José Garcia de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Garcia de Carvalho,Assentos paroquiais,,,José Garcia de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2197,6 +2291,9 @@ Bernardo Garcia Pereira,Assentos paroquiais,,,Bernardo Garcia Pereira,Assentos p
 Glória Dias Pereira,Pereira,PER-A:3:2:6:7:7:5,29/09/1926 / 03/10/1926,Glória Dias Pereira,Pereira,,,mesmo pai e mesma mãe,,sim
 Maria Augusta Garcia Pereira,Pereira,PER-A:3:2:6:9:6,18/06/1893 / 18/06/1893 / 1943,Maria Augusta Garcia Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Beatriz Garcia Pereira,Pereira,PER-A:3:2:6:9:7,26/01/1896 / 26/01/1896 / 1970,Beatriz Garcia Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Martins Garcia,Garcia da Fonseca,,,Ana Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Martins Garcia,Garcia da Fonseca,,,Ana Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Martins Garcia,Garcia da Fonseca,,,Ana Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Ana Martins Garcia,Assentos paroquiais,,,Ana Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Ana Martins Garcia,Assentos paroquiais,,,Ana Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Ana Martins Garcia,Assentos paroquiais,,,Ana Martins Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2204,10 +2301,10 @@ Manuel Cid Pereira,Pereira,PER-A:3:2:6:11:3:1,20/09/1921 / 16/10/1921,Manuel Cid
 José carvalho,Assentos paroquiais,,,José Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Carvalho,Pereira,PER-A:3:3:3:1:7:5,25/03/1906 / 25/03/1906,José Augusto Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Augusta Carvalho,Assentos paroquiais,,,Maria Augusta Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria de Oliveira,Assentos paroquiais,,,Maria de Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Nunes Emídio,Pereira,PER-A:3:3:3:3:5:2,31/07/1908 / 23/08/1908 / 1950,José Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Nunes Emídio,Rito,,01/09/1911,José Nunes Emídio,Pereira,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Pereira,Pereira,PER-A:8:2:3:2,20/04/1868 / 20/04/1868,Isabel Maria Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Maria Pereira,Inês,,,Isabel Maria Pereira,Inês,,,mesmo pai e mesma mãe,,sim
 José Joaquim Lourenço Logrado,Pereira,PER-A:3:3:3:3:7:2,26/06/1902 / 06/07/1902,José Joaquim Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Glória Lourenço Logrado,Pereira,PER-A:3:3:3:3:7:3,17/04/1904 / 17/04/1904,Glória Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Glória Lourenço Logrado,Pereira,PER-A:3:3:3:3:7:3,17/04/1904 / 17/04/1904,Glória Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2228,22 +2325,25 @@ Maria Augusta Nunes Meirinho,Assentos paroquiais,,,Maria Augusta Nunes Meirinho,
 Maria Augusta Nunes Meirinho,Assentos paroquiais,,,Maria Augusta Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Augusta Nunes Meirinho,Assentos paroquiais,,,Maria Augusta Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Cristina Augusta Dias,Pereira,PER-A:3:3:5:1:5:2,19/08/1899 / 1960,Cristina Augusta Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Cecília Dias,Pereira,PER-A:3:3:5:1:5:3,25/03/1902,Cecília Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Cecília Dias,Pereira,PER-A:3:3:5:1:5:3,25/03/1902 / 1995,Cecília Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Adélia Robalo Dias,Pereira,PER-A:3:3:5:1:5:10,18/07/1920,Adélia Robalo Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Pereira,Pereira,PER-A:3:3:5:2:2:1,31/08/1908 / 12/09/1908 / 27/09/1959,José Augusto Pereira,Rito,,,mesmo pai e mesma mãe,,sim
+José Augusto Pereira,Pereira,PER-A:3:3:5:2:2:1,31/08/1908 / 12/09/1908 / 27/09/1959,José Augusto Pereira,Emídio,,,mesmo pai e mesma mãe,,sim
 José Augusto Pereira,Pereira,PER-A:3:3:5:2:2:1,31/08/1908 / 12/09/1908 / 27/09/1959,José Augusto Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Augusto Pereira,Rito,,,José Augusto Pereira,Emídio,,,mesmo pai e mesma mãe,,sim
 José Augusto Pereira,Rito,,,José Augusto Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Augusto Pereira,Emídio,,,José Augusto Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Gaião Pereira,Pereira,PER-A:3:3:5:2:2:3,28/11/1914,Isabel Maria Gaião Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Alfredo da Inês Manso,Assentos paroquiais,,11/01/1920 / 23/01/1920,José Alfredo da Inês Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Alfredo da Inês Manso,Assentos paroquiais,,11/01/1920 / 23/01/1920,José Alfredo da Inês Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Alfredo da Inês Manso,Assentos paroquiais,,,José Alfredo da Inês Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Alfredo da Inês Manso,de Bernardo Pereira - Isabel Garcia,,,José Alfredo da Inês Manso,de Bernardo Pereira - Isabel Garcia,,11/01/1920 / 23/01/1920,mesmo pai e mesma mãe,,sim
+José Alfredo da Inês Manso,de Bernardo Pereira - Isabel Garcia,,,José Alfredo da Inês Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Alfredo da Inês Manso,de Bernardo Pereira - Isabel Garcia,,11/01/1920 / 23/01/1920,José Alfredo da Inês Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Glória Manso Antunes,Assentos paroquiais,,,Glória Manso Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria José Pereira Carrilho,Pereira,PER-A:3:4:4:3:1,26/09/1890 / 05/10/1890 / 1957,Maria José Pereira Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Augusta Martins Pereira,Pereira,PER-A:3:4:4:3:1:4,08/02/1922 / 16/04/1922,Isabel Augusta Martins Pereira (Grencho),Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Antunes Lousa (creado do Correio),Assentos paroquiais,,,José Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Antunes Lousa (creado do Correio),Assentos paroquiais,,,José Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Augusta Martins Pereira,Pereira,PER-A:3:4:4:3:1:4,08/02/1922 / 16/04/1922,Isabel Augusta Martins Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Antunes Lousa,Assentos paroquiais,,,José Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Antunes Lousa,Assentos paroquiais,,,José Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Antunes Lousa,Assentos paroquiais,,,José Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Amélia Gaião Lousa,Pereira,PER-A:3:5:1:2:4:7,12/11/1938 / 12/11/1938,Amélia Gaião Lousa,de Bernardo Pereira - Isabel Garcia,,,mesmo pai e mesma mãe,,sim
 Manuel Correia,Pereira,PER-A:7:1:2:3:1,19/09/1882 / 01/10/1882 / 03/08/1918,Manuel Correia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Correia,Rito,,,Manuel Correia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Glória Correia,Assentos paroquiais,,,Glória Correia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2271,20 +2371,19 @@ José Augusto Correia,Assentos paroquiais,,,José Augusto Correia,Assentos paroq
 José Augusto Correia,Assentos paroquiais,,,José Augusto Correia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Alfredo Lucas Correia,Pereira,PER-A:7:1:2:3:6:2,25/08/1924 / 28/09/1924,Alfredo Lucas Correia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 António Garcia da Nabais,Assentos paroquiais,,,António Garcia da Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Augusto Garcia da Nabais,Assentos paroquiais,,,José Augusto Garcia da Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Nabais,Assentos paroquiais,,,José Augusto Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Robalo,Assentos paroquiais,,,José Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Robalo,Rito,,16/09/1919,Maria Robalo,Rito,,,mesmo pai e mesma mãe,,sim
+Maria Robalo,Rito,,16/09/1919,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Robalo,Rito,,16/09/1919,Maria Robalo,Assentos paroquiais,,29/12/1901 / 01/01/1902 / 03/07/1959,mesmo pai e mesma mãe,óbito: 16/09/1919 vs 03/07/1959,sim
 Maria Robalo,Rito,,16/09/1919,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Robalo,Rito,,16/09/1919,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Robalo,Rito,,,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Robalo,Rito,,,Maria Robalo,Assentos paroquiais,,29/12/1901 / 01/01/1902 / 03/07/1959,mesmo pai e mesma mãe,,sim
 Maria Robalo,Rito,,,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Robalo,Rito,,,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Robalo,Rito,,,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Robalo,Assentos paroquiais,,29/12/1901 / 01/01/1902 / 03/07/1959,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Robalo,Assentos paroquiais,,29/12/1901 / 01/01/1902 / 03/07/1959,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Robalo,Assentos paroquiais,,,Maria Robalo,Assentos paroquiais,,29/12/1901 / 01/01/1902 / 03/07/1959,mesmo pai e mesma mãe,,sim
 Maria Robalo,Assentos paroquiais,,,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Robalo,Assentos paroquiais,,29/12/1901 / 01/01/1902 / 03/07/1959,Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Vaz Fazenda,Assentos paroquiais,,,José Augusto Vaz Fazenda,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Vaz Fazenda,Assentos paroquiais,,,José Augusto Vaz Fazenda,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Vaz Fazenda,Assentos paroquiais,,,José Augusto Vaz Fazenda,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2311,16 +2410,11 @@ Narciso Nunes Meirinho,Assentos paroquiais,,,Narciso Nunes Meirinho,Assentos par
 Manuel Gonçalves,Assentos paroquiais,,11/03/1927,Manuel Gonçalves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Gonçalves,Rito,,,Isabel Maria Gonçalves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Gonçalves,Assentos paroquiais,,,Isabel Maria Gonçalves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Gonçalves,Assentos paroquiais,,,Isabel Maria Gonçalves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Gonçalves,Assentos paroquiais,,,Isabel Maria Gonçalves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Lourenço,Rito,,,Maria Lourenço,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Garcia da Nabais,Pereira,PER-A:3:3:3:1:7,25/09/1875 / 03/10/1875 / 03/03/1916,Isabel Maria Garcia da Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Augusta Garcia da Nabais,Assentos paroquiais,,,Maria Augusta Garcia da Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Augusta Garcia da Nabais,Assentos paroquiais,,,Maria Augusta Garcia da Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Augusta Garcia da Nabais,Assentos paroquiais,,,Maria Augusta Garcia da Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Robalo,Assentos paroquiais,,,Isabel Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Robalo,Assentos paroquiais,,,Isabel Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Robalo,Assentos paroquiais,,,Isabel Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Robalo,Assentos paroquiais,,,Isabel Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Robalo,Assentos paroquiais,,,Isabel Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Robalo,Assentos paroquiais,,,Isabel Maria Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2337,10 +2431,9 @@ Lourenço Antunes Lousa,Assentos paroquiais,,,Lourenço Antunes Lousa,Assentos p
 Manuel Antunes Lousa,Assentos paroquiais,,,Manuel Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Bernardo Correia,Assentos paroquiais,,,Bernardo Correia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Lourenço da Inês,Assentos paroquiais,,,Maria Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Ventura,Assentos paroquiais,,,Manuel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Ventura,Assentos paroquiais,,,Manuel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Ventura,Assentos paroquiais,,,Manuel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Ventura,Assentos paroquiais,,,Manuel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manuel Meirinho de Oliveira,de Bernardo Pereira - Isabel Garcia,,24/09/1919 / 19/10/1919,José Manuel Meirinho de Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Augusta Meirinho de Oliveira,de Bernardo Pereira - Isabel Garcia,,14/05/1921,Maria Augusta Meirinho de Oliveira,Assentos paroquiais,,14/05/1920 / 14/11/1920,mesmo pai e mesma mãe,nascimento: 14/05/1921 vs 14/05/1920,sim
+Maria da Glória Carrilho,Assentos paroquiais,,,Maria da Glória Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Ventura,Assentos paroquiais,,,Manuel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Ventura,Assentos paroquiais,,,Manuel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Ventura,Assentos paroquiais,,,Manuel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2348,10 +2441,16 @@ Manuel Ventura,Assentos paroquiais,,,Manuel Ventura,Assentos paroquiais,,,mesmo 
 Manuel Ventura,Assentos paroquiais,,,Manuel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Ventura,Assentos paroquiais,,,Manuel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Gonçalves Gaião,Rito,,,José Gonçalves Gaião,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Gonçalves Gaião,Gaião,,13/10/1901 / 13/10/1901 / 1902,Isabel Gonçalves Gaião,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Gonçalves Gaião,Gaião,,13/10/1901 / 13/10/1901 / 1902,Isabel Gonçalves Gaião,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Gonçalves Gaião,Assentos paroquiais,,,Isabel Gonçalves Gaião,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Prazeres Gonçalves Gaião,Gaião,,20/11/1910 / 20/11/1910 / 1982,Maria dos Prazeres Gonçalves Gaião,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Luísa Afonso Gaião,Rito,,02/10/1982,Luísa Afonso Gaião,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins Nicolau,Rito,,11/12/1925,Manuel Martins Nicolau,Rito,,,mesmo pai e mesma mãe,,sim
+Manuel Martins Nicolau,Rito,,11/12/1925,Manuel Martins Nicolau,Carrilho,,,mesmo pai e mesma mãe,,sim
 Manuel Martins Nicolau,Rito,,11/12/1925,Manuel Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins Nicolau,Rito,,11/12/1925,Manuel Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Martins Nicolau,Rito,,,Manuel Martins Nicolau,Carrilho,,,mesmo pai e mesma mãe,,sim
 Manuel Martins Nicolau,Rito,,,Manuel Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins Nicolau,Rito,,,Manuel Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins Nicolau,Rito,,,Manuel Martins Nicolau,Pereira,,,mesmo pai e mesma mãe,,sim
@@ -2359,6 +2458,8 @@ Manuel Martins Nicolau,Rito,,,Manuel Martins Nicolau,Assentos paroquiais,,18/02/
 Manuel Martins Nicolau,Rito,,,Manuel Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins Nicolau,Pereira,,,Manuel Martins Nicolau,Assentos paroquiais,,18/02/1908 / 01/03/1908 / 19/04/1990,mesmo pai e mesma mãe,,sim
 Manuel Martins Nicolau,Pereira,,,Manuel Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Martins Nicolau,Carrilho,,,Manuel Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Martins Nicolau,Carrilho,,,Manuel Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins Nicolau,Assentos paroquiais,,18/02/1908 / 01/03/1908 / 19/04/1990,Manuel Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins Nicolau,Assentos paroquiais,,,Manuel Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Martins da Teresa,Rito,,,José Augusto Martins da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2366,9 +2467,13 @@ José Augusto Martins da Teresa,Assentos paroquiais,,,José Augusto Martins da T
 José Augusto Martins da Teresa,Assentos paroquiais,,,José Augusto Martins da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Martins da Teresa,Assentos paroquiais,,,José Augusto Martins da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Martins da Teresa,Assentos paroquiais,,,José Augusto Martins da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Anna Gonçalves,Carrilho,,,Anna Gonçalves,Carrilho,,,mesmo pai e mesma mãe,,sim
 Maria Gonçalves de Matos,Assentos paroquiais,,,Maria Gonçalves de Matos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Martins,Assentos paroquiais,,31/10/1910 / 31/10/1910,José Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Fernandes Monteiro,Assentos paroquiais,,12/05/1935,Manuel Fernandes Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Antónia Oliveira,de Bernardo Pereira - Isabel Garcia,,,Maria Antónia Oliveira,Ventura,,,mesmo pai e mesma mãe,,sim
+Maria Antónia Oliveira,de Bernardo Pereira - Isabel Garcia,,,Maria Antónia Oliveira,Gaião,,,mesmo pai e mesma mãe,,sim
+Maria Antónia Oliveira,Ventura,,,Maria Antónia Oliveira,Gaião,,,mesmo pai e mesma mãe,,sim
 Manuel de Oliveira (Russo),Rito,,,Manuel de Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Fernandes Russo,Assentos paroquiais,,,Maria Fernandes Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Nunes Ambrósio,Pereira,,,Maria Nunes Ambrósio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2399,9 +2504,6 @@ Manuel Vaz Lavrador,Assentos paroquiais,,13/04/1945,Manuel Vaz Lavrador,Assentos
 Manuel Vaz Lavrador,Assentos paroquiais,,,Manuel Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Vaz Lavrador,Rito,,01/02/1912,João Vaz Lavrador,Rito,,,mesmo pai e mesma mãe,,sim
 José Augusto Lopes (Dora),Rito,,08/04/1965,José Augusto Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Nunes Dias,Assentos paroquiais,,,Isabel Maria Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Nunes Dias,Assentos paroquiais,,,Isabel Maria Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Nunes Dias,Assentos paroquiais,,,Isabel Maria Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Nunes Dias,Assentos paroquiais,,,Isabel Maria Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Nunes Dias,Assentos paroquiais,,,Isabel Maria Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Nunes Dias,Assentos paroquiais,,,Isabel Maria Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2447,11 +2549,12 @@ Maria dos Prazeres Nunes Dias,Assentos paroquiais,,,Maria dos Prazeres Nunes Dia
 Manuel Cesário Nunes Dias,Rito,,,Manuel Cesário Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Martins Gaião,Rito,,27/06/1965,João Martins Gaião,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Martins Corceiro,Pereira,,,José Martins Corceiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Vaz Lavrador (2º de nome),Assentos paroquiais,,18/10/1907 / 17/11/1907 / 09/02/1937,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Vaz Lavrador (2º de nome),Assentos paroquiais,,18/10/1907 / 17/11/1907 / 09/02/1937,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Vaz Lavrador (2º de nome),Assentos paroquiais,,18/10/1907 / 17/11/1907 / 09/02/1937,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Vaz Lavrador,Assentos paroquiais,,,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Vaz Lavrador,Assentos paroquiais,,,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Augusta Carvalho Lavrador,Rito,,31/05/1925 / 28/07/1925,Isabel Augusta Carvalho Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Vaz Lavrador,Rito,,,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Vaz Lavrador,Rito,,,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Vaz Lavrador,Assentos paroquiais,,18/10/1907 / 17/11/1907 / 09/02/1937,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Vaz Lavrador,Assentos paroquiais,,18/10/1907 / 17/11/1907 / 09/02/1937,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Vaz Lavrador,Assentos paroquiais,,18/10/1907 / 17/11/1907 / 09/02/1937,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Vaz Lavrador,Assentos paroquiais,,,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Vaz Lavrador,Assentos paroquiais,,,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Vaz Lavrador,Assentos paroquiais,,,José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2470,7 +2573,7 @@ Maria dos Anjos Fernandes Russo,Rito,,,Maria dos Anjos Fernandes Russo,Assentos 
 Maria dos Anjos Fernandes Russo,Rito,,,Maria dos Anjos Fernandes Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Fernandes Russo,Assentos paroquiais,,,Maria dos Anjos Fernandes Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Amélia Arminda dos Prazeres Carrilho,Rito,,,Amélia Arminda dos Prazeres Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Nunes Nicolau,Rito,,16/04/1923,João Nunes Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João Nunes Nicolau,Rito,,23/02/1923 / 16/04/1923,João Nunes Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Martins Nicolau,Rito,,,João Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Martins Nicolau,Rito,,,João Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Martins Nicolau,Rito,,,João Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2494,17 +2597,23 @@ Manuel António Garcia Fogeiro,Rito,,,Manuel António Garcia Fogeiro,Assentos pa
 José Augusto Carrilho,Assentos paroquiais,,,José Augusto Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Carrilho,Assentos paroquiais,,,José Augusto Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Carrilho,Assentos paroquiais,,,José Augusto Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Luísa Afonso Gaião,Rito,,02/10/1982,Luísa Afonso Gaião,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria de Jesus Antunes Lousa,Rito,,,Maria de Jesus Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria de Jesus Antunes Lousa,Rito,,,Maria de Jesus Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria de Jesus Antunes Lousa,Assentos paroquiais,,,Maria de Jesus Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Luís Gomes,Rito,,,Manuel Luís Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Benedita Carrilho,Rito,,20/10/1918,Benedita Carrilho,Nicolau,,,mesmo pai e mesma mãe,,sim
+Benedita Carrilho,Pereira,,,Benedita Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Benedita Carrilho,Pereira,,,Benedita Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Benedita Carrilho,Assentos paroquiais,,,Benedita Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria José Martins Garcia,Rito,,,Maria José Martins Garcia,Alves,,,mesmo pai e mesma mãe,,sim
+Maria José Martins Garcia,Rito,,,Maria José Martins Garcia,Alves,,,mesmo pai e mesma mãe,,sim
+Maria José Martins Garcia,Alves,,,Maria José Martins Garcia,Alves,,,mesmo pai e mesma mãe,,sim
 Amélia Freire,Rito,,13/03/1996,Amélia Freire,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Rosa Santo Furriel,Rito,,25/11/1920 / 27/11/1920 / 20/08/2009,Maria Rosa Santo Furriel,Inês,,,mesmo pai e mesma mãe,,sim
 Maria Rosa Santo Furriel,Rito,,25/11/1920 / 27/11/1920 / 20/08/2009,Maria Rosa Santo Furriel,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Rosa Santo Furriel,Inês,,,Maria Rosa Santo Furriel,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Martins Furriel,Rito,,,Manuel Martins Furriel,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Robalo Santo,Rito,,,Isabel Robalo Santo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Martins da Josefa,Rito,,,Isabel Martins da Josefa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Emília Marcos Grencho,Rito,,25/09/1926,Maria Emília Marcos Grencho,Inês,,,mesmo pai e mesma mãe,,sim
 João Martins Grencho,Assentos paroquiais,,04/03/1901 / 14/04/1901,João Martins Grencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Martins Grencho,Assentos paroquiais,,04/03/1901 / 14/04/1901,João Martins Grencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Martins Grencho,Assentos paroquiais,,04/03/1901 / 14/04/1901,João Martins Grencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2514,7 +2623,9 @@ João Martins Grencho,Assentos paroquiais,,,João Martins Grencho,Assentos paroq
 Benedita Nunes de Marcos,Rito,,,Benedita Nunes de Marcos,Assentos paroquiais,,30/08/1903 / 30/08/1903,mesmo pai e mesma mãe,,sim
 Benedita Nunes de Marcos,Rito,,,Benedita Nunes de Marcos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Benedita Nunes de Marcos,Assentos paroquiais,,30/08/1903 / 30/08/1903,Benedita Nunes de Marcos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Benedita Martins da Josefa,Assentos paroquiais,,,Benedita Martins da Josefa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Álvaro Augusto das Neves,Rito,,,Álvaro Augusto das Neves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Benedita Martins da Josefa,Rito,,,Benedita Martins da Josefa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Martins Furriel,Carrilho,,,Isabel Martins Furriel,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Martins Furriel,Assentos paroquiais,,,Isabel Martins Furriel,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Martins Nicolau,Rito,,,José Augusto Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Martins Nicolau,Assentos paroquiais,,,José Augusto Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2530,10 +2641,15 @@ Quitéria Gonçalves,Rito,,,Quitéria Gonçalves,Assentos paroquiais,,,mesmo pai
 António José Nabais,Rito,,,António José Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 António José Nabais,Rito,,,António José Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 António José Nabais,Assentos paroquiais,,,António José Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Laura Gomes de Carvalho,Rito,,,Laura Gomes de Carvalho,de Bernardo Pereira - Isabel Garcia,,,mesmo pai e mesma mãe,,sim
 Laura Gomes de Carvalho,Rito,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Laura Gomes de Carvalho,Rito,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Laura Gomes de Carvalho,Rito,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Laura Gomes de Carvalho,Rito,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Laura Gomes de Carvalho,de Bernardo Pereira - Isabel Garcia,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Laura Gomes de Carvalho,de Bernardo Pereira - Isabel Garcia,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Laura Gomes de Carvalho,de Bernardo Pereira - Isabel Garcia,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Laura Gomes de Carvalho,de Bernardo Pereira - Isabel Garcia,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Laura Gomes de Carvalho,Assentos paroquiais,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Laura Gomes de Carvalho,Assentos paroquiais,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Laura Gomes de Carvalho,Assentos paroquiais,,,Laura Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2544,8 +2660,11 @@ Isabel Carrilho,Rito,,,Isabel Carrilho,Assentos paroquiais,,,mesmo pai e mesma m
 José Antunes da Inês,Rito,,,José Antunes da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Ana Fernandes Russo,Rito,,,Ana Fernandes Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Ana Fernandes Russo,Assentos paroquiais,,,Ana Fernandes Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+César Augusto Lopes Lousa,Rito,,30/07/1915 / 28/08/1915,César Augusto Lopes Lousa,Felícia,,,mesmo pai e mesma mãe,,sim
 César Augusto Lopes Lousa,Rito,,30/07/1915 / 28/08/1915,César Augusto Lopes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 César Augusto Lopes Lousa,Rito,,30/07/1915 / 28/08/1915,César Augusto Lopes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+César Augusto Lopes Lousa,Felícia,,,César Augusto Lopes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+César Augusto Lopes Lousa,Felícia,,,César Augusto Lopes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 César Augusto Lopes Lousa,Assentos paroquiais,,,César Augusto Lopes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Antunes Lousa,Rito,,06/02/1938,José Augusto Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Antunes Lousa,Rito,,06/02/1938,José Augusto Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2570,15 +2689,6 @@ António Oliveira,Assentos paroquiais,,,António Oliveira,Assentos paroquiais,,,
 António Oliveira,Assentos paroquiais,,,António Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Antunes de Marcos,Rito,,,José Manuel Antunes de Marcos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Iluminado Lopes,Rito,,,Iluminado Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Iluminado Lopes,Rito,,,Iluminado Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Iluminado Lopes,Rito,,,Iluminado Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Iluminado Lopes,Rito,,,Iluminado Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Iluminado Lopes,Assentos paroquiais,,,Iluminado Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Iluminado Lopes,Assentos paroquiais,,,Iluminado Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Iluminado Lopes,Assentos paroquiais,,,Iluminado Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Iluminado Lopes,Assentos paroquiais,,,Iluminado Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Iluminado Lopes,Assentos paroquiais,,,Iluminado Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Iluminado Lopes,Assentos paroquiais,,,Iluminado Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Ana de Jesus Pereira,Assentos paroquiais,,,Ana de Jesus Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Martins Furriel,Rito,,,José Manuel Martins Furriel,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Martins Furriel,Rito,,,José Manuel Martins Furriel,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2625,6 +2735,7 @@ Maria Amélia Engrácia Carrilho,Rito,,,Maria Amélia Engrácia Carrilho,Assento
 Maria Amélia Engrácia Carrilho,Assentos paroquiais,,,Maria Amélia Engrácia Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 António Gonçalves Ferreira,Rito,,,António Gonçalves Ferreira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Luís Vaz,Rito,,,Manuel Luís Vaz,Assentos paroquiais,,28/05/1908 / 06/06/1908 / 25/02/2000,mesmo pai e mesma mãe,,sim
+Maria Luísa Luís Filipe,Rito,,26/08/1945 / 23/09/1945,Maria Luísa Luís Filipe,Ventura,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Luís,Assentos paroquiais,,,Maria dos Anjos Luís,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Luís,Assentos paroquiais,,,Maria dos Anjos Luís,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Luís,Assentos paroquiais,,,Maria dos Anjos Luís,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2640,8 +2751,11 @@ Maria dos Anjos Luís,Assentos paroquiais,,,Maria dos Anjos Luís,Assentos paroq
 Maria dos Anjos Luís,Assentos paroquiais,,,Maria dos Anjos Luís,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Luís,Assentos paroquiais,,,Maria dos Anjos Luís,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Luís,Assentos paroquiais,,,Maria dos Anjos Luís,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Artur Ventura Pereira,Rito,,,Artur Ventura Pereira,Ventura,,,mesmo pai e mesma mãe,,sim
 Narciso Soares da Fonseca,Rito,,,Narciso Soares da Fonseca,Assentos paroquiais,,15/08/1920 / 11/09/1920,mesmo pai e mesma mãe,,sim
 Isabel Martins Corceiro,Assentos paroquiais,,,Isabel Martins Corceiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Maria Santo Furriel,Rito,,,Isabel Maria Santo Furriel,Inês,,10/09/1923,mesmo pai e mesma mãe,,sim
+José Manuel da Teresa Meirinho,Ventura,,,José Manuel da Teresa Meirinho,Ventura,,,mesmo pai e mesma mãe,,sim
 Manuel Nobre Martins,Assentos paroquiais,,,Manuel Nobre Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Domingos Perloiro da Teresa,Rito,,02/07/1920,Domingos Perloiro da Teresa,Assentos paroquiais,,18/11/1920 / 15/12/1920,mesmo pai e mesma mãe,,sim
 Domingos Perloiro da Teresa,Rito,,02/07/1920,Domingos Perloiro da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2649,7 +2763,8 @@ Domingos Perloiro da Teresa,Assentos paroquiais,,18/11/1920 / 15/12/1920,Domingo
 João Nunes Dias,Assentos paroquiais,,,João Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel José Carrilho,Rito,,,Manuel José Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Francisco Manuel Afonso de Oliveira,Rito,,,Francisco Manuel Afonso de Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Modesto Nunes Dias,Assentos paroquiais,,18/05/1926,Modesto Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Laura Luís Gonçalves,Rito,,,Laura Luís Gonçalves,Assentos paroquiais,,29/10/1923,mesmo pai e mesma mãe,,sim
+Modesto Nunes Dias,Assentos paroquiais,,,Modesto Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Prazeres Oliveira,Assentos paroquiais,,,Maria dos Prazeres Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel da Josefa Russo,Pereira,,,Manuel da Josefa Russo,Assentos paroquiais,,15/12/1919 / 25/12/1920,mesmo pai e mesma mãe,,sim
 Mariana Gomes,Pereira,,,Mariana Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2674,14 +2789,18 @@ José Manuel Emídio Lopes,Assentos paroquiais,,,José Manuel Emídio Lopes,Asse
 Francisco Ramos Garcia de Carvalho,Assentos paroquiais,,28/09/1928,Francisco Ramos Garcia de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Gonçalves Filipe,Assentos paroquiais,,,Isabel Gonçalves Filipe,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Gonçalves Filipe,Assentos paroquiais,,,Isabel Gonçalves Filipe,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Cecília Augusta Dias,Assentos paroquiais,,25/03/1902 / 07/04/1902 / 12/07/1994,Cecília Augusta Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Martins André,Assentos paroquiais,,30/05/1943,Isabel Martins André,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Martins André,Assentos paroquiais,,30/05/1943,Isabel Martins André,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Martins André,Assentos paroquiais,,30/05/1943,Isabel Martins André,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Martins André,Assentos paroquiais,,,Isabel Martins André,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Martins André,Assentos paroquiais,,,Isabel Martins André,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Martins André,Assentos paroquiais,,,Isabel Martins André,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Ferrador Arménio,Pereira,,,Manuel Ferrador Arménio,Ventura,,07/10/1917 / 05/11/1917,mesmo pai e mesma mãe,,sim
 Manuel Ferrador Arménio,Pereira,,,Manuel Ferrador Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Ferrador Arménio,Pereira,,,Manuel Ferrador Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Ferrador Arménio,Ventura,,07/10/1917 / 05/11/1917,Manuel Ferrador Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Ferrador Arménio,Ventura,,07/10/1917 / 05/11/1917,Manuel Ferrador Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Ferrador Arménio,Assentos paroquiais,,,Manuel Ferrador Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Ernesto Russo Garcia,Pereira,,,Ernesto Russo Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Marcos Ambrósio,Assentos paroquiais,,25/02/1920 / 20/03/1920,José Manuel Marcos Ambrósio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2697,7 +2816,9 @@ Manuel António Gonçalves Garrido,Assentos paroquiais,,,Manuel António Gonçal
 Hipólito Lourenço Logrado,Pereira,,,Hipólito Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Hipólito Lourenço Logrado,Pereira,,,Hipólito Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Hipólito Lourenço Logrado,Assentos paroquiais,,,Hipólito Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Lourenço de Oliveira,Pereira,,02/09/1944,Lourenço de Oliveira,de Bernardo Pereira - Isabel Garcia,,,mesmo pai e mesma mãe,,sim
 Manuel Garcia,Pereira,,,Manuel Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Anjos Fernandes Fogeiro,de Bernardo Pereira - Isabel Garcia,,,Maria dos Anjos Fernandes Fogeiro,Carrilho,,,mesmo pai e mesma mãe,,sim
 Francisco Manuel Antunes,Assentos paroquiais,,,Francisco Manuel Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Miguel Martins Grencho,Pereira,,,Miguel Martins Grencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Miguel Martins Grencho,Pereira,,,Miguel Martins Grencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2723,21 +2844,149 @@ João Fernandes Russo,Assentos paroquiais,,,João Fernandes Russo,Assentos paroq
 João Fernandes Russo,Assentos paroquiais,,,João Fernandes Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Fernandes Russo,Assentos paroquiais,,,João Fernandes Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Augusto Martinho,Assentos paroquiais,,,João Augusto Martinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Luísa Antunes Lousa,Inês,,,Luísa Antunes Lousa,Inês,,,mesmo pai e mesma mãe,,sim
 Luísa Antunes Lousa,Assentos paroquiais,,,Luísa Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Luísa Antunes Lousa,Assentos paroquiais,,,Luísa Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Luísa Antunes Lousa,Assentos paroquiais,,,Luísa Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Nabais,Assentos paroquiais,,,Isabel Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Jeremias Ambrósio Martins,Assentos paroquiais,,,Jeremias Ambrósio Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Mariana Carrilho,Assentos paroquiais,,21/12/1920,Mariana Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Jeremias Ambrósio Martins,Gaião,,,Jeremias Ambrósio Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Rosa Luís,Inês,,,Rosa Luís,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Domingos Dias,Assentos paroquiais,,,Domingos Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Nabais,Assentos paroquiais,,19/03/1923,Maria Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Fevereiro,de Bernardo Pereira - Isabel Garcia,,,Fevereiro,Ventura,,,mesmo pai e mesma mãe,,sim
+Fevereiro,de Bernardo Pereira - Isabel Garcia,,,Fevereiro,Gaião,,,mesmo pai e mesma mãe,,sim
+Fevereiro,Ventura,,,Fevereiro,Gaião,,,mesmo pai e mesma mãe,,sim
+Fevereiro,Ventura,,,Fevereiro,Gaião,,,mesmo pai e mesma mãe,,sim
+Dezembro,de Bernardo Pereira - Isabel Garcia,,,Dezembro,Ventura,,,mesmo pai e mesma mãe,,sim
+Dezembro,de Bernardo Pereira - Isabel Garcia,,,Dezembro,Gaião,,,mesmo pai e mesma mãe,,sim
+Dezembro,Ventura,,,Dezembro,Gaião,,,mesmo pai e mesma mãe,,sim
+Isabel Maria Alves,Nicolau,,22/04/1915,Isabel Maria Alves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel José Lopes,Assentos paroquiais,,,Manuel José Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel José Lopes,Assentos paroquiais,,,Manuel José Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel José Lopes,Assentos paroquiais,,,Manuel José Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel José Lopes,Assentos paroquiais,,,Manuel José Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel José Lopes,Assentos paroquiais,,,Manuel José Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel José Lopes,Assentos paroquiais,,,Manuel José Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Gonçalves Filipe,Assentos paroquiais,,,Manuel Gonçalves Filipe,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Benedita Carvalho,Assentos paroquiais,,,Maria Benedita Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António Martins Corceiro,Assentos paroquiais,,,António Martins Corceiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João Nunes Alfaiate,Assentos paroquiais,,,João Nunes Alfaiate,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel dos Santos,Assentos paroquiais,,,Isabel dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Maria Nunes Ambrósio,Assentos paroquiais,,02/02/1931,Isabel Maria Nunes Ambrósio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Luísa Ventura,de Bernardo Pereira - Isabel Garcia,,,Luísa Ventura,Gaião,,,mesmo pai e mesma mãe,,sim
+Luísa Ventura,Assentos paroquiais,,,Luísa Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António José Garcia,Assentos paroquiais,,07/09/1926,António José Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Nunes Fogeiro,Assentos paroquiais,,,José Nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Nunes Fogeiro,Assentos paroquiais,,,José nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Nunes Fogeiro,Assentos paroquiais,,,José Nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Nunes Fogeiro,Assentos paroquiais,,,José nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Nunes Fogeiro,Assentos paroquiais,,,José Nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José nunes Fogeiro,Assentos paroquiais,,,José Nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Narciso Gomes,Assentos paroquiais,,,Narciso Gomes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João Augusto Carrilho,Assentos paroquiais,,02/11/1941,João Augusto Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Vaz da Furriela,Assentos paroquiais,,17/12/1908,Manuel Vaz da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Vaz da Furriela,Assentos paroquiais,,17/12/1908,Manuel Vaz da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Vaz da Furriela,Assentos paroquiais,,,Manuel Vaz da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Augusto Manso,Assentos paroquiais,,31/01/1943,José Augusto Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Rodrigues da Calva,Assentos paroquiais,,,Manuel Rodrigues da Calva,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maurício dos Santos Sanches,de Bernardo Pereira - Isabel Garcia,,,Maurício dos Santos Sanches,Ventura,,,mesmo pai e mesma mãe,,sim
+Maurício dos Santos Sanches,de Bernardo Pereira - Isabel Garcia,,,Maurício dos Santos Sanches,Gaião,,,mesmo pai e mesma mãe,,sim
+Maurício dos Santos Sanches,Ventura,,,Maurício dos Santos Sanches,Gaião,,,mesmo pai e mesma mãe,,sim
+Narciso Sanches,Assentos paroquiais,,,Narciso Sanches,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Narciso Sanches,Assentos paroquiais,,,Narciso Sanches,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Narciso Sanches,Assentos paroquiais,,,Narciso Sanches,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Eliza Lopes Monteiro,de Bernardo Pereira - Isabel Garcia,,29/12/1931,Eliza Lopes Monteiro,Gaião,,,mesmo pai e mesma mãe,,sim
+Luísa Lopes,Assentos paroquiais,,,Luísa Lopes,Assentos paroquiais,,02/03/1904,mesmo pai e mesma mãe,,sim
+Luísa Lopes,Assentos paroquiais,,,Luísa Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Luísa Lopes,Assentos paroquiais,,02/03/1904,Luísa Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Benedita Neves da Calva,de Bernardo Pereira - Isabel Garcia,,,Maria Benedita Neves da Calva,Ventura,,,mesmo pai e mesma mãe,,sim
+Maria Benedita Neves da Calva,de Bernardo Pereira - Isabel Garcia,,,Maria Benedita Neves da Calva,Gaião,,,mesmo pai e mesma mãe,,sim
+Maria Benedita Neves da Calva,Ventura,,,Maria Benedita Neves da Calva,Gaião,,,mesmo pai e mesma mãe,,sim
+Mariana Carrilho,Assentos paroquiais,,21/12/1920,Mariana Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António Nunes Meirinho,Assentos paroquiais,,,António Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António Nunes Meirinho,Assentos paroquiais,,,António Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António Nunes Meirinho,Assentos paroquiais,,,António Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Felismina dos Prazeres Carrilho,Assentos paroquiais,,,Felismina dos Prazeres Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Júlio Antunes Lousa,Carrilho,,,Júlio Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Júlio Antunes Lousa,Carrilho,,,Júlio Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Júlio Antunes Lousa,Assentos paroquiais,,,Júlio Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Glória Freire,Carrilho,,,Glória Freire,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Prazeres Russo Nicolau,Carrilho,,,Prazeres Russo Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Augusta Carrilho,Assentos paroquiais,,,Isabel Augusta Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Domingos Jorge de Pascoa,Assentos paroquiais,,,Domingos Jorge de Páscoa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Piedade Pereira,Assentos paroquiais,,21/02/1925,Piedade Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Martins Grencho,Ventura,,07/11/1933,Manuel Martins Grencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Martins Grencho,Ventura,,07/11/1933,Manuel Martins Grencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Martins Grencho,Assentos paroquiais,,,Manuel Martins Grencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António Sanches,Assentos paroquiais,,,António Sanches,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António José Arménio,Assentos paroquiais,,25/12/1945,António José Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António José Arménio,Assentos paroquiais,,25/12/1945,António José Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António José Arménio,Assentos paroquiais,,,António José Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel do Nascimento Parada,Assentos paroquiais,,,Manuel do Nascimento Parada,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Augusto Pires dos Santos,Assentos paroquiais,,,José Augusto Pires dos Santos,Assentos paroquiais,,16/07/1910 / 04/09/1910 / 31/03/1974,mesmo pai e mesma mãe,,sim
+Beatriz Barbosa,Assentos paroquiais,,,Beatriz Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Beatriz Barbosa,Assentos paroquiais,,,Beatriz Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Beatriz Barbosa,Assentos paroquiais,,,Beatriz Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Beatriz Barbosa,Assentos paroquiais,,,Beatriz Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Fortuna Dias,Ventura,,,José Fortuna Dias,Ventura,,,mesmo pai e mesma mãe,,sim
+Felisbela Vaz Fortuna,Assentos paroquiais,,,Felisbela Vaz Fortuna,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Artur Nabais,Assentos paroquiais,,,Artur Nabais,Assentos paroquiais,,03/10/1916 / 29/10/1916,mesmo pai e mesma mãe,,sim
+Luísa Corceiro Lopes,Assentos paroquiais,,17/10/1918,Luísa Corceiro Lopes,Assentos paroquiais,,15/03/1920 / 04/04/1920,mesmo pai e mesma mãe,,sim
+Isabel Maria Nunes,Assentos paroquiais,,,Isabel Maria Nunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Emília Manso Rito,Alves,,,Emília Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Emília Manso Rito,Alves,,,Emília Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Emília Manso Rito,Assentos paroquiais,,,Emília Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Gomes Freire,Alves,,,Gomes Freire,Alves,,,mesmo pai e mesma mãe,,sim
+Ana Soares Gandaio,Assentos paroquiais,,,Ana Soares Gandaio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,19/12/1901 / 12/01/1902 / 23/07/1991,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,19/12/1901 / 12/01/1902 / 23/07/1991,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Nabais,Assentos paroquiais,,08/04/1917,Manuel Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Nabais,Assentos paroquiais,,,Manuel Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Anjos Martins Nicolau,Assentos paroquiais,,,Maria dos Anjos Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Augusta Robalo,Assentos paroquiais,,04/07/1926,Maria Augusta Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António Fernandes,Assentos paroquiais,,,António Fernandes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Nunes Emídio,Assentos paroquiais,,31/05/1908 / 31/05/1908 / 22/04/1983,Maria Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Albino Lourenço Logrado,Assentos paroquiais,,,Albino Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Albino Lourenço Logrado,Assentos paroquiais,,,Albino Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Albino Lourenço Logrado,Assentos paroquiais,,,Albino Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Albino Lourenço Logrado,Assentos paroquiais,,,Albino Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Albino Lourenço Logrado,Assentos paroquiais,,,Albino Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Albino Lourenço Logrado,Assentos paroquiais,,,Albino Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Anjos Martins Viegas,Assentos paroquiais,,,Maria dos Anjos Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Anjos Martins Viegas,Assentos paroquiais,,,Maria dos Anjos Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Anjos Nunes Emidio,Assentos paroquiais,,,Maria dos Anjos Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Marcos,Assentos paroquiais,,,Maria Marcos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Martins Viegas,Assentos paroquiais,,,Maria dos Anjos Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José António Martins Viegas,Assentos paroquiais,,,José António Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Alves,Assentos paroquiais,,,Isabel Alves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2753,21 +3002,10 @@ Alzira Augusta Carrilho,Assentos paroquiais,,31/07/1901 / 31/08/1901,Alzira Augu
 José Joaquim Martins,Assentos paroquiais,,,José Joaquim Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Joaquim Martins,Assentos paroquiais,,,José Joaquim Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Joaquim Martins,Assentos paroquiais,,,José Joaquim Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Nunes Ambrósio,Assentos paroquiais,,,Isabel Maria Nunes Ambrósio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Piedade Pereira,Assentos paroquiais,,21/02/1925,Piedade Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Joaquim Augusto Garcia de Carvalho,Assentos paroquiais,,23/08/1902 / 07/09/1902,Joaquim Augusto Garcia de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Lourenço Gonçalves Garrido,Assentos paroquiais,,,Lourenço Gonçalves Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Lourenço Gonçalves Garrido,Assentos paroquiais,,,Lourenço Gonçalves Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Lourenço Gonçalves Garrido,Assentos paroquiais,,,Lourenço Gonçalves Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,19/12/1901 / 12/01/1902 / 23/07/1991,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,19/12/1901 / 12/01/1902 / 23/07/1991,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,Maria dos Prazeres Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Nunes de Marcos,Assentos paroquiais,,08/10/1933,Maria Nunes de Marcos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Nunes de Marcos,Assentos paroquiais,,08/10/1933,Maria Nunes de Marcos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Nunes de Marcos,Assentos paroquiais,,,Maria Nunes de Marcos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2775,32 +3013,14 @@ Maria dos Anjos Martins Escolástico,Assentos paroquiais,,15/06/1902 / 15/06/190
 Maria dos Anjos Martins Escolástico,Assentos paroquiais,,15/06/1902 / 15/06/1902 / 17/08/1903,Maria dos Anjos Martins Escolástico,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Martins Escolástico,Assentos paroquiais,,,Maria dos Anjos Martins Escolástico,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria da Glória Martinho,Assentos paroquiais,,,Maria da Glória Martinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Nabais,Assentos paroquiais,,,Manuel Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Nabais,Assentos paroquiais,,08/04/1917,Manuel Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Anjos Nunes Emídio,Assentos paroquiais,,,Maria dos Anjos Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Anjos Nunes Emídio,Assentos paroquiais,,,Maria dos Anjos Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Anjos Nunes Emídio,Assentos paroquiais,,,Maria dos Anjos Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel António Carrilho,Assentos paroquiais,,,Manuel António Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Joaquim Antunes,Assentos paroquiais,,,Joaquim Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Martins Furriel,Assentos paroquiais,,,José Martins Furriel,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Nunes (Emídio),Assentos paroquiais,,,Isabel Maria Nunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel José Martins Furriel,Assentos paroquiais,,,Manuel José Martins Furriel,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Silvestre (pedreiro),Assentos paroquiais,,,João Silvestre,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Silvestre (pedreiro),Assentos paroquiais,,,João Silvestre,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Silvestre,Assentos paroquiais,,,João Silvestre,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria José Boavida (da Orca – Fundão),Assentos paroquiais,,,Maria José Boavida,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Gonçalves Filipe,Assentos paroquiais,,,Manuel Gonçalves Filipe,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Santos,Assentos paroquiais,,,Maria dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Augusta Robalo,Assentos paroquiais,,04/07/1926,Maria Augusta Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João Silvestre,Assentos paroquiais,,,João Silvestre,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João Silvestre,Assentos paroquiais,,,João Silvestre,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria José Boavida,Assentos paroquiais,,,Maria José Boavida,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel António João,Assentos paroquiais,,29/07/1928,Manuel António João,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel António João,Assentos paroquiais,,29/07/1928,Manuel António João,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel António João,Assentos paroquiais,,29/07/1928,Manuel António João,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2814,23 +3034,17 @@ Luísa Nunes de Carvalho,Assentos paroquiais,,,Luísa Nunes de Carvalho,Assentos
 Luísa Nunes de Carvalho,Assentos paroquiais,,,Luísa Nunes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Luísa Nunes de Carvalho,Assentos paroquiais,,,Luísa Nunes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Luísa Nunes de Carvalho,Assentos paroquiais,,,Luísa Nunes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria dos Anjos Martins,Assentos paroquiais,,22/11/1903 / 22/11/1903,Maria dos Anjos Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Amélia Gonçalves Garrido,Assentos paroquiais,,19/01/1942,Amelia Gonçalves Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Augusta dos Santos,Assentos paroquiais,,,Maria Augusta dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Augusta dos Santos,Assentos paroquiais,,,Maria Augusta dos santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Augusta dos Santos,Assentos paroquiais,,,Maria Augusta dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Augusta dos Santos,Assentos paroquiais,,,Maria Augusta dos santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Augusta dos Santos,Assentos paroquiais,,,Maria Augusta dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Augusta dos santos,Assentos paroquiais,,,Maria Augusta dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Alexandrina Vaz,Assentos paroquiais,,,Alexandrina Vaz,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Augusta Carrilho,Assentos paroquiais,,,Isabel Augusta Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Nunes Fojeiro,Assentos paroquiais,,25/07/1939,Maria dos Anjos Nunes Fojeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Domingos Nunes Dias,Assentos paroquiais,,07/12/1908,Domingos Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Leonor Garcia Fojeiro,Assentos paroquiais,,17/03/1904 / 03/04/1904 / 22/01/1970,Leonor Garcia Fojeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Leonor Garcia Fojeiro,Assentos paroquiais,,17/03/1904 / 03/04/1904 / 22/01/1970,Leonor Garcia Fojeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Leonor Garcia Fojeiro,Assentos paroquiais,,,Leonor Garcia Fojeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-António Nunes Meirinho,Assentos paroquiais,,,António Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-António Nunes Meirinho,Assentos paroquiais,,,António Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-António Nunes Meirinho,Assentos paroquiais,,,António Nunes Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Garcia Fojeiro,Assentos paroquiais,,,Isabel Garcia Fojeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Garcia Fojeiro,Assentos paroquiais,,,Isabel Garcia Fojeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Garcia Fojeiro,Assentos paroquiais,,,Isabel Garcia Fojeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2842,27 +3056,12 @@ Maria de Jesus Gomes,Assentos paroquiais,,,Maria de Jesus Gomes,Assentos paroqui
 Maria de Lourdes Garcia de Carvalho,Assentos paroquiais,,29/04/1904 / 15/05/1904,Maria de Lourdes Garcia de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria de Lourdes Garcia de Carvalho,Assentos paroquiais,,29/04/1904 / 15/05/1904,Maria de Lourdes Garcia de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria de Lourdes Garcia de Carvalho,Assentos paroquiais,,,Maria de Lourdes Garcia de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-António José Garcia,Assentos paroquiais,,25/09/1942,António José Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Manso,Assentos paroquiais,,20/11/1904 / 20/11/1904 / 07/10/1943,José Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Augusto Manso,Assentos paroquiais,,31/01/1943,José Augusto Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Manso,Assentos paroquiais,,,Manuel Manso,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Rodrigues da Calva,Assentos paroquiais,,,Manuel Rodrigues da Calva,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria da Glória Carrilho,Assentos paroquiais,,,Maria da Glória Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Elvira dos Santos,Assentos paroquiais,,25/12/1903 / 25/12/1904,Elvira dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Elvira dos Santos,Assentos paroquiais,,25/12/1903 / 25/12/1904,Elvira dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Elvira dos Santos,Assentos paroquiais,,25/12/1903 / 25/12/1904,Elvira dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Elvira dos Santos,Assentos paroquiais,,,Elvira dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Elvira dos Santos,Assentos paroquiais,,,Elvira dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Elvira dos Santos,Assentos paroquiais,,,Elvira dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Martins Monteiro,Assentos paroquiais,,26/06/1904 / 26/06/1904 / 13/07/1942,Isabel Martins Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Martins Monteiro,Assentos paroquiais,,26/06/1904 / 26/06/1904 / 13/07/1942,Isabel Martins Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Martins Monteiro,Assentos paroquiais,,,Isabel Martins Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Júlio Gonçalves,Assentos paroquiais,,,Júlio Gonçalves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Robalo Russo,Assentos paroquiais,,,Manuel Robalo Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2876,12 +3075,6 @@ António Júlio dos Santos,Assentos paroquiais,,,António Júlio dos Santos,Asse
 José Oliveira,Assentos paroquiais,,,José Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Oliveira,Assentos paroquiais,,,José Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Oliveira,Assentos paroquiais,,,José Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Nunes Fogeiro,Assentos paroquiais,,,José nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Nunes Fogeiro,Assentos paroquiais,,,José Nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Nunes Fogeiro,Assentos paroquiais,,,José Nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José nunes Fogeiro,Assentos paroquiais,,,José Nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José nunes Fogeiro,Assentos paroquiais,,,José Nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Nunes Fogeiro,Assentos paroquiais,,,José Nunes Fogeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Mariana Pires dos Santos,Assentos paroquiais,,,Mariana Pires dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Mariana Pires dos Santos,Assentos paroquiais,,,Mariana Pires dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Mariana Pires dos Santos,Assentos paroquiais,,,Mariana Pires dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2897,6 +3090,9 @@ Bernardo Nunes Dias,Assentos paroquiais,,,Bernardo Nunes Dias,Assentos paroquiai
 Bernardo Nunes Dias,Assentos paroquiais,,,Bernardo Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Bernardo Nunes Dias,Assentos paroquiais,,,Bernardo Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Santos Antunes Lousa,Assentos paroquiais,,13/10/1991,Maria dos Santos Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João José da Fonseca Garcia,Assentos paroquiais,,,João José da Fonseca Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João José da Fonseca Garcia,Assentos paroquiais,,,João José da Fonseca Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João José da Fonseca Garcia,Assentos paroquiais,,,João José da Fonseca Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Nunes Alfaiate,Assentos paroquiais,,,Maria Nunes Alfaiate,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria José das Neves,Assentos paroquiais,,,Maria José das Neves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria José das Neves,Assentos paroquiais,,,Maria José das Neves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2908,11 +3104,6 @@ Maria José das Neves,Assentos paroquiais,,,Maria José das Neves,Assentos paroq
 Maria José das Neves,Assentos paroquiais,,,Maria José das Neves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria José das Neves,Assentos paroquiais,,,Maria José das Neves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria José das Neves,Assentos paroquiais,,,Maria José das Neves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-António José Arménio,Assentos paroquiais,,25/12/1945,António José Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-António José Arménio,Assentos paroquiais,,25/12/1945,António José Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-António José Arménio,Assentos paroquiais,,,António José Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Ventura,Assentos paroquiais,,,Isabel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Ventura,Assentos paroquiais,,,Isabel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Ventura,Assentos paroquiais,,,Isabel Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Antunes de Marcos,Assentos paroquiais,,26/01/1908 / 09/02/1908,Isabel Antunes de Marcos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Soares,Assentos paroquiais,,,José Soares,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2948,29 +3139,13 @@ António José Vaz Lavrador,Assentos paroquiais,,,António José Vaz Lavrador,As
 António José Vaz Lavrador,Assentos paroquiais,,,António José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 António José Vaz Lavrador,Assentos paroquiais,,,António José Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Lourenço Vaz Lavrador,Assentos paroquiais,,,Lourenço Vaz Lavrador,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Nunes Emídio,Assentos paroquiais,,31/05/1908 / 31/05/1908 / 22/04/1983,Maria Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Patrício Martinho,Assentos paroquiais,,,Isabel Patrício Martinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Patríçio Martinho,Assentos paroquiais,,,José Patrício Martinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Jorge Perloiro,Assentos paroquiais,,,Maria Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Augusto Pires dos Santos,Assentos paroquiais,,16/07/1910 / 04/09/1910 / 31/03/1974,José Augusto Pires dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Soares Gandaio,Assentos paroquiais,,,Ana Soares Gandaio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Gomes de Carvalho,Assentos paroquiais,,04/11/1910 / 07/12/1910,João Gomes de Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Benedita Martins Nicolau,Assentos paroquiais,,16/05/1910 / 16/05/1910 / 25/04/1975,Benedita Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Benedita Martins Nicolau,Assentos paroquiais,,16/05/1910 / 16/05/1910 / 25/04/1975,Benedita Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Benedita Martins Nicolau,Assentos paroquiais,,,Benedita Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Vaz da Furriela,Assentos paroquiais,,17/12/1908,Manuel Vaz da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Vaz da Furriela,Assentos paroquiais,,17/12/1908,Manuel Vaz da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Vaz da Furriela,Assentos paroquiais,,,Manuel Vaz da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Ana Jorge Perloiro,Assentos paroquiais,,,Ana Jorge Perloiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria dos Anjos Vaz Garrido,Assentos paroquiais,,25/09/1910 / 20/10/1910 / 16/12/1981,Maria dos Anjos Vaz Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Joaquim Palinhos,Assentos paroquiais,,,Manuel Joaquim Palinhos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Joaquim Palinhos,Assentos paroquiais,,,Manuel Joaquim Palinhos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2979,8 +3154,7 @@ Manuel Joaquim Palinhos,Assentos paroquiais,,,Manuel Joaquim Palinhos,Assentos p
 Manuel Joaquim Palinhos,Assentos paroquiais,,,Manuel Joaquim Palinhos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Joaquim Palinhos,Assentos paroquiais,,,Manuel Joaquim Palinhos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Manuel Ramos Calado, do Osendo",Assentos paroquiais,,,"Manuel Ramos Calado, do Osendo",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-"Manuel José Lopes, natural de Vale de Espinho",Assentos paroquiais,,,"Manuel José Lopes, natural de Vale de Espinho",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel Martins Grencho,Assentos paroquiais,,07/11/1933,Manuel Martins Grencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Adriano Nunes Lopes,Assentos paroquiais,,08/08/1915 / 05/09/1915,Adriano Nunes Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Rita Ventura,Assentos paroquiais,,,Rita Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Clemência Martins Monteiro,Assentos paroquiais,,,Clemência Martins Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Clemência Martins Monteiro,Assentos paroquiais,,,Clemência Martins Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -2990,7 +3164,6 @@ Narciso Barbosa,Assentos paroquiais,,,Narciso Barbosa,Assentos paroquiais,,,mesm
 Narciso Barbosa,Assentos paroquiais,,,Narciso Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Josefa Martinho,Assentos paroquiais,,,Josefa Martinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 António d’Oliveira,Assentos paroquiais,,12/01/1925,António d’Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Glória Afonso Gaião,Assentos paroquiais,,24/03/1915 / 11/04/1915 / 04/07/1943,Glória Afonso Gaião,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Rodrigues Antunes,Assentos paroquiais,,15/11/1915 / 14/12/1915,José Manuel Rodrigues Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Rodrigues Antunes,Assentos paroquiais,,15/11/1915 / 14/12/1915,José Manuel Rodrigues Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Rodrigues Antunes,Assentos paroquiais,,,José Manuel Rodrigues Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3000,13 +3173,10 @@ Glória Ventura,Assentos paroquiais,,01/06/1936,Glória Ventura,Assentos paroqui
 Glória Ventura,Assentos paroquiais,,,Glória Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Bernardo Alexandre Martins,Assentos paroquiais,,,Bernardo Alexandre Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Augusta Carrilho Lousa,Assentos paroquiais,,11/06/1915 / 24/06/1915,Isabel Augusta Carrilho Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Júlio Antunes Lousa,Assentos paroquiais,,,Júlio Antunes Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João José da Fonseca Garcia,Assentos paroquiais,,,João José da Fonseca Garcia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Augusta Nunes,Assentos paroquiais,,,Maria Augusta Nunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-"Manuel Joaquim Rodrigues, natural de Salvador, Penamacor",Assentos paroquiais,,,"Manuel Joaquim Rodrigues, natural de Salvador, Penamacor",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Joaquim Rodrigues,Assentos paroquiais,,28/10/1937,Manuel Joaquim Rodrigues,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Corceiro Lopes,Assentos paroquiais,,30/10/1915 / 28/11/1915,José Corceiro Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria José Martins Corceiro,Assentos paroquiais,,,Maria José Martins Corceiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Anjos Martins Nicolau,Assentos paroquiais,,,Maria dos Anjos Martins Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Carlos Carrilho,Assentos paroquiais,,,Carlos Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Carlos Carrilho,Assentos paroquiais,,,Carlos Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Carlos Carrilho,Assentos paroquiais,,,Carlos Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3018,35 +3188,28 @@ Maria Generosa Nunes Dias,Assentos paroquiais,,,Maria Generosa Nunes Dias,Assent
 Maria Generosa Nunes Dias,Assentos paroquiais,,,Maria Generosa Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Generosa Nunes Dias,Assentos paroquiais,,,Maria Generosa Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Narciso Soares,Assentos paroquiais,,,Narciso Soares,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Narciso Soares,Assentos paroquiais,,,Narciso Soares,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Narciso Soares,Assentos paroquiais,,,Narciso Soares,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Soares Gandaio,Assentos paroquiais,,,Maria Soares Gandaio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Luísa Lopes,Assentos paroquiais,,,Luísa Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Benedita Carrilho,Assentos paroquiais,,24/04/1923,Maria Benedita Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Augusto Jorge,Assentos paroquiais,,,João Augusto Jorge,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Augusto Jorge,Assentos paroquiais,,,João Augusto Jorge,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Augusto Jorge,Assentos paroquiais,,,João Augusto Jorge,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Mariana da Anunciação Tolda Fernandes,Assentos paroquiais,,,Mariana da Anunciação Tolda Fernandes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Benedita Garcia Pereira,Assentos paroquiais,,,Maria Benedita Garcia Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Artur Nabais,Assentos paroquiais,,03/10/1916 / 29/10/1916,Artur Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Vaz da Furriela,Assentos paroquiais,,01/09/1944,José Augusto Vaz da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Rita Martins Gencho,Assentos paroquiais,,,Rita Martins Gencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Dias Freixo,Assentos paroquiais,,21/02/1944,João Dias Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Dias Freixo,Assentos paroquiais,,21/02/1944,João Dias Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Dias Freixo,Assentos paroquiais,,21/02/1944,João Dias Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Dias Freixo,Assentos paroquiais,,21/02/1944,João Dias Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Dias Freixo,Assentos paroquiais,,,João Dias Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Dias Freixo,Assentos paroquiais,,,João Dias Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Dias Freixo,Assentos paroquiais,,,João Dias Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Dias Freixo,Assentos paroquiais,,,João Dias Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Dias Freixo,Assentos paroquiais,,,João Dias Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Dias Freixo,Assentos paroquiais,,,João Dias Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel do Nascimento Parada,Assentos paroquiais,,,Manuel do Nascimento Parada,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Nabais,Assentos paroquiais,,19/03/1923,Maria Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-"Álvaro Augusto das Neves, natural de Vila do Touro",Assentos paroquiais,,,"Álvaro Augusto das Neves, natural de Vila do Touro",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-"José Martins Borrego, natural da freguesia das Águas, Penama",Assentos paroquiais,,,"José Martins Borrego, natural da freguesia das Águas, Penama",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-"António José Dias, latoeiro, natural do Sabugal",Assentos paroquiais,,,"António José Dias, latoeiro, natural do Sabugal",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Monteiro,Assentos paroquiais,,,José Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Martins Borrego,Assentos paroquiais,,,José Martins Borrego,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Martins Borrego,Assentos paroquiais,,,José Martins Borrego,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Martins Borrego,Assentos paroquiais,,,José Martins Borrego,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+"António José Dias, latoeiro",Assentos paroquiais,,,"António José Dias, latoeiro",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Alexandre Nunes Dias,Assentos paroquiais,,,José Alexandre Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Nunes Alfaiate,Assentos paroquiais,,,João Nunes Alfaiate,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João António Ambrósio,Assentos paroquiais,,,João António Ambrósio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João António Ambrósio,Assentos paroquiais,,,João António Ambrósio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João António Ambrósio,Assentos paroquiais,,,João António Ambrósio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Alfredo Pereira,Assentos paroquiais,,,Alfredo Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 António José Barbosa,Assentos paroquiais,,,António José Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 António José Barbosa,Assentos paroquiais,,,António José Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 António José Barbosa,Assentos paroquiais,,,António José Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3057,15 +3220,12 @@ José Manuel Mateus,Assentos paroquiais,,,José Manuel Mateus,Assentos paroquiai
 José Manuel Mateus,Assentos paroquiais,,,José Manuel Mateus,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Mateus,Assentos paroquiais,,,José Manuel Mateus,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Mateus,Assentos paroquiais,,,José Manuel Mateus,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Manuel Meirinho de Oliveira,Assentos paroquiais,,24/09/1919 / 19/10/1919,José Manuel Meirinho de Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Martins da Josefa,Assentos paroquiais,,,José Martins da Josefa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Martins da Josefa,Assentos paroquiais,,,José Martins da Josefa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Martins da Josefa,Assentos paroquiais,,,José Martins da Josefa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Ana Augusta Nabais,Assentos paroquiais,,,Ana Augusta Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Alfredo Pereira, do Meimão",Assentos paroquiais,,,"Alfredo Pereira, do Meimão",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Manuel Aristides, de Alcongosta",Assentos paroquiais,,,"Manuel Aristides, de Alcongosta",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Benedita Dias,Assentos paroquiais,,,Benedita Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Luísa Corceiro Lopes,Assentos paroquiais,,15/03/1920 / 04/04/1920 / 17/10/1918,Luísa Corceiro Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Luísa Lourenço da Inês,Assentos paroquiais,,,Luísa Lourenço da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Alexandre Martins,Assentos paroquiais,,,João Alexandre Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Alexandre Martins,Assentos paroquiais,,,João Alexandre Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3076,28 +3236,11 @@ Carlos Miguel Jorge,Assentos paroquiais,,,Carlos Miguel Jorge,Assentos paroquiai
 Maria de Jesus Nunes Dias,Assentos paroquiais,,,Maria de Jesus Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria de Jesus Nunes Dias,Assentos paroquiais,,,Maria de Jesus Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria de Jesus Nunes Dias,Assentos paroquiais,,,Maria de Jesus Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Emília Manso Rito,Assentos paroquiais,,,Emília Manso Rito,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Emídio Barbosa,Assentos paroquiais,,08/09/1920 / 09/10/1920,João Emídio Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Glória Nunes Emídio,Assentos paroquiais,,,Glória Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Teresa Nunes Emídio,Assentos paroquiais,,,Teresa Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Teresa Nunes Emídio,Assentos paroquiais,,,Teresa Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Teresa Nunes Emídio,Assentos paroquiais,,,Teresa Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Teresa Nunes Emídio,Assentos paroquiais,,,Teresa Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Teresa Nunes Emídio,Assentos paroquiais,,,Teresa Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Teresa Nunes Emídio,Assentos paroquiais,,,Teresa Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-"João António Ambrósio, natural de Aldeia Velha",Assentos paroquiais,,,"João António Ambrósio, natural de Aldeia Velha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Augusta Meirinho de Oliveira,Assentos paroquiais,,14/05/1920 / 14/11/1920,Maria Augusta Meirinho de Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Martins Viegas,Assentos paroquiais,,,Isabel Maria Martins Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3137,18 +3280,16 @@ Rita Martins Grencho,Assentos paroquiais,,,Rita Martins Grencho,Assentos paroqui
 Rita Martins Grencho,Assentos paroquiais,,,Rita Martins Grencho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Antónia Nunes Dias,Assentos paroquiais,,,Maria Antónia Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Joaquim Augusto da Inês,Assentos paroquiais,,,Joaquim Augusto da Inês,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria Benedita Carvalho,Assentos paroquiais,,,Maria Benedita Carvalho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Manuel Joaquim André Luís,Assentos paroquiais,,26/12/1919 / 28/01/1920,Manuel Joaquim André Luís,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Adelaide Garcia Pereira,Assentos paroquiais,,,Adelaide Garcia Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Correia Dias,Assentos paroquiais,,16/02/1920 / 29/02/1920 / 06/06/1919,Maria Correia Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria da Glória Tavares,Assentos paroquiais,,,Maria da Glória Tavares,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José dos Anjos,Assentos paroquiais,,,José dos Anjos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Fernandes Monteiro,Assentos paroquiais,,11/12/1929,João Fernandes Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Fernandes Monteiro,Assentos paroquiais,,11/12/1929,João Fernandes Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Fernandes Monteiro,Assentos paroquiais,,11/12/1929,João Fernandes Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Fernandes Monteiro,Assentos paroquiais,,,João Fernandes Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Fernandes Monteiro,Assentos paroquiais,,,João Fernandes Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Fernandes Monteiro,Assentos paroquiais,,,João Fernandes Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Alice Inês Dias,Assentos paroquiais,,17/12/1921,Maria Alice Inês Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Vaz Fortuna,Assentos paroquiais,,,José Augusto Vaz Fortuna,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Vaz Fortuna,Assentos paroquiais,,,José Augusto Vaz Fortuna,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Vaz Fortuna,Assentos paroquiais,,,José Augusto Vaz Fortuna,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3159,7 +3300,6 @@ José Augusto Vaz Fortuna,Assentos paroquiais,,,José Augusto Vaz Fortuna,Assent
 José Augusto Vaz Fortuna,Assentos paroquiais,,,José Augusto Vaz Fortuna,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Vaz Fortuna,Assentos paroquiais,,,José Augusto Vaz Fortuna,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Vaz Fortuna,Assentos paroquiais,,,José Augusto Vaz Fortuna,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-António Martins Corceiro,Assentos paroquiais,,,António Martins Corceiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Arménio,Assentos paroquiais,,,João Arménio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Barbosa,Assentos paroquiais,,,Isabel Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Maria Gonçalves, esta de Penamacor",Assentos paroquiais,,,"Maria Gonçalves, esta de Penamacor",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3168,9 +3308,19 @@ João Soares,Assentos paroquiais,,05/11/1927,João Soares,Assentos paroquiais,,,
 João Soares,Assentos paroquiais,,,João Soares,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Martins da Teresa,Assentos paroquiais,,,João Martins da Teresa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel Maria Oliveira,Assentos paroquiais,,,Isabel Maria Oliveira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manuel Perloiro da Furriela,Assentos paroquiais,,15/03/1923,José Manuel Perloiro da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manuel Perloiro da Furriela,Assentos paroquiais,,15/03/1923,José Manuel Perloiro da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Manuel Perloiro da Furriela,Assentos paroquiais,,,José Manuel Perloiro da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+António José Emídio Barbosa,Assentos paroquiais,,15/11/1923,António José Emídio Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Maria Lousa Nabais,Assentos paroquiais,,18/09/1923,Isabel Maria Lousa Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Cândida Martins Alexandre,Assentos paroquiais,,,Cândida Martins Alexandre,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-"Alfredo Pereira, natural do Meimão",Assentos paroquiais,,,"Alfredo Pereira, natural do Meimão",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-"José Martins Borrego, natural das Águas (Penamacor)",Assentos paroquiais,,,"José Martins Borrego, natural das Águas (Penamacor)",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Ramos Gomes Pereira,Assentos paroquiais,,21/08/1923,José Ramos Gomes Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Maria da Teresa Meirinho,Assentos paroquiais,,,Isabel Maria da Teresa Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Francisco Damas da Silva,Assentos paroquiais,,01/07/1944,Francisco Damas da Silva,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Francisco Damas da Silva,Assentos paroquiais,,01/07/1944,Francisco Damas da Silva,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Francisco Damas da Silva,Assentos paroquiais,,,Francisco Damas da Silva,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel Joaquim Filipe Augusto,Assentos paroquiais,,13/05/1924,Manuel Joaquim Filipe Augusto,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Emília Caria Freixo,Assentos paroquiais,,18/04/1924,Maria Emília Caria Freixo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Maria Raimundo, de Aldeia da Ponte",Assentos paroquiais,,,"Maria Raimundo, de Aldeia da Ponte",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Manuel José Nunes de Marcos, sapateiro",Assentos paroquiais,,,"Manuel José Nunes de Marcos, sapateiro",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria da Glória Nabais,Assentos paroquiais,,,Maria da Glória Nabais,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3180,19 +3330,25 @@ João Batista Martinho,Assentos paroquiais,,,João Batista Martinho,Assentos par
 Rita Nunes Emídio,Assentos paroquiais,,,Rita Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Rita Nunes Emídio,Assentos paroquiais,,,Rita Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Rita Nunes Emídio,Assentos paroquiais,,,Rita Nunes Emídio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-"João dos Santos, natural da Cerdeira",Assentos paroquiais,,,"João dos Santos, natural da Cerdeira",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel dos Santos,Assentos paroquiais,,,Isabel dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Felismina dos Prazeres Carrilho,Assentos paroquiais,,,Felismina dos Prazeres Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+João dos Santos,Assentos paroquiais,,16/09/1937,João dos Santos,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manuel de Oliveira Russo,Assentos paroquiais,,,Manuel de Oliveira Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Maria Filomena Carrilho Pereira,Assentos paroquiais,,10/10/1925,Maria Filomena Carrilho Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Ilda de Deus Madalena Lopes,Assentos paroquiais,,15/07/1925 / 08/01/1963,Ilda de Deus Madalena Lopes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Esteves Casalta,Assentos paroquiais,,,José Esteves Casalta,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Filomena Nobre da Fonseca,Assentos paroquiais,,,Filomena Nobre da Fonseca,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Isabel Alves Caria, esta de Alfaiates",Assentos paroquiais,,,"Isabel Alves Caria, esta de Alfaiates",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Generosa Nunes Dias,Assentos paroquiais,,,Generosa Nunes Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Isabel do Nascimento Ferreira,Assentos paroquiais,,,Isabel do Nascimento Ferreira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Luís Fernandes Russo,Assentos paroquiais,,,José Luís Fernandes Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Nunes,Assentos paroquiais,,,José Manuel Nunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Adelaide Fernandes,Assentos paroquiais,,,Adelaide Fernandes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel da Inês Robalo,Assentos paroquiais,,02/06/1928,Isabel da Inês Robalo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Garcia Fojeiro,Assentos paroquiais,,,José Manuel Garcia Fojeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Belmira Perloiro Fazenda,Assentos paroquiais,,07/07/1928,Belmira Perloiro Fazenda,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Raimundo de Aldeia da Ponte,Assentos paroquiais,,,Maria Raimundo de Aldeia da Ponte,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Raimundo de Aldeia da Ponte,Assentos paroquiais,,,Maria Raimundo de Aldeia da Ponte,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Raimundo de Aldeia da Ponte,Assentos paroquiais,,,Maria Raimundo de Aldeia da Ponte,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Maria da Teresa Meirinho,Assentos paroquiais,,,Isabel Maria da Teresa Meirinho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+José Francisco,Assentos paroquiais,,,José Francisco,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Joaquina Soares Gandaio,Assentos paroquiais,,,Joaquina Soares Gandaio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Joaquina Soares Gandaio,Assentos paroquiais,,,Joaquina Soares Gandaio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Joaquina Soares Gandaio,Assentos paroquiais,,,Joaquina Soares Gandaio,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3203,7 +3359,6 @@ Ana Gonçalves Garrido,Assentos paroquiais,,,Ana Gonçalves Garrido,Assentos par
 Ana Gonçalves Garrido,Assentos paroquiais,,,Ana Gonçalves Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "António José Barbosa, latoeiro",Assentos paroquiais,,,"António José Barbosa, latoeiro",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "José Vaz Lavrador, almocreve",Assentos paroquiais,,,"José Vaz Lavrador, almocreve",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Felisbela Vaz Fortuna,Assentos paroquiais,,,Felisbela Vaz Fortuna,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Mariana dos Prazeres Gonçalves Garrido,Assentos paroquiais,,,Mariana dos Prazeres Gonçalves Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Mariana dos Prazeres Gonçalves Garrido,Assentos paroquiais,,,Mariana dos Prazeres Gonçalves Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Mariana dos Prazeres Gonçalves Garrido,Assentos paroquiais,,,Mariana dos Prazeres Gonçalves Garrido,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3213,12 +3368,7 @@ Mariana dos Prazeres Gonçalves Garrido,Assentos paroquiais,,,Mariana dos Prazer
 "Palmira Gonçalves Caria, de Alfaiates",Assentos paroquiais,,,"Palmira Gonçalves Caria, de Alfaiates",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Generosa Cid, de Alfaiates",Assentos paroquiais,,,"Generosa Cid, de Alfaiates",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Maria Vinhas, de Aldeia Velha",Assentos paroquiais,,,"Maria Vinhas, de Aldeia Velha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Beatriz Barbosa,Assentos paroquiais,,,Beatriz Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Beatriz Barbosa,Assentos paroquiais,,,Beatriz Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Beatriz Barbosa,Assentos paroquiais,,,Beatriz Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Beatriz Barbosa,Assentos paroquiais,,,Beatriz Barbosa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "José Augusto Vaz Fazenda, jornaleiro",Assentos paroquiais,,,"José Augusto Vaz Fazenda, jornaleiro",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Maria dos Prazeres Gonçalves Gaião,Assentos paroquiais,,,Maria dos Prazeres Gonçalves Gaião,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Maria Gonçalves, do Pedrogão, Penamacor",Assentos paroquiais,,,"Maria Gonçalves, do Pedrógão, Penamacor",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Mariana Garcia Fojeiro,Assentos paroquiais,,,Mariana Garcia Fojeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Manuel Garcia, carpinteiro",Assentos paroquiais,,,"Manuel Garcia, carpinteiro",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3226,9 +3376,6 @@ Mariana Garcia Fojeiro,Assentos paroquiais,,,Mariana Garcia Fojeiro,Assentos par
 José Viegas,Assentos paroquiais,,,José Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Viegas,Assentos paroquiais,,,José Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Viegas,Assentos paroquiais,,,José Viegas,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Luísa Ventura,Assentos paroquiais,,,Luísa Ventura,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Francisco,Assentos paroquiais,,,José Francisco,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-João Augusto Carrilho,Assentos paroquiais,,02/11/1941,João Augusto Carrilho,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Fernandes Nicolau,Assentos paroquiais,,,João Fernandes Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Fernandes Nicolau,Assentos paroquiais,,,João Fernandes Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Fernandes Nicolau,Assentos paroquiais,,,João Fernandes Nicolau,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3236,16 +3383,12 @@ João Fernandes Nicolau,Assentos paroquiais,,,João Fernandes Nicolau,Assentos p
 "Francisco Filipe, de São Miguel d’Acha",Assentos paroquiais,,,"Francisco Filipe, de São Miguel d’Acha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Francisco Filipe, de São Miguel d’Acha",Assentos paroquiais,,,"Francisco Filipe, de São Miguel d’Acha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Francisco Filipe, de São Miguel d’Acha",Assentos paroquiais,,,"Francisco Filipe, de São Miguel d’Acha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Narciso Sanches,Assentos paroquiais,,,Narciso Sanches,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Narciso Sanches,Assentos paroquiais,,,Narciso Sanches,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Narciso Sanches,Assentos paroquiais,,,Narciso Sanches,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Joaquim Filipe, de São Miguel d’Acha",Assentos paroquiais,,,"Joaquim Filipe, de São Miguel d’Acha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Joaquim Filipe, de São Miguel d’Acha",Assentos paroquiais,,,"Joaquim Filipe, de São Miguel d’Acha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Joaquim Filipe, de São Miguel d’Acha",Assentos paroquiais,,,"Joaquim Filipe, de São Miguel d’Acha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Alfredo Gomes, de Vale de Espinho",Assentos paroquiais,,,"Alfredo Gomes, de Vale de Espinho",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Adelaide Correia,Assentos paroquiais,,,Adelaide Correia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João António Antunes,Assentos paroquiais,,,João António Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Manuel de Oliveira Russo,Assentos paroquiais,,,Manuel de Oliveira Russo,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 César Augusto Ambrósio Lousa,Assentos paroquiais,,,César Augusto Ambrósio Lousa,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Luísa Dias Aristides,Assentos paroquiais,,,Luísa Dias Aristides,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Maria Eliza Lopes Pereira,Assentos paroquiais,,,Maria Eliza Lopes Pereira,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3267,9 +3410,6 @@ Maria Luísa Soares,Assentos paroquiais,,,Maria Luísa Soares,Assentos paroquiai
 "Francisco Filipe, sapateiro, de São Miguel d’Acha",Assentos paroquiais,,,"Francisco Filipe, sapateiro, de São Miguel d’Acha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Augusto Lourenço Logrado,Assentos paroquiais,,,José Augusto Lourenço Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Ramos Carvalho Dias,Assentos paroquiais,,,João Ramos Carvalho Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Angelina Nunes Monteiro,Assentos paroquiais,,,Angelina Nunes Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Angelina Nunes Monteiro,Assentos paroquiais,,,Angelina Nunes Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Angelina Nunes Monteiro,Assentos paroquiais,,,Angelina Nunes Monteiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Alves,Assentos paroquiais,,,José Manuel Alves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Alves,Assentos paroquiais,,,José Manuel Alves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Manuel Alves,Assentos paroquiais,,,José Manuel Alves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
@@ -3284,8 +3424,14 @@ Francisco Lopes Pereira,Assentos paroquiais,,,Francisco Lopes Pereira,Assentos p
 "Joaquim Filipe, pedreiro de São Miguel d’Acha",Assentos paroquiais,,,"Joaquim Filipe, pedreiro de São Miguel d’Acha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 "Emílio Alves Jorge, de Aldeia Velha",Assentos paroquiais,,,"Emílio Alves Jorge, de Aldeia Velha",Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 João Augusto Dias,Assentos paroquiais,,,João Augusto Dias,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-Isabel Augusta Carrilho Antunes,Assentos paroquiais,,,Isabel Augusta Carrilho Antunes (Lousa),Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Isabel Augusta Carrilho Antunes,Assentos paroquiais,,,Isabel Augusta Carrilho Antunes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Jaime Pereira Logrado,Assentos paroquiais,,,Jaime Pereira Logrado,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 Jeremias Garcia Fojeiro,Assentos paroquiais,,,Jeremias Garcia Fojeiro,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
 José Luís da Furriela Gonçalves,Assentos paroquiais,,,José Luís da Furriela Gonçalves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
-José Manuel Perloiro da Furriela,Assentos paroquiais,,,José Manuel Perloiro da Furriela,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Francisco Martins,Assentos paroquiais,,,Francisco Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Francisco Gracia,Assentos paroquiais,,,Francisco Gracia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Domingos Fernandes,Assentos paroquiais,,,Domingos Fernandes,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Brás Luís,Assentos paroquiais,,,Brás Luís,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Manoel Gracia,Assentos paroquiais,,,Manoel Gracia,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Brizida Gonçalves,Assentos paroquiais,,,Brizida Gonçalves,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
+Brizida Martins,Assentos paroquiais,,,Brizida Martins,Assentos paroquiais,,,mesmo pai e mesma mãe,,sim
