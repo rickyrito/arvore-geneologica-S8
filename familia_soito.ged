@@ -3650,7 +3650,7 @@
 2 DATE 21 AUG 1915
 1 DEAT
 2 DATE 23 OCT 1996
-1 NOTE Família Rito — código 4:7:4:2 | Fontes: Batismo 1915 — Batismos  1911 a 1915
+1 NOTE Família Rito — código 4:7:4:2 | Fontes: Batismo 1915 — Batismos  1911 a 1915; Divergência: nascimento 21/08/1915 segundo Carlos (email de 04/11/2026)
 1 FAMC @F110@
 1 FAMS @F286@
 0 @I340@ INDI
@@ -24411,17 +24411,23 @@
 1 NAME António Filipe /Parada/
 1 BIRT
 2 DATE 4 NOV 1911
+1 BAPM
+2 DATE 12 NOV 1911
 1 DEAT
 2 DATE 18 AUG 1972
-1 NOTE Família Rito | Fontes: Casamento 08/10/1934 — Casamentos 1931-1935
+1 NOTE Família Rito | Fontes: Casamento 08/10/1934 — Casamentos 1931-1935; Carlos (email de 04/11/2026) (AB 45)
 1 FAMC @F285@
 1 FAMS @F286@
 1 FAMS @F7824@
 0 @I2681@ INDI
 1 NAME José /Parada/
+1 BIRT
+2 DATE 26 AUG 1883
+1 BAPM
+2 DATE 29 AUG 1883
 1 DEAT
 2 DATE 6 APR 1913
-1 NOTE Família Rito | Fontes: Casamento 22/08/1908 — Casamentos 1905-1909; Óbito 06/04/1913 — Óbitos 1913 (57)
+1 NOTE Família Rito | Fontes: Casamento 22/08/1908 — Casamentos 1905-1909; Óbito 06/04/1913 — Óbitos 1913 (57); Carlos (email de 04/11/2026) (AB 43)
 1 FAMC @F2685@
 1 FAMS @F285@
 1 FAMS @F4888@
@@ -36517,7 +36523,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1901 — Batismos 1901 a 1905
 1 FAMC @F1995@
 0 @I5039@ INDI
-1 NAME Diamantino Martins Monteiro, /ferreiro/
+1 NAME Diamantino Martins /Monteiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1996@
 1 FAMS @F1995@
@@ -36954,7 +36960,7 @@
 1 FAMS @F2028@
 1 FAMS @F2498@
 0 @I5116@ INDI
-1 NAME Maria Fernandes Farinha, /jornaleiros/
+1 NAME Maria Fernandes /Farinha/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2029@
 1 FAMS @F2028@
@@ -37546,7 +37552,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1901 — Batismos 1901 a 1905
 1 FAMC @F2078@
 0 @I5225@ INDI
-1 NAME António dos Sanctos , /jornaleiro/
+1 NAME António dos /Sanctos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2079@
 1 FAMS @F2078@
@@ -37878,7 +37884,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2104@
 0 @I5285@ INDI
-1 NAME Maria Arménia /,jornaleiros/
+1 NAME Maria /Arménia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2104@
 0 @I5286@ INDI
@@ -37993,7 +37999,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2113@
 0 @I5306@ INDI
-1 NAME Maria Isabel Nunes, /proprietários/
+1 NAME Maria Isabel /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2113@
 0 @I5307@ INDI
@@ -38151,7 +38157,7 @@
 1 FAMC @F2127@
 1 FAMS @F2126@
 0 @I5336@ INDI
-1 NAME Maria Antunes, /jornaleiros/
+1 NAME Maria /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2128@
 1 FAMS @F2126@
@@ -38856,7 +38862,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2183@
 0 @I5467@ INDI
-1 NAME Maria Robalo e paterno de José Vas Lavrador, e Isabel /Robalo/
+1 NAME Maria /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2184@
 1 FAMS @F2183@
@@ -38945,7 +38951,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2189@
 0 @I5483@ INDI
-1 NAME Isabel Gonçalves de Matos e materno José Fernandes Farinha, /e/
+1 NAME Isabel Gonçalves de /Matos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2189@
 0 @I5484@ INDI
@@ -40891,7 +40897,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1903 — Batismos 1901 a 1905
 1 FAMC @F2331@
 0 @I5826@ INDI
-1 NAME Manuel Robalo, /sapateiro/
+1 NAME Manuel /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2055@
 1 FAMS @F2331@
@@ -43093,7 +43099,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2480@
 0 @I6203@ INDI
-1 NAME Isabel Robalo e materno de José Vaz e Luísa /Gonçalves/
+1 NAME Isabel /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2356@
 1 FAMS @F2480@
@@ -46255,14 +46261,18 @@
 1 FAMC @F285@
 0 @I6749@ INDI
 1 NAME Manuel /Parada/
-1 NOTE Família Assentos paroquiais | Fontes: Casamento 02/12/1882 — Casamentos 1880 a 1884
-1 FAMC @F3167@
+1 BIRT
+2 DATE ABT 1854
+1 NOTE Família Assentos paroquiais | Fontes: Casamento 02/12/1882 — Casamentos 1880 a 1884; Carlos (email de 04/11/2026) (28 anos ao casar em 02/12/1882; assento de nascimento não encontrado — era cordoeiro e tendeiro e viajava); Carlos (email de 04/11/2026) — filiação
+1 FAMC @F6949@
 1 FAMS @F2685@
 1 FAMS @F3166@
 0 @I6750@ INDI
 1 NAME Maria Nunes /Meirinho/
-1 NOTE Família Assentos paroquiais | Fontes: Casamento 02/12/1882 — Casamentos 1880 a 1884; Casamento 08/09/1924 — Casamentos 1921-1925
-1 FAMC @F1052@
+1 BIRT
+2 DATE ABT 1855
+1 NOTE Família Assentos paroquiais | Fontes: Casamento 02/12/1882 — Casamentos 1880 a 1884; Casamento 08/09/1924 — Casamentos 1921-1925; Carlos (email de 04/11/2026) (27 anos ao casar em 02/12/1882); Carlos (email de 04/11/2026) — filiação
+1 FAMC @F2259@
 1 FAMS @F2685@
 1 FAMS @F3604@
 0 @I6751@ INDI
@@ -46408,7 +46418,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2696@
 0 @I6778@ INDI
-1 NAME Maria Luísa Manso e materno d eManuel Carvalho e de Rosa /Carrilh/
+1 NAME Maria Luísa /Manso/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2696@
 0 @I6779@ INDI
@@ -47109,7 +47119,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F2735@
 0 @I6891@ INDI
-1 NAME Isabel Martins André Vagas e materno de Sebastião /Gonçalves/
+1 NAME Isabel Martins André /Vagas/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2638@
 1 FAMS @F2735@
@@ -50493,7 +50503,7 @@
 1 FAMC @F2951@
 1 FAMS @F2950@
 0 @I7463@ INDI
-1 NAME Maria dos Anjos Martins Nicolau, /lavradores/
+1 NAME Maria dos Anjos Martins /Nicolau/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1614@
 1 FAMS @F2950@
@@ -50545,7 +50555,7 @@
 1 FAMC @F2955@
 1 FAMS @F2954@
 0 @I7473@ INDI
-1 NAME Maria dos Anjos Gonçalves Filipe, /jornaleiros/
+1 NAME Maria dos Anjos Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2632@
 1 FAMS @F2954@
@@ -50565,7 +50575,7 @@
 1 FAMC @F2957@
 1 FAMS @F2956@
 0 @I7476@ INDI
-1 NAME Isabel Martins da Teresa, /lavradores/
+1 NAME Isabel Martins da /Teresa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F98@
 1 FAMS @F2956@
@@ -50593,7 +50603,7 @@
 1 FAMC @F2553@
 1 FAMS @F2958@
 0 @I7481@ INDI
-1 NAME Maria dos Santos, /jornaleiros/
+1 NAME Maria dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2554@
 1 FAMS @F2958@
@@ -50613,7 +50623,7 @@
 1 FAMC @F2960@
 1 FAMS @F2959@
 0 @I7484@ INDI
-1 NAME Maria Augusta Rodrigues, /lavradores/
+1 NAME Maria Augusta /Rodrigues/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2961@
 1 FAMS @F2959@
@@ -50647,7 +50657,7 @@
 1 FAMC @F2128@
 1 FAMS @F2962@
 0 @I7491@ INDI
-1 NAME Mariana Gomes, /jornaleiros/
+1 NAME Mariana /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2046@
 1 FAMS @F2962@
@@ -50665,7 +50675,7 @@
 1 FAMC @F2062@
 1 FAMS @F2963@
 0 @I7494@ INDI
-1 NAME Isabel Martins Furriel, /lavradores/
+1 NAME Isabel Martins /Furriel/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2964@
 1 FAMS @F2963@
@@ -50691,7 +50701,7 @@
 1 FAMC @F1982@
 1 FAMS @F2965@
 0 @I7499@ INDI
-1 NAME Maria Benedita Pereira, /jornaleiros/
+1 NAME Maria Benedita /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2516@
 1 FAMS @F2965@
@@ -50742,7 +50752,7 @@
 1 FAMS @F2968@
 1 FAMS @F7605@
 0 @I7507@ INDI
-1 NAME Leonor Gonçalves Garrido, /lavradores/
+1 NAME Leonor Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2969@
 1 FAMS @F2968@
@@ -50790,7 +50800,7 @@
 1 FAMC @F2000@
 1 FAMS @F2971@
 0 @I7515@ INDI
-1 NAME Ana Martins Ferrador, /jornaleiros/
+1 NAME Ana Martins /Ferrador/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2611@
 1 FAMS @F2971@
@@ -50808,7 +50818,7 @@
 1 FAMC @F46@
 1 FAMS @F2972@
 0 @I7518@ INDI
-1 NAME Ângela Nunes de Marcos, /jornaleiros/
+1 NAME Ângela Nunes de /Marcos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2894@
 1 FAMS @F2972@
@@ -50828,7 +50838,7 @@
 1 FAMC @F2974@
 1 FAMS @F2973@
 0 @I7521@ INDI
-1 NAME Maria da Glória Martinho, /jornaleiros/
+1 NAME Maria da Glória /Martinho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2216@
 1 FAMS @F2973@
@@ -50856,7 +50866,7 @@
 1 FAMC @F2976@
 1 FAMS @F2975@
 0 @I7526@ INDI
-1 NAME Maria Antónia Alves Caria, esta de Alfaiates, /jornaleiros/
+1 NAME Maria Antónia Alves Caria, esta de /Alfaiates/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2977@
 1 FAMS @F2975@
@@ -50910,7 +50920,7 @@
 1 FAMC @F154@
 1 FAMS @F2979@
 0 @I7536@ INDI
-1 NAME Maria Luísa Rodrigues da Calva, /jornaleiros/
+1 NAME Maria Luísa Rodrigues da /Calva/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2980@
 1 FAMS @F2979@
@@ -50936,7 +50946,7 @@
 1 FAMC @F2791@
 1 FAMS @F2981@
 0 @I7541@ INDI
-1 NAME Maria Gonçalves Garrido, /jornaleiros/
+1 NAME Maria Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2792@
 1 FAMS @F2981@
@@ -50956,7 +50966,7 @@
 1 FAMC @F2983@
 1 FAMS @F2982@
 0 @I7544@ INDI
-1 NAME Ana Manso Rito, /lavradores/
+1 NAME Ana Manso /Rito/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2474@
 1 FAMS @F2982@
@@ -50977,7 +50987,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1917 — Batismos 1916 a 1920
 1 FAMC @F2984@
 0 @I7548@ INDI
-1 NAME Isabel Maria Pereira Garcia, /proprietários/
+1 NAME Isabel Maria Pereira /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2985@
 1 FAMS @F2984@
@@ -51001,7 +51011,7 @@
 1 FAMC @F2567@
 1 FAMS @F2986@
 0 @I7553@ INDI
-1 NAME Maria da Luz Correia, /jornaleiros/
+1 NAME Maria da Luz /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1035@
 1 FAMS @F2986@
@@ -51034,7 +51044,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1917 — Batismos 1916 a 1920
 1 FAMC @F2988@
 0 @I7558@ INDI
-1 NAME Benedita dos Santos, /jornaleiros/
+1 NAME Benedita dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2554@
 1 FAMS @F2988@
@@ -51049,7 +51059,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1917 — Batismos 1916 a 1920
 1 FAMC @F2989@
 0 @I7560@ INDI
-1 NAME João António Ambrósio, /alfaiate/
+1 NAME João António /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2661@
 1 FAMS @F2989@
@@ -51079,7 +51089,7 @@
 1 FAMC @F991@
 1 FAMS @F2990@
 0 @I7564@ INDI
-1 NAME Maria da Soledade Robalo, /lavradores/
+1 NAME Maria da Soledade /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2991@
 1 FAMS @F2990@
@@ -51105,7 +51115,7 @@
 1 FAMC @F1614@
 1 FAMS @F2992@
 0 @I7569@ INDI
-1 NAME Benedita Carrilho, /lavradores/
+1 NAME Benedita /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2993@
 1 FAMS @F2992@
@@ -51123,7 +51133,7 @@
 1 FAMC @F2946@
 1 FAMS @F2994@
 0 @I7573@ INDI
-1 NAME Maria dos Anjos Gonçalves Martelo, /lavradores/
+1 NAME Maria dos Anjos Gonçalves /Martelo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2995@
 1 FAMS @F2994@
@@ -51152,7 +51162,7 @@
 1 FAMC @F2997@
 1 FAMS @F2996@
 0 @I7577@ INDI
-1 NAME Maria dos Anjos Correia, /jornaleiros/
+1 NAME Maria dos Anjos /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1035@
 1 FAMS @F2996@
@@ -51178,7 +51188,7 @@
 1 FAMC @F2999@
 1 FAMS @F2998@
 0 @I7582@ INDI
-1 NAME Benedita Martins da Josefa, /jornaleiros/
+1 NAME Benedita Martins da /Josefa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2598@
 1 FAMS @F2998@
@@ -51204,7 +51214,7 @@
 1 FAMC @F1710@
 1 FAMS @F3000@
 0 @I7587@ INDI
-1 NAME Rita Ventura, /jornaleiros/
+1 NAME Rita /Ventura/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2616@
 1 FAMS @F3000@
@@ -51224,7 +51234,7 @@
 1 FAMC @F3002@
 1 FAMS @F3001@
 0 @I7590@ INDI
-1 NAME Maria Luísa Gonçalves Gaião, /lavradores/
+1 NAME Maria Luísa Gonçalves /Gaião/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2047@
 1 FAMS @F3001@
@@ -51252,7 +51262,7 @@
 1 FAMC @F2350@
 1 FAMS @F3003@
 0 @I7595@ INDI
-1 NAME Isabel Gonçalves Filipe, /lavradores/
+1 NAME Isabel Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2481@
 1 FAMS @F3003@
@@ -51270,7 +51280,7 @@
 1 FAMC @F2713@
 1 FAMS @F3004@
 0 @I7598@ INDI
-1 NAME Maria Augusta Antunes Lousa, /lavradores/
+1 NAME Maria Augusta Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1616@
 1 FAMS @F3004@
@@ -51280,7 +51290,7 @@
 1 FAMC @F2813@
 1 FAMS @F3005@
 0 @I7600@ INDI
-1 NAME Maria Garcia de Carvalho, /lavradores/
+1 NAME Maria Garcia de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2873@
 1 FAMS @F3005@
@@ -51298,7 +51308,7 @@
 1 FAMC @F2800@
 1 FAMS @F3006@
 0 @I7603@ INDI
-1 NAME Mariana Gomes Felícia, /jornaleiros/
+1 NAME Mariana Gomes /Felícia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1970@
 1 FAMS @F3006@
@@ -51316,7 +51326,7 @@
 1 FAMC @F1612@
 1 FAMS @F3007@
 0 @I7606@ INDI
-1 NAME Maria da Ascenção Carrilho, /lavradores/
+1 NAME Maria da Ascenção /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F69@
 1 FAMS @F3007@
@@ -51336,7 +51346,7 @@
 1 FAMC @F2277@
 1 FAMS @F3008@
 0 @I7609@ INDI
-1 NAME Luísa Gonçalves Antão, /jornaleiros/
+1 NAME Luísa Gonçalves /Antão/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2409@
 1 FAMS @F3008@
@@ -51356,7 +51366,7 @@
 1 FAMC @F2690@
 1 FAMS @F3009@
 0 @I7612@ INDI
-1 NAME Laura Carvalho, /lavradores/
+1 NAME Laura /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2951@
 1 FAMS @F3009@
@@ -51369,7 +51379,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1917 — Batismos 1916 a 1920
 1 FAMC @F3010@
 0 @I7614@ INDI
-1 NAME José Martins Monteiro, /ferreiro/
+1 NAME José Martins /Monteiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2436@
 1 FAMS @F3010@
@@ -51396,7 +51406,7 @@
 1 FAMC @F2475@
 1 FAMS @F3011@
 0 @I7618@ INDI
-1 NAME Maria Fernandes Russo, /jornaleiros/
+1 NAME Maria Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3012@
 1 FAMS @F3011@
@@ -51414,7 +51424,7 @@
 1 FAMC @F1002@
 1 FAMS @F3013@
 0 @I7622@ INDI
-1 NAME Ana Martins Garcia, /proprietários/
+1 NAME Ana Martins /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1960@
 1 FAMS @F3013@
@@ -51432,7 +51442,7 @@
 1 FAMC @F1616@
 1 FAMS @F3014@
 0 @I7625@ INDI
-1 NAME Glória Carrilho, /lavradores/
+1 NAME Glória /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F69@
 1 FAMS @F3014@
@@ -51482,7 +51492,7 @@
 1 FAMS @F6994@
 1 FAMS @F7567@
 0 @I7632@ INDI
-1 NAME Maria Benedita de Carvalho, /jornaleiros/
+1 NAME Maria Benedita de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F104@
 1 FAMS @F3016@
@@ -51521,7 +51531,7 @@
 1 FAMS @F3018@
 1 FAMS @F7561@
 0 @I7638@ INDI
-1 NAME Clemência Martins Monteiro, /jornaleiros/
+1 NAME Clemência Martins /Monteiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2436@
 1 FAMS @F3018@
@@ -51539,7 +51549,7 @@
 1 FAMC @F3020@
 1 FAMS @F3019@
 0 @I7641@ INDI
-1 NAME Luísa Felismina Carrilho, /proprietários/
+1 NAME Luísa Felismina /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3019@
 0 @I7642@ INDI
@@ -51547,7 +51557,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3020@
 0 @I7643@ INDI
-1 NAME Maria Garcia de Carvalho e paterno de Manuel Joaquim Carrilho e /de/
+1 NAME Maria Garcia de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3020@
 0 @I7644@ INDI
@@ -51558,7 +51568,7 @@
 1 FAMC @F2525@
 1 FAMS @F3021@
 0 @I7645@ INDI
-1 NAME Maria Lourenço da Inês, /lavradores/
+1 NAME Maria Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2414@
 1 FAMS @F3021@
@@ -51581,7 +51591,7 @@
 1 FAMS @F3022@
 1 FAMS @F3256@
 0 @I7648@ INDI
-1 NAME Laurinda Pereira, esta de Rendo, /jornaleiros/
+1 NAME Laurinda Pereira, esta de /Rendo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3023@
 1 FAMS @F3022@
@@ -51609,7 +51619,7 @@
 1 FAMC @F2047@
 1 FAMS @F3024@
 0 @I7653@ INDI
-1 NAME Maria da Luz Afonso, /proprietários/
+1 NAME Maria da Luz /Afonso/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3025@
 1 FAMS @F3024@
@@ -51663,7 +51673,7 @@
 1 FAMC @F2822@
 1 FAMS @F3028@
 0 @I7663@ INDI
-1 NAME Glória Ventura, /jornaleiros/
+1 NAME Glória /Ventura/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2616@
 1 FAMS @F3028@
@@ -51692,7 +51702,7 @@
 1 FAMS @F3030@
 1 FAMS @F7607@
 0 @I7668@ INDI
-1 NAME Isabel Nunes Meirinho, /jornaleiros/
+1 NAME Isabel Nunes /Meirinho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F240@
 1 FAMS @F3030@
@@ -51713,7 +51723,7 @@
 1 FAMS @F3031@
 1 FAMS @F7528@
 0 @I7671@ INDI
-1 NAME Isabel Maria de Carvalho, /lavradores/
+1 NAME Isabel Maria de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F104@
 1 FAMS @F3031@
@@ -51739,7 +51749,7 @@
 1 FAMC @F64@
 1 FAMS @F3033@
 0 @I7676@ INDI
-1 NAME Ana Jorge Perloiro, /lavradores/
+1 NAME Ana Jorge /Perloiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2820@
 1 FAMS @F3033@
@@ -51752,7 +51762,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1917 — Batismos 1916 a 1920
 1 FAMC @F3034@
 0 @I7678@ INDI
-1 NAME Pedro Augusto Lama, /sapateiro/
+1 NAME Pedro Augusto /Lama/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3035@
 1 FAMS @F3034@
@@ -51791,7 +51801,7 @@
 1 FAMC @F2924@
 1 FAMS @F3037@
 0 @I7686@ INDI
-1 NAME Piedade Vaz Lavrador, /jornaleiros/
+1 NAME Piedade Vaz /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2925@
 1 FAMS @F3037@
@@ -51827,7 +51837,7 @@
 1 FAMC @F2274@
 1 FAMS @F3039@
 0 @I7692@ INDI
-1 NAME Maria José Boavida, jornaleiros, naturais e /recebidos/
+1 NAME Maria José /Boavida/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2275@
 1 FAMS @F3039@
@@ -51853,7 +51863,7 @@
 1 FAMC @F1036@
 1 FAMS @F3040@
 0 @I7696@ INDI
-1 NAME Ana Robalo, /jornaleiros/
+1 NAME Ana /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F80@
 1 FAMS @F3040@
@@ -51868,7 +51878,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1917 — Batismos 1916 a 1920; Batismo 1919 — Batismos 1916 a 1920; Batismo 1920 — Batismos 1916 a 1920
 1 FAMC @F3041@
 0 @I7698@ INDI
-1 NAME Emília de Jesus Manso Rito, /lavradores/
+1 NAME Emília de Jesus Manso /Rito/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F31@
 1 FAMS @F3041@
@@ -51886,7 +51896,7 @@
 1 FAMC @F98@
 1 FAMS @F3042@
 0 @I7701@ INDI
-1 NAME Maria Jorge Perloiro, /jornaleiros/
+1 NAME Maria Jorge /Perloiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2820@
 1 FAMS @F3042@
@@ -51904,7 +51914,7 @@
 1 FAMC @F1710@
 1 FAMS @F3043@
 0 @I7704@ INDI
-1 NAME Maria José Pereira Carrilho, /lavradores/
+1 NAME Maria José Pereira /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1027@
 1 FAMS @F3043@
@@ -51924,7 +51934,7 @@
 1 FAMC @F2205@
 1 FAMS @F3044@
 0 @I7707@ INDI
-1 NAME Glória Correia, /jornaleiros/
+1 NAME Glória /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1035@
 1 FAMS @F3044@
@@ -51944,7 +51954,7 @@
 1 FAMC @F3046@
 1 FAMS @F3045@
 0 @I7710@ INDI
-1 NAME Isabel Maria Jorge Perloiro, /jornaleiros/
+1 NAME Isabel Maria Jorge /Perloiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2457@
 1 FAMS @F3045@
@@ -51985,7 +51995,7 @@
 1 FAMC @F2209@
 1 FAMS @F3048@
 0 @I7717@ INDI
-1 NAME Maria dos Anjos Nunes Emídio, /jornaleiros/
+1 NAME Maria dos Anjos Nunes /Emídio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F92@
 1 FAMS @F3048@
@@ -52034,7 +52044,7 @@
 1 FAMC @F2766@
 1 FAMS @F3052@
 0 @I7726@ INDI
-1 NAME Isabel Maria Nunes Dias, /lavradores/
+1 NAME Isabel Maria Nunes /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2764@
 1 FAMS @F3052@
@@ -52052,7 +52062,7 @@
 1 FAMC @F1023@
 1 FAMS @F3053@
 0 @I7729@ INDI
-1 NAME Piedade Fernandes Sanxo, /lavradores/
+1 NAME Piedade Fernandes /Sanxo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2920@
 1 FAMS @F3053@
@@ -52118,7 +52128,7 @@
 1 FAMS @F3056@
 1 FAMS @F3480@
 0 @I7739@ INDI
-1 NAME Maria Amélia Nunes de Carvalho, /jornaleiros/
+1 NAME Maria Amélia Nunes de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3057@
 1 FAMS @F3056@
@@ -52136,7 +52146,7 @@
 1 FAMC @F90@
 1 FAMS @F3058@
 0 @I7743@ INDI
-1 NAME Isabel Maria Manso Rito, /jornaleiros/
+1 NAME Isabel Maria Manso /Rito/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F23@
 1 FAMS @F3058@
@@ -52154,7 +52164,7 @@
 1 FAMC @F2392@
 1 FAMS @F3059@
 0 @I7746@ INDI
-1 NAME Maria Antunes, /lavradores/
+1 NAME Maria /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F150@
 1 FAMS @F3059@
@@ -52174,7 +52184,7 @@
 1 FAMC @F2444@
 1 FAMS @F3060@
 0 @I7749@ INDI
-1 NAME Maria Augusta Martins André, /jornaleiros/
+1 NAME Maria Augusta Martins /André/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2445@
 1 FAMS @F3060@
@@ -52194,7 +52204,7 @@
 1 FAMC @F1012@
 1 FAMS @F3061@
 0 @I7752@ INDI
-1 NAME Luísa Dias, /jornaleiros/
+1 NAME Luísa /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3062@
 1 FAMS @F3061@
@@ -52215,7 +52225,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1918 — Batismos 1916 a 1920
 1 FAMC @F3063@
 0 @I7756@ INDI
-1 NAME Maria dos Anjos Martins Nicolau, /jornaleiros/
+1 NAME Maria dos Anjos Martins /Nicolau/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1614@
 1 FAMS @F3063@
@@ -52241,7 +52251,7 @@
 1 FAMC @F3066@
 1 FAMS @F3065@
 0 @I7761@ INDI
-1 NAME Isabel Maria Gonçalves Garrido, /jornaleiros/
+1 NAME Isabel Maria Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2944@
 1 FAMS @F3065@
@@ -52268,7 +52278,7 @@
 1 FAMC @F2350@
 1 FAMS @F3067@
 0 @I7766@ INDI
-1 NAME Maria dos Anjos Nunes Fogeiro, /lavradores/
+1 NAME Maria dos Anjos Nunes /Fogeiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2482@
 1 FAMS @F3067@
@@ -52278,7 +52288,7 @@
 1 FAMC @F2909@
 1 FAMS @F3068@
 0 @I7768@ INDI
-1 NAME Quitéria Gonçalves, /jornaleiros/
+1 NAME Quitéria /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3069@
 1 FAMS @F3068@
@@ -52306,7 +52316,7 @@
 1 FAMC @F2609@
 1 FAMS @F3070@
 0 @I7773@ INDI
-1 NAME Alexandrina Pereira de Paula, /jornaleiros/
+1 NAME Alexandrina Pereira de /Paula/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2450@
 1 FAMS @F3070@
@@ -52336,7 +52346,7 @@
 1 FAMC @F3072@
 1 FAMS @F3071@
 0 @I7777@ INDI
-1 NAME Luísa Lourenço Logrado, /lavradores/
+1 NAME Luísa Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3071@
 0 @I7778@ INDI
@@ -52363,7 +52373,7 @@
 1 FAMC @F3074@
 1 FAMS @F3073@
 0 @I7782@ INDI
-1 NAME Maria Nunes Alfaiata, /jornaleiros/
+1 NAME Maria Nunes /Alfaiata/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3046@
 1 FAMS @F3073@
@@ -52387,7 +52397,7 @@
 1 FAMS @F3075@
 1 FAMS @F7617@
 0 @I7786@ INDI
-1 NAME Isabel Maria Martins Viegas, /jornaleiros/
+1 NAME Isabel Maria Martins /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3077@
 1 FAMS @F3075@
@@ -52421,7 +52431,7 @@
 1 FAMC @F2062@
 1 FAMS @F3078@
 0 @I7793@ INDI
-1 NAME Isabel Lopes Pereira, /lavradores/
+1 NAME Isabel Lopes /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2813@
 1 FAMS @F3078@
@@ -52440,7 +52450,7 @@
 1 FAMC @F2008@
 1 FAMS @F3079@
 0 @I7796@ INDI
-1 NAME Maria dos Anjos Lopes Pereira, /lavradores/
+1 NAME Maria dos Anjos Lopes /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2813@
 1 FAMS @F3079@
@@ -52463,7 +52473,7 @@
 1 FAMS @F3080@
 1 FAMS @F7610@
 0 @I7799@ INDI
-1 NAME Maria dos Anjos Martins da Teresa, /jornaleiros/
+1 NAME Maria dos Anjos Martins da /Teresa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2690@
 1 FAMS @F3080@
@@ -52488,7 +52498,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1918 — Batismos 1916 a 1920
 1 FAMC @F3082@
 0 @I7803@ INDI
-1 NAME Maria Fernandes Russo, /lavradores/
+1 NAME Maria Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2479@
 1 FAMS @F3082@
@@ -52529,7 +52539,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1918 — Batismos 1916 a 1920
 1 FAMC @F3085@
 0 @I7810@ INDI
-1 NAME João Robalo Santo, /sapateiro/
+1 NAME João Robalo /Santo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2860@
 1 FAMS @F3085@
@@ -52562,7 +52572,7 @@
 1 FAMC @F2800@
 1 FAMS @F3087@
 0 @I7816@ INDI
-1 NAME Lucinda Garcia Pereira, /jornaleiros/
+1 NAME Lucinda Garcia /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F737@
 1 FAMS @F3087@
@@ -52580,7 +52590,7 @@
 1 FAMC @F21@
 1 FAMS @F3088@
 0 @I7819@ INDI
-1 NAME Isabel Robalo, /jornaleiros/
+1 NAME Isabel /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F80@
 1 FAMS @F3088@
@@ -52598,7 +52608,7 @@
 1 FAMC @F2457@
 1 FAMS @F3089@
 0 @I7822@ INDI
-1 NAME Maria Gonçalves Filipe, /jornaleiros/
+1 NAME Maria Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2444@
 1 FAMS @F3089@
@@ -52618,7 +52628,7 @@
 1 FAMC @F2944@
 1 FAMS @F3090@
 0 @I7825@ INDI
-1 NAME Maria Rosa Nunes Dias, /jornaleiros/
+1 NAME Maria Rosa Nunes /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3091@
 1 FAMS @F3090@
@@ -52662,7 +52672,7 @@
 1 FAMC @F2118@
 1 FAMS @F3093@
 0 @I7833@ INDI
-1 NAME Isabel Nunes Emídio, /lavradores/
+1 NAME Isabel Nunes /Emídio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F92@
 1 FAMS @F3093@
@@ -52682,7 +52692,7 @@
 1 FAMC @F2690@
 1 FAMS @F3094@
 0 @I7836@ INDI
-1 NAME Isabel Martins Antão, /lavradores/
+1 NAME Isabel Martins /Antão/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3095@
 1 FAMS @F3094@
@@ -52710,7 +52720,7 @@
 1 FAMC @F88@
 1 FAMS @F3096@
 0 @I7841@ INDI
-1 NAME Maria dos Anjos Manso Rito, /jornaleiros/
+1 NAME Maria dos Anjos Manso /Rito/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F23@
 1 FAMS @F3096@
@@ -52730,7 +52740,7 @@
 1 FAMC @F2453@
 1 FAMS @F3097@
 0 @I7844@ INDI
-1 NAME Maria Augusta Ramos, /jornaleiros/
+1 NAME Maria Augusta /Ramos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3098@
 1 FAMS @F3097@
@@ -52756,7 +52766,7 @@
 1 FAMC @F1614@
 1 FAMS @F3099@
 0 @I7849@ INDI
-1 NAME Isabel Nunes de Carvalho, /lavradores/
+1 NAME Isabel Nunes de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1891@
 1 FAMS @F3099@
@@ -52774,7 +52784,7 @@
 1 FAMC @F2131@
 1 FAMS @F3100@
 0 @I7852@ INDI
-1 NAME Ana Fernandes Russo, /lavradores/
+1 NAME Ana Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3101@
 1 FAMS @F3100@
@@ -52802,7 +52812,7 @@
 1 FAMC @F2874@
 1 FAMS @F3102@
 0 @I7857@ INDI
-1 NAME Maria Augusta Jorge Perloiro, /lavradores/
+1 NAME Maria Augusta Jorge /Perloiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2820@
 1 FAMS @F3102@
@@ -52812,7 +52822,7 @@
 1 FAMC @F2121@
 1 FAMS @F3103@
 0 @I7859@ INDI
-1 NAME Maria José Gonçalves, /jornaleiros/
+1 NAME Maria José /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3104@
 1 FAMS @F3103@
@@ -52840,7 +52850,7 @@
 1 FAMC @F2774@
 1 FAMS @F3105@
 0 @I7864@ INDI
-1 NAME Isabel Maria Manso Rito, /lavradores/
+1 NAME Isabel Maria Manso /Rito/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F31@
 1 FAMS @F3105@
@@ -52858,7 +52868,7 @@
 1 FAMC @F3107@
 1 FAMS @F3106@
 0 @I7867@ INDI
-1 NAME Adelaide Ramos Garcia Pereira, /jornaleiros/
+1 NAME Adelaide Ramos Garcia /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F737@
 1 FAMS @F3106@
@@ -52868,7 +52878,7 @@
 1 FAMC @F2945@
 1 FAMS @F3108@
 0 @I7869@ INDI
-1 NAME Isabel Maria Pereira, /proprietários/
+1 NAME Isabel Maria /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2985@
 1 FAMS @F3108@
@@ -52886,7 +52896,7 @@
 1 FAMC @F1612@
 1 FAMS @F3109@
 0 @I7872@ INDI
-1 NAME Felicidade Pina, esta da Nave, /lavradores/
+1 NAME Felicidade Pina, esta da /Nave/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2766@
 1 FAMS @F3109@
@@ -52896,7 +52906,7 @@
 1 FAMC @F3111@
 1 FAMS @F3110@
 0 @I7874@ INDI
-1 NAME Maria Lopes Pereira, /lavradores/
+1 NAME Maria Lopes /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2295@
 1 FAMS @F3110@
@@ -52922,7 +52932,7 @@
 1 FAMC @F2855@
 1 FAMS @F3112@
 0 @I7879@ INDI
-1 NAME Maria José Martins Corceiro, /lavradores/
+1 NAME Maria José Martins /Corceiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2858@
 1 FAMS @F3112@
@@ -52942,7 +52952,7 @@
 1 FAMC @F3114@
 1 FAMS @F3113@
 0 @I7882@ INDI
-1 NAME Maria Nunes de Marcos, /jornaleiros/
+1 NAME Maria Nunes de /Marcos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2894@
 1 FAMS @F3113@
@@ -52970,7 +52980,7 @@
 1 FAMC @F2301@
 1 FAMS @F3115@
 0 @I7887@ INDI
-1 NAME Josefa Martinho, /jornaleiros/
+1 NAME Josefa /Martinho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2216@
 1 FAMS @F3115@
@@ -52990,7 +53000,7 @@
 1 FAMC @F113@
 1 FAMS @F3116@
 0 @I7890@ INDI
-1 NAME Maria dos Anjos Manso Rito, /jornaleiros/
+1 NAME Maria dos Anjos Manso /Rito/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2800@
 1 FAMS @F3116@
@@ -53008,7 +53018,7 @@
 1 FAMC @F3118@
 1 FAMS @F3117@
 0 @I7893@ INDI
-1 NAME Isabel Ventura, /jornaleiros/
+1 NAME Isabel /Ventura/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2616@
 1 FAMS @F3117@
@@ -53034,7 +53044,7 @@
 1 FAMC @F2313@
 1 FAMS @F3119@
 0 @I7898@ INDI
-1 NAME Isabel Martins André, /jornaleiros/
+1 NAME Isabel Martins /André/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2026@
 1 FAMS @F3119@
@@ -53052,7 +53062,7 @@
 1 FAMC @F2036@
 1 FAMS @F3120@
 0 @I7901@ INDI
-1 NAME Maria do Carmo dos Santos, /jornaleiros/
+1 NAME Maria do Carmo dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2423@
 1 FAMS @F3120@
@@ -53072,7 +53082,7 @@
 1 FAMC @F2603@
 1 FAMS @F3121@
 0 @I7904@ INDI
-1 NAME Maria dos Anjos Nunes Emídio, /jornaleiros/
+1 NAME Maria dos Anjos Nunes /Emídio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2043@
 1 FAMS @F3121@
@@ -53085,7 +53095,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1918 — Batismos 1916 a 1920
 1 FAMC @F3122@
 0 @I7906@ INDI
-1 NAME Manuel Martins Nicolau, /sapateiro/
+1 NAME Manuel Martins /Nicolau/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2387@
 1 FAMS @F3122@
@@ -53110,7 +53120,7 @@
 1 FAMC @F1616@
 1 FAMS @F3123@
 0 @I7910@ INDI
-1 NAME Dolores Lopes, /lavradores/
+1 NAME Dolores /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3124@
 1 FAMS @F3123@
@@ -53128,7 +53138,7 @@
 1 FAMC @F3126@
 1 FAMS @F3125@
 0 @I7914@ INDI
-1 NAME Maria Garcia de Carvalho, /jornaleiros/
+1 NAME Maria Garcia de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2873@
 1 FAMS @F3125@
@@ -53154,7 +53164,7 @@
 1 FAMC @F2694@
 1 FAMS @F3127@
 0 @I7919@ INDI
-1 NAME Mariana Manso, /proprietários/
+1 NAME Mariana /Manso/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1023@
 1 FAMS @F3127@
@@ -53172,7 +53182,7 @@
 1 FAMC @F3129@
 1 FAMS @F3128@
 0 @I7922@ INDI
-1 NAME Isabel Garcia de Carvalho, /jornaleiros/
+1 NAME Isabel Garcia de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2873@
 1 FAMS @F3128@
@@ -53195,7 +53205,7 @@
 1 FAMC @F2139@
 1 FAMS @F3130@
 0 @I7926@ INDI
-1 NAME Isabel Martins Furriel, /lavradores/
+1 NAME Isabel Martins /Furriel/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1605@
 1 FAMS @F3130@
@@ -53213,7 +53223,7 @@
 1 FAMC @F150@
 1 FAMS @F3131@
 0 @I7929@ INDI
-1 NAME Maria Martins da Teresa, /lavradores/
+1 NAME Maria Martins da /Teresa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F63@
 1 FAMS @F3131@
@@ -53231,7 +53241,7 @@
 1 FAMC @F2678@
 1 FAMS @F3132@
 0 @I7932@ INDI
-1 NAME Isabel Augusta dos Santos, /jornaleiros/
+1 NAME Isabel Augusta dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2554@
 1 FAMS @F3132@
@@ -53251,7 +53261,7 @@
 1 FAMC @F3134@
 1 FAMS @F3133@
 0 @I7935@ INDI
-1 NAME Maria Esteves, jornaleiros, naturais e /recebidos/
+1 NAME Maria /Esteves/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3135@
 1 FAMS @F3133@
@@ -53272,7 +53282,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3135@
 0 @I7940@ INDI
-1 NAME Eugénia Augusta Lopes, /jornaleiros/
+1 NAME Eugénia Augusta /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3137@
 1 FAMS @F3136@
@@ -54077,7 +54087,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3188@
 0 @I8077@ INDI
-1 NAME Leonor Gonçalves Garrido e materno de Manuel Gonçalves /Garri/
+1 NAME Leonor Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3189@
 1 FAMS @F3188@
@@ -58158,7 +58168,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1923 — Batismos 1921 a 1925
 1 FAMC @F3447@
 0 @I8798@ INDI
-1 NAME Manuel Fernandes, /ferreiro/
+1 NAME Manuel /Fernandes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2365@
 1 FAMS @F3447@
@@ -59998,7 +60008,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1924 — Batismos 1921 a 1925
 1 FAMC @F3562@
 0 @I9134@ INDI
-1 NAME Manuel José Nunes de Marcos, /sapateiro/
+1 NAME Manuel José Nunes de /Marcos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2016@
 1 FAMS @F3562@
@@ -65903,7 +65913,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3876@
 0 @I10124@ INDI
-1 NAME João Augusto Lopes Dora, /jornaleiro/
+1 NAME João Augusto Lopes /Dora/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3569@
 1 FAMS @F3876@
@@ -65913,7 +65923,7 @@
 1 FAMC @F2424@
 1 FAMS @F3876@
 0 @I10126@ INDI
-1 NAME Júlio Martins Monteiro, /ferreiro/
+1 NAME Júlio Martins /Monteiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2436@
 1 FAMS @F3877@
@@ -65923,7 +65933,7 @@
 1 FAMC @F2797@
 1 FAMS @F3877@
 0 @I10128@ INDI
-1 NAME José Augusto Gomes, /lavrador/
+1 NAME José Augusto /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2713@
 1 FAMS @F3878@
@@ -65952,7 +65962,7 @@
 1 FAMC @F2324@
 1 FAMS @F3879@
 0 @I10133@ INDI
-1 NAME Manuel de Oliveira, /lavrador/
+1 NAME Manuel de /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3881@
 1 FAMS @F3880@
@@ -65980,7 +65990,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930; Óbito 27/04/1930 — Óbitos 1930 (54)
 1 FAMC @F3882@
 0 @I10138@ INDI
-1 NAME Manuel Martins Grencho, /lavrador/
+1 NAME Manuel Martins /Grencho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1710@
 1 FAMS @F3882@
@@ -65990,7 +66000,7 @@
 1 FAMC @F2616@
 1 FAMS @F3882@
 0 @I10140@ INDI
-1 NAME José Augusto de Oliveira, /lavrador/
+1 NAME José Augusto de /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3146@
 1 FAMS @F3883@
@@ -66010,7 +66020,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930; Óbito 09/08/1930 — Óbitos 1930 (54)
 1 FAMC @F3884@
 0 @I10143@ INDI
-1 NAME Manuel Joaquim Fernandes Sancho, /lavrador/
+1 NAME Manuel Joaquim Fernandes /Sancho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2401@
 1 FAMS @F3884@
@@ -66028,7 +66038,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3885@
 0 @I10146@ INDI
-1 NAME José Augusto Ramos, /jornaleiro/
+1 NAME José Augusto /Ramos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2939@
 1 FAMS @F3885@
@@ -66048,7 +66058,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930; Óbito 19/11/1931 — Óbitos 1931 (45)
 1 FAMC @F3886@
 0 @I10149@ INDI
-1 NAME Narciso Barbosa, /jornaleiro/
+1 NAME Narciso /Barbosa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2301@
 1 FAMS @F3886@
@@ -66106,7 +66116,7 @@
 1 FAMC @F3503@
 1 FAMS @F3889@
 0 @I10159@ INDI
-1 NAME António Garcia da Nabais, /jornaleiro/
+1 NAME António Garcia da /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1036@
 1 FAMS @F3890@
@@ -66124,7 +66134,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3891@
 0 @I10162@ INDI
-1 NAME Manuel Melro, /jornaleiro/
+1 NAME Manuel /Melro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3892@
 1 FAMS @F3891@
@@ -66160,7 +66170,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3894@
 0 @I10169@ INDI
-1 NAME José Ramos Martins Escolástico, /jornaleiro/
+1 NAME José Ramos Martins /Escolástico/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3607@
 1 FAMS @F3894@
@@ -66173,7 +66183,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3895@
 0 @I10171@ INDI
-1 NAME Venâncio Augusto de Carvalho, /Proprietário/
+1 NAME Venâncio Augusto de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3774@
 1 FAMS @F3895@
@@ -66201,7 +66211,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3897@
 0 @I10176@ INDI
-1 NAME João Batista Martins Viegas, /lavrador/
+1 NAME João Batista Martins /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2133@
 1 FAMS @F3897@
@@ -66228,7 +66238,7 @@
 1 FAMC @F3899@
 1 FAMS @F8074@
 0 @I10181@ INDI
-1 NAME Joaquim Gonçalves Garrido, /jornaleiro/
+1 NAME Joaquim Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3900@
 1 FAMS @F3899@
@@ -66247,7 +66257,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3900@
 0 @I10185@ INDI
-1 NAME Narciso do Nascimento Martins Nicolau, /proprietário/
+1 NAME Narciso do Nascimento Martins /Nicolau/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1832@
 1 FAMS @F3901@
@@ -66267,7 +66277,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3902@
 0 @I10188@ INDI
-1 NAME José Esteves Casalta, /jornaleiro/
+1 NAME José Esteves /Casalta/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3630@
 1 FAMS @F3902@
@@ -66287,7 +66297,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930; Óbito 29/09/1932 — Óbitos 1932 (85)
 1 FAMC @F3903@
 0 @I10191@ INDI
-1 NAME Francisco Geraldes Filipe, /sapateiro/
+1 NAME Francisco Geraldes /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3904@
 1 FAMS @F3903@
@@ -66307,7 +66317,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3904@
 0 @I10195@ INDI
-1 NAME José Manuel Rodrigues, /lavrador/
+1 NAME José Manuel /Rodrigues/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F159@
 1 FAMS @F3905@
@@ -66325,7 +66335,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3906@
 0 @I10198@ INDI
-1 NAME Manuel Carvalho, /lavrador/
+1 NAME Manuel /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2951@
 1 FAMS @F3906@
@@ -66344,7 +66354,7 @@
 1 FAMC @F3907@
 1 FAMS @F8122@
 0 @I10201@ INDI
-1 NAME João Martins Grencho, /lavrador/
+1 NAME João Martins /Grencho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1710@
 1 FAMS @F3907@
@@ -66363,7 +66373,7 @@
 1 FAMC @F3908@
 1 FAMS @F8230@
 0 @I10204@ INDI
-1 NAME João Batista Patrício, /jornaleiro/
+1 NAME João Batista /Patrício/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3590@
 1 FAMS @F3908@
@@ -66384,7 +66394,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3909@
 0 @I10207@ INDI
-1 NAME José António Martins Viegas, /jornaleiro/
+1 NAME José António Martins /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3077@
 1 FAMS @F3909@
@@ -66394,7 +66404,7 @@
 1 FAMC @F2454@
 1 FAMS @F3909@
 0 @I10209@ INDI
-1 NAME João Garcia da Nabais, /jornaleiro/
+1 NAME João Garcia da /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1036@
 1 FAMS @F3910@
@@ -66430,7 +66440,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3912@
 0 @I10215@ INDI
-1 NAME José Gomes de Carvalho, /proprietário/
+1 NAME José Gomes de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2353@
 1 FAMS @F3912@
@@ -66450,7 +66460,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3913@
 0 @I10218@ INDI
-1 NAME José Antunes do Pedro, /negociante/
+1 NAME José Antunes do /Pedro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3914@
 1 FAMS @F3913@
@@ -66473,7 +66483,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930; Óbito 07/10/1944 — Obitos 1944
 1 FAMC @F3915@
 0 @I10222@ INDI
-1 NAME Manuel Pereira de Paula, /lavrador/
+1 NAME Manuel Pereira de /Paula/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F991@
 1 FAMS @F3915@
@@ -66491,7 +66501,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3916@
 0 @I10226@ INDI
-1 NAME José Pacheco, /jornaleiro/
+1 NAME José /Pacheco/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3435@
 1 FAMS @F3917@
@@ -66509,7 +66519,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3918@
 0 @I10230@ INDI
-1 NAME José Manuel Arménio, /jornaleiro/
+1 NAME José Manuel /Arménio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3446@
 1 FAMS @F3919@
@@ -66519,7 +66529,7 @@
 1 FAMC @F1013@
 1 FAMS @F3919@
 0 @I10232@ INDI
-1 NAME António Pires dos Santos, /jornaleiro/
+1 NAME António Pires dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3459@
 1 FAMS @F3920@
@@ -66537,7 +66547,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3921@
 0 @I10235@ INDI
-1 NAME José Luís de Oliveira, /lavrador/
+1 NAME José Luís de /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1392@
 1 FAMS @F3921@
@@ -66556,7 +66566,7 @@
 1 FAMC @F3740@
 1 FAMS @F8394@
 0 @I10238@ INDI
-1 NAME José Luís Lourenço da Inês, /jornaleiro/
+1 NAME José Luís Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F797@
 1 FAMS @F3922@
@@ -66575,7 +66585,7 @@
 1 FAMC @F3923@
 1 FAMS @F8175@
 0 @I10241@ INDI
-1 NAME Manuel José Pereira, /jornaleiro/
+1 NAME Manuel José /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1040@
 1 FAMS @F3923@
@@ -66593,7 +66603,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3924@
 0 @I10244@ INDI
-1 NAME José Augusto Garcia da Nabais, /jornaleiro/
+1 NAME José Augusto Garcia da /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3676@
 1 FAMS @F3924@
@@ -66621,7 +66631,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930; Óbito 12/10/1932 — Óbitos 1932 (85)
 1 FAMC @F3926@
 0 @I10249@ INDI
-1 NAME João Martins Nicolau, /lavrador/
+1 NAME João Martins /Nicolau/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1614@
 1 FAMS @F3926@
@@ -66639,7 +66649,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3927@
 0 @I10252@ INDI
-1 NAME Manuel Nobre Martins, /proprietário/
+1 NAME Manuel Nobre /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3678@
 1 FAMS @F3927@
@@ -66658,7 +66668,7 @@
 1 FAMC @F3928@
 1 FAMS @F8124@
 0 @I10255@ INDI
-1 NAME Manuel de Oliveira, /lavrador/
+1 NAME Manuel de /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2130@
 1 FAMS @F3928@
@@ -66676,7 +66686,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3929@
 0 @I10258@ INDI
-1 NAME Manuel José Vaz Lavrador, /jornaleiro/
+1 NAME Manuel José Vaz /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3796@
 1 FAMS @F3929@
@@ -66695,7 +66705,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3930@
 0 @I10262@ INDI
-1 NAME Bernardo Garcia Pereira, /lavrador/
+1 NAME Bernardo Garcia /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1012@
 1 FAMS @F3931@
@@ -66722,7 +66732,7 @@
 1 FAMC @F3933@
 1 FAMS @F8289@
 0 @I10267@ INDI
-1 NAME José Garcia de Carvalho, /lavrador/
+1 NAME José Garcia de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F287@
 1 FAMS @F3933@
@@ -66758,7 +66768,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3935@
 0 @I10273@ INDI
-1 NAME Francisco Manuel Antunes, /carpinteiro/
+1 NAME Francisco Manuel /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2694@
 1 FAMS @F3935@
@@ -66794,7 +66804,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3937@
 0 @I10279@ INDI
-1 NAME Manuel Vaz Lavrador, /jornaleiro/
+1 NAME Manuel Vaz /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F82@
 1 FAMS @F3937@
@@ -66822,7 +66832,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3939@
 0 @I10284@ INDI
-1 NAME José d’Oliveira, /jornaleiro/
+1 NAME José /d’Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2853@
 1 FAMS @F3939@
@@ -66841,7 +66851,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3940@
 0 @I10287@ INDI
-1 NAME José Antunes Lousa, /lavrador/
+1 NAME José Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2579@
 1 FAMS @F3940@
@@ -66868,7 +66878,7 @@
 1 FAMC @F3942@
 1 FAMS @F8163@
 0 @I10292@ INDI
-1 NAME António Martins da Teresa, /lavrador/
+1 NAME António Martins da /Teresa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2690@
 1 FAMS @F3942@
@@ -66897,12 +66907,12 @@
 1 FAMC @F2612@
 1 FAMS @F3943@
 0 @I10297@ INDI
-1 NAME Joaquim Filipe, jornaleiro, natura de São Miguel /d’Acha/
+1 NAME Joaquim /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3904@
 1 FAMS @F3944@
 0 @I10298@ INDI
-1 NAME Manuel Lopes Pereira, /lavrador/
+1 NAME Manuel Lopes /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2813@
 1 FAMS @F3945@
@@ -66920,7 +66930,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3946@
 0 @I10301@ INDI
-1 NAME José Ramos Garcia, /lavrador/
+1 NAME José Ramos /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3947@
 1 FAMS @F3946@
@@ -66946,7 +66956,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3948@
 0 @I10306@ INDI
-1 NAME João Fernandes Russo, /jornaleiro/
+1 NAME João Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3716@
 1 FAMS @F3948@
@@ -66964,7 +66974,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3949@
 0 @I10310@ INDI
-1 NAME Manuel Gomes, /lavrador/
+1 NAME Manuel /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3951@
 1 FAMS @F3950@
@@ -66992,7 +67002,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930; Batismo 1938 — Batismos 1938; Óbito 16/07/1932 — Óbitos 1932 (85)
 1 FAMC @F3952@
 0 @I10315@ INDI
-1 NAME José Joaquim Agostinho Nunes Meirinho, /lavrador/
+1 NAME José Joaquim Agostinho Nunes /Meirinho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3953@
 1 FAMS @F3952@
@@ -67020,7 +67030,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930; Óbito 29/07/1932 — Óbitos 1932 (85)
 1 FAMC @F3954@
 0 @I10320@ INDI
-1 NAME Manuel Gomes Frade, /jornaleiro/
+1 NAME Manuel Gomes /Frade/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F51@
 1 FAMS @F3954@
@@ -67047,7 +67057,7 @@
 1 FAMC @F3956@
 1 FAMS @F8137@
 0 @I10325@ INDI
-1 NAME Manuel Nabais, /proprietário/
+1 NAME Manuel /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2280@
 1 FAMS @F3956@
@@ -67075,7 +67085,7 @@
 1 FAMC @F1585@
 1 FAMS @F3957@
 0 @I10330@ INDI
-1 NAME João Nunes Meirinho, /lavrador/
+1 NAME João Nunes /Meirinho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F240@
 1 FAMS @F3958@
@@ -67085,7 +67095,7 @@
 1 FAMC @F1399@
 1 FAMS @F3958@
 0 @I10332@ INDI
-1 NAME José Luís Nunes Meirinho, /lavrador/
+1 NAME José Luís Nunes /Meirinho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2510@
 1 FAMS @F3959@
@@ -67103,7 +67113,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3960@
 0 @I10335@ INDI
-1 NAME Cândido Augusto Melro, /jornaleiro/
+1 NAME Cândido Augusto /Melro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3317@
 1 FAMS @F3960@
@@ -67123,7 +67133,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930; Óbito 27/09/1932 — Óbitos 1932 (85)
 1 FAMC @F3961@
 0 @I10338@ INDI
-1 NAME Carlos Lopes, /negociante/
+1 NAME Carlos /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2797@
 1 FAMS @F3961@
@@ -67133,7 +67143,7 @@
 1 FAMC @F2719@
 1 FAMS @F3961@
 0 @I10340@ INDI
-1 NAME João Martins Gaião, /lavrador/
+1 NAME João Martins /Gaião/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F154@
 1 FAMS @F3962@
@@ -67169,7 +67179,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3964@
 0 @I10347@ INDI
-1 NAME Domingos Rodrigues da Calva, /jornaleiro/
+1 NAME Domingos Rodrigues da /Calva/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2936@
 1 FAMS @F3965@
@@ -67188,7 +67198,7 @@
 1 FAMC @F3966@
 1 FAMS @F8128@
 0 @I10350@ INDI
-1 NAME João Augusto Carvalho, /lavrador/
+1 NAME João Augusto /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3518@
 1 FAMS @F3966@
@@ -67206,7 +67216,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3967@
 0 @I10354@ INDI
-1 NAME Manuel Alves, /lavrador/
+1 NAME Manuel /Alves/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F121@
 1 FAMS @F3968@
@@ -67224,7 +67234,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3969@
 0 @I10357@ INDI
-1 NAME Manuel Joaquim Antunes, /jornaleiro/
+1 NAME Manuel Joaquim /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3970@
 1 FAMS @F3969@
@@ -67272,7 +67282,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3972@
 0 @I10365@ INDI
-1 NAME Lourenço de Oliveira, /lavrador/
+1 NAME Lourenço de /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1392@
 1 FAMS @F3972@
@@ -67290,7 +67300,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3973@
 0 @I10368@ INDI
-1 NAME Francisco Manuel Rodrigues, /lavrador/
+1 NAME Francisco Manuel /Rodrigues/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F159@
 1 FAMS @F3973@
@@ -67300,7 +67310,7 @@
 1 FAMC @F2280@
 1 FAMS @F3973@
 0 @I10370@ INDI
-1 NAME José Maria Robalo, /lavrador/
+1 NAME José Maria /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3974@
 0 @I10371@ INDI
@@ -67309,7 +67319,7 @@
 1 FAMC @F2764@
 1 FAMS @F3974@
 0 @I10372@ INDI
-1 NAME José Lourenço Robalo Santo, /negociante/
+1 NAME José Lourenço Robalo /Santo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F90@
 1 FAMS @F3975@
@@ -67327,7 +67337,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3976@
 0 @I10375@ INDI
-1 NAME Manuel José Soares, /proprietário/
+1 NAME Manuel José /Soares/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2643@
 1 FAMS @F3976@
@@ -67337,7 +67347,7 @@
 1 FAMC @F2853@
 1 FAMS @F3976@
 0 @I10377@ INDI
-1 NAME José Augusto Carvalho, /lavrador/
+1 NAME José Augusto /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1624@
 1 FAMS @F3977@
@@ -67347,7 +67357,7 @@
 1 FAMC @F2155@
 1 FAMS @F3977@
 0 @I10379@ INDI
-1 NAME João Nunes Dias, /jornaleiro/
+1 NAME João Nunes /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2924@
 1 FAMS @F3978@
@@ -67365,7 +67375,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3979@
 0 @I10382@ INDI
-1 NAME José Carvalho, /lavrador/
+1 NAME José /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3616@
 1 FAMS @F3979@
@@ -67384,7 +67394,7 @@
 1 FAMC @F3980@
 1 FAMS @F8092@
 0 @I10385@ INDI
-1 NAME António José Vaz Lavrador, /jornaleiro/
+1 NAME António José Vaz /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3981@
 1 FAMS @F3980@
@@ -67403,7 +67413,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3981@
 0 @I10389@ INDI
-1 NAME Manuel Gonçalves Garrido, /jornaleiro/
+1 NAME Manuel Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F55@
 1 FAMS @F3982@
@@ -67431,7 +67441,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930; Óbito 29/08/1932 — Óbitos 1932 (85)
 1 FAMC @F3984@
 0 @I10394@ INDI
-1 NAME Manuel dos Santos Nunes de Marcos, /jornaleiro/
+1 NAME Manuel dos Santos Nunes de /Marcos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3762@
 1 FAMS @F3984@
@@ -67475,7 +67485,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3988@
 0 @I10403@ INDI
-1 NAME Joaquim Augusto Garcia de Carvalho, /lavrador/
+1 NAME Joaquim Augusto Garcia de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F287@
 1 FAMS @F3988@
@@ -67495,7 +67505,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3989@
 0 @I10406@ INDI
-1 NAME Manuel Pires dos Santos, /jornaleiro/
+1 NAME Manuel Pires dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F117@
 1 FAMS @F3989@
@@ -67516,7 +67526,7 @@
 1 FAMC @F3990@
 1 FAMS @F8156@
 0 @I10409@ INDI
-1 NAME José Augusto Antunes, /lavrador/
+1 NAME José Augusto /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F96@
 1 FAMS @F3990@
@@ -67526,7 +67536,7 @@
 1 FAMC @F1392@
 1 FAMS @F3990@
 0 @I10411@ INDI
-1 NAME Narciso Gomes da Leonor, /lavrador/
+1 NAME Narciso Gomes da /Leonor/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2396@
 1 FAMS @F3991@
@@ -67544,7 +67554,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3992@
 0 @I10414@ INDI
-1 NAME António José Ambrósio, /alfaiate/
+1 NAME António José /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3993@
 1 FAMS @F3992@
@@ -67576,7 +67586,7 @@
 1 FAMC @F724@
 1 FAMS @F3994@
 0 @I10420@ INDI
-1 NAME José Augusto Vaz Lavrador, /jornaleiro/
+1 NAME José Augusto Vaz /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2925@
 1 FAMS @F3995@
@@ -67586,7 +67596,7 @@
 1 FAMC @F2311@
 1 FAMS @F3995@
 0 @I10422@ INDI
-1 NAME Manuel Antunes Lousa, /jornaleiro/
+1 NAME Manuel Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3997@
 1 FAMS @F3996@
@@ -67612,7 +67622,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1930 — Batismos 1930
 1 FAMC @F3998@
 0 @I10427@ INDI
-1 NAME António José da Fonseca, /lavrador/
+1 NAME António José da /Fonseca/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3999@
 1 FAMS @F3998@
@@ -67630,7 +67640,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F3999@
 0 @I10431@ INDI
-1 NAME Manuel Lourenço da Inês, /proprietário/
+1 NAME Manuel Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2538@
 1 FAMS @F4000@
@@ -67649,7 +67659,7 @@
 1 FAMC @F4001@
 1 FAMS @F8145@
 0 @I10434@ INDI
-1 NAME João Augusto Gonçalves Filipe, /jornaleiro/
+1 NAME João Augusto Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2574@
 1 FAMS @F4001@
@@ -67660,7 +67670,7 @@
 1 FAMS @F4001@
 1 FAMS @F7666@
 0 @I10436@ INDI
-1 NAME José Lourenço da Inês, /lavrador/
+1 NAME José Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F40@
 1 FAMS @F4002@
@@ -67678,7 +67688,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4003@
 0 @I10439@ INDI
-1 NAME Narciso Gomes, /lavrador/
+1 NAME Narciso /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2713@
 1 FAMS @F4003@
@@ -67706,7 +67716,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4005@
 0 @I10444@ INDI
-1 NAME José Ramos Garcia da Roseira, /jornaleiro/
+1 NAME José Ramos Garcia da /Roseira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3441@
 1 FAMS @F4005@
@@ -67735,7 +67745,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 15/07/1932 — Óbitos 1932 (85)
 1 FAMC @F4006@
 0 @I10448@ INDI
-1 NAME José Nunes Emídio, /jornaleiro/
+1 NAME José Nunes /Emídio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F812@
 1 FAMS @F4006@
@@ -67782,7 +67792,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 03/10/1931 — Óbitos 1931 (45)
 1 FAMC @F4009@
 0 @I10456@ INDI
-1 NAME Lourenço d’Oliveira, /lavrador/
+1 NAME Lourenço /d’Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2265@
 1 FAMS @F4009@
@@ -67792,7 +67802,7 @@
 1 FAMC @F240@
 1 FAMS @F4009@
 0 @I10458@ INDI
-1 NAME Manuel Manso Rito, /lavrador/
+1 NAME Manuel Manso /Rito/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4011@
 1 FAMS @F4010@
@@ -67826,7 +67836,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4013@
 0 @I10465@ INDI
-1 NAME Manuel Sanches, /jornaleiro/
+1 NAME Manuel /Sanches/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2066@
 1 FAMS @F4013@
@@ -67844,7 +67854,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4014@
 0 @I10468@ INDI
-1 NAME José Luís Fernandes Russo, /lavrador/
+1 NAME José Luís Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1913@
 1 FAMS @F4014@
@@ -67864,7 +67874,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4015@
 0 @I10471@ INDI
-1 NAME João Maria Correia, /jornaleiro/
+1 NAME João Maria /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2205@
 1 FAMS @F4015@
@@ -67890,7 +67900,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4017@
 0 @I10476@ INDI
-1 NAME Manuel d’Oliveira, /lavrador/
+1 NAME Manuel /d’Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2710@
 1 FAMS @F4017@
@@ -67908,7 +67918,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F3922@
 0 @I10479@ INDI
-1 NAME Luís Maria Pereira, /lavrador/
+1 NAME Luís Maria /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1027@
 1 FAMS @F4018@
@@ -67934,7 +67944,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4020@
 0 @I10484@ INDI
-1 NAME Manuel Martins Nicolau, /lavrador/
+1 NAME Manuel Martins /Nicolau/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1614@
 1 FAMS @F4020@
@@ -67947,7 +67957,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4021@
 0 @I10486@ INDI
-1 NAME José Augusto Antunes Lousa, /lavrador/
+1 NAME José Augusto Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1616@
 1 FAMS @F4021@
@@ -67965,7 +67975,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4022@
 0 @I10489@ INDI
-1 NAME José Garcia Fojeiro, /jornaleiro/
+1 NAME José Garcia /Fojeiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2114@
 1 FAMS @F4022@
@@ -68028,7 +68038,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4027@
 0 @I10501@ INDI
-1 NAME António Martins Corceiro, /lavrador/
+1 NAME António Martins /Corceiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2858@
 1 FAMS @F4027@
@@ -68038,7 +68048,7 @@
 1 FAMC @F121@
 1 FAMS @F4027@
 0 @I10503@ INDI
-1 NAME José Antunes, /lavrador/
+1 NAME José /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2128@
 1 FAMS @F4028@
@@ -68064,7 +68074,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4030@
 0 @I10508@ INDI
-1 NAME César Antunes Lousa, /jornaleiro/
+1 NAME César Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1080@
 1 FAMS @F4030@
@@ -68092,7 +68102,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 25/06/1932 — Óbitos 1932 (85)
 1 FAMC @F3882@
 0 @I10513@ INDI
-1 NAME Francisco Garcia Pereira, /lavrador/
+1 NAME Francisco Garcia /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3347@
 1 FAMS @F4032@
@@ -68110,7 +68120,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4033@
 0 @I10516@ INDI
-1 NAME Francisco Damas, sapateiro, da /Covilhã/
+1 NAME Francisco /Damas/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4034@
 1 FAMS @F4033@
@@ -68136,7 +68146,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4035@
 0 @I10521@ INDI
-1 NAME Paulino Nabais, /lavrador/
+1 NAME Paulino /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2224@
 1 FAMS @F4035@
@@ -68180,7 +68190,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4038@
 0 @I10529@ INDI
-1 NAME Manuel Nunes Meirinho, /lavrador/
+1 NAME Manuel Nunes /Meirinho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4039@
 1 FAMS @F4038@
@@ -68198,7 +68208,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4039@
 0 @I10533@ INDI
-1 NAME José Rodrigues, /jornaleiro/
+1 NAME José /Rodrigues/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4041@
 1 FAMS @F4040@
@@ -68242,7 +68252,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4043@
 0 @I10541@ INDI
-1 NAME Manuel Rodrigues, /lavrador/
+1 NAME Manuel /Rodrigues/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F159@
 1 FAMS @F4043@
@@ -68261,7 +68271,7 @@
 1 FAMC @F4044@
 1 FAMS @F8178@
 0 @I10544@ INDI
-1 NAME Manuel José Antunes, /jornaleiro/
+1 NAME Manuel José /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4045@
 1 FAMS @F4044@
@@ -68288,7 +68298,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4046@
 0 @I10549@ INDI
-1 NAME João dos Santos, /jornaleiro/
+1 NAME João dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3866@
 1 FAMS @F4046@
@@ -68298,7 +68308,7 @@
 1 FAMC @F2910@
 1 FAMS @F4046@
 0 @I10551@ INDI
-1 NAME José Antunes Lousa, /lavrador/
+1 NAME José Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3718@
 1 FAMS @F4047@
@@ -68319,7 +68329,7 @@
 1 FAMC @F3443@
 1 FAMS @F8203@
 0 @I10554@ INDI
-1 NAME Joaquim Gonçalves, /pedreiro/
+1 NAME Joaquim /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3444@
 1 FAMS @F4048@
@@ -68345,7 +68355,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4050@
 0 @I10559@ INDI
-1 NAME José Augusto Vaz da Furriela, /lavrador/
+1 NAME José Augusto Vaz da /Furriela/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2874@
 1 FAMS @F4050@
@@ -68355,7 +68365,7 @@
 1 FAMC @F2969@
 1 FAMS @F4050@
 0 @I10561@ INDI
-1 NAME José Manuel Patrício Martinho, /jornaleiro/
+1 NAME José Manuel Patrício /Martinho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4052@
 1 FAMS @F4051@
@@ -68383,7 +68393,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 08/03/1932 — Óbitos 1932 (85)
 1 FAMC @F4053@
 0 @I10566@ INDI
-1 NAME Manuel Vaz Lavrador, /jornaleiro/
+1 NAME Manuel Vaz /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2925@
 1 FAMS @F4053@
@@ -68401,7 +68411,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4054@
 0 @I10569@ INDI
-1 NAME José Francisco Pereira, /jornaleiro/
+1 NAME José Francisco /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4055@
 1 FAMS @F4054@
@@ -68429,7 +68439,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 24/10/1932 — Óbitos 1932 (85)
 1 FAMC @F4056@
 0 @I10574@ INDI
-1 NAME José Martins Corceiro, /lavrador/
+1 NAME José Martins /Corceiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2858@
 1 FAMS @F4056@
@@ -68490,7 +68500,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4060@
 0 @I10585@ INDI
-1 NAME José Augusto Correia, /jornaleiro/
+1 NAME José Augusto /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2854@
 1 FAMS @F4061@
@@ -68508,7 +68518,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4062@
 0 @I10588@ INDI
-1 NAME José Augusto Carvalho, /jornaleiro/
+1 NAME José Augusto /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1070@
 1 FAMS @F4062@
@@ -68526,7 +68536,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4063@
 0 @I10591@ INDI
-1 NAME José Pereira, /lavrador/
+1 NAME José /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4064@
 1 FAMS @F4063@
@@ -68580,7 +68590,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 03/10/1932 — Óbitos 1932 (85)
 1 FAMC @F4067@
 0 @I10601@ INDI
-1 NAME Manuel Martins Furriel, /lavrador/
+1 NAME Manuel Martins /Furriel/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2250@
 1 FAMS @F4067@
@@ -68600,7 +68610,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 12/08/1932 — Óbitos 1932 (85)
 1 FAMC @F4068@
 0 @I10604@ INDI
-1 NAME Carlos João, /jornaleiro/
+1 NAME Carlos /João/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2747@
 1 FAMS @F4068@
@@ -68613,7 +68623,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4069@
 0 @I10606@ INDI
-1 NAME João Fernandes Sancho, /lavrador/
+1 NAME João Fernandes /Sancho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1975@
 1 FAMS @F4069@
@@ -68623,7 +68633,7 @@
 1 FAMC @F2921@
 1 FAMS @F4069@
 0 @I10608@ INDI
-1 NAME Alberto Gomes de Carvalho, /proprietário/
+1 NAME Alberto Gomes de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4071@
 1 FAMS @F4070@
@@ -68645,7 +68655,7 @@
 1 FAMC @F4072@
 1 FAMS @F8135@
 0 @I10612@ INDI
-1 NAME José Martins Borrego, /jornaleiro/
+1 NAME José Martins /Borrego/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3076@
 1 FAMS @F4072@
@@ -68663,7 +68673,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4073@
 0 @I10615@ INDI
-1 NAME José Augusto Vaz Fazenda, /jornaleiro/
+1 NAME José Augusto Vaz /Fazenda/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3800@
 1 FAMS @F4073@
@@ -68673,7 +68683,7 @@
 1 FAMC @F3801@
 1 FAMS @F4073@
 0 @I10617@ INDI
-1 NAME João Nunes Alfaiate, /lavrador/
+1 NAME João Nunes /Alfaiate/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2848@
 1 FAMS @F4074@
@@ -68692,7 +68702,7 @@
 1 FAMC @F4075@
 1 FAMS @F8135@
 0 @I10620@ INDI
-1 NAME João Arménio, /jornaleiro/
+1 NAME João /Arménio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3446@
 1 FAMS @F4075@
@@ -68744,7 +68754,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4079@
 0 @I10630@ INDI
-1 NAME José Monteiro, jornaleiro, do Praisal, Castelo /Mendo/
+1 NAME José /Monteiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3050@
 1 FAMS @F4079@
@@ -68772,7 +68782,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 12/10/1932 — Óbitos 1932 (85)
 1 FAMC @F4081@
 0 @I10635@ INDI
-1 NAME José Augusto Gonçalves, /jornaleiro/
+1 NAME José Augusto /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2943@
 1 FAMS @F4081@
@@ -68790,7 +68800,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4082@
 0 @I10638@ INDI
-1 NAME Manuel Alves, /lavrador/
+1 NAME Manuel /Alves/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F22@
 1 FAMS @F4082@
@@ -68833,7 +68843,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4085@
 0 @I10646@ INDI
-1 NAME Jerónimo Augusto, /jornaleiro/
+1 NAME Jerónimo /Augusto/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3527@
 1 FAMS @F4085@
@@ -68860,7 +68870,7 @@
 1 FAMC @F4087@
 1 FAMS @F8177@
 0 @I10651@ INDI
-1 NAME Carlos Miguel Jorge, /jornaleiro/
+1 NAME Carlos Miguel /Jorge/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2152@
 1 FAMS @F4087@
@@ -68898,7 +68908,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 29/03/1932 — Óbitos 1932 (85)
 1 FAMC @F4090@
 0 @I10657@ INDI
-1 NAME João Alexandre Martins, /jornaleiro/
+1 NAME João Alexandre /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3231@
 1 FAMS @F4090@
@@ -68934,7 +68944,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4092@
 0 @I10664@ INDI
-1 NAME Joaquim Antunes Lousa, /lavrador/
+1 NAME Joaquim Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3718@
 1 FAMS @F4093@
@@ -68954,12 +68964,12 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 09/07/1933 — Óbitos 1933 (48)
 1 FAMC @F4094@
 0 @I10667@ INDI
-1 NAME José Joaquim Gonçalves Garrido, /jornaleiro/
+1 NAME José Joaquim Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F814@
 1 FAMS @F4094@
 0 @I10668@ INDI
-1 NAME Lourenço Robalo, /pedreiro/
+1 NAME Lourenço /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2760@
 1 FAMS @F4095@
@@ -68979,7 +68989,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 30/09/1932 — Óbitos 1932 (85)
 1 FAMC @F4096@
 0 @I10671@ INDI
-1 NAME António Nunes Meirinho, /lavrador/
+1 NAME António Nunes /Meirinho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3356@
 1 FAMS @F4096@
@@ -68999,7 +69009,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F3877@
 0 @I10674@ INDI
-1 NAME Manuel António Martins, /proprietário/
+1 NAME Manuel António /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F17@
 1 FAMS @F4097@
@@ -69017,7 +69027,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4098@
 0 @I10677@ INDI
-1 NAME Joaquim Arménio, /jornaleiro/
+1 NAME Joaquim /Arménio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3446@
 1 FAMS @F4098@
@@ -69061,7 +69071,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4101@
 0 @I10685@ INDI
-1 NAME José Gonçalves, /lavrador/
+1 NAME José /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F269@
 1 FAMS @F4101@
@@ -69071,7 +69081,7 @@
 1 FAMC @F2517@
 1 FAMS @F4101@
 0 @I10687@ INDI
-1 NAME Modesto Fernandes Russo, /lavrador/
+1 NAME Modesto Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2132@
 1 FAMS @F4102@
@@ -69091,7 +69101,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931; Óbito 06/09/1932 — Óbitos 1932 (85)
 1 FAMC @F4103@
 0 @I10690@ INDI
-1 NAME Manuel José Martins da Josefa, /carpinteiro/
+1 NAME Manuel José Martins da /Josefa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3313@
 1 FAMS @F4103@
@@ -69111,7 +69121,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4104@
 0 @I10693@ INDI
-1 NAME Manuel da Conceição, /alfaiate/
+1 NAME Manuel da /Conceição/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4105@
 1 FAMS @F4104@
@@ -69130,7 +69140,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4105@
 0 @I10697@ INDI
-1 NAME Manuel Correia, /jornaleiro/
+1 NAME Manuel /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4107@
 1 FAMS @F4106@
@@ -69184,7 +69194,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4110@
 0 @I10707@ INDI
-1 NAME Júlio Antunes Lousa, /lavrador/
+1 NAME Júlio Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1616@
 1 FAMS @F4110@
@@ -69210,7 +69220,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1931 — batismos 1931
 1 FAMC @F4112@
 0 @I10712@ INDI
-1 NAME João Garcia de Carvalho, /lavrador/
+1 NAME João Garcia de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F693@
 1 FAMS @F4112@
@@ -69245,7 +69255,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4113@
 0 @I10717@ INDI
-1 NAME Manuel Jorge, /jornaleiro/
+1 NAME Manuel /Jorge/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4114@
 1 FAMS @F4113@
@@ -69263,7 +69273,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4114@
 0 @I10721@ INDI
-1 NAME José Luís Oliveira, /lavrador/
+1 NAME José Luís /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4116@
 1 FAMS @F4115@
@@ -69281,7 +69291,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4116@
 0 @I10725@ INDI
-1 NAME José Augusto Correia, /jornaleiro/
+1 NAME José Augusto /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1035@
 1 FAMS @F4117@
@@ -69309,7 +69319,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932; Óbito 14/10/1933 — Óbitos 1933 (48)
 1 FAMC @F4119@
 0 @I10730@ INDI
-1 NAME Manuel Manso Rito, /lavrador/
+1 NAME Manuel Manso /Rito/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4120@
 1 FAMS @F4119@
@@ -69332,7 +69342,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F3992@
 0 @I10734@ INDI
-1 NAME Artur Augusto Dos Santos Pereira, /lavrador/
+1 NAME Artur Augusto Dos Santos /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2946@
 1 FAMS @F4121@
@@ -69352,7 +69362,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932; Óbito 08/12/1940 — Óbitos 1940 (46)
 1 FAMC @F4122@
 0 @I10737@ INDI
-1 NAME José Augusto Nabais, /lavrador/
+1 NAME José Augusto /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2280@
 1 FAMS @F4122@
@@ -69380,7 +69390,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4123@
 0 @I10741@ INDI
-1 NAME João Gomes de Carvalho, /lavrador/
+1 NAME João Gomes de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4124@
 1 FAMS @F4123@
@@ -69406,7 +69416,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4125@
 0 @I10746@ INDI
-1 NAME João Augusto Dias, /lavrador/
+1 NAME João Augusto /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F174@
 1 FAMS @F4125@
@@ -69424,7 +69434,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4126@
 0 @I10749@ INDI
-1 NAME Manuel Vaz da Furriela, /lavrador/
+1 NAME Manuel Vaz da /Furriela/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2874@
 1 FAMS @F4126@
@@ -69454,7 +69464,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4128@
 0 @I10754@ INDI
-1 NAME João António Ambrósio, alfaiate de Aldeia da /Ponte/
+1 NAME João António /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2661@
 1 FAMS @F4128@
@@ -69472,7 +69482,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4129@
 0 @I10757@ INDI
-1 NAME José Augusto Martins Nicolau, /lavrador/
+1 NAME José Augusto Martins /Nicolau/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3733@
 1 FAMS @F4129@
@@ -69490,7 +69500,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4130@
 0 @I10760@ INDI
-1 NAME Venâncio Augusto de Carvalho, proprietário, de Vale de /Espin/
+1 NAME Venâncio Augusto de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3774@
 1 FAMS @F4130@
@@ -69516,7 +69526,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4132@
 0 @I10765@ INDI
-1 NAME José Augusto Aristides, /jornaleiro/
+1 NAME José Augusto /Aristides/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F680@
 1 FAMS @F4132@
@@ -69543,7 +69553,7 @@
 1 FAMC @F4134@
 1 FAMS @F8256@
 0 @I10770@ INDI
-1 NAME José Ramos Garcia, /jornaleiro/
+1 NAME José Ramos /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3947@
 1 FAMS @F4134@
@@ -69561,7 +69571,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4135@
 0 @I10773@ INDI
-1 NAME João Maria Garcia da Nabais, /jornaleiro/
+1 NAME João Maria Garcia da /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4136@
 1 FAMS @F4135@
@@ -69598,7 +69608,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932; Óbito 01/09/1932 — Óbitos 1932 (85)
 1 FAMC @F4137@
 0 @I10779@ INDI
-1 NAME Manuel Manso Rito de Oliveira, /lavrador/
+1 NAME Manuel Manso Rito de /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3938@
 1 FAMS @F4137@
@@ -69641,7 +69651,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4139@
 0 @I10785@ INDI
-1 NAME Joaquim Filipe, /jornaleiro/
+1 NAME Joaquim /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3904@
 1 FAMS @F4139@
@@ -69669,7 +69679,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932; Batismo 1938 — Batismos 1938; Óbito 09/12/1932 — Óbitos 1932 (85)
 1 FAMC @F1745@
 0 @I10790@ INDI
-1 NAME José Pires dos Santos, /jornaleiro/
+1 NAME José Pires dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F117@
 1 FAMS @F4141@
@@ -69687,7 +69697,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F3995@
 0 @I10793@ INDI
-1 NAME António Oliveira, /jornaleiro/
+1 NAME António /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2385@
 1 FAMS @F4142@
@@ -69705,7 +69715,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4143@
 0 @I10796@ INDI
-1 NAME Manuel Garcia, /carpinteiro/
+1 NAME Manuel /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1409@
 1 FAMS @F4143@
@@ -69715,7 +69725,7 @@
 1 FAMC @F1074@
 1 FAMS @F4143@
 0 @I10798@ INDI
-1 NAME José Manuel Lopes, /lavrador/
+1 NAME José Manuel /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2857@
 1 FAMS @F4144@
@@ -69733,7 +69743,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4145@
 0 @I10801@ INDI
-1 NAME Simão Palinhos, /lavrador/
+1 NAME Simão /Palinhos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4146@
 1 FAMS @F4145@
@@ -69767,7 +69777,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4148@
 0 @I10808@ INDI
-1 NAME Bernardo Martins Alexandre, /jornaleiro/
+1 NAME Bernardo Martins /Alexandre/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4149@
 1 FAMS @F4148@
@@ -69801,7 +69811,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4150@
 0 @I10814@ INDI
-1 NAME Manuel José Vaz da Furriela, /lavrador/
+1 NAME Manuel José Vaz da /Furriela/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2874@
 1 FAMS @F4150@
@@ -69819,7 +69829,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4151@
 0 @I10817@ INDI
-1 NAME Narciso Barbosa, /jornaleiro/
+1 NAME Narciso /Barbosa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2301@
 1 FAMS @F4151@
@@ -69839,7 +69849,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932; Óbito 26/08/1933 — Óbitos 1933 (48)
 1 FAMC @F4152@
 0 @I10820@ INDI
-1 NAME Manuel Carvalho, /jornaleiro/
+1 NAME Manuel /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1070@
 1 FAMS @F4152@
@@ -69849,7 +69859,7 @@
 1 FAMC @F3634@
 1 FAMS @F4152@
 0 @I10822@ INDI
-1 NAME Bernardo Garcia, /jornaleiro/
+1 NAME Bernardo /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2475@
 1 FAMS @F4153@
@@ -69905,7 +69915,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4156@
 0 @I10831@ INDI
-1 NAME Bernardo Oliveira, /jornaleiro/
+1 NAME Bernardo /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3685@
 1 FAMS @F4156@
@@ -69924,7 +69934,7 @@
 1 FAMC @F4157@
 1 FAMS @F8139@
 0 @I10834@ INDI
-1 NAME Manuel Nabais, /negociante/
+1 NAME Manuel /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2280@
 1 FAMS @F4157@
@@ -69944,7 +69954,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932; Óbito 27/01/1933 — Óbitos 1933 (48)
 1 FAMC @F4158@
 0 @I10837@ INDI
-1 NAME José Augusto Gonçalves de Matos, /jornaleiro/
+1 NAME José Augusto Gonçalves de /Matos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2424@
 1 FAMS @F4158@
@@ -69964,7 +69974,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932; Óbito 20/10/1932 — Óbitos 1932 (85)
 1 FAMC @F4159@
 0 @I10840@ INDI
-1 NAME Manuel José Martins da Josefa, /carpinteiro/
+1 NAME Manuel José Martins da /Josefa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3200@
 1 FAMS @F4159@
@@ -69974,7 +69984,7 @@
 1 FAMC @F2349@
 1 FAMS @F4159@
 0 @I10842@ INDI
-1 NAME José Augusto Oliveira, /lavrador/
+1 NAME José Augusto /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3146@
 1 FAMS @F4160@
@@ -70020,7 +70030,7 @@
 1 FAMC @F4162@
 1 FAMS @F8207@
 0 @I10849@ INDI
-1 NAME Narciso Sanches, /jornaleiro/
+1 NAME Narciso /Sanches/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2066@
 1 FAMS @F4162@
@@ -70040,7 +70050,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932; Óbito 16/11/1932 — Óbitos 1932 (85)
 1 FAMC @F4163@
 0 @I10852@ INDI
-1 NAME José Viegas, /sapateiro/
+1 NAME José /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4164@
 1 FAMS @F4163@
@@ -70063,7 +70073,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4165@
 0 @I10856@ INDI
-1 NAME Manuel do Nascimento Parada, /jornaleiro/
+1 NAME Manuel do Nascimento /Parada/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4166@
 1 FAMS @F4165@
@@ -70115,7 +70125,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F3901@
 0 @I10866@ INDI
-1 NAME Óscar Dias, /lavrador/
+1 NAME Óscar /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F174@
 1 FAMS @F4169@
@@ -70142,7 +70152,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4170@
 0 @I10870@ INDI
-1 NAME José Manuel Arménio, /carpinteiro/
+1 NAME José Manuel /Arménio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1727@
 1 FAMS @F4170@
@@ -70161,7 +70171,7 @@
 1 FAMC @F4171@
 1 FAMS @F8139@
 0 @I10873@ INDI
-1 NAME João Maria Martins da Teresa, /lavrador/
+1 NAME João Maria Martins da /Teresa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F98@
 1 FAMS @F4171@
@@ -70171,7 +70181,7 @@
 1 FAMC @F1913@
 1 FAMS @F4171@
 0 @I10875@ INDI
-1 NAME José Gonçalves Garrido, /jornaleiro/
+1 NAME José Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4173@
 1 FAMS @F4172@
@@ -70197,7 +70207,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4174@
 0 @I10880@ INDI
-1 NAME Manuel Nobre Martins, /proprietário/
+1 NAME Manuel Nobre /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1657@
 1 FAMS @F4174@
@@ -70240,7 +70250,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4176@
 0 @I10887@ INDI
-1 NAME Francisco Pereira, /lavrador/
+1 NAME Francisco /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F973@
 1 FAMS @F4176@
@@ -70260,7 +70270,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4177@
 0 @I10890@ INDI
-1 NAME Manuel José de Oliveira, /lavrador/
+1 NAME Manuel José de /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3146@
 1 FAMS @F4177@
@@ -70283,7 +70293,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4178@
 0 @I10893@ INDI
-1 NAME Miguel Martins Monteiro, /proprietário/
+1 NAME Miguel Martins /Monteiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2436@
 1 FAMS @F4178@
@@ -70302,7 +70312,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4179@
 0 @I10896@ INDI
-1 NAME Manuel Soares, /lavrador/
+1 NAME Manuel /Soares/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4180@
 1 FAMS @F4179@
@@ -70336,7 +70346,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4181@
 0 @I10902@ INDI
-1 NAME José Augusto Vaz Fazenda, /jornaleiro/
+1 NAME José Augusto Vaz /Fazenda/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3800@
 1 FAMS @F4181@
@@ -70354,7 +70364,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4182@
 0 @I10905@ INDI
-1 NAME José Antunes Lousa, /jornaleiro/
+1 NAME José Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4183@
 1 FAMS @F4182@
@@ -70364,7 +70374,7 @@
 1 FAMC @F4184@
 1 FAMS @F4182@
 0 @I10907@ INDI
-1 NAME Manuel Antunes Lousa, /jornaleiro/
+1 NAME Manuel Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4183@
 0 @I10908@ INDI
@@ -70380,7 +70390,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4184@
 0 @I10911@ INDI
-1 NAME Manuel Correia, /jornaleiro/
+1 NAME Manuel /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4186@
 1 FAMS @F4185@
@@ -70430,7 +70440,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4188@
 0 @I10920@ INDI
-1 NAME Manuel José Gonçalves Filipe, /proprietário/
+1 NAME Manuel José Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4189@
 1 FAMS @F4188@
@@ -70464,7 +70474,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F3897@
 0 @I10927@ INDI
-1 NAME Lourenço Antunes Lousa, /lavrador/
+1 NAME Lourenço Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4192@
 1 FAMS @F4191@
@@ -70495,7 +70505,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4193@
 0 @I10932@ INDI
-1 NAME José Augusto Pereira, /lavrador/
+1 NAME José Augusto /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1074@
 1 FAMS @F4193@
@@ -70514,7 +70524,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932
 1 FAMC @F4194@
 0 @I10935@ INDI
-1 NAME Alfredo Gomes, /jornaleiro/
+1 NAME Alfredo /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3372@
 1 FAMS @F4194@
@@ -70533,7 +70543,7 @@
 1 FAMC @F4195@
 1 FAMS @F8152@
 0 @I10938@ INDI
-1 NAME João Garcia Pereira, /jornaleiro/
+1 NAME João Garcia /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F737@
 1 FAMS @F4195@
@@ -70553,7 +70563,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1932 — batismos 1932; Óbito 09/02/1934 — Óbitos 1934 (58)
 1 FAMC @F4027@
 0 @I10941@ INDI
-1 NAME José Joaquim Alves, /lavrador/
+1 NAME José Joaquim /Alves/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2421@
 1 FAMS @F4196@
@@ -72362,7 +72372,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4280@
 0 @I11228@ INDI
-1 NAME Isabel Antunes e materna de Manuel Pereira Carrilho e de /Mar/
+1 NAME Isabel /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4281@
 1 FAMS @F4280@
@@ -72371,7 +72381,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4281@
 0 @I11230@ INDI
-1 NAME Maria Antónia Martins Ferrador e materna de Manuel António /An/
+1 NAME Maria Antónia Martins /Ferrador/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4281@
 0 @I11231@ INDI
@@ -73877,7 +73887,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4375@
 0 @I11488@ INDI
-1 NAME Maria Luísa Gomes Rito e materno de José Paradas e de Ana /Au/
+1 NAME Maria Luísa Gomes /Rito/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4376@
 1 FAMS @F4375@
@@ -74987,7 +74997,7 @@
 1 FAMC @F2874@
 1 FAMS @F4446@
 0 @I11676@ INDI
-1 NAME Maria Augusta Gonçalves Garrido e materno de Manuel /António/
+1 NAME Maria Augusta Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4447@
 1 FAMS @F4446@
@@ -75302,7 +75312,7 @@
 1 FAMC @F2446@
 1 FAMS @F4468@
 0 @I11732@ INDI
-1 NAME Catarina Garcia Pereira e materno de António José Arménio /e/
+1 NAME Catarina Garcia /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1727@
 1 FAMS @F4468@
@@ -75353,7 +75363,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4470@
 0 @I11740@ INDI
-1 NAME Maria Martins Vaz e materno de Manuel Jorge Perloiro e de /Is/
+1 NAME Maria Martins /Vaz/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2875@
 1 FAMS @F4470@
@@ -76148,7 +76158,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4401@
 0 @I11873@ INDI
-1 NAME João Nabais, /negociante/
+1 NAME João /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2280@
 1 FAMS @F4517@
@@ -76174,7 +76184,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4519@
 0 @I11878@ INDI
-1 NAME José Manuel Martins da Teresa , /lavrador/
+1 NAME José Manuel Martins da /Teresa/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F99@
 1 FAMS @F4519@
@@ -76228,7 +76238,7 @@
 1 FAMC @F4522@
 1 FAMS @F8406@
 0 @I11887@ INDI
-1 NAME João Augusto Meirinho, /lavrador/
+1 NAME João Augusto /Meirinho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2510@
 1 FAMS @F4522@
@@ -76251,7 +76261,7 @@
 1 FAMC @F4524@
 1 FAMS @F4523@
 0 @I11891@ INDI
-1 NAME Ermelinda Augusta Manso Tolda, /proprietários/
+1 NAME Ermelinda Augusta Manso /Tolda/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2472@
 1 FAMS @F4523@
@@ -76301,7 +76311,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4526@
 0 @I11899@ INDI
-1 NAME António dos Santos, /carpinteiro/
+1 NAME António dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4527@
 1 FAMS @F4526@
@@ -76335,7 +76345,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4529@
 0 @I11906@ INDI
-1 NAME António José Ambrósio, /alfaiate/
+1 NAME António José /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3993@
 1 FAMS @F4529@
@@ -76361,7 +76371,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4531@
 0 @I11911@ INDI
-1 NAME José Martins Vaz Lavrador, /lavrador/
+1 NAME José Martins Vaz /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2706@
 1 FAMS @F4531@
@@ -76389,7 +76399,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937; Batismo 1941 — Batismos 1941; Óbito 10/08/1938 — Óbitos 1938 (49)
 1 FAMC @F4532@
 0 @I11915@ INDI
-1 NAME João Gomes de Carvalho, /lavrador/
+1 NAME João Gomes de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1399@
 1 FAMS @F4532@
@@ -76453,7 +76463,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4535@
 0 @I11925@ INDI
-1 NAME João Robalo Lavrador, /jornaleiro/
+1 NAME João Robalo /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4536@
 1 FAMS @F4535@
@@ -76492,7 +76502,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4538@
 0 @I11932@ INDI
-1 NAME Carlos Lopes, /negociante/
+1 NAME Carlos /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4539@
 1 FAMS @F4538@
@@ -76539,7 +76549,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4542@
 0 @I11941@ INDI
-1 NAME José Augusto Martins Viegas, /carpinteiro/
+1 NAME José Augusto Martins /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3077@
 1 FAMS @F4542@
@@ -76665,7 +76675,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4549@
 0 @I11962@ INDI
-1 NAME José Manuel Mateus, /jornaleiro/
+1 NAME José Manuel /Mateus/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4550@
 1 FAMS @F4549@
@@ -76785,7 +76795,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4558@
 0 @I11985@ INDI
-1 NAME Domingos Dias, /carpinteiro/
+1 NAME Domingos /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4559@
 1 FAMS @F4558@
@@ -76822,7 +76832,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937; Batismo 1941 — Batismos 1941
 1 FAMC @F4561@
 0 @I11992@ INDI
-1 NAME José Augusto Lourenço Logrado, /jornaleiro/
+1 NAME José Augusto Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2311@
 1 FAMS @F4561@
@@ -76893,7 +76903,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1937 — Batismos 1937
 1 FAMC @F4566@
 0 @I12005@ INDI
-1 NAME Manuel Jorge Perloiro, /jornaleiro/
+1 NAME Manuel Jorge /Perloiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3801@
 1 FAMS @F4566@
@@ -77239,7 +77249,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1938 — Batismos 1938
 1 FAMC @F4586@
 0 @I12063@ INDI
-1 NAME Francisco Filipe, sapateiro, de São Miguel /d’Acha/
+1 NAME Francisco /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3904@
 1 FAMS @F4586@
@@ -77293,7 +77303,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1938 — Batismos 1938
 1 FAMC @F4589@
 0 @I12072@ INDI
-1 NAME Manuel José Nunes de Marcos, /sapateiro/
+1 NAME Manuel José Nunes de /Marcos/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2016@
 1 FAMS @F4589@
@@ -77303,7 +77313,7 @@
 1 FAMC @F4590@
 1 FAMS @F4589@
 0 @I12074@ INDI
-1 NAME João Soares, /proprietário/
+1 NAME João /Soares/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4590@
 0 @I12075@ INDI
@@ -77441,7 +77451,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1938 — Batismos 1938
 1 FAMC @F4598@
 0 @I12097@ INDI
-1 NAME Manuel José de Oliveira, /negociante/
+1 NAME Manuel José de /Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3685@
 1 FAMS @F4598@
@@ -77904,7 +77914,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1938 — Batismos 1938; Óbito 09/11/1939 — Óbitos 1939 (61)
 1 FAMC @F4622@
 0 @I12172@ INDI
-1 NAME José Joaquim Gonçalves Garrido, /pedreiro/
+1 NAME José Joaquim Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F814@
 1 FAMS @F4622@
@@ -78261,7 +78271,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1938 — Batismos 1938
 1 FAMC @F4643@
 0 @I12233@ INDI
-1 NAME José Manuel Manso, /lavrador/
+1 NAME José Manuel /Manso/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1438@
 1 FAMS @F4643@
@@ -79253,7 +79263,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1941 — Batismos 1941
 1 FAMC @F4689@
 0 @I12386@ INDI
-1 NAME José Raposo, sapateiro de /Salvador/
+1 NAME José /Raposo/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4690@
 1 FAMS @F4689@
@@ -80905,7 +80915,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1942 — Batismos 1942
 1 FAMC @F4782@
 0 @I12658@ INDI
-1 NAME António Fernandes, /ferreiro/
+1 NAME António /Fernandes/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2365@
 1 FAMS @F4782@
@@ -80960,7 +80970,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1942 — Batismos 1942
 1 FAMC @F4785@
 0 @I12667@ INDI
-1 NAME Augusto Afonso Duarte, pedreiro dos /Foios/
+1 NAME Augusto Afonso /Duarte/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4786@
 1 FAMS @F4785@
@@ -80994,7 +81004,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1943 — Batismos 1943
 1 FAMC @F4787@
 0 @I12673@ INDI
-1 NAME Augusto Afonso Duarte, pedreiro, dos /Foios/
+1 NAME Augusto Afonso /Duarte/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4786@
 1 FAMS @F4787@
@@ -81092,7 +81102,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1943 — Batismos 1943
 1 FAMC @F4792@
 0 @I12688@ INDI
-1 NAME José Nunes Emídio, /carpinteiro/
+1 NAME José Nunes /Emídio/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F812@
 1 FAMS @F4792@
@@ -81204,7 +81214,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F4798@
 0 @I12707@ INDI
-1 NAME Maria Augusta Jorge Perloiro e materna de José Vaz Fazenda /e/
+1 NAME Maria Augusta Jorge /Perloiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3800@
 1 FAMS @F4798@
@@ -81329,7 +81339,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1944 — Batismos 1944
 1 FAMC @F4805@
 0 @I12728@ INDI
-1 NAME José Joaquim Gomes Filipe, /pedreiro/
+1 NAME José Joaquim Gomes /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F623@
 1 FAMS @F4805@
@@ -81381,7 +81391,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1944 — Batismos 1944
 1 FAMC @F4808@
 0 @I12737@ INDI
-1 NAME Joaquim Filipe, pedreiro de São Miguel /d’Acha/
+1 NAME Joaquim /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3904@
 1 FAMS @F4808@
@@ -81407,7 +81417,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1944 — Batismos 1944
 1 FAMC @F4809@
 0 @I12741@ INDI
-1 NAME Armindo Nunes Monteiro, /ferreiro/
+1 NAME Armindo Nunes /Monteiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2653@
 1 FAMS @F4809@
@@ -83952,7 +83962,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1945 — Batismos 1945
 1 FAMC @F4950@
 0 @I13164@ INDI
-1 NAME Manuel Garcia, /carpinteiro/
+1 NAME Manuel /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F1409@
 1 FAMS @F4950@
@@ -84024,7 +84034,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1945 — Batismos 1945
 1 FAMC @F4953@
 0 @I13175@ INDI
-1 NAME João Maria Pereira Garrido, /carpinteiro/
+1 NAME João Maria Pereira /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F2515@
 1 FAMS @F4953@
@@ -84034,7 +84044,7 @@
 1 FAMC @F3530@
 1 FAMS @F4953@
 0 @I13177@ INDI
-1 NAME José Augusto Vaz Fazenda, /carpinteiro/
+1 NAME José Augusto Vaz /Fazenda/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3800@
 1 FAMS @F4954@
@@ -84158,7 +84168,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1946 — Batismos 1946
 1 FAMC @F4960@
 0 @I13196@ INDI
-1 NAME João Miguel Amaral Dias, /carpinteiro/
+1 NAME João Miguel Amaral /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3214@
 1 FAMS @F4960@
@@ -84205,7 +84215,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1946 — Batismos 1946
 1 FAMC @F4963@
 0 @I13204@ INDI
-1 NAME Jeremias Garcia Fojeiro, /jornaleiro/
+1 NAME Jeremias Garcia /Fojeiro/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F3788@
 1 FAMS @F4963@
@@ -84275,7 +84285,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1946 — Batismos 1946
 1 FAMC @F4969@
 0 @I13218@ INDI
-1 NAME José Manuel Antunes da Inês, /jornaleiro/
+1 NAME José Manuel Antunes da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4970@
 1 FAMS @F4969@
@@ -84337,7 +84347,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Batismo 1946 — Batismos 1946
 1 FAMC @F4974@
 0 @I13230@ INDI
-1 NAME Manuel Garcia Pereira, /jornaleiro/
+1 NAME Manuel Garcia /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMC @F4748@
 1 FAMS @F4974@
@@ -102612,7 +102622,7 @@
 1 FAMS @F6948@
 0 @I17117@ INDI
 1 NAME José /Paradas/
-1 NOTE Família Assentos paroquiais | Fontes: Casamento 14/05/1859 — Casamentos de 1855 a 1859 (43)
+1 NOTE Família Assentos paroquiais | Fontes: Casamento 14/05/1859 — Casamentos de 1855 a 1859 (43); Pais naturais de São Tiago (Orense) — Carlos (email de 04/11/2026); Carlos (email de 04/11/2026) — filiação
 1 FAMC @F6950@
 1 FAMS @F6949@
 0 @I17118@ INDI
@@ -111958,7 +111968,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8441@
 0 @I19157@ INDI
-1 NAME Maria Marques, /proprietários/
+1 NAME Maria /Marques/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8441@
 0 @I19158@ INDI
@@ -111972,7 +111982,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8442@
 0 @I19160@ INDI
-1 NAME Maria dos Santos, /jornaleiros/
+1 NAME Maria dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8442@
 0 @I19161@ INDI
@@ -112000,7 +112010,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8444@
 0 @I19166@ INDI
-1 NAME Luísa Gomes, /proprietários/
+1 NAME Luísa /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8444@
 0 @I19167@ INDI
@@ -112014,7 +112024,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8445@
 0 @I19169@ INDI
-1 NAME Maria dos Anjos Nunes Fogeiro, /proprietários/
+1 NAME Maria dos Anjos Nunes /Fogeiro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8445@
 0 @I19170@ INDI
@@ -112024,7 +112034,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 05/09/1900 — Óbitos 1900 (49)
 1 FAMC @F8446@
 0 @I19171@ INDI
-1 NAME José Antunes Matias, /pedreiro/
+1 NAME José Antunes /Matias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8446@
 0 @I19172@ INDI
@@ -112042,7 +112052,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8447@
 0 @I19175@ INDI
-1 NAME Maria Fernandes, /jornaleiros/
+1 NAME Maria /Fernandes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8447@
 0 @I19176@ INDI
@@ -112056,7 +112066,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8448@
 0 @I19178@ INDI
-1 NAME Maria Fernandes, de Vila Boa, /proprietários/
+1 NAME Maria Fernandes, de Vila /Boa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8448@
 0 @I19179@ INDI
@@ -112070,7 +112080,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8449@
 0 @I19181@ INDI
-1 NAME Isabel Maria Garcia da Nabais, /jornaleiros/
+1 NAME Isabel Maria Garcia da /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8449@
 0 @I19182@ INDI
@@ -112084,7 +112094,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8450@
 0 @I19184@ INDI
-1 NAME Maria Garcia, /proprietários/
+1 NAME Maria /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8450@
 0 @I19185@ INDI
@@ -112098,7 +112108,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8451@
 0 @I19187@ INDI
-1 NAME Matildes Lourenço, /proprietários/
+1 NAME Matildes /Lourenço/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8451@
 0 @I19188@ INDI
@@ -112112,7 +112122,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8452@
 0 @I19190@ INDI
-1 NAME Ana Pires Robalo, /jornaleiros/
+1 NAME Ana Pires /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8452@
 0 @I19191@ INDI
@@ -112126,7 +112136,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8453@
 0 @I19193@ INDI
-1 NAME Mariana Carrilho, /proprietários/
+1 NAME Mariana /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8453@
 0 @I19194@ INDI
@@ -112140,7 +112150,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8454@
 0 @I19196@ INDI
-1 NAME Maria Gonçalves Garrido, /jornaleiros/
+1 NAME Maria Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8454@
 0 @I19197@ INDI
@@ -112154,7 +112164,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8455@
 0 @I19199@ INDI
-1 NAME Luísa Lourença, /jornaleiros/
+1 NAME Luísa /Lourença/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8455@
 0 @I19200@ INDI
@@ -112168,7 +112178,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8456@
 0 @I19202@ INDI
-1 NAME Luísa Pereira, de Rendo, /jornaleiros/
+1 NAME Luísa Pereira, de /Rendo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8456@
 0 @I19203@ INDI
@@ -112182,7 +112192,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8457@
 0 @I19205@ INDI
-1 NAME Isabel Lourenço Lograda, /jornaleiros/
+1 NAME Isabel Lourenço /Lograda/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8457@
 0 @I19206@ INDI
@@ -112196,7 +112206,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8458@
 0 @I19208@ INDI
-1 NAME Ana Gomes, /proprietários/
+1 NAME Ana /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8458@
 0 @I19209@ INDI
@@ -112224,7 +112234,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8460@
 0 @I19214@ INDI
-1 NAME Isabel Maria Nunes, desta freguesia, /jornaleiros/
+1 NAME Isabel Maria Nunes, desta /freguesia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8460@
 0 @I19215@ INDI
@@ -112238,7 +112248,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8461@
 0 @I19217@ INDI
-1 NAME Isabel Nunes Ambrósio, desta freguesia, /jornaleiros/
+1 NAME Isabel Nunes Ambrósio, desta /freguesia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8461@
 0 @I19218@ INDI
@@ -112252,7 +112262,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8462@
 0 @I19220@ INDI
-1 NAME Maria dos Anjos Nunes Emídio, /jornaleiros/
+1 NAME Maria dos Anjos Nunes /Emídio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8462@
 0 @I19221@ INDI
@@ -112266,7 +112276,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8463@
 0 @I19223@ INDI
-1 NAME Maria Nunes, /proprietários/
+1 NAME Maria /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8463@
 0 @I19224@ INDI
@@ -112286,7 +112296,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8464@
 0 @I19227@ INDI
-1 NAME Ana Fernandes, de Vila Boa, /proprietários/
+1 NAME Ana Fernandes, de Vila /Boa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8464@
 0 @I19228@ INDI
@@ -112296,7 +112306,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 26/07/1900 — Óbitos 1900 (49)
 1 FAMC @F8465@
 0 @I19229@ INDI
-1 NAME José Nunes Dias, /alfaiate/
+1 NAME José Nunes /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8465@
 0 @I19230@ INDI
@@ -112314,7 +112324,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8466@
 0 @I19233@ INDI
-1 NAME Mariana Garcia Fogeiro, /jornaleiros/
+1 NAME Mariana Garcia /Fogeiro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8466@
 0 @I19234@ INDI
@@ -112324,7 +112334,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 26/07/1900 — Óbitos 1900 (49)
 1 FAMC @F8467@
 0 @I19235@ INDI
-1 NAME Bernardo Lourenço da Inês, /carpinteiro/
+1 NAME Bernardo Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8467@
 0 @I19236@ INDI
@@ -112342,7 +112352,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8468@
 0 @I19239@ INDI
-1 NAME Maria Lourenço da Inês, /jornaleiros/
+1 NAME Maria Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8468@
 0 @I19240@ INDI
@@ -112356,7 +112366,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8469@
 0 @I19242@ INDI
-1 NAME Maria da Felicidade Rodrigues, /jornaleiros/
+1 NAME Maria da Felicidade /Rodrigues/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8469@
 0 @I19243@ INDI
@@ -112370,7 +112380,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8470@
 0 @I19245@ INDI
-1 NAME Maria dos Anjos Gonçalves de Matos, /proprietários/
+1 NAME Maria dos Anjos Gonçalves de /Matos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8470@
 0 @I19246@ INDI
@@ -112384,7 +112394,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8471@
 0 @I19248@ INDI
-1 NAME Maria Isabel Antunes Soares, /jornaleiros/
+1 NAME Maria Isabel Antunes /Soares/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8471@
 0 @I19249@ INDI
@@ -112398,7 +112408,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8472@
 0 @I19251@ INDI
-1 NAME Isabel Carvalha, /proprietários/
+1 NAME Isabel /Carvalha/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8472@
 0 @I19252@ INDI
@@ -112412,7 +112422,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8473@
 0 @I19254@ INDI
-1 NAME Isabel Fernandes Farinha, /proprietários/
+1 NAME Isabel Fernandes /Farinha/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8473@
 0 @I19255@ INDI
@@ -112426,7 +112436,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8474@
 0 @I19257@ INDI
-1 NAME Clara Vaz Lavrador, /jornaleiros/
+1 NAME Clara Vaz /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8474@
 0 @I19258@ INDI
@@ -112440,7 +112450,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8475@
 0 @I19260@ INDI
-1 NAME Maria Nunes, /proprietários/
+1 NAME Maria /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8475@
 0 @I19261@ INDI
@@ -112454,7 +112464,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8476@
 0 @I19263@ INDI
-1 NAME Isabel Gonçalves, /jornaleiros/
+1 NAME Isabel /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8476@
 0 @I19264@ INDI
@@ -112468,7 +112478,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8477@
 0 @I19266@ INDI
-1 NAME Conceição Pereira, desta freguesia, /jornaleiros/
+1 NAME Conceição Pereira, desta /freguesia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8477@
 0 @I19267@ INDI
@@ -112482,7 +112492,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8478@
 0 @I19269@ INDI
-1 NAME Isabel Lourenço da Inês, /jornaleiros/
+1 NAME Isabel Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8478@
 0 @I19270@ INDI
@@ -112496,7 +112506,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8479@
 0 @I19272@ INDI
-1 NAME Maria Robala, /proprietários/
+1 NAME Maria /Robala/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8479@
 0 @I19273@ INDI
@@ -112510,7 +112520,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8480@
 0 @I19275@ INDI
-1 NAME Maria de Jesus, /proprietários/
+1 NAME Maria de /Jesus/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8480@
 0 @I19276@ INDI
@@ -112524,7 +112534,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8481@
 0 @I19278@ INDI
-1 NAME Alexandrina Vaz, /jornaleiros/
+1 NAME Alexandrina /Vaz/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8481@
 0 @I19279@ INDI
@@ -112543,7 +112553,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8482@
 0 @I19282@ INDI
-1 NAME Maria José Martins Vaz, /jornaleiros/
+1 NAME Maria José Martins /Vaz/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8482@
 0 @I19283@ INDI
@@ -112557,7 +112567,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8483@
 0 @I19285@ INDI
-1 NAME Maria dos Anjos Garcia Pereira, /jornaleira/
+1 NAME Maria dos Anjos Garcia /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8483@
 0 @I19286@ INDI
@@ -112571,7 +112581,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8484@
 0 @I19288@ INDI
-1 NAME Maria dos Anjos Martins Garcia, /proprietários/
+1 NAME Maria dos Anjos Martins /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8484@
 0 @I19289@ INDI
@@ -112585,7 +112595,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8485@
 0 @I19291@ INDI
-1 NAME Maria d’Oliveira, /proprietários/
+1 NAME Maria /d’Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8485@
 0 @I19292@ INDI
@@ -112599,7 +112609,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8486@
 0 @I19294@ INDI
-1 NAME Maria da Roseira, /jornaleiros/
+1 NAME Maria da /Roseira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8486@
 0 @I19295@ INDI
@@ -112613,7 +112623,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8487@
 0 @I19297@ INDI
-1 NAME Isabel Gonçalves de Matos, /jornaleiros/
+1 NAME Isabel Gonçalves de /Matos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8487@
 0 @I19298@ INDI
@@ -112627,7 +112637,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8488@
 0 @I19300@ INDI
-1 NAME Maria Gonçalves Martelo, /jornaleiros/
+1 NAME Maria Gonçalves /Martelo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8488@
 0 @I19301@ INDI
@@ -112641,7 +112651,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8489@
 0 @I19303@ INDI
-1 NAME Maria Vaz da Furriela, /proprietários/
+1 NAME Maria Vaz da /Furriela/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8489@
 0 @I19304@ INDI
@@ -112655,7 +112665,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8490@
 0 @I19306@ INDI
-1 NAME Maria Nunes Dias, /proprietários/
+1 NAME Maria Nunes /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8490@
 0 @I19307@ INDI
@@ -112669,7 +112679,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8491@
 0 @I19309@ INDI
-1 NAME Isabel Fernandes Russo, /proprietários/
+1 NAME Isabel Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8491@
 0 @I19310@ INDI
@@ -112683,7 +112693,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8492@
 0 @I19312@ INDI
-1 NAME Mariana Antunes, /jornaleiros/
+1 NAME Mariana /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8492@
 0 @I19313@ INDI
@@ -112697,7 +112707,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8493@
 0 @I19315@ INDI
-1 NAME Maria Nunes, /proprietários/
+1 NAME Maria /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8493@
 0 @I19316@ INDI
@@ -112711,7 +112721,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8494@
 0 @I19318@ INDI
-1 NAME Maria Antónia Martins Ferrador, /proprietários/
+1 NAME Maria Antónia Martins /Ferrador/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8494@
 0 @I19319@ INDI
@@ -112725,7 +112735,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8495@
 0 @I19321@ INDI
-1 NAME Maria José Martins Garcia, /proprietários/
+1 NAME Maria José Martins /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8495@
 0 @I19322@ INDI
@@ -112739,7 +112749,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8496@
 0 @I19324@ INDI
-1 NAME Isabel Martins Viegas, /jornaleiros/
+1 NAME Isabel Martins /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8496@
 0 @I19325@ INDI
@@ -112753,7 +112763,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8497@
 0 @I19327@ INDI
-1 NAME Maria Soares, /proprietários/
+1 NAME Maria /Soares/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8497@
 0 @I19328@ INDI
@@ -112767,7 +112777,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8498@
 0 @I19330@ INDI
-1 NAME Isabel Martins Furriel, /proprietários/
+1 NAME Isabel Martins /Furriel/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8498@
 0 @I19331@ INDI
@@ -112781,7 +112791,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8499@
 0 @I19333@ INDI
-1 NAME Rosa Lourenço do Soito, /proprietários/
+1 NAME Rosa Lourenço do /Soito/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8499@
 0 @I19334@ INDI
@@ -112795,7 +112805,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8500@
 0 @I19336@ INDI
-1 NAME Isabel Martins André, /jornaleiros/
+1 NAME Isabel Martins /André/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8500@
 0 @I19337@ INDI
@@ -112809,7 +112819,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8501@
 0 @I19339@ INDI
-1 NAME Maria Augusta Gonçalves, /proprietários/
+1 NAME Maria Augusta /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8501@
 0 @I19340@ INDI
@@ -112823,7 +112833,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8502@
 0 @I19342@ INDI
-1 NAME Maria Lourenço Lograda, /jornaleiros/
+1 NAME Maria Lourenço /Lograda/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8502@
 0 @I19343@ INDI
@@ -112837,7 +112847,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8503@
 0 @I19345@ INDI
-1 NAME Cândida Nunes, /jornaleiros/
+1 NAME Cândida /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8503@
 0 @I19346@ INDI
@@ -112851,7 +112861,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8504@
 0 @I19348@ INDI
-1 NAME Maria Vaz da Furriela, /proprietários/
+1 NAME Maria Vaz da /Furriela/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8504@
 0 @I19349@ INDI
@@ -112865,7 +112875,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8505@
 0 @I19351@ INDI
-1 NAME Isabel Martins André, /proprietários/
+1 NAME Isabel Martins /André/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8505@
 0 @I19352@ INDI
@@ -112879,7 +112889,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8506@
 0 @I19354@ INDI
-1 NAME Maria Augusta da Fonseca, /jornaleiros/
+1 NAME Maria Augusta da /Fonseca/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8506@
 0 @I19355@ INDI
@@ -112893,7 +112903,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8507@
 0 @I19357@ INDI
-1 NAME Isabel Jorge, /proprietários/
+1 NAME Isabel /Jorge/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8507@
 0 @I19358@ INDI
@@ -112907,7 +112917,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8508@
 0 @I19360@ INDI
-1 NAME Ana Nunes, /jornaleiros/
+1 NAME Ana /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8508@
 0 @I19361@ INDI
@@ -112921,7 +112931,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8509@
 0 @I19363@ INDI
-1 NAME Maria Lourenço Logrado, /jornaleiros/
+1 NAME Maria Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8509@
 0 @I19364@ INDI
@@ -112935,7 +112945,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8510@
 0 @I19366@ INDI
-1 NAME Mariana Pires Robalo, /jornaleiros/
+1 NAME Mariana Pires /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8510@
 0 @I19367@ INDI
@@ -112949,7 +112959,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8511@
 0 @I19369@ INDI
-1 NAME Maria Barata, de Aldeia da Ponte, /lavradores/
+1 NAME Maria Barata, de Aldeia da /Ponte/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8511@
 0 @I19370@ INDI
@@ -112969,7 +112979,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8512@
 0 @I19373@ INDI
-1 NAME Ana Martins, /proprietários/
+1 NAME Ana /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8512@
 0 @I19374@ INDI
@@ -112983,7 +112993,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8513@
 0 @I19376@ INDI
-1 NAME Isabel Robalo, /jornaleiros/
+1 NAME Isabel /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8513@
 0 @I19377@ INDI
@@ -113011,7 +113021,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8515@
 0 @I19382@ INDI
-1 NAME Maria Nunes, /jornaleiros/
+1 NAME Maria /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8515@
 0 @I19383@ INDI
@@ -113025,7 +113035,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8516@
 0 @I19385@ INDI
-1 NAME Ana Fernandes, de Vila Boa, /proprietários/
+1 NAME Ana Fernandes, de Vila /Boa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8516@
 0 @I19386@ INDI
@@ -113035,11 +113045,11 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 15/09/1902 — Óbitos 1902 (45)
 1 FAMC @F8517@
 0 @I19387@ INDI
-1 NAME Manuel António Gonçalves Garrido, /pedreiro/
+1 NAME Manuel António Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8517@
 0 @I19388@ INDI
-1 NAME Benedita Pereira, /jornaleira/
+1 NAME Benedita /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8517@
 0 @I19389@ INDI
@@ -113053,7 +113063,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8518@
 0 @I19391@ INDI
-1 NAME Maria dos Anjos Lopes, /proprietários/
+1 NAME Maria dos Anjos /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8518@
 0 @I19392@ INDI
@@ -113072,7 +113082,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8519@
 0 @I19395@ INDI
-1 NAME Maria Rodrigues, /proprietários/
+1 NAME Maria /Rodrigues/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8519@
 0 @I19396@ INDI
@@ -113086,7 +113096,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8520@
 0 @I19398@ INDI
-1 NAME Isabel Mansa, /lavradores/
+1 NAME Isabel /Mansa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8520@
 0 @I19399@ INDI
@@ -113106,7 +113116,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8521@
 0 @I19402@ INDI
-1 NAME Luísa Russa, /proprietários/
+1 NAME Luísa /Russa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8521@
 0 @I19403@ INDI
@@ -113120,7 +113130,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8522@
 0 @I19405@ INDI
-1 NAME Teresa João, desta freguesia, /jornaleiros/
+1 NAME Teresa João, desta /freguesia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8522@
 0 @I19406@ INDI
@@ -113148,7 +113158,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8524@
 0 @I19411@ INDI
-1 NAME Maria da Conceição Martins Viegas, /proprietários/
+1 NAME Maria da Conceição Martins /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8524@
 0 @I19412@ INDI
@@ -113168,7 +113178,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8525@
 0 @I19415@ INDI
-1 NAME Maria Gonçalves, /proprietários/
+1 NAME Maria /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8525@
 0 @I19416@ INDI
@@ -113196,7 +113206,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8527@
 0 @I19421@ INDI
-1 NAME Maria José Lopes, /proprietários/
+1 NAME Maria José /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8527@
 0 @I19422@ INDI
@@ -113210,7 +113220,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8528@
 0 @I19424@ INDI
-1 NAME Maria Marcos, de Castelo Mendo, /jornaleiros/
+1 NAME Maria Marcos, de Castelo /Mendo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8528@
 0 @I19425@ INDI
@@ -113224,7 +113234,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8529@
 0 @I19427@ INDI
-1 NAME Maria de Jesus Antunes, /jornaleiros/
+1 NAME Maria de Jesus /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8529@
 0 @I19428@ INDI
@@ -113252,7 +113262,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8531@
 0 @I19433@ INDI
-1 NAME Maria Mana, /jornaleiros/
+1 NAME Maria /Mana/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8531@
 0 @I19434@ INDI
@@ -113266,7 +113276,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8532@
 0 @I19436@ INDI
-1 NAME Isabel Vaz, /jornaleiros/
+1 NAME Isabel /Vaz/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8532@
 0 @I19437@ INDI
@@ -113280,7 +113290,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8533@
 0 @I19439@ INDI
-1 NAME Isabel Lourenço Logrado, /jornaleiros/
+1 NAME Isabel Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8533@
 0 @I19440@ INDI
@@ -113290,7 +113300,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 06/07/1903 — Óbitos 1903 (68)
 1 FAMC @F8534@
 0 @I19441@ INDI
-1 NAME Manuel Alexandre Martins, ferreiro, de Vila /Boa/
+1 NAME Manuel Alexandre /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8534@
 0 @I19442@ INDI
@@ -113308,7 +113318,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8535@
 0 @I19445@ INDI
-1 NAME Maria Clara Ambrósio, /jornaleiros/
+1 NAME Maria Clara /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8535@
 0 @I19446@ INDI
@@ -113322,7 +113332,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8536@
 0 @I19448@ INDI
-1 NAME Ana Martins Antão, /proprietários/
+1 NAME Ana Martins /Antão/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8536@
 0 @I19449@ INDI
@@ -113342,7 +113352,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8537@
 0 @I19452@ INDI
-1 NAME Isabel Carrilho, /proprietários/
+1 NAME Isabel /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8537@
 0 @I19453@ INDI
@@ -113356,7 +113366,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8538@
 0 @I19455@ INDI
-1 NAME Maria dos Anjos Gonçalves Martelo, /jornaleiros/
+1 NAME Maria dos Anjos Gonçalves /Martelo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8538@
 0 @I19456@ INDI
@@ -113376,7 +113386,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8539@
 0 @I19459@ INDI
-1 NAME Isabel Maria Gonçalves, /jornaleiros/
+1 NAME Isabel Maria /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8539@
 0 @I19460@ INDI
@@ -113400,7 +113410,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 13/06/1903 — Óbitos 1903 (68)
 1 FAMC @F8541@
 0 @I19464@ INDI
-1 NAME João Gonçalves, pedreiro, de Castelo /Novo/
+1 NAME João /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8541@
 0 @I19465@ INDI
@@ -113418,7 +113428,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8542@
 0 @I19468@ INDI
-1 NAME Maria Nunes Meirinho, /jornaleiros/
+1 NAME Maria Nunes /Meirinho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8542@
 0 @I19469@ INDI
@@ -113432,7 +113442,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8543@
 0 @I19471@ INDI
-1 NAME Maria Isabel Martinho, /jornaleiros/
+1 NAME Maria Isabel /Martinho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8543@
 0 @I19472@ INDI
@@ -113446,7 +113456,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8544@
 0 @I19474@ INDI
-1 NAME Carolina Garcia da Nabais, /proprietários/
+1 NAME Carolina Garcia da /Nabais/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8544@
 0 @I19475@ INDI
@@ -113460,7 +113470,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8545@
 0 @I19477@ INDI
-1 NAME Isabel Augusta Martins, /proprietários/
+1 NAME Isabel Augusta /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8545@
 0 @I19478@ INDI
@@ -113474,7 +113484,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8546@
 0 @I19480@ INDI
-1 NAME Maria Garcia Fogeiro, /jornaleiros/
+1 NAME Maria Garcia /Fogeiro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8546@
 0 @I19481@ INDI
@@ -113488,7 +113498,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8547@
 0 @I19483@ INDI
-1 NAME Isabel Nunes Dias, /jornaleiros/
+1 NAME Isabel Nunes /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8547@
 0 @I19484@ INDI
@@ -113508,7 +113518,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8548@
 0 @I19487@ INDI
-1 NAME Luísa Carrilha, /proprietários/
+1 NAME Luísa /Carrilha/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8548@
 0 @I19488@ INDI
@@ -113522,7 +113532,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8549@
 0 @I19490@ INDI
-1 NAME Mariana Vaz Lavrador, /jornaleiros/
+1 NAME Mariana Vaz /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8549@
 0 @I19491@ INDI
@@ -113542,7 +113552,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8550@
 0 @I19494@ INDI
-1 NAME Maria Gonçalves Martelo, /jornaleiros/
+1 NAME Maria Gonçalves /Martelo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8550@
 0 @I19495@ INDI
@@ -113556,7 +113566,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8551@
 0 @I19497@ INDI
-1 NAME Ana Martins Vaz, /jornaleiros/
+1 NAME Ana Martins /Vaz/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8551@
 0 @I19498@ INDI
@@ -113570,7 +113580,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8552@
 0 @I19500@ INDI
-1 NAME Ana João, /jornaleiros/
+1 NAME Ana /João/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8552@
 0 @I19501@ INDI
@@ -113590,7 +113600,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8553@
 0 @I19504@ INDI
-1 NAME Isabel Martins André, /proprietários/
+1 NAME Isabel Martins /André/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8553@
 0 @I19505@ INDI
@@ -113604,7 +113614,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8554@
 0 @I19507@ INDI
-1 NAME deMaria Fernandes Russo, /proprietários/
+1 NAME deMaria Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8554@
 0 @I19508@ INDI
@@ -113618,7 +113628,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8555@
 0 @I19510@ INDI
-1 NAME Isabel Maria Pereira, /proprietários/
+1 NAME Isabel Maria /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8555@
 0 @I19511@ INDI
@@ -113632,7 +113642,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8556@
 0 @I19513@ INDI
-1 NAME Luísa Lourenço Logrado, /jornaleiros/
+1 NAME Luísa Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8556@
 0 @I19514@ INDI
@@ -113646,7 +113656,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8557@
 0 @I19516@ INDI
-1 NAME Isabel Martins Camejo, de Alfaiates, /jornaleiros/
+1 NAME Isabel Martins Camejo, de /Alfaiates/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8557@
 0 @I19517@ INDI
@@ -113660,7 +113670,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8558@
 0 @I19519@ INDI
-1 NAME Conceição Pereira, de Rendo, /jornaleiros/
+1 NAME Conceição Pereira, de /Rendo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8558@
 0 @I19520@ INDI
@@ -113674,7 +113684,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8559@
 0 @I19522@ INDI
-1 NAME Maria Gonçalves Martelo, /proprietários/
+1 NAME Maria Gonçalves /Martelo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8559@
 0 @I19523@ INDI
@@ -113688,7 +113698,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8560@
 0 @I19525@ INDI
-1 NAME Isabel Pires Robalo, /jornaleiros/
+1 NAME Isabel Pires /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8560@
 0 @I19526@ INDI
@@ -113702,7 +113712,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8561@
 0 @I19528@ INDI
-1 NAME Maria Garcia, desta freguesia, /jornaleiros/
+1 NAME Maria Garcia, desta /freguesia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8561@
 0 @I19529@ INDI
@@ -113722,7 +113732,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8562@
 0 @I19532@ INDI
-1 NAME Maria José Boavida, naturais da Orca, Fundão, /jornaleiros/
+1 NAME Maria José Boavida, naturais da Orca, /Fundão/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8562@
 0 @I19533@ INDI
@@ -113736,7 +113746,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8563@
 0 @I19535@ INDI
-1 NAME Maria Nunes Pereira, /jornaleiros/
+1 NAME Maria Nunes /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8563@
 0 @I19536@ INDI
@@ -113770,7 +113780,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8565@
 0 @I19542@ INDI
-1 NAME Joaquina Garcia, /proprietários/
+1 NAME Joaquina /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8565@
 0 @I19543@ INDI
@@ -113784,7 +113794,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8566@
 0 @I19545@ INDI
-1 NAME Maria do Rosário Lourenço Logrado, /proprietários/
+1 NAME Maria do Rosário Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8566@
 0 @I19546@ INDI
@@ -113812,7 +113822,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8568@
 0 @I19551@ INDI
-1 NAME Isabel Maria Nunes, /jornaleiros/
+1 NAME Isabel Maria /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8568@
 0 @I19552@ INDI
@@ -113826,7 +113836,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8569@
 0 @I19554@ INDI
-1 NAME Maria dos Anjos Gonçalves, /lavradores/
+1 NAME Maria dos Anjos /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8569@
 0 @I19555@ INDI
@@ -113840,7 +113850,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8570@
 0 @I19557@ INDI
-1 NAME Maria Lucas, de Penamacor, /jornaleiros/
+1 NAME Maria Lucas, de /Penamacor/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8570@
 0 @I19558@ INDI
@@ -113850,7 +113860,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 02/06/1904 — Óbitos 1904 (85)
 1 FAMC @F8571@
 0 @I19559@ INDI
-1 NAME Manuel Robalo, /sapateiro/
+1 NAME Manuel /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8571@
 0 @I19560@ INDI
@@ -113874,7 +113884,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8572@
 0 @I19564@ INDI
-1 NAME Maria Augusta Robalo, /jornaleiros/
+1 NAME Maria Augusta /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8572@
 0 @I19565@ INDI
@@ -113888,7 +113898,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8573@
 0 @I19567@ INDI
-1 NAME Isabel Garcia, /jornaleiros/
+1 NAME Isabel /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8573@
 0 @I19568@ INDI
@@ -113898,7 +113908,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 03/11/1904 — Óbitos 1904 (85)
 1 FAMC @F8574@
 0 @I19569@ INDI
-1 NAME José Carrilho, /negociante/
+1 NAME José /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8574@
 0 @I19570@ INDI
@@ -113916,7 +113926,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8575@
 0 @I19573@ INDI
-1 NAME Cândida Nunes Alfaiata, /jornaleiros/
+1 NAME Cândida Nunes /Alfaiata/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8575@
 0 @I19574@ INDI
@@ -113941,7 +113951,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8576@
 0 @I19578@ INDI
-1 NAME Maria Glória Robalo, /proprietários/
+1 NAME Maria Glória /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8576@
 0 @I19579@ INDI
@@ -113981,7 +113991,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8578@
 0 @I19586@ INDI
-1 NAME Ana Nunes, /jornaleiros/
+1 NAME Ana /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8578@
 0 @I19587@ INDI
@@ -114023,7 +114033,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8581@
 0 @I19595@ INDI
-1 NAME Maria Garcia da Roseira, /jornaleiros/
+1 NAME Maria Garcia da /Roseira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8581@
 0 @I19596@ INDI
@@ -114037,7 +114047,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8582@
 0 @I19598@ INDI
-1 NAME Maria Augusta Vaz, /jornaleiros/
+1 NAME Maria Augusta /Vaz/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8582@
 0 @I19599@ INDI
@@ -114051,7 +114061,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8583@
 0 @I19601@ INDI
-1 NAME Maria Antónia Correia, /jornaleiros/
+1 NAME Maria Antónia /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8583@
 0 @I19602@ INDI
@@ -114065,7 +114075,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8584@
 0 @I19604@ INDI
-1 NAME Maria Vaz da Furriela, /lavradores/
+1 NAME Maria Vaz da /Furriela/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8584@
 0 @I19605@ INDI
@@ -114079,7 +114089,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8585@
 0 @I19607@ INDI
-1 NAME Isabel d’Oliveira, /jornaleiros/
+1 NAME Isabel /d’Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8585@
 0 @I19608@ INDI
@@ -114099,7 +114109,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8586@
 0 @I19611@ INDI
-1 NAME Isabel Maria Alves, /proprietários/
+1 NAME Isabel Maria /Alves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8586@
 0 @I19612@ INDI
@@ -114141,7 +114151,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8589@
 0 @I19620@ INDI
-1 NAME Maria Soares Gandaio, /proprietários/
+1 NAME Maria Soares /Gandaio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8589@
 0 @I19621@ INDI
@@ -114155,7 +114165,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8590@
 0 @I19623@ INDI
-1 NAME Luísa Antunes, /jornaleiros/
+1 NAME Luísa /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8590@
 0 @I19624@ INDI
@@ -114183,7 +114193,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8592@
 0 @I19629@ INDI
-1 NAME Mariana Gomes, /jornaleiros/
+1 NAME Mariana /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8592@
 0 @I19630@ INDI
@@ -114197,7 +114207,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8593@
 0 @I19632@ INDI
-1 NAME Isabel Fernandes Farinha, /jornaleiros/
+1 NAME Isabel Fernandes /Farinha/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8593@
 0 @I19633@ INDI
@@ -114211,7 +114221,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8594@
 0 @I19635@ INDI
-1 NAME Isabel Arménia, /jornaleiros/
+1 NAME Isabel /Arménia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8594@
 0 @I19636@ INDI
@@ -114245,7 +114255,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8596@
 0 @I19642@ INDI
-1 NAME Maria Alves, /lavradores/
+1 NAME Maria /Alves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8596@
 0 @I19643@ INDI
@@ -114259,7 +114269,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8597@
 0 @I19645@ INDI
-1 NAME Maria Gonçalves Ambrósio, /jornaleiros/
+1 NAME Maria Gonçalves /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8597@
 0 @I19646@ INDI
@@ -114287,7 +114297,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8599@
 0 @I19651@ INDI
-1 NAME Ângela Gonçalves, /proprietários/
+1 NAME Ângela /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8599@
 0 @I19652@ INDI
@@ -114301,7 +114311,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8600@
 0 @I19654@ INDI
-1 NAME Isabel Maria Nunes Ambrósio, /jornaleiros/
+1 NAME Isabel Maria Nunes /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8600@
 0 @I19655@ INDI
@@ -114339,7 +114349,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 23/10/1904 — Óbitos 1904 (85)
 1 FAMC @F8603@
 0 @I19662@ INDI
-1 NAME Manuel Nunes de Marcos, /carpinteiro/
+1 NAME Manuel Nunes de /Marcos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8603@
 0 @I19663@ INDI
@@ -114367,7 +114377,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8605@
 0 @I19668@ INDI
-1 NAME Maria Nunes do Gabriel, /jornaleiros/
+1 NAME Maria Nunes do /Gabriel/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8605@
 0 @I19669@ INDI
@@ -114381,7 +114391,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8606@
 0 @I19671@ INDI
-1 NAME Maria Cameja, naturais de Vale das Éguas, /proprietários/
+1 NAME Maria Cameja, naturais de Vale das /Éguas/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8606@
 0 @I19672@ INDI
@@ -114395,7 +114405,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8607@
 0 @I19674@ INDI
-1 NAME Rita Nunes Grencha, /jornaleiros/
+1 NAME Rita Nunes /Grencha/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8607@
 0 @I19675@ INDI
@@ -114421,7 +114431,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8608@
 0 @I19679@ INDI
-1 NAME Maria Lourenço Logrado, /jornaleiros/
+1 NAME Maria Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8608@
 0 @I19680@ INDI
@@ -114441,7 +114451,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8609@
 0 @I19683@ INDI
-1 NAME Mariana Gomes, /proprietários/
+1 NAME Mariana /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8609@
 0 @I19684@ INDI
@@ -114455,7 +114465,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8610@
 0 @I19686@ INDI
-1 NAME Barbara Castanha, ambos do Rosmaninhal, /jornaleiros/
+1 NAME Barbara Castanha, ambos do /Rosmaninhal/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8610@
 0 @I19687@ INDI
@@ -114474,7 +114484,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8611@
 0 @I19690@ INDI
-1 NAME Luísa Marques, /lavradores/
+1 NAME Luísa /Marques/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8611@
 0 @I19691@ INDI
@@ -114488,7 +114498,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8612@
 0 @I19693@ INDI
-1 NAME Amélia Gonçalves Garrido, /jornaleiros/
+1 NAME Amélia Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8612@
 0 @I19694@ INDI
@@ -114502,7 +114512,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8613@
 0 @I19696@ INDI
-1 NAME Maria dos Anjos Gomes da Leonor, /lavradores/
+1 NAME Maria dos Anjos Gomes da /Leonor/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8613@
 0 @I19697@ INDI
@@ -114516,7 +114526,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8614@
 0 @I19699@ INDI
-1 NAME Maria da Conceição Viegas Martins, /lavradores/
+1 NAME Maria da Conceição Viegas /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8614@
 0 @I19700@ INDI
@@ -114530,7 +114540,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8615@
 0 @I19702@ INDI
-1 NAME Ana João, /lavradores/
+1 NAME Ana /João/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8615@
 0 @I19703@ INDI
@@ -114558,7 +114568,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8617@
 0 @I19708@ INDI
-1 NAME Maria do Carmo Gonçalves, /jornaleiros/
+1 NAME Maria do Carmo /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8617@
 0 @I19709@ INDI
@@ -114620,7 +114630,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8621@
 0 @I19721@ INDI
-1 NAME Maria Garcia, /proprietários/
+1 NAME Maria /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8621@
 0 @I19722@ INDI
@@ -114634,7 +114644,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8622@
 0 @I19724@ INDI
-1 NAME Catharina Luísa, /proprietários/
+1 NAME Catharina /Luísa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8622@
 0 @I19725@ INDI
@@ -114650,7 +114660,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 13/03/1905 — Óbitos 1905 (47)
 1 FAMC @F8623@
 0 @I19727@ INDI
-1 NAME Manuel Fernandes Russo, /lavrador/
+1 NAME Manuel Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8623@
 0 @I19728@ INDI
@@ -114664,7 +114674,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 13/07/1905 — Óbitos 1905 (47)
 1 FAMC @F8624@
 0 @I19730@ INDI
-1 NAME Manuel Carrilho Quinteiro, /lavrador/
+1 NAME Manuel Carrilho /Quinteiro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8624@
 0 @I19731@ INDI
@@ -114682,7 +114692,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8625@
 0 @I19734@ INDI
-1 NAME Isabel Gonçalves, /proprietários/
+1 NAME Isabel /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8625@
 0 @I19735@ INDI
@@ -114692,7 +114702,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 14/12/1905 — Óbitos 1905 (47)
 1 FAMC @F8626@
 0 @I19736@ INDI
-1 NAME Manuel Lourenço Logrado, /jornaleiro/
+1 NAME Manuel Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8626@
 0 @I19737@ INDI
@@ -114710,7 +114720,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8627@
 0 @I19740@ INDI
-1 NAME Maria Fernandes Russo, /lavradores/
+1 NAME Maria Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8627@
 0 @I19741@ INDI
@@ -114720,7 +114730,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 15/12/1905 — Óbitos 1905 (47)
 1 FAMC @F8628@
 0 @I19742@ INDI
-1 NAME João Antunes, /jornaleiro/
+1 NAME João /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8628@
 0 @I19743@ INDI
@@ -114744,7 +114754,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8629@
 0 @I19747@ INDI
-1 NAME Ana Garcia, /lavradores/
+1 NAME Ana /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8629@
 0 @I19748@ INDI
@@ -114758,7 +114768,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8630@
 0 @I19750@ INDI
-1 NAME Maria Antunes Lousa, /proprietários/
+1 NAME Maria Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8630@
 0 @I19751@ INDI
@@ -114783,7 +114793,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8631@
 0 @I19755@ INDI
-1 NAME Maria de Amaral, /proprietários/
+1 NAME Maria de /Amaral/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8631@
 0 @I19756@ INDI
@@ -114799,7 +114809,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 21/04/1905 — Óbitos 1905 (47)
 1 FAMC @F8632@
 0 @I19758@ INDI
-1 NAME José Lopes, /jornaleiro/
+1 NAME José /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8632@
 0 @I19759@ INDI
@@ -114837,7 +114847,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8634@
 0 @I19766@ INDI
-1 NAME Rita Gonçalves Garrido, /jornaleiros/
+1 NAME Rita Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8634@
 0 @I19767@ INDI
@@ -114847,7 +114857,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 24/09/1905 — Óbitos 1905 (47)
 1 FAMC @F8635@
 0 @I19768@ INDI
-1 NAME Domingos Nunes Meirinho, /lavrador/
+1 NAME Domingos Nunes /Meirinho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8635@
 0 @I19769@ INDI
@@ -114865,7 +114875,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8636@
 0 @I19772@ INDI
-1 NAME Mariana Carrilho, /proprietários/
+1 NAME Mariana /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8636@
 0 @I19773@ INDI
@@ -114875,7 +114885,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 26/08/1905 — Óbitos 1905 (47)
 1 FAMC @F8637@
 0 @I19774@ INDI
-1 NAME Bernardo Gonçalves Antão, /jornaleiro/
+1 NAME Bernardo Gonçalves /Antão/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8637@
 0 @I19775@ INDI
@@ -114893,7 +114903,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8638@
 0 @I19778@ INDI
-1 NAME Maria Gonçalves Antão, /jornaleiros/
+1 NAME Maria Gonçalves /Antão/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8638@
 0 @I19779@ INDI
@@ -114907,7 +114917,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8639@
 0 @I19781@ INDI
-1 NAME Maria dos Anjos Gonçalves de Matos, /lavradores/
+1 NAME Maria dos Anjos Gonçalves de /Matos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8639@
 0 @I19782@ INDI
@@ -114935,7 +114945,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8641@
 0 @I19787@ INDI
-1 NAME Isabel Gonçalves, /proprietários/
+1 NAME Isabel /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8641@
 0 @I19788@ INDI
@@ -114963,7 +114973,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8643@
 0 @I19793@ INDI
-1 NAME Luísa Robalo, /jornaleiros/
+1 NAME Luísa /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8643@
 0 @I19794@ INDI
@@ -114977,7 +114987,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8644@
 0 @I19796@ INDI
-1 NAME Maria Jorge, /lavradores/
+1 NAME Maria /Jorge/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8644@
 0 @I19797@ INDI
@@ -114991,7 +115001,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8645@
 0 @I19799@ INDI
-1 NAME Maria Carrilho, /proprietários/
+1 NAME Maria /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8645@
 0 @I19800@ INDI
@@ -115033,7 +115043,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8648@
 0 @I19808@ INDI
-1 NAME Maria Fernandes Lousa, /lavradores/
+1 NAME Maria Fernandes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8648@
 0 @I19809@ INDI
@@ -115047,7 +115057,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8649@
 0 @I19811@ INDI
-1 NAME Maria Luís, /jornaleiros/
+1 NAME Maria /Luís/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8649@
 0 @I19812@ INDI
@@ -115055,7 +115065,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8650@
 0 @I19813@ INDI
-1 NAME Ana Antunes, /jornaleiros/
+1 NAME Ana /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8650@
 0 @I19814@ INDI
@@ -115069,7 +115079,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8651@
 0 @I19816@ INDI
-1 NAME Maria Antónia Garcia de Carvalho, /lavradores/
+1 NAME Maria Antónia Garcia de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8651@
 0 @I19817@ INDI
@@ -115097,7 +115107,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8653@
 0 @I19822@ INDI
-1 NAME Isabel Maria Lourenço Logrado, /proprietários/
+1 NAME Isabel Maria Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8653@
 0 @I19823@ INDI
@@ -115111,7 +115121,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8654@
 0 @I19825@ INDI
-1 NAME Maria da Luz Afonso, /lavradores/
+1 NAME Maria da Luz /Afonso/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8654@
 0 @I19826@ INDI
@@ -115131,7 +115141,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8655@
 0 @I19829@ INDI
-1 NAME Isabel Maria Nunes Ambrósio, /jornaleiros/
+1 NAME Isabel Maria Nunes /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8655@
 0 @I19830@ INDI
@@ -115141,7 +115151,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 22/12/1906 — Óbitos 1906 (34)
 1 FAMC @F8656@
 0 @I19831@ INDI
-1 NAME João Silvestre, /pedreiro/
+1 NAME João /Silvestre/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8656@
 0 @I19832@ INDI
@@ -115165,7 +115175,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8657@
 0 @I19836@ INDI
-1 NAME Maria Robalo, /jornaleiros/
+1 NAME Maria /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8657@
 0 @I19837@ INDI
@@ -115179,7 +115189,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8658@
 0 @I19839@ INDI
-1 NAME Isabel Martins, /jornaleiros/
+1 NAME Isabel /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8658@
 0 @I19840@ INDI
@@ -115189,7 +115199,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 25/01/1906 — Óbitos 1906 (34)
 1 FAMC @F8659@
 0 @I19841@ INDI
-1 NAME José Nunes Dias, /lavrador/
+1 NAME José Nunes /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8659@
 0 @I19842@ INDI
@@ -115203,7 +115213,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 25/01/1906 — Óbitos 1906 (34)
 1 FAMC @F8660@
 0 @I19844@ INDI
-1 NAME Manuel Robalo, /jornaleiro/
+1 NAME Manuel /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8660@
 0 @I19845@ INDI
@@ -115249,7 +115259,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8663@
 0 @I19854@ INDI
-1 NAME Maria Gonçalves Ambrósio, /jornaleiros/
+1 NAME Maria Gonçalves /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8663@
 0 @I19855@ INDI
@@ -115283,7 +115293,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8665@
 0 @I19861@ INDI
-1 NAME Maria Antónia Martins Ferrador, /lavradores/
+1 NAME Maria Antónia Martins /Ferrador/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8665@
 0 @I19862@ INDI
@@ -115297,7 +115307,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8666@
 0 @I19864@ INDI
-1 NAME Leonor Antunes, /jornaleiros/
+1 NAME Leonor /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8666@
 0 @I19865@ INDI
@@ -115325,7 +115335,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8668@
 0 @I19870@ INDI
-1 NAME Leopoldina Augusta, esta de Vila do Touro, /jornaleiros/
+1 NAME Leopoldina Augusta, esta de Vila do /Touro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8668@
 0 @I19871@ INDI
@@ -115371,7 +115381,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8670@
 0 @I19879@ INDI
-1 NAME Maria Gomes da Leonor, /jornaleiros/
+1 NAME Maria Gomes da /Leonor/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8670@
 0 @I19880@ INDI
@@ -115405,7 +115415,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8672@
 0 @I19886@ INDI
-1 NAME Maria Lopes Pereira, /jornaleiros/
+1 NAME Maria Lopes /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8672@
 0 @I19887@ INDI
@@ -115431,7 +115441,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8673@
 0 @I19891@ INDI
-1 NAME Isabel Maria Jorge Perlouro, /jornaleiros/
+1 NAME Isabel Maria Jorge /Perlouro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8673@
 0 @I19892@ INDI
@@ -115445,7 +115455,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8674@
 0 @I19894@ INDI
-1 NAME Maria dos Anjos Martins, /proprietários/
+1 NAME Maria dos Anjos /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8674@
 0 @I19895@ INDI
@@ -115459,7 +115469,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8675@
 0 @I19897@ INDI
-1 NAME Maria Amélia, /jornaleiros/
+1 NAME Maria /Amélia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8675@
 0 @I19898@ INDI
@@ -115479,7 +115489,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8676@
 0 @I19901@ INDI
-1 NAME Isabel Antunes, /proprietários/
+1 NAME Isabel /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8676@
 0 @I19902@ INDI
@@ -115493,7 +115503,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8677@
 0 @I19904@ INDI
-1 NAME Beatriz Pereira de Paula, /jornaleiros/
+1 NAME Beatriz Pereira de /Paula/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8677@
 0 @I19905@ INDI
@@ -115507,7 +115517,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8678@
 0 @I19907@ INDI
-1 NAME Maria Antónia Martins Nicolau, /jornaleiros/
+1 NAME Maria Antónia Martins /Nicolau/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8678@
 0 @I19908@ INDI
@@ -115521,7 +115531,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8679@
 0 @I19910@ INDI
-1 NAME Isabel Maria Ferrador, /jornaleiros/
+1 NAME Isabel Maria /Ferrador/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8679@
 0 @I19911@ INDI
@@ -115541,7 +115551,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8680@
 0 @I19914@ INDI
-1 NAME Rosalina Robalo, /lavradores/
+1 NAME Rosalina /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8680@
 0 @I19915@ INDI
@@ -115555,7 +115565,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8681@
 0 @I19917@ INDI
-1 NAME Isabel Garcia Pereira, /jornaleiros/
+1 NAME Isabel Garcia /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8681@
 0 @I19918@ INDI
@@ -115565,7 +115575,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 23/02/1907 — Óbitos 1907 (43)
 1 FAMC @F8682@
 0 @I19919@ INDI
-1 NAME João Martins Viegas, /carpinteiro/
+1 NAME João Martins /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8682@
 0 @I19920@ INDI
@@ -115583,7 +115593,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8683@
 0 @I19923@ INDI
-1 NAME Maria Lourenço da Inês, /lavradores/
+1 NAME Maria Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8683@
 0 @I19924@ INDI
@@ -115623,7 +115633,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8685@
 0 @I19931@ INDI
-1 NAME Maria Martins Corceiro, /proprietários/
+1 NAME Maria Martins /Corceiro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8685@
 0 @I19932@ INDI
@@ -115675,7 +115685,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8687@
 0 @I19941@ INDI
-1 NAME Maria dos Anjos Gomes da Leonor, /lavradores/
+1 NAME Maria dos Anjos Gomes da /Leonor/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8687@
 0 @I19942@ INDI
@@ -115689,7 +115699,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8688@
 0 @I19944@ INDI
-1 NAME Maria do Carmo Santos, /jornaleiros/
+1 NAME Maria do Carmo /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8688@
 0 @I19945@ INDI
@@ -115731,7 +115741,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8691@
 0 @I19953@ INDI
-1 NAME Luísa Alves, /proprietários/
+1 NAME Luísa /Alves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8691@
 0 @I19954@ INDI
@@ -115745,7 +115755,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8692@
 0 @I19956@ INDI
-1 NAME Isabel Maria Ferrador, /lavradores/
+1 NAME Isabel Maria /Ferrador/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8692@
 0 @I19957@ INDI
@@ -115765,7 +115775,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8693@
 0 @I19960@ INDI
-1 NAME Petra Fernandes Monteiro, /jornaleiros/
+1 NAME Petra Fernandes /Monteiro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8693@
 0 @I19961@ INDI
@@ -115779,7 +115789,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8694@
 0 @I19963@ INDI
-1 NAME Maria Lourenço da Inês, /jornaleiros/
+1 NAME Maria Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8694@
 0 @I19964@ INDI
@@ -115799,7 +115809,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8695@
 0 @I19967@ INDI
-1 NAME Isabel Martins Vaz, /jornaleiros/
+1 NAME Isabel Martins /Vaz/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8695@
 0 @I19968@ INDI
@@ -115819,7 +115829,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8696@
 0 @I19971@ INDI
-1 NAME Rosária Lopes Pereira, /jornaleiros/
+1 NAME Rosária Lopes /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8696@
 0 @I19972@ INDI
@@ -115833,7 +115843,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8697@
 0 @I19974@ INDI
-1 NAME Maria Antónia Antunes Lousa, /jornaleiros/
+1 NAME Maria Antónia Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8697@
 0 @I19975@ INDI
@@ -115847,7 +115857,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8698@
 0 @I19977@ INDI
-1 NAME Maria Rodrigues, /jornaleiros/
+1 NAME Maria /Rodrigues/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8698@
 0 @I19978@ INDI
@@ -115861,7 +115871,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8699@
 0 @I19980@ INDI
-1 NAME Mariana Antunes, /jornaleiros/
+1 NAME Mariana /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8699@
 0 @I19981@ INDI
@@ -115875,7 +115885,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8700@
 0 @I19983@ INDI
-1 NAME Luísa d’Oliveira, /jornaleiros/
+1 NAME Luísa /d’Oliveira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8700@
 0 @I19984@ INDI
@@ -115885,7 +115895,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 19/09/1908 — Óbitos 1908 (53)
 1 FAMC @F8701@
 0 @I19985@ INDI
-1 NAME Narciso Gomes, /lavrador/
+1 NAME Narciso /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8701@
 0 @I19986@ INDI
@@ -115903,7 +115913,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8702@
 0 @I19989@ INDI
-1 NAME Isabel Martins Furriel, /proprietários/
+1 NAME Isabel Martins /Furriel/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8702@
 0 @I19990@ INDI
@@ -115919,7 +115929,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 23/08/1908 — Óbitos 1908 (53)
 1 FAMC @F8703@
 0 @I19992@ INDI
-1 NAME Joaquim Amaral Pelicano, jornaleiro, de /Alfaiates/
+1 NAME Joaquim Amaral /Pelicano/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8703@
 0 @I19993@ INDI
@@ -115965,7 +115975,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8706@
 0 @I20002@ INDI
-1 NAME Isabel Nunes, /proprietários/
+1 NAME Isabel /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8706@
 0 @I20003@ INDI
@@ -115979,7 +115989,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8707@
 0 @I20005@ INDI
-1 NAME Lucinda Viriato Lopes, /proprietários/
+1 NAME Lucinda Viriato /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8707@
 0 @I20006@ INDI
@@ -116003,7 +116013,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 29/05/1908 — Óbitos 1908 (53)
 1 FAMC @F8709@
 0 @I20010@ INDI
-1 NAME Lourenço Logrado, /lavrador/
+1 NAME Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8709@
 0 @I20011@ INDI
@@ -116017,7 +116027,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 30/01/1908 — Óbitos 1908 (53)
 1 FAMC @F8710@
 0 @I20013@ INDI
-1 NAME Manuel Lourenço da Inês, /jornaleiro/
+1 NAME Manuel Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8710@
 0 @I20014@ INDI
@@ -116049,7 +116059,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8712@
 0 @I20020@ INDI
-1 NAME Maria da Luz Afonso, /jornaleiros/
+1 NAME Maria da Luz /Afonso/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8712@
 0 @I20021@ INDI
@@ -116059,7 +116069,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 01/08/1909 — Óbitos 1909 (87)
 1 FAMC @F8713@
 0 @I20022@ INDI
-1 NAME Manuel António Gonçalves Garrido, /pedreiro/
+1 NAME Manuel António Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8713@
 0 @I20023@ INDI
@@ -116073,7 +116083,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 01/08/1909 — Óbitos 1909 (87)
 1 FAMC @F8714@
 0 @I20025@ INDI
-1 NAME Francisco Damas, jornaleiro, da /Nave/
+1 NAME Francisco /Damas/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8714@
 0 @I20026@ INDI
@@ -116103,7 +116113,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8715@
 0 @I20031@ INDI
-1 NAME Maria dos Santos, /jornaleiros/
+1 NAME Maria dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8715@
 0 @I20032@ INDI
@@ -116113,7 +116123,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 04/07/1909 — Óbitos 1909 (87)
 1 FAMC @F8716@
 0 @I20033@ INDI
-1 NAME Manuel Gonçalves Filipe, /lavrador/
+1 NAME Manuel Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8716@
 0 @I20034@ INDI
@@ -116145,7 +116155,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8718@
 0 @I20040@ INDI
-1 NAME Luísa Martins Furriel, /proprietários/
+1 NAME Luísa Martins /Furriel/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8718@
 0 @I20041@ INDI
@@ -116171,7 +116181,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8719@
 0 @I20045@ INDI
-1 NAME Leonor Garcia, /proprietários/
+1 NAME Leonor /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8719@
 0 @I20046@ INDI
@@ -116185,7 +116195,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8720@
 0 @I20048@ INDI
-1 NAME Maria José Antunes, /jornaleiros/
+1 NAME Maria José /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8720@
 0 @I20049@ INDI
@@ -116199,7 +116209,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8721@
 0 @I20051@ INDI
-1 NAME Isabel Augusta Martins Garcia, /proprietários/
+1 NAME Isabel Augusta Martins /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8721@
 0 @I20052@ INDI
@@ -116239,7 +116249,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8723@
 0 @I20059@ INDI
-1 NAME Maria da Ascenção, /lavradores/
+1 NAME Maria da /Ascenção/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8723@
 0 @I20060@ INDI
@@ -116259,7 +116269,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8724@
 0 @I20063@ INDI
-1 NAME Maria Augusta Robalo, /lavradores/
+1 NAME Maria Augusta /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8724@
 0 @I20064@ INDI
@@ -116287,7 +116297,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8726@
 0 @I20069@ INDI
-1 NAME Maria Martinho, /jornaleiros/
+1 NAME Maria /Martinho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8726@
 0 @I20070@ INDI
@@ -116329,7 +116339,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8729@
 0 @I20078@ INDI
-1 NAME Maria Martins Viegas, /jornaleiros/
+1 NAME Maria Martins /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8729@
 0 @I20079@ INDI
@@ -116348,7 +116358,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8730@
 0 @I20082@ INDI
-1 NAME Isabel Jorge, /jornaleiros/
+1 NAME Isabel /Jorge/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8730@
 0 @I20083@ INDI
@@ -116362,7 +116372,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8731@
 0 @I20085@ INDI
-1 NAME Isabel Gomes, /proprietários/
+1 NAME Isabel /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8731@
 0 @I20086@ INDI
@@ -116372,7 +116382,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 19/01/1909 — Óbitos 1909 (87)
 1 FAMC @F8732@
 0 @I20087@ INDI
-1 NAME João Gonçalves Filipe, /jornaleiro/
+1 NAME João Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8732@
 0 @I20088@ INDI
@@ -116390,7 +116400,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8733@
 0 @I20091@ INDI
-1 NAME Isabel Maria Alves, /proprietários/
+1 NAME Isabel Maria /Alves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8733@
 0 @I20092@ INDI
@@ -116410,7 +116420,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8734@
 0 @I20095@ INDI
-1 NAME Isabel Maria Gonçalves Ambrósio, /jornaleiros/
+1 NAME Isabel Maria Gonçalves /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8734@
 0 @I20096@ INDI
@@ -116424,7 +116434,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8735@
 0 @I20098@ INDI
-1 NAME Maria Augusta Martins André, /proprietários/
+1 NAME Maria Augusta Martins /André/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8735@
 0 @I20099@ INDI
@@ -116444,7 +116454,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8736@
 0 @I20102@ INDI
-1 NAME Esperança Fernandes Russo, /jornaleiros/
+1 NAME Esperança Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8736@
 0 @I20103@ INDI
@@ -116458,7 +116468,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8737@
 0 @I20105@ INDI
-1 NAME Maria Benedita, /jornaleiros/
+1 NAME Maria /Benedita/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8737@
 0 @I20106@ INDI
@@ -116472,7 +116482,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8738@
 0 @I20108@ INDI
-1 NAME Isabel Ventura, /jornaleiros/
+1 NAME Isabel /Ventura/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8738@
 0 @I20109@ INDI
@@ -116486,7 +116496,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8739@
 0 @I20111@ INDI
-1 NAME Isabel Jorge, /lavradores/
+1 NAME Isabel /Jorge/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8739@
 0 @I20112@ INDI
@@ -116538,7 +116548,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8741@
 0 @I20121@ INDI
-1 NAME Luísa Martins André, /proprietários/
+1 NAME Luísa Martins /André/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8741@
 0 @I20122@ INDI
@@ -116552,7 +116562,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8742@
 0 @I20124@ INDI
-1 NAME Maria Isabel Nunes Emídio, /jornaleiros/
+1 NAME Maria Isabel Nunes /Emídio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8742@
 0 @I20125@ INDI
@@ -116562,7 +116572,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 27/05/1909 — Óbitos 1909 (87)
 1 FAMC @F8743@
 0 @I20126@ INDI
-1 NAME Joaquim Gonçalves Garrido, /pedreiro/
+1 NAME Joaquim Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8743@
 0 @I20127@ INDI
@@ -116586,7 +116596,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8744@
 0 @I20131@ INDI
-1 NAME Ana Martins da Teresa, /lavradores/
+1 NAME Ana Martins da /Teresa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8744@
 0 @I20132@ INDI
@@ -116600,7 +116610,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8745@
 0 @I20134@ INDI
-1 NAME Beatriz Gonçalves Garrido, /jornaleiros/
+1 NAME Beatriz Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8745@
 0 @I20135@ INDI
@@ -116664,7 +116674,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 30/10/1909 — Óbitos 1909 (87)
 1 FAMC @F8749@
 0 @I20147@ INDI
-1 NAME José Alexandre Nunes Dias, /alfaiate/
+1 NAME José Alexandre Nunes /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8749@
 0 @I20148@ INDI
@@ -116682,7 +116692,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8750@
 0 @I20151@ INDI
-1 NAME Maria Robalo, /lavradores/
+1 NAME Maria /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8750@
 0 @I20152@ INDI
@@ -116692,7 +116702,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 31/07/1909 — Óbitos 1909 (87)
 1 FAMC @F8751@
 0 @I20153@ INDI
-1 NAME Manuel Martins Nicolau, /sapateiro/
+1 NAME Manuel Martins /Nicolau/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8751@
 0 @I20154@ INDI
@@ -116716,7 +116726,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8752@
 0 @I20158@ INDI
-1 NAME Quitéria Martins André, /jornaleiros/
+1 NAME Quitéria Martins /André/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8752@
 0 @I20159@ INDI
@@ -116730,7 +116740,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8753@
 0 @I20161@ INDI
-1 NAME Ana Martins Ferrador, /jornaleiros/
+1 NAME Ana Martins /Ferrador/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8753@
 0 @I20162@ INDI
@@ -116750,7 +116760,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8754@
 0 @I20165@ INDI
-1 NAME Maria Antónia Martins, /jornaleiros/
+1 NAME Maria Antónia /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8754@
 0 @I20166@ INDI
@@ -116764,7 +116774,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8755@
 0 @I20168@ INDI
-1 NAME Maria Antónia Rodrigues, /jornaleiros/
+1 NAME Maria Antónia /Rodrigues/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8755@
 0 @I20169@ INDI
@@ -116790,7 +116800,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8756@
 0 @I20173@ INDI
-1 NAME Rosária da Luz Fernandes Farinha, /proprietários/
+1 NAME Rosária da Luz Fernandes /Farinha/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8756@
 0 @I20174@ INDI
@@ -116804,7 +116814,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8757@
 0 @I20176@ INDI
-1 NAME Leopoldina Augusta, de Vila do Touro, /jornaleiros/
+1 NAME Leopoldina Augusta, de Vila do /Touro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8757@
 0 @I20177@ INDI
@@ -116832,7 +116842,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8759@
 0 @I20182@ INDI
-1 NAME Agostinha da Paixão, /jornaleiros/
+1 NAME Agostinha da /Paixão/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8759@
 0 @I20183@ INDI
@@ -116846,7 +116856,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8760@
 0 @I20185@ INDI
-1 NAME Maria Gonçalves Antão, /jornaleiros/
+1 NAME Maria Gonçalves /Antão/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8760@
 0 @I20186@ INDI
@@ -116866,7 +116876,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8761@
 0 @I20189@ INDI
-1 NAME Maria Pereira, /jornaleiros/
+1 NAME Maria /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8761@
 0 @I20190@ INDI
@@ -116900,7 +116910,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8763@
 0 @I20196@ INDI
-1 NAME Angela Gonçalves, /jornaleiros/
+1 NAME Angela /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8763@
 0 @I20197@ INDI
@@ -116910,7 +116920,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 15/07/1910 — Óbitos 1910 (58)
 1 FAMC @F8764@
 0 @I20198@ INDI
-1 NAME Joaquim Duarte, /pedreiro/
+1 NAME Joaquim /Duarte/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8764@
 0 @I20199@ INDI
@@ -116928,7 +116938,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8765@
 0 @I20202@ INDI
-1 NAME Isabel Nunes Emídio, /lavradores/
+1 NAME Isabel Nunes /Emídio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8765@
 0 @I20203@ INDI
@@ -116962,7 +116972,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8767@
 0 @I20209@ INDI
-1 NAME Luísa Martins, /proprietários/
+1 NAME Luísa /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8767@
 0 @I20210@ INDI
@@ -116976,7 +116986,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8768@
 0 @I20212@ INDI
-1 NAME Luísa Dias, /jornaleiros/
+1 NAME Luísa /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8768@
 0 @I20213@ INDI
@@ -116990,7 +117000,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8769@
 0 @I20215@ INDI
-1 NAME Maria Augusta Fernandes, /jornaleiros/
+1 NAME Maria Augusta /Fernandes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8769@
 0 @I20216@ INDI
@@ -117010,7 +117020,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8770@
 0 @I20219@ INDI
-1 NAME Piedade Pereira, /jornaleiros/
+1 NAME Piedade /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8770@
 0 @I20220@ INDI
@@ -117042,7 +117052,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8771@
 0 @I20225@ INDI
-1 NAME Isabel Garcia, /proprietários/
+1 NAME Isabel /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8771@
 0 @I20226@ INDI
@@ -117062,7 +117072,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8772@
 0 @I20229@ INDI
-1 NAME Isabel Gonçalves Filipe, /jornaleiros/
+1 NAME Isabel Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8772@
 0 @I20230@ INDI
@@ -117076,7 +117086,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8773@
 0 @I20232@ INDI
-1 NAME Maria de Jesus, esta de Barbacena, Elvas, /jornaleiros/
+1 NAME Maria de Jesus, esta de Barbacena, /Elvas/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8773@
 0 @I20233@ INDI
@@ -117095,7 +117105,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8774@
 0 @I20236@ INDI
-1 NAME Luísa Nunes, /jornaleiros/
+1 NAME Luísa /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8774@
 0 @I20237@ INDI
@@ -117109,7 +117119,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8775@
 0 @I20239@ INDI
-1 NAME Cândida Nunes Alfaiata, /jornaleiros/
+1 NAME Cândida Nunes /Alfaiata/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8775@
 0 @I20240@ INDI
@@ -117129,7 +117139,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8776@
 0 @I20243@ INDI
-1 NAME Josefa Gonçalves, esta da Freineda, /proprietários/
+1 NAME Josefa Gonçalves, esta da /Freineda/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8776@
 0 @I20244@ INDI
@@ -117143,7 +117153,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8777@
 0 @I20246@ INDI
-1 NAME Luísa Lourenço, /jornaleiros/
+1 NAME Luísa /Lourenço/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8777@
 0 @I20247@ INDI
@@ -117157,7 +117167,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8778@
 0 @I20249@ INDI
-1 NAME Ana Robalo, /jornaleiros/
+1 NAME Ana /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8778@
 0 @I20250@ INDI
@@ -117185,7 +117195,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8780@
 0 @I20255@ INDI
-1 NAME Isabel maria Gonçalves de Matos, /jornaleiros/
+1 NAME Isabel maria Gonçalves de /Matos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8780@
 0 @I20256@ INDI
@@ -117199,7 +117209,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8781@
 0 @I20258@ INDI
-1 NAME Isabel de Carvalho, /jornaleiros/
+1 NAME Isabel de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8781@
 0 @I20259@ INDI
@@ -117213,7 +117223,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8782@
 0 @I20261@ INDI
-1 NAME Juliana Catarina, da mesma freguesia, /jornaleiros/
+1 NAME Juliana Catarina, da mesma /freguesia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8782@
 0 @I20262@ INDI
@@ -117227,7 +117237,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8783@
 0 @I20264@ INDI
-1 NAME Emília de Jesus Nunes Dias, /jornaleiros/
+1 NAME Emília de Jesus Nunes /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8783@
 0 @I20265@ INDI
@@ -117247,7 +117257,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8784@
 0 @I20268@ INDI
-1 NAME Maria dos Anjos Martins Garcia, /proprietários/
+1 NAME Maria dos Anjos Martins /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8784@
 0 @I20269@ INDI
@@ -117261,7 +117271,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8785@
 0 @I20271@ INDI
-1 NAME Isabel Gonçalves Filipe, /jornaleiros/
+1 NAME Isabel Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8785@
 0 @I20272@ INDI
@@ -117275,7 +117285,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8786@
 0 @I20274@ INDI
-1 NAME Luísa Lourenço da Inês, /jornaleiros/
+1 NAME Luísa Lourenço da /Inês/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8786@
 0 @I20275@ INDI
@@ -117301,7 +117311,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8787@
 0 @I20279@ INDI
-1 NAME Maria Gonçalves Ambrósio, /lavradores/
+1 NAME Maria Gonçalves /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8787@
 0 @I20280@ INDI
@@ -117315,7 +117325,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8788@
 0 @I20282@ INDI
-1 NAME Isabel Martins André, /jornaleiros/
+1 NAME Isabel Martins /André/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8788@
 0 @I20283@ INDI
@@ -117334,7 +117344,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8789@
 0 @I20286@ INDI
-1 NAME Isabel Maria Gonçalves, /proprietários/
+1 NAME Isabel Maria /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8789@
 0 @I20287@ INDI
@@ -117348,7 +117358,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8790@
 0 @I20289@ INDI
-1 NAME Ana Fernandes Russo, /lavradores/
+1 NAME Ana Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8790@
 0 @I20290@ INDI
@@ -117380,7 +117390,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8791@
 0 @I20295@ INDI
-1 NAME Maria André, /proprietários/
+1 NAME Maria /André/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8791@
 0 @I20296@ INDI
@@ -117394,7 +117404,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8792@
 0 @I20298@ INDI
-1 NAME Maria Luís, /jornaleiros/
+1 NAME Maria /Luís/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8792@
 0 @I20299@ INDI
@@ -117408,7 +117418,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8793@
 0 @I20301@ INDI
-1 NAME Maria Luís, /jornaleiros/
+1 NAME Maria /Luís/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8793@
 0 @I20302@ INDI
@@ -117422,7 +117432,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8794@
 0 @I20304@ INDI
-1 NAME Ana Soares Gandaio, /jornaleiros/
+1 NAME Ana Soares /Gandaio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8794@
 0 @I20305@ INDI
@@ -117436,7 +117446,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8795@
 0 @I20307@ INDI
-1 NAME Isabel Garcia Fogeiro, /jornaleiros/
+1 NAME Isabel Garcia /Fogeiro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8795@
 0 @I20308@ INDI
@@ -117450,7 +117460,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8796@
 0 @I20310@ INDI
-1 NAME Piedade Fernandes Sanches, /lavradores/
+1 NAME Piedade Fernandes /Sanches/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8796@
 0 @I20311@ INDI
@@ -117464,7 +117474,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8797@
 0 @I20313@ INDI
-1 NAME Maria Gonçalves Garrido, /jornaleiros/
+1 NAME Maria Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8797@
 0 @I20314@ INDI
@@ -117484,7 +117494,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8798@
 0 @I20317@ INDI
-1 NAME Maria Vaz Fortuna, /jornaleiros/
+1 NAME Maria Vaz /Fortuna/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8798@
 0 @I20318@ INDI
@@ -117504,7 +117514,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8799@
 0 @I20321@ INDI
-1 NAME Ana Jorge, /proprietários/
+1 NAME Ana /Jorge/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8799@
 0 @I20322@ INDI
@@ -117518,7 +117528,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8800@
 0 @I20324@ INDI
-1 NAME Ana Martins Nicolau, já falecidos, /jornaleiros/
+1 NAME Ana Martins Nicolau, já /falecidos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8800@
 0 @I20325@ INDI
@@ -117532,7 +117542,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8801@
 0 @I20327@ INDI
-1 NAME Maria Fernandes Farinha, /jornaleiros/
+1 NAME Maria Fernandes /Farinha/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8801@
 0 @I20328@ INDI
@@ -117546,7 +117556,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8802@
 0 @I20330@ INDI
-1 NAME Luísa Manso, /proprietários/
+1 NAME Luísa /Manso/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8802@
 0 @I20331@ INDI
@@ -117566,7 +117576,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8803@
 0 @I20334@ INDI
-1 NAME Luísa Gomes, /jornaleiros/
+1 NAME Luísa /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8803@
 0 @I20335@ INDI
@@ -117580,7 +117590,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8804@
 0 @I20337@ INDI
-1 NAME Maria Martins Viegas, /lavradores/
+1 NAME Maria Martins /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8804@
 0 @I20338@ INDI
@@ -117594,7 +117604,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8805@
 0 @I20340@ INDI
-1 NAME Maria Nunes de Marcos, /jornaleiros/
+1 NAME Maria Nunes de /Marcos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8805@
 0 @I20341@ INDI
@@ -117608,7 +117618,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8806@
 0 @I20343@ INDI
-1 NAME Maria da Glória Nunes, /proprietários/
+1 NAME Maria da Glória /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8806@
 0 @I20344@ INDI
@@ -117622,7 +117632,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8807@
 0 @I20346@ INDI
-1 NAME maria Luísa Gonçalves Filipe, /lavradores/
+1 NAME maria Luísa Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8807@
 0 @I20347@ INDI
@@ -117632,7 +117642,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 09/09/1912 — Óbitos 1912 (51)
 1 FAMC @F8808@
 0 @I20348@ INDI
-1 NAME João Vaz Lavrador, /jornaleiro/
+1 NAME João Vaz /Lavrador/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8808@
 0 @I20349@ INDI
@@ -117661,7 +117671,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8809@
 0 @I20354@ INDI
-1 NAME Agostinha Lamas, /jornaleiros/
+1 NAME Agostinha /Lamas/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8809@
 0 @I20355@ INDI
@@ -117675,7 +117685,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8810@
 0 @I20357@ INDI
-1 NAME Isabel Maria Gonçalves, /jornaleiros/
+1 NAME Isabel Maria /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8810@
 0 @I20358@ INDI
@@ -117695,7 +117705,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8811@
 0 @I20361@ INDI
-1 NAME Maria José Corceiro, /lavradores/
+1 NAME Maria José /Corceiro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8811@
 0 @I20362@ INDI
@@ -117709,7 +117719,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8812@
 0 @I20364@ INDI
-1 NAME Maria Nunes, /proprietários/
+1 NAME Maria /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8812@
 0 @I20365@ INDI
@@ -117723,7 +117733,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8813@
 0 @I20367@ INDI
-1 NAME Margarida Martins, /lavradores/
+1 NAME Margarida /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8813@
 0 @I20368@ INDI
@@ -117737,7 +117747,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8814@
 0 @I20370@ INDI
-1 NAME Maria Rodrigues da Calva, /jornaleiros/
+1 NAME Maria Rodrigues da /Calva/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8814@
 0 @I20371@ INDI
@@ -117751,7 +117761,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8815@
 0 @I20373@ INDI
-1 NAME Rita Calva, já falecidos, /jornaleiros/
+1 NAME Rita Calva, já /falecidos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8815@
 0 @I20374@ INDI
@@ -117765,7 +117775,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8816@
 0 @I20376@ INDI
-1 NAME Ludovina Gregório, /jornaleiros/
+1 NAME Ludovina /Gregório/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8816@
 0 @I20377@ INDI
@@ -117793,7 +117803,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 25/08/1912 — Óbitos 1912 (51)
 1 FAMC @F8817@
 0 @I20381@ INDI
-1 NAME José Lopes, /jornaleiro/
+1 NAME José /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8817@
 0 @I20382@ INDI
@@ -117817,7 +117827,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8818@
 0 @I20386@ INDI
-1 NAME Maria Robalo, /jornaleiros/
+1 NAME Maria /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8818@
 0 @I20387@ INDI
@@ -117831,7 +117841,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8819@
 0 @I20389@ INDI
-1 NAME Maria Benedita Carvalho, /jornaleiros/
+1 NAME Maria Benedita /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8819@
 0 @I20390@ INDI
@@ -117845,7 +117855,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8820@
 0 @I20392@ INDI
-1 NAME Felícia Luís Tolda, /jornaleiros/
+1 NAME Felícia Luís /Tolda/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8820@
 0 @I20393@ INDI
@@ -117871,7 +117881,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8821@
 0 @I20397@ INDI
-1 NAME Ana Correia, /jornaleiros/
+1 NAME Ana /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8821@
 0 @I20398@ INDI
@@ -117891,7 +117901,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8822@
 0 @I20401@ INDI
-1 NAME Ana Nunes, jornaleiros, já /falecidos/
+1 NAME Ana /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8822@
 0 @I20402@ INDI
@@ -117905,7 +117915,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8823@
 0 @I20404@ INDI
-1 NAME Belisanda Vaz Fazenda, /jornaleiros/
+1 NAME Belisanda Vaz /Fazenda/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8823@
 0 @I20405@ INDI
@@ -117919,7 +117929,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8824@
 0 @I20407@ INDI
-1 NAME Maria Correia, /jornaleiros/
+1 NAME Maria /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8824@
 0 @I20408@ INDI
@@ -117933,7 +117943,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8825@
 0 @I20410@ INDI
-1 NAME Isabel Martins Viegas, /lavradores/
+1 NAME Isabel Martins /Viegas/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8825@
 0 @I20411@ INDI
@@ -117947,7 +117957,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8826@
 0 @I20413@ INDI
-1 NAME Rita Nunes, lavradores, já /falecidos/
+1 NAME Rita /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8826@
 0 @I20414@ INDI
@@ -117967,7 +117977,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8827@
 0 @I20417@ INDI
-1 NAME Maria do Rosário, /jornaleiros/
+1 NAME Maria do /Rosário/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8827@
 0 @I20418@ INDI
@@ -117981,7 +117991,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8828@
 0 @I20420@ INDI
-1 NAME Felicidade Pina, esta de Rendo, /lavradores/
+1 NAME Felicidade Pina, esta de /Rendo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8828@
 0 @I20421@ INDI
@@ -118007,7 +118017,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8829@
 0 @I20425@ INDI
-1 NAME Ana Martins Antão, /lavradores/
+1 NAME Ana Martins /Antão/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8829@
 0 @I20426@ INDI
@@ -118021,7 +118031,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8830@
 0 @I20428@ INDI
-1 NAME Ana Martins Correia, jornaleiros, já /falecidos/
+1 NAME Ana Martins /Correia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8830@
 0 @I20429@ INDI
@@ -118035,7 +118045,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8831@
 0 @I20431@ INDI
-1 NAME Maria do Carmo Gonçalves, /jornaleiros/
+1 NAME Maria do Carmo /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8831@
 0 @I20432@ INDI
@@ -118049,7 +118059,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8832@
 0 @I20434@ INDI
-1 NAME Amélia Pina, esta de Rendo, /proprietários/
+1 NAME Amélia Pina, esta de /Rendo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8832@
 0 @I20435@ INDI
@@ -118063,7 +118073,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8833@
 0 @I20437@ INDI
-1 NAME Maria Rosa Nunes, /proprietários/
+1 NAME Maria Rosa /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8833@
 0 @I20438@ INDI
@@ -118083,7 +118093,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8834@
 0 @I20441@ INDI
-1 NAME Maria Lourenço Logrado, /jornaleiros/
+1 NAME Maria Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8834@
 0 @I20442@ INDI
@@ -118097,7 +118107,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8835@
 0 @I20444@ INDI
-1 NAME Rosa Carronda, /jornaleiros/
+1 NAME Rosa /Carronda/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8835@
 0 @I20445@ INDI
@@ -118111,7 +118121,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8836@
 0 @I20447@ INDI
-1 NAME Juliana Catarina, jornaleiros naturais da freguesia de /Penam/
+1 NAME Juliana /Catarina/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8836@
 0 @I20448@ INDI
@@ -118125,7 +118135,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8837@
 0 @I20450@ INDI
-1 NAME Ana Dias, jornaleiros, já /falecidos/
+1 NAME Ana /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8837@
 0 @I20451@ INDI
@@ -118139,7 +118149,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8838@
 0 @I20453@ INDI
-1 NAME Maria Benedita Carvalho, /proprietários/
+1 NAME Maria Benedita /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8838@
 0 @I20454@ INDI
@@ -118153,7 +118163,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8839@
 0 @I20456@ INDI
-1 NAME Piedade Lopes Pereira, /jornaleiros/
+1 NAME Piedade Lopes /Pereira/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8839@
 0 @I20457@ INDI
@@ -118167,7 +118177,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8840@
 0 @I20459@ INDI
-1 NAME Isabel Gomes, /proprietários/
+1 NAME Isabel /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8840@
 0 @I20460@ INDI
@@ -118193,7 +118203,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8841@
 0 @I20464@ INDI
-1 NAME Maria Gonçalves de Matos, /proprietários/
+1 NAME Maria Gonçalves de /Matos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8841@
 0 @I20465@ INDI
@@ -118207,7 +118217,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8842@
 0 @I20467@ INDI
-1 NAME Isabel Moreira, já falecidos, /jornaleiros/
+1 NAME Isabel Moreira, já /falecidos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8842@
 0 @I20468@ INDI
@@ -118221,7 +118231,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8843@
 0 @I20470@ INDI
-1 NAME Maria Gonçalves Garrido, /jornaleiros/
+1 NAME Maria Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8843@
 0 @I20471@ INDI
@@ -118235,7 +118245,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8844@
 0 @I20473@ INDI
-1 NAME Maria Antunes, /proprietários/
+1 NAME Maria /Antunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8844@
 0 @I20474@ INDI
@@ -118245,7 +118255,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 27/03/1913 — Óbitos 1913 (57)
 1 FAMC @F8845@
 0 @I20475@ INDI
-1 NAME André Soares, jornaleiro, /já/
+1 NAME André /Soares/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8845@
 0 @I20476@ INDI
@@ -118263,7 +118273,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8846@
 0 @I20479@ INDI
-1 NAME Isabel Augusta dois Santos, /jornaleiros/
+1 NAME Isabel Augusta dois /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8846@
 0 @I20480@ INDI
@@ -118283,7 +118293,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8847@
 0 @I20483@ INDI
-1 NAME Alexandrina Nunes Emídio, /lavradores/
+1 NAME Alexandrina Nunes /Emídio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8847@
 0 @I20484@ INDI
@@ -118329,7 +118339,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8849@
 0 @I20492@ INDI
-1 NAME Isabel Gonçalves, /jornaleiros/
+1 NAME Isabel /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8849@
 0 @I20493@ INDI
@@ -118343,7 +118353,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8850@
 0 @I20495@ INDI
-1 NAME Maria Gonçalves de Matos, /jornaleiros/
+1 NAME Maria Gonçalves de /Matos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8850@
 0 @I20496@ INDI
@@ -118375,7 +118385,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8851@
 0 @I20501@ INDI
-1 NAME Isabel Maria Nunes Ambrósio, /jornaleiros/
+1 NAME Isabel Maria Nunes /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8851@
 0 @I20502@ INDI
@@ -118395,7 +118405,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8852@
 0 @I20505@ INDI
-1 NAME Ana Nunes Dias, /jornaleiros/
+1 NAME Ana Nunes /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8852@
 0 @I20506@ INDI
@@ -118409,7 +118419,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8853@
 0 @I20508@ INDI
-1 NAME Maria Gonçalves de Matos, /jornaleiros/
+1 NAME Maria Gonçalves de /Matos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8853@
 0 @I20509@ INDI
@@ -118423,7 +118433,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8854@
 0 @I20511@ INDI
-1 NAME Ana Capitona, /jornaleiros/
+1 NAME Ana /Capitona/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8854@
 0 @I20512@ INDI
@@ -118437,7 +118447,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8855@
 0 @I20514@ INDI
-1 NAME Maria do Rosário Lourenço Logrado, /lavradores/
+1 NAME Maria do Rosário Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8855@
 0 @I20515@ INDI
@@ -118451,7 +118461,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8856@
 0 @I20517@ INDI
-1 NAME Maria Antónia Jorge, /proprietários/
+1 NAME Maria Antónia /Jorge/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8856@
 0 @I20518@ INDI
@@ -118465,7 +118475,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8857@
 0 @I20520@ INDI
-1 NAME Ana Gonçalves Filipe, /jornaleiros/
+1 NAME Ana Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8857@
 0 @I20521@ INDI
@@ -118479,7 +118489,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8858@
 0 @I20523@ INDI
-1 NAME Matildes Lourenço, /jornaleiros/
+1 NAME Matildes /Lourenço/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8858@
 0 @I20524@ INDI
@@ -118499,7 +118509,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8859@
 0 @I20527@ INDI
-1 NAME Isabel Augusta dos Santos, /jornaleiros/
+1 NAME Isabel Augusta dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8859@
 0 @I20528@ INDI
@@ -118519,7 +118529,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8860@
 0 @I20531@ INDI
-1 NAME Teresa Nunes de Marcos, /jornaleiros/
+1 NAME Teresa Nunes de /Marcos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8860@
 0 @I20532@ INDI
@@ -118533,7 +118543,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8861@
 0 @I20534@ INDI
-1 NAME Maria Dias, /lavradores/
+1 NAME Maria /Dias/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8861@
 0 @I20535@ INDI
@@ -118547,7 +118557,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8862@
 0 @I20537@ INDI
-1 NAME Barbara Lourenço Logrado, /jornaleiros/
+1 NAME Barbara Lourenço /Logrado/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8862@
 0 @I20538@ INDI
@@ -118573,7 +118583,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8863@
 0 @I20542@ INDI
-1 NAME Luísa Ramos, /lavradores/
+1 NAME Luísa /Ramos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8863@
 0 @I20543@ INDI
@@ -118587,7 +118597,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8864@
 0 @I20545@ INDI
-1 NAME Rosalina Robalo Santo, /lavradores/
+1 NAME Rosalina Robalo /Santo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8864@
 0 @I20546@ INDI
@@ -118607,7 +118617,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8865@
 0 @I20549@ INDI
-1 NAME Maria Luís, /jornaleiros/
+1 NAME Maria /Luís/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8865@
 0 @I20550@ INDI
@@ -118621,7 +118631,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8866@
 0 @I20552@ INDI
-1 NAME Belisanda Vaz Fazenda, /jornaleiros/
+1 NAME Belisanda Vaz /Fazenda/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8866@
 0 @I20553@ INDI
@@ -118635,7 +118645,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8867@
 0 @I20555@ INDI
-1 NAME Isabel Gonçalves Filipe, /jornaleiros/
+1 NAME Isabel Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8867@
 0 @I20556@ INDI
@@ -118649,7 +118659,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8868@
 0 @I20558@ INDI
-1 NAME Maria Luísa Gonçalves Garrido, /jornaleiros/
+1 NAME Maria Luísa Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8868@
 0 @I20559@ INDI
@@ -118663,7 +118673,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8869@
 0 @I20561@ INDI
-1 NAME Isabel maria Gonçalves, /lavradores/
+1 NAME Isabel maria /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8869@
 0 @I20562@ INDI
@@ -118677,7 +118687,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8870@
 0 @I20564@ INDI
-1 NAME Luísa Dias, de Vale de Espinho, /jornaleiros/
+1 NAME Luísa Dias, de Vale de /Espinho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8870@
 0 @I20565@ INDI
@@ -118691,7 +118701,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8871@
 0 @I20567@ INDI
-1 NAME Maria Augusta Nunes de Carvalho, /proprietários/
+1 NAME Maria Augusta Nunes de /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8871@
 0 @I20568@ INDI
@@ -118705,7 +118715,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8872@
 0 @I20570@ INDI
-1 NAME Maria dos Santos, /jornaleiros/
+1 NAME Maria dos /Santos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8872@
 0 @I20571@ INDI
@@ -118719,7 +118729,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8873@
 0 @I20573@ INDI
-1 NAME Maria Augusta Robalo, /jornaleiros/
+1 NAME Maria Augusta /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8873@
 0 @I20574@ INDI
@@ -118733,7 +118743,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8874@
 0 @I20576@ INDI
-1 NAME Maria Nunes de Matos, /jornaleiros/
+1 NAME Maria Nunes de /Matos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8874@
 0 @I20577@ INDI
@@ -118747,7 +118757,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8875@
 0 @I20579@ INDI
-1 NAME Maria de Jesus Antunes Lousa, /lavradores/
+1 NAME Maria de Jesus Antunes /Lousa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8875@
 0 @I20580@ INDI
@@ -118761,7 +118771,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8876@
 0 @I20582@ INDI
-1 NAME Catarina Martins Vaz, /lavradores/
+1 NAME Catarina Martins /Vaz/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8876@
 0 @I20583@ INDI
@@ -118771,7 +118781,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 26/08/1914 — Óbitos 1914 (64)
 1 FAMC @F8877@
 0 @I20584@ INDI
-1 NAME António Fernandes, /ferreiro/
+1 NAME António /Fernandes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8877@
 0 @I20585@ INDI
@@ -118789,7 +118799,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8878@
 0 @I20588@ INDI
-1 NAME Maria Rosa Robalo, /jornaleiros/
+1 NAME Maria Rosa /Robalo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8878@
 0 @I20589@ INDI
@@ -118803,7 +118813,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8879@
 0 @I20591@ INDI
-1 NAME Isabel Gomes Frade, /proprietários/
+1 NAME Isabel Gomes /Frade/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8879@
 0 @I20592@ INDI
@@ -118849,7 +118859,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8881@
 0 @I20600@ INDI
-1 NAME Isabel Martinho, /jornaleiros/
+1 NAME Isabel /Martinho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8881@
 0 @I20601@ INDI
@@ -118863,7 +118873,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8882@
 0 @I20603@ INDI
-1 NAME Eugénia Augusta Lopes, /jornaleiros/
+1 NAME Eugénia Augusta /Lopes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8882@
 0 @I20604@ INDI
@@ -118877,7 +118887,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8883@
 0 @I20606@ INDI
-1 NAME Luísa Martins, /lavradores/
+1 NAME Luísa /Martins/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8883@
 0 @I20607@ INDI
@@ -118897,7 +118907,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8884@
 0 @I20610@ INDI
-1 NAME Maria Gomes Meirinho, /jornaleiros/
+1 NAME Maria Gomes /Meirinho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8884@
 0 @I20611@ INDI
@@ -118911,7 +118921,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8885@
 0 @I20613@ INDI
-1 NAME Benedita Carrilho, /lavradores/
+1 NAME Benedita /Carrilho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8885@
 0 @I20614@ INDI
@@ -118945,7 +118955,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8887@
 0 @I20620@ INDI
-1 NAME Isabel Gonçalves Garrido, /jornaleiros/
+1 NAME Isabel Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8887@
 0 @I20621@ INDI
@@ -118959,7 +118969,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8888@
 0 @I20623@ INDI
-1 NAME Maria Augusta Rodrigues, /jornaleiros/
+1 NAME Maria Augusta /Rodrigues/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8888@
 0 @I20624@ INDI
@@ -118979,7 +118989,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8889@
 0 @I20627@ INDI
-1 NAME Isabel da Piedade Martins da Teresa, /lavradores/
+1 NAME Isabel da Piedade Martins da /Teresa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8889@
 0 @I20628@ INDI
@@ -118993,7 +119003,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8890@
 0 @I20630@ INDI
-1 NAME Maria Luísa Gonçalves Filipe, /proprietários/
+1 NAME Maria Luísa Gonçalves /Filipe/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8890@
 0 @I20631@ INDI
@@ -119007,7 +119017,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8891@
 0 @I20633@ INDI
-1 NAME Josefa Gonçalves, /lavradores/
+1 NAME Josefa /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8891@
 0 @I20634@ INDI
@@ -119027,7 +119037,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8892@
 0 @I20637@ INDI
-1 NAME Maria Vaz Fortuna, /jornaleiros/
+1 NAME Maria Vaz /Fortuna/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8892@
 0 @I20638@ INDI
@@ -119041,7 +119051,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8893@
 0 @I20640@ INDI
-1 NAME Isabel Maria Alves, /lavradores/
+1 NAME Isabel Maria /Alves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8893@
 0 @I20641@ INDI
@@ -119055,7 +119065,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8894@
 0 @I20643@ INDI
-1 NAME Ana Elena, /jornaleiros/
+1 NAME Ana /Elena/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8894@
 0 @I20644@ INDI
@@ -119069,7 +119079,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8895@
 0 @I20646@ INDI
-1 NAME Maria Martins Frade, /jornaleiros/
+1 NAME Maria Martins /Frade/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8895@
 0 @I20647@ INDI
@@ -119103,7 +119113,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8897@
 0 @I20653@ INDI
-1 NAME Maria Luís, /jornaleiros/
+1 NAME Maria /Luís/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8897@
 0 @I20654@ INDI
@@ -119131,7 +119141,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 24/05/1915 — Obitos 1915 (56)
 1 FAMC @F8898@
 0 @I20658@ INDI
-1 NAME João Augusto Ambrósio, alfaiate, de Aldeia /Velha/
+1 NAME João Augusto /Ambrósio/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8898@
 0 @I20659@ INDI
@@ -119161,7 +119171,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8899@
 0 @I20664@ INDI
-1 NAME Maria Gomes, /jornaleiros/
+1 NAME Maria /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8899@
 0 @I20665@ INDI
@@ -119187,7 +119197,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8900@
 0 @I20669@ INDI
-1 NAME Isabel Cartuxa, lavradores, ambos do /Baraçal/
+1 NAME Isabel /Cartuxa/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8900@
 0 @I20670@ INDI
@@ -119201,7 +119211,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8901@
 0 @I20672@ INDI
-1 NAME Maria Gomes, /lavradores/
+1 NAME Maria /Gomes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8901@
 0 @I20673@ INDI
@@ -119215,7 +119225,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8902@
 0 @I20675@ INDI
-1 NAME Luísa Gonçalves Garrido, /jornaleiros/
+1 NAME Luísa Gonçalves /Garrido/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8902@
 0 @I20676@ INDI
@@ -119453,7 +119463,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8913@
 0 @I20722@ INDI
-1 NAME Felismina Nunes, /proprietários/
+1 NAME Felismina /Nunes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8913@
 0 @I20723@ INDI
@@ -119563,7 +119573,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8917@
 0 @I20743@ INDI
-1 NAME Ana Alves, /jornaleiros/
+1 NAME Ana /Alves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8917@
 0 @I20744@ INDI
@@ -119617,7 +119627,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8920@
 0 @I20754@ INDI
-1 NAME Isabel Fernandes Russo, /jornaleiros/
+1 NAME Isabel Fernandes /Russo/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8920@
 0 @I20755@ INDI
@@ -119636,7 +119646,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8921@
 0 @I20758@ INDI
-1 NAME Isabel Maria Pereira Garcia, /lavradores/
+1 NAME Isabel Maria Pereira /Garcia/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8921@
 0 @I20759@ INDI
@@ -119650,7 +119660,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8922@
 0 @I20761@ INDI
-1 NAME Piedade Fernandes Sancho, /lavradores/
+1 NAME Piedade Fernandes /Sancho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8922@
 0 @I20762@ INDI
@@ -119664,7 +119674,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8923@
 0 @I20764@ INDI
-1 NAME Maria Gonçalves, /lavradores/
+1 NAME Maria /Gonçalves/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8923@
 0 @I20765@ INDI
@@ -119684,7 +119694,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8924@
 0 @I20768@ INDI
-1 NAME Teresa Nunes de Marcos, /jornaleiros/
+1 NAME Teresa Nunes de /Marcos/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8924@
 0 @I20769@ INDI
@@ -119694,7 +119704,7 @@
 1 NOTE Família Assentos paroquiais | Fontes: Óbito 09/07/1917 — Óbitos 1917 (58)
 1 FAMC @F8925@
 0 @I20770@ INDI
-1 NAME Francisco Manuel Antunes Pedro, /carpinteiro/
+1 NAME Francisco Manuel Antunes /Pedro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8925@
 0 @I20771@ INDI
@@ -119724,7 +119734,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8926@
 0 @I20776@ INDI
-1 NAME Maria Carvalho, /proprietários/
+1 NAME Maria /Carvalho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8926@
 0 @I20777@ INDI
@@ -119738,7 +119748,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8927@
 0 @I20779@ INDI
-1 NAME Isabel Martinho, /jornaleiros/
+1 NAME Isabel /Martinho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8927@
 0 @I20780@ INDI
@@ -119758,7 +119768,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8928@
 0 @I20783@ INDI
-1 NAME Teresa Gonçalves do Balão, /jornaleiros/
+1 NAME Teresa Gonçalves do /Balão/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8928@
 0 @I20784@ INDI
@@ -119772,7 +119782,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8929@
 0 @I20786@ INDI
-1 NAME Maria Fernandes da Clara, /lavradores/
+1 NAME Maria Fernandes da /Clara/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8929@
 0 @I20787@ INDI
@@ -119786,7 +119796,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8930@
 0 @I20789@ INDI
-1 NAME Rita Martins Grencho, /jornaleiros/
+1 NAME Rita Martins /Grencho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8930@
 0 @I20790@ INDI
@@ -119800,7 +119810,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8931@
 0 @I20792@ INDI
-1 NAME Maria Luísa Gonçalves Gaião, /jornaleiros/
+1 NAME Maria Luísa Gonçalves /Gaião/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8931@
 0 @I20793@ INDI
@@ -119814,7 +119824,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8932@
 0 @I20795@ INDI
-1 NAME Quitéria Nunes Corracha, /jornaleiros/
+1 NAME Quitéria Nunes /Corracha/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8932@
 0 @I20796@ INDI
@@ -119858,7 +119868,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8933@
 0 @I20803@ INDI
-1 NAME Barbara da Rita, /lavradores/
+1 NAME Barbara da /Rita/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8933@
 0 @I20804@ INDI
@@ -119898,7 +119908,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8935@
 0 @I20811@ INDI
-1 NAME Maria Martins Nicolau, /proprietários/
+1 NAME Maria Martins /Nicolau/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8935@
 0 @I20812@ INDI
@@ -120160,7 +120170,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8947@
 0 @I20862@ INDI
-1 NAME Isabel Manso Rito, /jornaleiros/
+1 NAME Isabel Manso /Rito/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8947@
 0 @I20863@ INDI
@@ -120180,7 +120190,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8948@
 0 @I20866@ INDI
-1 NAME Rita de Jesus Martinho, /jornaleiros/
+1 NAME Rita de Jesus /Martinho/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8948@
 0 @I20867@ INDI
@@ -120336,7 +120346,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8954@
 0 @I20896@ INDI
-1 NAME Isabel maria Jorge Perloiro, /jornaleiros/
+1 NAME Isabel maria Jorge /Perloiro/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8954@
 0 @I20897@ INDI
@@ -120402,7 +120412,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8957@
 0 @I20909@ INDI
-1 NAME Luísa Fernandes, /jornaleiros/
+1 NAME Luísa /Fernandes/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8957@
 0 @I20910@ INDI
@@ -120416,7 +120426,7 @@
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8958@
 0 @I20912@ INDI
-1 NAME Maria Angélica, jornaleiros, do /Rosmaninhal/
+1 NAME Maria /Angélica/
 1 NOTE Família Assentos paroquiais
 1 FAMS @F8958@
 0 @I20913@ INDI
@@ -136986,7 +136996,6 @@
 1 MARR
 2 DATE 30 OCT 1895
 1 NOTE filho(a) de Bernardo Lopes Pereira e de Joaquina Pereira
-1 CHIL @I6750@
 0 @F1053@ FAM
 1 HUSB @I1939@
 1 WIFE @I3497@
@@ -144158,6 +144167,7 @@
 1 WIFE @I5651@
 1 CHIL @I5648@
 1 CHIL @I5900@
+1 CHIL @I6750@
 0 @F2260@ FAM
 1 HUSB @I4229@
 1 WIFE @I5652@
@@ -149508,7 +149518,6 @@
 0 @F3167@ FAM
 1 HUSB @I8018@
 1 WIFE @I8019@
-1 CHIL @I6749@
 0 @F3168@ FAM
 1 HUSB @I8020@
 1 WIFE @I8021@
@@ -167858,6 +167867,7 @@
 1 MARR
 2 DATE 14 MAY 1859
 1 NOTE Testemunhas: Manuel Paradas e Teresa Martins, solteiros, e Manuel Gonçalves e Ana Gonçalves, solteira
+1 CHIL @I6749@
 0 @F6950@ FAM
 1 HUSB @I17118@
 1 WIFE @I17119@
