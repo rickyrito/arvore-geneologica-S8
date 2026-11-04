@@ -67,9 +67,13 @@ a{color:var(--azulejo)}
   border:1px solid var(--azulejo);border-radius:2px;padding:5px 10px;cursor:pointer}
 .arv-acao:focus-visible{outline:2px solid var(--azulejo);outline-offset:1px}
 .geracoes{overflow-x:auto}
-.geracoes-int{display:flex;gap:10px;align-items:stretch;min-width:min-content;padding-bottom:4px}
-.ger{display:flex;flex-direction:column;gap:8px;justify-content:center;min-width:156px;max-width:200px}
-.ger .rot{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--tinta-fraca)}
+.geracoes-int{display:grid;grid-auto-flow:column;gap:6px 22px;align-items:center;
+  min-width:min-content;padding:0 2px 4px}
+.ger-rot{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--tinta-fraca);align-self:end}
+.ger-no{position:relative;min-width:168px;max-width:208px}
+.ger-no.liga::after{content:"";position:absolute;right:-22px;top:50%;width:22px;border-top:1px solid var(--linha)}
+.ger-par{position:relative}
+.ger-par::before{content:"";position:absolute;right:-22px;top:25%;bottom:25%;border-right:1px solid var(--linha)}
 .ramo{display:flex;flex-direction:column;gap:8px;border-left:1px solid var(--linha);padding-left:12px;margin-left:3px}
 .ramo .ramo{margin-left:6px}
 .ramo>.no{align-self:flex-start;max-width:440px}
@@ -365,12 +369,26 @@ footer p{margin:0 0 8px}
     var rotulos = ['Bisavós', 'Avós', 'Pais', 'Próprio'];
     var envolve = document.createElement('div'); envolve.className = 'geracoes';
     var faixa = document.createElement('div'); faixa.className = 'geracoes-int';
+    var visiveis = [];
     geracoes.forEach(function(ids, n){
-      if (!ids.some(function(x){ return x >= 0; })) return;
-      var col = document.createElement('div'); col.className = 'ger';
-      var r = document.createElement('p'); r.className = 'rot'; r.textContent = rotulos[n]; col.appendChild(r);
-      ids.forEach(function(x){ col.appendChild(noArvore(x, centrar)); });
-      faixa.appendChild(col);
+      if (ids.some(function(x){ return x >= 0; })) visiveis.push({ ids: ids, rotulo: rotulos[n] });
+    });
+    var linhas = visiveis.length ? visiveis[0].ids.length : 1;   // a geração mais antiga define a altura
+    faixa.style.gridTemplateRows = 'auto repeat(' + linhas + ', minmax(40px, auto))';
+    visiveis.forEach(function(g, coluna){
+      var r = document.createElement('p');
+      r.className = 'ger-rot'; r.textContent = g.rotulo;
+      r.style.gridColumn = String(coluna + 1); r.style.gridRow = '1';
+      faixa.appendChild(r);
+
+      var salto = linhas / g.ids.length;          // quantas linhas cada pessoa ocupa
+      g.ids.forEach(function(x, k){
+        var no = noArvore(x, centrar);
+        no.className += ' ger-no' + (coluna < visiveis.length - 1 ? ' liga' : '');
+        no.style.gridColumn = String(coluna + 1);
+        no.style.gridRow = (2 + k * salto) + ' / span ' + salto;
+        faixa.appendChild(no);
+      });
     });
     envolve.appendChild(faixa);
     v.appendChild(envolve);
