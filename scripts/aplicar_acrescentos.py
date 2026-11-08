@@ -53,6 +53,18 @@ for r in csv.DictReader(open(FICH, encoding='utf-8')):
     campo, valor = r['campo'], r['valor']
     fonte = r['fonte'] + (' — ' + r['nota'] if r['nota'] else '')
 
+    if campo.endswith('_corrigido'):
+        # Fonte primária fotografada: substitui, e o valor antigo fica registado.
+        base = {'nascimento_corrigido': NASC, 'batismo_corrigido': BAPT, 'obito_corrigido': OBITO}[campo]
+        antigo = P[i][base]
+        if antigo and antigo != valor:
+            divergencias.append([P[i][NOME], campo.replace('_corrigido', ''), antigo, valor, r['fonte'], r['nota']])
+        P[i][base] = valor
+        marca = r['fonte'] + (' (' + r['nota'] + ')' if r['nota'] else '')
+        if marca not in P[i][FONTES]: P[i][FONTES].append(marca)
+        aplicados.append([P[i][NOME], campo, (antigo + ' -> ' if antigo else '') + valor])
+        continue
+
     if campo.endswith('_divergente'):
         base = {'nascimento_divergente': NASC, 'batismo_divergente': BAPT, 'obito_divergente': OBITO}[campo]
         divergencias.append([P[i][NOME], campo.replace('_divergente', ''), P[i][base], valor, r['fonte'], r['nota']])

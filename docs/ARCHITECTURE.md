@@ -28,11 +28,17 @@ Não há base de dados, nem API, nem build. O estado vive em ficheiros.
                       README.md
 /docs                 DESIGN.md, ARCHITECTURE.md, CONTEXT.md
 /dados                CSV gerados: pessoas, casamentos, batismos, óbitos,
-                      duplicados, suspeitas, conflitos_registos
+                      duplicados, suspeitas, conflitos_registos,
+                      acrescentos_aplicados
+                      CSV mantido à mão: acrescentos_carlos
 ```
 
 Regra: tudo em `/dados` e `dados.js` é **gerado**. Corrige-se o parser e volta-se a gerar;
 não se edita o resultado.
+
+Exceção única: `dados/acrescentos_carlos.csv`. É o ficheiro de entrada da informação que
+não vem do blogue — o que o autor da investigação enviou por email e o que se leu em
+assentos fotografados. Escreve-se à mão, cada linha leva a sua fonte, e o passo 12 aplica-o.
 
 ---
 
@@ -53,7 +59,19 @@ Ordem fixa. Cada etapa lê ficheiros da anterior e escreve os seus.
 | 9 | `fusao_registos.py` | 8 + 1,2,3,5 | `dados_registos.json`, `conflitos_registos.csv` |
 | 10 | `fundir2.py` | 9 | `dados_final.json` (+ duplicados) |
 | 11 | `limpar.py` | 10 | `dados_final.json` limpo, `suspeitas.csv` |
-| 12 | `ged_final.py` | 11 | `familia_soito.ged`, `dados.js` |
+| 12 | `aplicar_acrescentos.py` | 11 + `dados/acrescentos_carlos.csv` | `dados_final.json`, `acrescentos_aplicados.csv` |
+| 13 | `ged_final.py` | 12 | `familia_soito.ged`, `dados.js` |
+
+O passo 9 liga cada assento à pessoa certa por três regras, e não só pelo nome:
+
+- **Ordem cronológica.** Batismos e óbitos são lidos por data real, não pela ordem do
+  ficheiro — um assento só se lê depois dos que o antecedem.
+- **Ligação pela filiação.** Antes de criar pessoa nova, procura-se entre os filhos já
+  ligados ao casal um com o mesmo nome próprio e datas compatíveis. É o que apanha a
+  criança que a genealogia regista com apelido e o assento regista só pelo nome próprio.
+- **Óbito de criança liga pela idade.** Com idade declarada («8 meses») e filiação,
+  calcula-se a data de nascimento implícita e liga-se ao filho do casal cuja data bate
+  dentro da margem (10 dias se a idade vier em dias, 45 se vier em meses, 400 se em anos).
 
 Correr a cadeia inteira é a forma normal de aplicar qualquer correção; não há atalhos por
 etapas isoladas, porque as fusões dependem do que veio antes.

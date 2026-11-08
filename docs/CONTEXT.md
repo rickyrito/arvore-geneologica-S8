@@ -58,6 +58,13 @@ Aplicadas na fusão e verificadas de novo no fim da cadeia:
 6. **Progenitor entre 12 e 70 anos mais velho que o filho**, e vivo à data do nascimento.
 7. **Filho liga ao casamento compatível com a sua data de nascimento**, não ao primeiro
    casamento do progenitor.
+8. **Nove meses entre irmãos.** Dois filhos do mesmo casal não nascem a menos de nove meses
+   um do outro; mesma data é o caso dos gémeos e é permitido. Um assento que obrigue a isso
+   está mal transcrito: não se aplica e fica em `conflitos_registos.csv`. Foi esta regra que
+   apanhou o batismo de 1921 lançado no blogue também com data de 1920.
+9. **Óbito de criança identifica-se pela idade.** «8 meses» mais a filiação chegam para
+   saber qual dos irmãos morreu, mesmo quando o óbito e o batismo grafam o nome de maneiras
+   diferentes. Sem isto, o óbito de uma criança cai sobre a irmã que herdou o nome dela.
 
 ---
 
@@ -65,6 +72,10 @@ Aplicadas na fusão e verificadas de novo no fim da cadeia:
 
 1. **Em divergência entre a genealogia de família e o assento, vale a genealogia** — e a
    divergência fica registada em `conflitos_registos.csv`. Nunca se escolhe em silêncio.
+   **Acima das duas está o assento original lido ou fotografado**, que é a fonte e não uma
+   transcrição dela: esse corrige, com `campo_corrigido` em `acrescentos_carlos.csv`, e o
+   valor antigo vai para `conflitos_registos.csv`. Foi assim que o nascimento da avó
+   Maria Luísa passou de 23-07-1915 para 23-06-1915.
 2. **Tudo o que é removido fica num relatório.** Ligação desfeita por ser impossível vai para
    `suspeitas.csv` com o motivo; pares avaliados para fusão vão para `duplicados.csv`, com a
    indicação de terem sido ou não fundidos.
