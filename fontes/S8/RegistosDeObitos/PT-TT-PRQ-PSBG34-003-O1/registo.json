@@ -1,0 +1,626 @@
+{
+  "referencia": "PT/TT/PRQ/PSBG34/003/O1",
+  "titulo": "Registos de óbito",
+  "data_inicial": "1759-01-01",
+  "data_final": "1783-12-31",
+  "origem": "https://digitarq.arquivos.pt/documentDetails/8d52058ee1cb498db90e34b92359fb6e",
+  "total_imagens": 154,
+  "imagens": [
+    {
+      "id": "27713677",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0001.jpg"
+    },
+    {
+      "id": "27713676",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0002.jpg"
+    },
+    {
+      "id": "27713675",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0003.jpg"
+    },
+    {
+      "id": "27713674",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0004.jpg"
+    },
+    {
+      "id": "27713673",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0005.jpg"
+    },
+    {
+      "id": "27713672",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0006.jpg"
+    },
+    {
+      "id": "27713671",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0007.jpg"
+    },
+    {
+      "id": "27713670",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0008.jpg"
+    },
+    {
+      "id": "27713669",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0009.jpg"
+    },
+    {
+      "id": "27713668",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0010.jpg"
+    },
+    {
+      "id": "27713667",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0011.jpg"
+    },
+    {
+      "id": "27713666",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0012.jpg"
+    },
+    {
+      "id": "27713678",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0013.jpg"
+    },
+    {
+      "id": "27713679",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0014.jpg"
+    },
+    {
+      "id": "27713680",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0015.jpg"
+    },
+    {
+      "id": "27713681",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0016.jpg"
+    },
+    {
+      "id": "27713686",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0017.jpg"
+    },
+    {
+      "id": "27713687",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0018.jpg"
+    },
+    {
+      "id": "27713688",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0019.jpg"
+    },
+    {
+      "id": "27713689",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0020.jpg"
+    },
+    {
+      "id": "27713690",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0021.jpg"
+    },
+    {
+      "id": "27713691",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0022.jpg"
+    },
+    {
+      "id": "27713692",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0023.jpg"
+    },
+    {
+      "id": "27713693",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0024.jpg"
+    },
+    {
+      "id": "27713682",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0025.jpg"
+    },
+    {
+      "id": "27713683",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0026.jpg"
+    },
+    {
+      "id": "27713684",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0027.jpg"
+    },
+    {
+      "id": "27713685",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0028.jpg"
+    },
+    {
+      "id": "27713694",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0029.jpg"
+    },
+    {
+      "id": "27713695",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0030.jpg"
+    },
+    {
+      "id": "27713698",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0031.jpg"
+    },
+    {
+      "id": "27713699",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0032.jpg"
+    },
+    {
+      "id": "27713700",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0033.jpg"
+    },
+    {
+      "id": "27713701",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0034.jpg"
+    },
+    {
+      "id": "27713702",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0035.jpg"
+    },
+    {
+      "id": "27713703",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0036.jpg"
+    },
+    {
+      "id": "27713704",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0037.jpg"
+    },
+    {
+      "id": "27713705",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0038.jpg"
+    },
+    {
+      "id": "27713706",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0039.jpg"
+    },
+    {
+      "id": "27713707",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0040.jpg"
+    },
+    {
+      "id": "27713696",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0041.jpg"
+    },
+    {
+      "id": "27713697",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0042.jpg"
+    },
+    {
+      "id": "27713708",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0043.jpg"
+    },
+    {
+      "id": "27713709",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0044.jpg"
+    },
+    {
+      "id": "27713710",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0045.jpg"
+    },
+    {
+      "id": "27713711",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0046.jpg"
+    },
+    {
+      "id": "27713712",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0047.jpg"
+    },
+    {
+      "id": "27713713",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0048.jpg"
+    },
+    {
+      "id": "27713714",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0049.jpg"
+    },
+    {
+      "id": "27713715",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0050.jpg"
+    },
+    {
+      "id": "27713716",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0051.jpg"
+    },
+    {
+      "id": "27713717",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0052.jpg"
+    },
+    {
+      "id": "27713718",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0053.jpg"
+    },
+    {
+      "id": "27713719",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0054.jpg"
+    },
+    {
+      "id": "27713720",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0055.jpg"
+    },
+    {
+      "id": "27713721",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0056.jpg"
+    },
+    {
+      "id": "27713722",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0057.jpg"
+    },
+    {
+      "id": "27713723",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0058.jpg"
+    },
+    {
+      "id": "27713724",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0059.jpg"
+    },
+    {
+      "id": "27713725",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0060.jpg"
+    },
+    {
+      "id": "27713726",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0061.jpg"
+    },
+    {
+      "id": "27713727",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0062.jpg"
+    },
+    {
+      "id": "27713728",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0063.jpg"
+    },
+    {
+      "id": "27713729",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0064.jpg"
+    },
+    {
+      "id": "27713730",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0065.jpg"
+    },
+    {
+      "id": "27713731",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0066.jpg"
+    },
+    {
+      "id": "27713732",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0067.jpg"
+    },
+    {
+      "id": "27713733",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0068.jpg"
+    },
+    {
+      "id": "27713734",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0069.jpg"
+    },
+    {
+      "id": "27713735",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0070.jpg"
+    },
+    {
+      "id": "27713736",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0071.jpg"
+    },
+    {
+      "id": "27713737",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0072.jpg"
+    },
+    {
+      "id": "27713740",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0073.jpg"
+    },
+    {
+      "id": "27713741",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0074.jpg"
+    },
+    {
+      "id": "27713742",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0075.jpg"
+    },
+    {
+      "id": "27713743",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0076.jpg"
+    },
+    {
+      "id": "27713744",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0077.jpg"
+    },
+    {
+      "id": "27713745",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0078.jpg"
+    },
+    {
+      "id": "27713738",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0079.jpg"
+    },
+    {
+      "id": "27713739",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0080.jpg"
+    },
+    {
+      "id": "27713746",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0081.jpg"
+    },
+    {
+      "id": "27713747",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0082.jpg"
+    },
+    {
+      "id": "27713748",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0083.jpg"
+    },
+    {
+      "id": "27713749",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0084.jpg"
+    },
+    {
+      "id": "27713750",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0085.jpg"
+    },
+    {
+      "id": "27713751",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0086.jpg"
+    },
+    {
+      "id": "27713752",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0087.jpg"
+    },
+    {
+      "id": "27713753",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0088.jpg"
+    },
+    {
+      "id": "27713754",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0089.jpg"
+    },
+    {
+      "id": "27713755",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0090.jpg"
+    },
+    {
+      "id": "27713762",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0091.jpg"
+    },
+    {
+      "id": "27713763",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0092.jpg"
+    },
+    {
+      "id": "27713758",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0093.jpg"
+    },
+    {
+      "id": "27713759",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0094.jpg"
+    },
+    {
+      "id": "27713760",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0095.jpg"
+    },
+    {
+      "id": "27713761",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0096.jpg"
+    },
+    {
+      "id": "27713756",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0097.jpg"
+    },
+    {
+      "id": "27713757",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0098.jpg"
+    },
+    {
+      "id": "27713764",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0099.jpg"
+    },
+    {
+      "id": "27713765",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0100.jpg"
+    },
+    {
+      "id": "27713766",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0101.jpg"
+    },
+    {
+      "id": "27713767",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0102.jpg"
+    },
+    {
+      "id": "27713768",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0103.jpg"
+    },
+    {
+      "id": "27713769",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0104.jpg"
+    },
+    {
+      "id": "27713770",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0105.jpg"
+    },
+    {
+      "id": "27713771",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0106.jpg"
+    },
+    {
+      "id": "27713772",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0107.jpg"
+    },
+    {
+      "id": "27713773",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0108.jpg"
+    },
+    {
+      "id": "27713776",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0109.jpg"
+    },
+    {
+      "id": "27713777",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0110.jpg"
+    },
+    {
+      "id": "27713774",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0111.jpg"
+    },
+    {
+      "id": "27713775",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0112.jpg"
+    },
+    {
+      "id": "27713778",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0113.jpg"
+    },
+    {
+      "id": "27713779",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0114.jpg"
+    },
+    {
+      "id": "27713780",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0115.jpg"
+    },
+    {
+      "id": "27713781",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0116.jpg"
+    },
+    {
+      "id": "27713784",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0117.jpg"
+    },
+    {
+      "id": "27713785",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0118.jpg"
+    },
+    {
+      "id": "27713786",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0119.jpg"
+    },
+    {
+      "id": "27713787",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0120.jpg"
+    },
+    {
+      "id": "27713788",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0121.jpg"
+    },
+    {
+      "id": "27713789",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0122.jpg"
+    },
+    {
+      "id": "27713792",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0123.jpg"
+    },
+    {
+      "id": "27713793",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0124.jpg"
+    },
+    {
+      "id": "27713790",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0125.jpg"
+    },
+    {
+      "id": "27713791",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0126.jpg"
+    },
+    {
+      "id": "27713782",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0127.jpg"
+    },
+    {
+      "id": "27713783",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0128.jpg"
+    },
+    {
+      "id": "27713794",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0129.jpg"
+    },
+    {
+      "id": "27713795",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0130.jpg"
+    },
+    {
+      "id": "27713796",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0131.jpg"
+    },
+    {
+      "id": "27713797",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0132.jpg"
+    },
+    {
+      "id": "27713800",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0133.jpg"
+    },
+    {
+      "id": "27713801",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0134.jpg"
+    },
+    {
+      "id": "27713802",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0135.jpg"
+    },
+    {
+      "id": "27713803",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0136.jpg"
+    },
+    {
+      "id": "27713804",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0137.jpg"
+    },
+    {
+      "id": "27713805",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0138.jpg"
+    },
+    {
+      "id": "27713806",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0139.jpg"
+    },
+    {
+      "id": "27713807",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0140.jpg"
+    },
+    {
+      "id": "27713798",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0141.jpg"
+    },
+    {
+      "id": "27713799",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0142.jpg"
+    },
+    {
+      "id": "27713808",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0143.jpg"
+    },
+    {
+      "id": "27713809",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0144.jpg"
+    },
+    {
+      "id": "27713810",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0145.jpg"
+    },
+    {
+      "id": "27713811",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0146.jpg"
+    },
+    {
+      "id": "27713812",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0147.jpg"
+    },
+    {
+      "id": "27713813",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0148.jpg"
+    },
+    {
+      "id": "27713814",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0149.jpg"
+    },
+    {
+      "id": "27713815",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0150.jpg"
+    },
+    {
+      "id": "27713816",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0151.jpg"
+    },
+    {
+      "id": "27713817",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0152.jpg"
+    },
+    {
+      "id": "27713818",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0153.jpg"
+    },
+    {
+      "id": "27713819",
+      "name": "PT-ADLSB-PRQ-PSBG34-003-O1_m0154.jpg"
+    }
+  ]
+}

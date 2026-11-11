@@ -1,0 +1,34 @@
+{
+  "referencia": "PT/ADGRD/PRQ/PSBG22/002/00002",
+  "titulo": "Registo de Casamentos de Quadrazais",
+  "data_inicial": "1862-02-10",
+  "data_final": "1862-09-21",
+  "origem": "https://digitarq.arquivos.pt/documentDetails/980e3cec49b94af18cb7a1eba67324c5",
+  "total_imagens": 6,
+  "imagens": [
+    {
+      "id": "45514865",
+      "name": "PT-ADGRD-PRQ-PSBG22-002-00002_m0001.jpg"
+    },
+    {
+      "id": "45514864",
+      "name": "PT-ADGRD-PRQ-PSBG22-002-00002_m0002.jpg"
+    },
+    {
+      "id": "45514863",
+      "name": "PT-ADGRD-PRQ-PSBG22-002-00002_m0003.jpg"
+    },
+    {
+      "id": "45514862",
+      "name": "PT-ADGRD-PRQ-PSBG22-002-00002_m0004.jpg"
+    },
+    {
+      "id": "45514866",
+      "name": "PT-ADGRD-PRQ-PSBG22-002-00002_m0005.jpg"
+    },
+    {
+      "id": "45514861",
+      "name": "PT-ADGRD-PRQ-PSBG22-002-00002_m0006.jpg"
+    }
+  ]
+}

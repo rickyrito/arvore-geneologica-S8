@@ -1,0 +1,42 @@
+{
+  "referencia": "PT/ADGRD/PRQ/PSBG20/003/00019",
+  "titulo": "Registo de Óbitos de Penalobo",
+  "data_inicial": "1877-07-20",
+  "data_final": "1877-12-06",
+  "origem": "https://digitarq.arquivos.pt/documentDetails/79be31aaa7ab404390c0e3f300c2b149",
+  "total_imagens": 8,
+  "imagens": [
+    {
+      "id": "87972949",
+      "name": "PT-ADGRD-PRQ-PSBG20-003-00019_m0001.jpg"
+    },
+    {
+      "id": "87972967",
+      "name": "PT-ADGRD-PRQ-PSBG20-003-00019_m0002.jpg"
+    },
+    {
+      "id": "87972982",
+      "name": "PT-ADGRD-PRQ-PSBG20-003-00019_m0003.jpg"
+    },
+    {
+      "id": "87973004",
+      "name": "PT-ADGRD-PRQ-PSBG20-003-00019_m0004.jpg"
+    },
+    {
+      "id": "87973019",
+      "name": "PT-ADGRD-PRQ-PSBG20-003-00019_m0005.jpg"
+    },
+    {
+      "id": "87973035",
+      "name": "PT-ADGRD-PRQ-PSBG20-003-00019_m0006.jpg"
+    },
+    {
+      "id": "87973048",
+      "name": "PT-ADGRD-PRQ-PSBG20-003-00019_m0007.jpg"
+    },
+    {
+      "id": "87973062",
+      "name": "PT-ADGRD-PRQ-PSBG20-003-00019_m0008.jpg"
+    }
+  ]
+}

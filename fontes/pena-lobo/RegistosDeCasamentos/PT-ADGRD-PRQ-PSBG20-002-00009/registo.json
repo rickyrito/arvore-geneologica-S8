@@ -1,0 +1,42 @@
+{
+  "referencia": "PT/ADGRD/PRQ/PSBG20/002/00009",
+  "titulo": "Registo de Casamentos de Penalobo",
+  "data_inicial": "1868-01-01",
+  "data_final": "1868-12-31",
+  "origem": "https://digitarq.arquivos.pt/documentDetails/89a73f0b2d3c4eda8e96001e26eca2aa",
+  "total_imagens": 8,
+  "imagens": [
+    {
+      "id": "78657602",
+      "name": "PT-ADGRD-PRQ-PSBG20-002-00009_m0001.jpg"
+    },
+    {
+      "id": "78657608",
+      "name": "PT-ADGRD-PRQ-PSBG20-002-00009_m0002.jpg"
+    },
+    {
+      "id": "78657612",
+      "name": "PT-ADGRD-PRQ-PSBG20-002-00009_m0003.jpg"
+    },
+    {
+      "id": "78657623",
+      "name": "PT-ADGRD-PRQ-PSBG20-002-00009_m0004.jpg"
+    },
+    {
+      "id": "78657632",
+      "name": "PT-ADGRD-PRQ-PSBG20-002-00009_m0005.jpg"
+    },
+    {
+      "id": "78657640",
+      "name": "PT-ADGRD-PRQ-PSBG20-002-00009_m0006.jpg"
+    },
+    {
+      "id": "78657647",
+      "name": "PT-ADGRD-PRQ-PSBG20-002-00009_m0007.jpg"
+    },
+    {
+      "id": "78657653",
+      "name": "PT-ADGRD-PRQ-PSBG20-002-00009_m0008.jpg"
+    }
+  ]
+}
