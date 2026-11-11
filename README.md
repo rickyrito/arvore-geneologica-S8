@@ -5,10 +5,13 @@ Página: https://rickyrito.github.io/arvore-geneologica-S8/
 Dados transcritos dos assentos paroquiais do Soito publicados no blogue [Saber Soito](https://soitoribacoa.blogspot.com/) (294 artigos, 1624-1984).
 
 ## Página
-- `index.html` + `dados.js` — explorador: 4067 pessoas de 12 famílias, com filtro por família. Nomes completos, como no blogue de origem; página não indexada.
+- `index.html` + `dados.js` + `dados_s8.js` — explorador: 22 207 pessoas da base e 9 do suplemento S8, com filtros por família e origem. Página não indexada.
+- O suplemento inicial lê os campos essenciais de três batismos do B1 (1692–1705): Isabel e Manuel em 26/12/1692, e Manuel em 30/12/1692. Cria três núcleos; não estabelece identidades com pessoas das genealogias existentes.
+- Nas primeiras cinco imagens, a capa e a introdução não deram assentos individuais; 16 outros assentos ficam pendentes. A leitura é parcial, com excertos e dúvidas guardados, e não uma transcrição diplomática integral.
 
 ## GEDCOM
-- `familia_soito.ged` — toda a base da freguesia: 4067 indivíduos, 1276 núcleos familiares
+- `familia_soito.ged` — base anterior da freguesia: 22 207 indivíduos, 9253 núcleos familiares
+- `assentos_s8.ged` — suplemento de originais S8: 9 indivíduos, 3 núcleos; não está incluído no GEDCOM anterior
 - `familia_rito_soito.ged` — só a família Rito, com as notas completas dos assentos (1222 indivíduos)
 
 ## Tabelas (pasta `dados/`)
@@ -21,6 +24,14 @@ Dados transcritos dos assentos paroquiais do Soito publicados no blogue [Saber S
 | `familias.csv` | 397 | uniões extraídas das genealogias em prosa |
 
 Tudo gerado por extração automática; erros de transcrição e de leitura são possíveis.
+
+## Leituras dos originais S8
+
+A investigação e as transcrições do blogue **Saber Soito são de Carlos**. As leituras diretas dos originais S8 são uma fonte adicional, visivelmente identificada nas fichas, com ligação ao livro no arquivo.
+
+As entradas manuais estão em `fontes/S8/transcricoes/*.json`; indicam imagem, lado, ordem do assento, excerto e dúvidas. Só `confirmado` entra na árvore. Nascimento desconhecido continua vazio; não se usa a data de batismo como nascimento.
+
+Gerar: `python3 scripts/gerar_assentos_s8.py`. Conferir: `python3 scripts/gerar_assentos_s8.py --check` e `python3 scripts/validar_design.py`. O relatório `dados/assentos_s8_revisao.json` separa leituras pendentes e coincidências de nomes sem fusão. Os resultados da cadeia anterior mantêm-se, pois este checkout não contém todos os parsers necessários para a executar.
 
 ## Documentação
 

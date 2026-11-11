@@ -1,0 +1,110 @@
+0 HEAD
+1 SOUR Assentos originais S8
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 FILE assentos_s8.ged
+0 @I1@ INDI
+1 NAME Isabel
+1 SEX F
+1 BAPM
+2 DATE 26 DEC 1692
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I2@ INDI
+1 NAME João /Lopes/
+1 SEX M
+1 FAMS @F1@
+1 SOUR @S1@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I3@ INDI
+1 NAME Maria /Martins/
+1 SEX F
+1 FAMS @F1@
+1 SOUR @S1@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I4@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 26 DEC 1692
+1 FAMC @F2@
+1 SOUR @S2@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I5@ INDI
+1 NAME Domingos /Lopes/
+1 SEX M
+1 FAMS @F2@
+1 SOUR @S2@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I6@ INDI
+1 NAME Guiomar /Nunes/
+1 SEX F
+1 FAMS @F2@
+1 SOUR @S2@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I7@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 30 DEC 1692
+1 FAMC @F3@
+1 SOUR @S3@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I8@ INDI
+1 NAME Manuel /Nunes/
+1 SEX M
+1 FAMS @F3@
+1 SOUR @S3@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I9@ INDI
+1 NAME Maria /Fernandes/
+1 SEX F
+1 FAMS @F3@
+1 SOUR @S3@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F2@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I4@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F3@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I7@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @S1@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg
+2 CONT direita, assento 1; batismo 26/12/1692.
+2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+0 @S2@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg
+2 CONT direita, assento 2; batismo 26/12/1692.
+2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+0 @S3@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-d-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg
+2 CONT direita, assento 4; batismo 30/12/1692.
+2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+0 TRLR

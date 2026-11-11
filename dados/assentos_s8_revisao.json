@@ -1,0 +1,289 @@
+{
+  "confirmados": 3,
+  "pendentes": 16,
+  "novas_pessoas": 9,
+  "novos_nucleos": 3,
+  "aplicados": [
+    {
+      "id": "S8-B1-m0004-d-01",
+      "imagem": "m0004",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "confirmado",
+      "data_batismo": "26/12/1692",
+      "crianca": {
+        "nome": "Isabel",
+        "sexo": "F"
+      },
+      "pai": "João Lopes",
+      "mae": "Maria Martins",
+      "excerto": "«Aos vinte e seis dias do mes de dezembro [...] noventa e dois annos baptizei [...] a Izabel de Joam Lopes e de sua m[ulhe]r Maria Martins». Reticências e expansão da abreviatura editoriais.",
+      "duvidas": [],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg",
+      "pessoa": 0,
+      "familia": 0
+    },
+    {
+      "id": "S8-B1-m0004-d-02",
+      "imagem": "m0004",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "data_batismo": "26/12/1692",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Domingos Lopes",
+      "mae": "Guiomar Nunes",
+      "excerto": "«No mesmo dia mes era ut supra [...] Manoel filho de Domingos Lopes e de sua m[ulhe]r Guimar Nunes [...] do segundo matrimonio». Reticências e expansão da abreviatura editoriais; nome da mãe normalizado como Guiomar.",
+      "data_por_remissao": "S8-B1-m0004-d-01",
+      "duvidas": [],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg",
+      "pessoa": 3,
+      "familia": 1
+    },
+    {
+      "id": "S8-B1-m0004-d-04",
+      "imagem": "m0004",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "confirmado",
+      "data_batismo": "30/12/1692",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Nunes",
+      "mae": "Maria Fernandes",
+      "excerto": "«Aos trinta dias do mes de dezembro de mil e seis centos e noventa e dois annos baptizei [...] a Manoel filho de Manoel Nunes e de sua m[ulhe]r Maria Fernandes». Reticências e expansão da abreviatura editoriais.",
+      "nota": "O dia lê-se «trinta», sem «e um». Nenhuma data de nascimento foi extraída.",
+      "duvidas": [],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg",
+      "pessoa": 6,
+      "familia": 2
+    }
+  ],
+  "por_rever": [
+    {
+      "id": "S8-B1-m0003-d-01",
+      "imagem": "m0003",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "António; ano 1692.",
+      "duvidas": [
+        "Confirmar dia e mês.",
+        "Filiação por decifrar."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0003.jpg"
+    },
+    {
+      "id": "S8-B1-m0003-d-02",
+      "imagem": "m0003",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Data aparente: 15 de julho de 1692.",
+      "duvidas": [
+        "Confirmar nome marginal, data e filiação."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0003.jpg"
+    },
+    {
+      "id": "S8-B1-m0003-d-03",
+      "imagem": "m0003",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Data aparente: 23 de julho de 1692.",
+      "duvidas": [
+        "Nome da criança e filiação por confirmar."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0003.jpg"
+    },
+    {
+      "id": "S8-B1-m0004-e-01",
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; «No mesmo dia mês era ut supra».",
+      "duvidas": [
+        "Confirmar filiação e data herdada do assento anterior."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg"
+    },
+    {
+      "id": "S8-B1-m0004-e-02",
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Data aparente: 23 de agosto de 1692.",
+      "duvidas": [
+        "Confirmar nome da criança, dia e filiação."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg"
+    },
+    {
+      "id": "S8-B1-m0004-e-03",
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 17 de setembro de 1692.",
+      "duvidas": [
+        "Rever leitura dos apelidos dos pais antes de integrar."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg"
+    },
+    {
+      "id": "S8-B1-m0004-e-04",
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 16 de outubro de 1692.",
+      "duvidas": [
+        "Filiação por confirmar."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg"
+    },
+    {
+      "id": "S8-B1-m0004-d-03",
+      "imagem": "m0004",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "António; 28 de dezembro de 1692; mãe Ana Lopes.",
+      "duvidas": [
+        "Apelido do pai por confirmar."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg"
+    },
+    {
+      "id": "S8-B1-m0005-e-01",
+      "imagem": "m0005",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria.",
+      "duvidas": [
+        "Confirmar data e filiação; não inferir o ano pela sequência das imagens."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0005.jpg"
+    },
+    {
+      "id": "S8-B1-m0005-e-02",
+      "imagem": "m0005",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; aparente filiação João Rodrigues e Maria Dias.",
+      "duvidas": [
+        "Confirmar data, filiação e naturalidade."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0005.jpg"
+    },
+    {
+      "id": "S8-B1-m0005-e-03",
+      "imagem": "m0005",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel.",
+      "duvidas": [
+        "Confirmar data e nomes completos dos pais."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0005.jpg"
+    },
+    {
+      "id": "S8-B1-m0005-e-04",
+      "imagem": "m0005",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "João; referência a batismo em caso de necessidade.",
+      "duvidas": [
+        "Confirmar filiação, data e quem administrou o batismo."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0005.jpg"
+    },
+    {
+      "id": "S8-B1-m0005-d-01",
+      "imagem": "m0005",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel.",
+      "duvidas": [
+        "Confirmar data, filiação e cláusulas sobre estado dos pais."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0005.jpg"
+    },
+    {
+      "id": "S8-B1-m0005-d-02",
+      "imagem": "m0005",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; aparente 1 de novembro de 1692.",
+      "duvidas": [
+        "Confirmar data e filiação."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0005.jpg"
+    },
+    {
+      "id": "S8-B1-m0005-d-03",
+      "imagem": "m0005",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Data aparente: 9 de novembro de 1692.",
+      "duvidas": [
+        "Nome da criança e filiação por decifrar."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0005.jpg"
+    },
+    {
+      "id": "S8-B1-m0005-d-04",
+      "imagem": "m0005",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 1 de dezembro de 1692.",
+      "duvidas": [
+        "Confirmar data e apelidos dos pais."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0005.jpg"
+    }
+  ],
+  "coincidencias_nao_fundidas": [
+    {
+      "assento": "S8-B1-m0004-d-04",
+      "familia_base": 5917,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    }
+  ]
+}

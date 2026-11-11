@@ -36,7 +36,7 @@ Não há base de dados, nem API, nem build. O estado vive em ficheiros.
 Regra: tudo em `/dados` e `dados.js` é **gerado**. Corrige-se o parser e volta-se a gerar;
 não se edita o resultado.
 
-Exceção única: `dados/acrescentos_carlos.csv`. É o ficheiro de entrada da informação que
+Exceção para correções da base existente: `dados/acrescentos_carlos.csv`. É o ficheiro de entrada da informação que
 não vem do blogue — o que o autor da investigação enviou por email e o que se leu em
 assentos fotografados. Escreve-se à mão, cada linha leva a sua fonte, e o passo 12 aplica-o.
 
@@ -78,6 +78,35 @@ etapas isoladas, porque as fusões dependem do que veio antes.
 
 ---
 
+### 3.1. Leituras diretas dos originais S8
+
+O checkout atual não contém os parsers iniciais nem `ged_final.py`/`dados_final.json`
+necessários para executar os treze passos. Não se reconstrói essa base por adivinhação.
+As novas leituras têm uma cadeia aditiva independente, sem alterar os resultados do blogue:
+
+1. `fontes/S8/transcricoes/*.json` é entrada manual revista, com livro, imagem, lado,
+   posição, excerto, campos essenciais e dúvidas. É a segunda exceção de entrada manual,
+   fora de `/dados`. `confirmado` significa leitura dos campos essenciais; não significa
+   transcrição diplomática integral nem identidade comprovada com uma pessoa do blogue.
+2. `python3 scripts/gerar_assentos_s8.py` valida as entradas e gera `dados_s8.js`,
+   `assentos_s8.ged` e `dados/assentos_s8_revisao.json`. `--check` verifica estes resultados
+   sem os escrever. Só assentos `confirmado` entram na árvore e no GEDCOM suplementar;
+   leituras `pendente` ficam apenas no relatório de revisão.
+3. A página carrega `dados.js` e depois `dados_s8.js?v=N`, antes do seu próprio script.
+   O segundo ficheiro acrescenta pessoas e famílias a `window.ARVORE`, ajustando os índices
+   relativos pelo tamanho da base. Não altera pessoas, famílias ou índices anteriores.
+   `window.ARVORE.assentosS8` guarda os IDs aplicados e impede aplicação dupla.
+4. Não há fusão automática por nome, mesmo para casais. Coincidências com casais da base
+   vão para o relatório, sem estabelecer parentesco. Cada pessoa nova tem fonte e papel
+   no assento. Não se copia a data de batismo para nascimento nem se atribui apelido ao bebé.
+5. `assentos_s8.ged` contém apenas o suplemento de originais, sem substituir o GEDCOM da
+   base. Os relatórios anteriores mantêm-se. Quando a cadeia completa voltar a estar
+   disponível, a reconciliação terá de ser explícita para evitar duplicar estes assentos.
+
+O filtro «Assentos originais S8» permite consultar este suplemento. As fontes incluem uma
+ligação ao livro no arquivo. A versão `?v=N` de `dados_s8.js` sobe quando este muda.
+
+
 ## 4. Contratos de dados
 
 ### CSV
@@ -104,6 +133,7 @@ Pessoa `p[i]`:
 | 8 | família (apelido) |
 | 9 | referências cruzadas noutras genealogias |
 | 10 | fontes (assentos onde aparece) |
+| 11 | evidências opcionais dos originais: lista de objetos com `id`, `origem`, `url`, `imagem`, `lado`, `ordem` e `papel` |
 
 Família `f[j]`: `[marido, mulher, data_casamento, nota, [filhos]]`, com `-1` para ausente.
 
@@ -131,9 +161,9 @@ próprias, para manter a compatibilidade com Gramps e MyHeritage.
 
 Dois destinos, a partir dos mesmos ficheiros:
 
-1. **GitHub Pages** — `index.html` + `dados.js` na raiz do repositório, ramo `main`.
+1. **GitHub Pages** — `index.html` + `dados.js` + `dados_s8.js` na raiz do repositório, ramo `main`.
    Público, com `<meta name="robots" content="noindex,nofollow">`.
-2. **Artefacto privado** — a mesma página, com os mesmos dados.
+2. **Artefacto privado** — a mesma página, com os mesmos dados, incluindo o suplemento S8.
 
 A Drive guarda cópias de arquivo (GEDCOM, CSV, arquivo do blogue), não serve a página.
 
@@ -155,3 +185,6 @@ por serem impossíveis) e `conflitos_registos.csv` (divergências entre genealog
 `scripts/validar_design.py` confere `index.html` contra o `DESIGN.md`: cores literais fora dos
 tokens, raios acima de 2px, sombras, tokens não definidos no bloco claro e notação das datas.
 Corre-se antes de publicar.
+
+A cadeia S8 verifica também datas dentro do intervalo do livro, IDs de assento únicos,
+campos legíveis sem marcas de dúvida, índices recíprocos e separação de leituras pendentes.
