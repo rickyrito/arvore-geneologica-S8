@@ -1960,6 +1960,376 @@
 1 SOUR @S85@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I256@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 27 NOV 1702
+1 FAMC @F86@
+1 SOUR @S86@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I257@ INDI
+1 NAME Domingos /Martins/
+1 SEX M
+1 FAMS @F86@
+1 SOUR @S86@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I258@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 FAMS @F86@
+1 SOUR @S86@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I259@ INDI
+1 NAME Domingos
+1 SEX M
+1 BAPM
+2 DATE 9 DEC 1702
+1 FAMC @F87@
+1 SOUR @S87@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I260@ INDI
+1 NAME Manuel /Fernandes/
+1 SEX M
+1 FAMS @F87@
+1 SOUR @S87@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I261@ INDI
+1 NAME Catarina /Franco/
+1 SEX F
+1 FAMS @F87@
+1 SOUR @S87@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I262@ INDI
+1 NAME Ana
+1 SEX F
+1 BAPM
+2 DATE 23 DEC 1702
+1 FAMC @F88@
+1 SOUR @S88@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I263@ INDI
+1 NAME Tomás /Fernandes/
+1 SEX M
+1 FAMS @F88@
+1 SOUR @S88@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I264@ INDI
+1 NAME Maria /Esteves/
+1 SEX F
+1 FAMS @F88@
+1 SOUR @S88@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I265@ INDI
+1 NAME Francisco
+1 SEX M
+1 BAPM
+2 DATE 22 JAN 1703
+1 FAMC @F89@
+1 SOUR @S89@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I266@ INDI
+1 NAME Domingos /Pires/
+1 SEX M
+1 FAMS @F89@
+1 SOUR @S89@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I267@ INDI
+1 NAME Francisca /Gonçalves/
+1 SEX F
+1 FAMS @F89@
+1 SOUR @S89@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I268@ INDI
+1 NAME Ana
+1 SEX F
+1 BAPM
+2 DATE 19 FEB 1703
+1 FAMC @F90@
+1 SOUR @S90@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I269@ INDI
+1 NAME Sebastião /Afonso/
+1 SEX M
+1 FAMS @F90@
+1 SOUR @S90@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I270@ INDI
+1 NAME Isabel /Gonçalves/
+1 SEX F
+1 FAMS @F90@
+1 SOUR @S90@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I271@ INDI
+1 NAME Diogo
+1 SEX M
+1 BAPM
+2 DATE 19 JUN 1704
+1 FAMC @F91@
+1 SOUR @S91@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I272@ INDI
+1 NAME José /Fernandes/
+1 SEX M
+1 FAMS @F91@
+1 SOUR @S91@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I273@ INDI
+1 NAME Isabel /Fernandes/
+1 SEX F
+1 FAMS @F91@
+1 SOUR @S91@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I274@ INDI
+1 NAME João
+1 SEX M
+1 BAPM
+2 DATE 20 JUL 1704
+1 FAMC @F92@
+1 SOUR @S92@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I275@ INDI
+1 NAME Francisco /Fernandes/
+1 SEX M
+1 FAMS @F92@
+1 SOUR @S92@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I276@ INDI
+1 NAME Isabel /Antunes/
+1 SEX F
+1 FAMS @F92@
+1 SOUR @S92@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I277@ INDI
+1 NAME António
+1 SEX M
+1 BAPM
+2 DATE 9 OCT 1704
+1 FAMC @F93@
+1 SOUR @S93@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I278@ INDI
+1 NAME António /Pires/
+1 SEX M
+1 FAMS @F93@
+1 SOUR @S93@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I279@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 FAMS @F93@
+1 SOUR @S93@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I280@ INDI
+1 NAME Miguel Dias /Duro/
+1 SEX M
+1 DEAT
+2 DATE 25 JAN 1695
+1 SOUR @S94@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I281@ INDI
+1 NAME Baltasar /Soleiro/
+1 SEX M
+1 DEAT
+2 DATE 14 FEB 1695
+1 SOUR @S95@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I282@ INDI
+1 NAME António /Luís/
+1 SEX M
+1 DEAT
+2 DATE 25 APR 1697
+1 SOUR @S96@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I283@ INDI
+1 NAME Maria /Correia/
+1 SEX F
+1 DEAT
+2 DATE 26 AUG 1697
+1 SOUR @S97@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I284@ INDI
+1 NAME Maria
+1 SEX F
+1 DEAT
+2 DATE 29 SEP 1697
+1 SOUR @S98@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I285@ INDI
+1 NAME Catarina /Gonçalves/
+1 SEX F
+1 DEAT
+2 DATE 13 OCT 1697
+1 SOUR @S99@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I286@ INDI
+1 NAME José /Marques/
+1 SEX M
+1 DEAT
+2 DATE 22 OCT 1697
+1 SOUR @S100@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I287@ INDI
+1 NAME Sebastião /Martins/
+1 SEX M
+1 DEAT
+2 DATE 24 OCT 1697
+1 SOUR @S101@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I288@ INDI
+1 NAME Manuel /Gomes/
+1 SEX M
+1 DEAT
+2 DATE 15 JUL 1698
+1 SOUR @S102@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I289@ INDI
+1 NAME Isabel /Fernandes/
+1 SEX F
+1 DEAT
+2 DATE 16 FEB 1698
+1 SOUR @S103@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I290@ INDI
+1 NAME Maria /Lourenço/
+1 SEX F
+1 DEAT
+2 DATE 11 MAR 1699
+1 SOUR @S104@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I291@ INDI
+1 NAME João /Pires/
+1 SEX M
+1 FAMS @F94@
+1 SOUR @S105@
+2 NOTE Papel: noivo
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I292@ INDI
+1 NAME Ana /Lourença/
+1 SEX F
+1 FAMS @F94@
+1 SOUR @S105@
+2 NOTE Papel: noiva
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I293@ INDI
+1 NAME João /Marques/
+1 SEX M
+1 FAMS @F95@
+1 SOUR @S106@
+2 NOTE Papel: noivo
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I294@ INDI
+1 NAME Catarina /Miguel/
+1 SEX F
+1 FAMS @F95@
+1 SOUR @S106@
+2 NOTE Papel: noiva
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I295@ INDI
+1 NAME João /Fernandes/
+1 SEX M
+1 FAMS @F96@
+1 SOUR @S107@
+2 NOTE Papel: noivo
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I296@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 FAMS @F96@
+1 SOUR @S107@
+2 NOTE Papel: noiva
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I297@ INDI
+1 NAME Francisco /Martins/
+1 SEX M
+1 FAMS @F97@
+1 SOUR @S108@
+2 NOTE Papel: noivo
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I298@ INDI
+1 NAME Isabel /Pires/
+1 SEX F
+1 FAMS @F97@
+1 SOUR @S108@
+2 NOTE Papel: noiva
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I299@ INDI
+1 NAME João Lopes /Valado/
+1 SEX M
+1 FAMS @F98@
+1 SOUR @S109@
+2 NOTE Papel: noivo
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I300@ INDI
+1 NAME Domingas /Nunes/
+1 SEX F
+1 FAMS @F98@
+1 SOUR @S109@
+2 NOTE Papel: noiva
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I301@ INDI
+1 NAME Manuel /Luís/
+1 SEX M
+1 FAMS @F99@
+1 SOUR @S110@
+2 NOTE Papel: noivo
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I302@ INDI
+1 NAME Catarina /Luís/
+1 SEX F
+1 FAMS @F99@
+1 SOUR @S110@
+2 NOTE Papel: noiva
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I303@ INDI
+1 NAME Francisco /Martins/
+1 SEX M
+1 FAMS @F100@
+1 SOUR @S111@
+2 NOTE Papel: noivo
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I304@ INDI
+1 NAME Isabel /Nunes/
+1 SEX F
+1 FAMS @F100@
+1 SOUR @S111@
+2 NOTE Papel: noiva
+1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -2385,514 +2755,967 @@
 1 WIFE @I255@
 1 CHIL @I253@
 1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F86@ FAM
+1 HUSB @I257@
+1 WIFE @I258@
+1 CHIL @I256@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F87@ FAM
+1 HUSB @I260@
+1 WIFE @I261@
+1 CHIL @I259@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F88@ FAM
+1 HUSB @I263@
+1 WIFE @I264@
+1 CHIL @I262@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F89@ FAM
+1 HUSB @I266@
+1 WIFE @I267@
+1 CHIL @I265@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F90@ FAM
+1 HUSB @I269@
+1 WIFE @I270@
+1 CHIL @I268@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F91@ FAM
+1 HUSB @I272@
+1 WIFE @I273@
+1 CHIL @I271@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F92@ FAM
+1 HUSB @I275@
+1 WIFE @I276@
+1 CHIL @I274@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F93@ FAM
+1 HUSB @I278@
+1 WIFE @I279@
+1 CHIL @I277@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F94@ FAM
+1 HUSB @I291@
+1 WIFE @I292@
+1 MARR
+2 DATE 4 JUN 1694
+2 SOUR @S105@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+0 @F95@ FAM
+1 HUSB @I293@
+1 WIFE @I294@
+1 MARR
+2 DATE 20 JUL 1694
+2 SOUR @S106@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+0 @F96@ FAM
+1 HUSB @I295@
+1 WIFE @I296@
+1 MARR
+2 DATE 17 JUN 1696
+2 SOUR @S107@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+0 @F97@ FAM
+1 HUSB @I297@
+1 WIFE @I298@
+1 MARR
+2 DATE 23 JUN 1697
+2 SOUR @S108@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+0 @F98@ FAM
+1 HUSB @I299@
+1 WIFE @I300@
+1 MARR
+2 DATE 3 JUL 1697
+2 SOUR @S109@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+0 @F99@ FAM
+1 HUSB @I301@
+1 WIFE @I302@
+1 MARR
+2 DATE 10 AUG 1697
+2 SOUR @S110@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+0 @F100@ FAM
+1 HUSB @I303@
+1 WIFE @I304@
+1 MARR
+2 DATE 4 MAR 1698
+2 SOUR @S111@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
 0 @S1@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg
 2 CONT esquerda, assento 3; batismo 17/09/1692.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezasete dias do mes de setembro [...] noventa e dois annos [...] a Maria filha de Paulo Gonçalves e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
+1 NOTE Possível mesmo casal de S8-B1-m0010-d-04 (João, 21/05/1694). Coincidência de filiação com cronologia compatível, sem fusão.
 0 @S2@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg
 2 CONT direita, assento 1; batismo 26/12/1692.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e seis dias do mes de dezembro [...] noventa e dois annos baptizei [...] a Izabel de Joam Lopes e de sua m[ulhe]r Maria Martins». Reticências e expansão da abreviatura editoriais.
 0 @S3@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg
 2 CONT direita, assento 2; batismo 26/12/1692.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «No mesmo dia mes era ut supra [...] Manoel filho de Domingos Lopes e de sua m[ulhe]r Guimar Nunes [...] do segundo matrimonio». Reticências e expansão da abreviatura editoriais; nome da mãe normalizado como Guiomar.
+1 NOTE Possível mesmo casal de S8-B1-m0013-d-04 (Maria, 22/11/1694). Coincidência de filiação e cronologia compatível, sem fusão.
 0 @S4@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0004.jpg
 2 CONT direita, assento 4; batismo 30/12/1692.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos trinta dias do mes de dezembro de mil e seis centos e noventa e dois annos baptizei [...] a Manoel filho de Manoel Nunes e de sua m[ulhe]r Maria Fernandes». Reticências e expansão da abreviatura editoriais.
+1 NOTE O dia lê-se «trinta», sem «e um». Nenhuma data de nascimento foi extraída.
 0 @S5@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0005-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0005.jpg
 2 CONT esquerda, assento 2; batismo 20/11/1692.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte dias do mes de novembro [...] noventa e dois annos [...] a Isabel [...] de João Rodrigues e de sua mulher Maria Dias». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S6@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0005-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0005.jpg
 2 CONT direita, assento 2; batismo 01/11/1692.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Ao primeiro dia do mes de novembro [...] noventa e dois annos [...] a Domingos [...] filho de Manuel Lopes e de sua mulher Isabel Gonçalves do primeiro matrimonio». Excerto parcial de leitura; reticências editoriais e grafia dos nomes n
+2 CONC ormalizada.
 0 @S7@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0006-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0006.jpg
 2 CONT esquerda, assento 4; batismo 13/01/1693.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos treze dias do mes de janeiro [...] noventa e tres annos [...] Isabel filha de João Rodrigues Coelho e de sua mulher Isabel Pires». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S8@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0007-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0007.jpg
 2 CONT esquerda, assento 1; batismo 17/02/1693.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezasete dias do mes de fevereiro [...] noventa e tres annos [...] a Catarina filha de Domingos Jorge e de sua mulher Maria Luis». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
+1 NOTE Luís é o nome/apelido lido na fonte; não foi convertido para Luísa.
 0 @S9@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0009-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0009.jpg
 2 CONT direita, assento 3; batismo 02/11/1693.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dois dias do mes de novembro [...] noventa e tres annos [...] a Diogo filho de Manuel Marcos e de sua mulher Maria Rodrigues». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S10@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0010-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0010.jpg
 2 CONT esquerda, assento 3; batismo 18/02/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezoito dias do mes de fevereiro [...] noventa e quatro annos [...] a Ana filha de António Martins e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S11@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0010-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0010.jpg
 2 CONT direita, assento 4; batismo 21/05/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e hum dias do mes de maio [...] noventa e quatro annos [...] a João [...] de Paulo Gonçalves e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
+1 NOTE Possível mesmo casal de S8-B1-m0004-e-03 (Maria, 17/09/1692): nomes de ambos os pais coincidem e datas são compatíveis. Identidade do casal por confirmar; famílias mantidas separadas.
 0 @S12@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0011-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0011.jpg
 2 CONT esquerda, assento 2; batismo 26/05/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e seis dias do mes de maio [...] noventa e quatro annos [...] a Gonçalo filho de Domingos Martins e de sua mulher Guiomar Lopes». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S13@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0011-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0011.jpg
 2 CONT direita, assento 2; batismo 15/07/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quinze dias do mes de julho [...] noventa e quatro annos [...] a Manuel filho de Gaspar Fernandes [...] e de sua mulher Domingas Gonçalves». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S14@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0012-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0012.jpg
 2 CONT esquerda, assento 1; batismo 28/07/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e oito dias do mes de julho [...] noventa e quatro annos [...] a Helena filha de Gabriel Nunes e de sua mulher Helena Marques». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S15@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0012-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0012.jpg
 2 CONT esquerda, assento 4; batismo 15/08/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quinze dias do mes de agosto [...] noventa e quatro annos [...] a Ana [...] de Diogo Lourenço e de sua mulher Águeda Pires». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S16@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0012-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0012.jpg
 2 CONT direita, assento 2; batismo 05/09/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos cinco dias do mes de setembro [...] noventa e quatro annos [...] a Maria filha de António Martins e de sua mulher Maria Morais». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S17@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0012-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0012.jpg
 2 CONT direita, assento 3; batismo 20/09/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte dias do mes de setembro [...] noventa e quatro annos [...] a Domingos filho de João Lopes e de sua mulher Maria Lourença». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S18@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0013-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0013.jpg
 2 CONT esquerda, assento 1; batismo 24/09/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e quatro dias do mes de setembro [...] noventa e quatro annos [...] a Maria filha de Manuel Gonçalves [...] e de sua mulher Maria Gonçalves». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S19@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0013-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0013.jpg
 2 CONT esquerda, assento 2; batismo 22/09/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e dois dias do mes de setembro [...] noventa e quatro annos [...] a Maria filha de António Pires e de sua mulher Maria Inês». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
 0 @S20@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0013-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0013.jpg
 2 CONT direita, assento 4; batismo 22/11/1694.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e dois [dias] do mes de novembro [...] noventa e quatro annos [...] a Maria filha de Domingos Lopes e de sua mulher Guiomar Nunes». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.
+1 NOTE Possível mesmo casal de S8-B1-m0004-d-02 (Manuel, 26/12/1692): nomes dos pais coincidem e datas são compatíveis. Filhos não fundidos; identidade do casal por confirmar.
 0 @S21@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0014-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0014.jpg
 2 CONT esquerda, assento 3; batismo 09/03/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos nove dias do mes de março [...] noventa e cinco annos [...] a António filho de António Martins e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizad
+2 CONC a.
 0 @S22@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0014-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0014.jpg
 2 CONT esquerda, assento 4; batismo 06/04/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos seis dias do mes de abril [...] noventa e cinco annos [...] a Manuel filho de Domingos Martins [...] e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normali
+2 CONC zada.
 0 @S23@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0014-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0014.jpg
 2 CONT direita, assento 2; batismo 01/05/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Ao primeiro dia do mes de maio [...] noventa e cinco annos [...] a António filho de António Jorge e de sua mulher Catarina Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizad
+2 CONC a.
 0 @S24@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0014-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0014.jpg
 2 CONT direita, assento 4; batismo 28/05/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e oito dias do mes de maio [...] noventa e cinco annos [...] a João filho de João Gonçalves e de sua mulher Maria Lopes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normali
+2 CONC zada.
 0 @S25@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0015-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0015.jpg
 2 CONT esquerda, assento 2; batismo 26/06/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e seis dias do mes de junho [...] noventa e cinco annos [...] a Ana filha de Domingos Martins e de sua mulher Isabel Rodrigues». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
+2 CONC malizada.
 0 @S26@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0015-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0015.jpg
 2 CONT esquerda, assento 3; batismo 16/07/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezasseis dias do mes de julho [...] noventa e cinco annos [...] a Maria filha de António Martins e de sua mulher Catarina Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normal
+2 CONC izada.
 0 @S27@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0015-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0015.jpg
 2 CONT direita, assento 2; batismo 15/08/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quinze dias do mes de agosto [...] noventa e cinco annos [...] a Francisco filho de Pedro Domingues e de sua mulher Ana Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normaliz
+2 CONC ada.
 0 @S28@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0015-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0015.jpg
 2 CONT direita, assento 3; batismo 19/08/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezanove dias do mes de agosto [...] noventa e cinco annos [...] a António filho de Manuel Nunes e de Maria Fernandes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+1 NOTE Possível mesmo casal de S8-B1-m0004-d-04 (Manuel, 30/12/1692): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos.
 0 @S29@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0016-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0016.jpg
 2 CONT esquerda, assento 3; batismo 02/09/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dois dias do mes de setembro [...] noventa e cinco annos [...] a João filho de João Rodrigues [...] e de sua mulher Maria Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normali
+2 CONC zada.
+1 NOTE Possível mesmo casal de S8-B1-m0005-e-02 (Isabel, 20/11/1692): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos.
 0 @S30@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0016-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0016.jpg
 2 CONT direita, assento 1; batismo 10/09/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dez dias do mes de setembro [...] noventa e cinco annos [...] a Manuel filho de José Marques [...] e de sua mulher Isabel Marques». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes norma
+2 CONC lizada.
 0 @S31@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0017-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0017.jpg
 2 CONT esquerda, assento 1; batismo 31/10/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos trinta e hum dias do mes de outubro [...] noventa e cinco annos [...] a Maria filha de João Pires e de sua mulher Ana Fernandes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normali
+2 CONC zada.
 0 @S32@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0017-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0017.jpg
 2 CONT direita, assento 1; batismo 06/11/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos seis dias do mes de novembro [...] noventa e cinco annos [...] a José filho de José Lopes e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S33@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0017-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0017.jpg
 2 CONT direita, assento 3; batismo 24/12/1695.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e quatro dias do mes de dezembro [...] noventa e cinco annos [...] a Maria filha de Luís Pinto e de sua mulher Ana Gonçalves». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
+2 CONC malizada.
 0 @S34@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0018-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0018.jpg
 2 CONT esquerda, assento 1; batismo 29/01/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e nove dias do mes de janeiro [...] noventa e seis annos [...] a Maria filha de Domingos Jorge e de sua mulher Catarina Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes no
+2 CONC rmalizada.
 0 @S35@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0018-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0018.jpg
 2 CONT esquerda, assento 2; batismo 12/02/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos doze dias do mes de fevereiro [...] noventa e seis annos [...] a António filho de António Martins e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normal
+2 CONC izada.
+1 NOTE Possível mesmo casal de S8-B1-m0010-e-03 (Ana, 18/02/1694): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos.
 0 @S36@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0018-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0018.jpg
 2 CONT direita, assento 1; batismo 13/04/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos treze dias do mes de abril [...] noventa e seis annos [...] a Maria filha de António Lourenço e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S37@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0018-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0018.jpg
 2 CONT direita, assento 2; batismo 09/04/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos nove dias do mes de abril [...] noventa e seis annos [...] a João filho de João Martins e de Isabel Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S38@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0019-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0019.jpg
 2 CONT esquerda, assento 1; batismo 29/04/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e nove dias do mes de abril [...] noventa e seis annos [...] a Brígida filha de Manuel Fernandes [...] e de sua mulher Isabel Nunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nom
+2 CONC es normalizada.
 0 @S39@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0019-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0019.jpg
 2 CONT direita, assento 1; batismo 08/06/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos oito dias do mes de junho [...] noventa e seis annos [...] a Ana filha de Pedro Lourenço Nabais e de sua mulher Inês Antunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normaliza
+2 CONC da.
 0 @S40@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0019-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0019.jpg
 2 CONT direita, assento 2; batismo 20/06/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte dias do mes de junho [...] noventa e seis annos [...] a Maria filha de António Rodrigues e de sua mulher Isabel Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normaliza
+2 CONC da.
 0 @S41@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0020-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0020.jpg
 2 CONT esquerda, assento 1; batismo 05/08/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos cinco dias do mes de agosto [...] noventa e seis annos [...] a Maria filha de António Martins e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+1 NOTE Possível mesmo casal de S8-B1-m0014-e-03 (António, 09/03/1695): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos.
 0 @S42@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0020-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0020.jpg
 2 CONT direita, assento 2; batismo 28/09/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e oito dias do mes de setembro [...] noventa e seis annos [...] a Ana filha de António Nabais e de sua mulher Maria Gonçalves». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes no
+2 CONC rmalizada.
 0 @S43@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0020-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0020.jpg
 2 CONT direita, assento 3; batismo 01/10/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Ao primeiro dia do mes de setembro digo de outubro [...] noventa e seis annos [...] a Gonçalo filho de João Lopes e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos no
+2 CONC mes normalizada.
+1 NOTE O redator corrige o mês: «setembro digo de outubro». Registado outubro, conservando a correção no excerto.
 0 @S44@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0020-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0020.jpg
 2 CONT direita, assento 4; batismo 01/10/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «No mesmo dia mes era ut supra [...] a António filho de João Lopes e de sua mulher Maria Rodrigues [...] baptizei em casa por necessidade». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes n
+2 CONC ormalizada.
+1 NOTE O pai tem o mesmo nome do pai do assento anterior, mas as mães são diferentes. Famílias mantidas separadas.
 0 @S45@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0021-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0021.jpg
 2 CONT direita, assento 2; batismo 18/11/1696.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezoito dias do mes de novembro [...] noventa e seis annos [...] a Isabel filha de Domingos Gonçalves e de sua mulher Isabel Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes norma
+2 CONC lizada.
 0 @S46@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0022-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0022.jpg
 2 CONT esquerda, assento 4; batismo 28/01/1697.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e oito dias do mes de janeiro [...] noventa e sete annos [...] a Ana filha de Bartolomeu Fernandes [...] e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nom
+2 CONC es normalizada.
 0 @S47@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0022-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0022.jpg
 2 CONT direita, assento 1; batismo 14/02/1697.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quatorze dias do mes de fevereiro [...] noventa e sete [...] a Domingos filho de Domingos Serrão e de sua mulher Maria Gomes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizad
+2 CONC a.
 0 @S48@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0022-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0022.jpg
 2 CONT direita, assento 2; batismo 02/02/1697.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dois dias do mes de fevereiro [...] noventa e sete annos [...] a Ana filha de Domingos Lopes e de sua mulher Guiomar Nunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+1 NOTE Possível mesmo casal de S8-B1-m0004-d-02 (Manuel, 26/12/1692) e S8-B1-m0013-d-04 (Maria, 22/11/1694): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos.
 0 @S49@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0022-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0022.jpg
 2 CONT direita, assento 3; batismo 16/03/1697.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezasseis dias do mes de março [...] noventa e sete annos [...] a Catarina filha de António Dias [...] e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
+2 CONC malizada.
 0 @S50@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0023-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0023.jpg
 2 CONT esquerda, assento 2; batismo 23/04/1697.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e tres dias do mes de abril [...] noventa e sete annos [...] a Manuel filho de António Jorge e de sua mulher Catarina Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normal
+2 CONC izada.
+1 NOTE Possível mesmo casal de S8-B1-m0014-d-02 (António, 01/05/1695): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos.
 0 @S51@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0023-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0023.jpg
 2 CONT esquerda, assento 3; batismo 26/05/1697.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e seis dias do mes de maio [...] noventa e sete annos [...] a João filho de Manuel Dias e de Maria Antunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S52@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0025-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0025.jpg
 2 CONT esquerda, assento 3; batismo 14/12/1697.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quatorze dias do mes de dezembro [...] noventa e sete annos [...] a Francisco filho de António Martins e de sua mulher Catarina Afonso». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes
+2 CONC  normalizada.
 0 @S53@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0025-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0025.jpg
 2 CONT direita, assento 4; batismo 06/01/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos seis dias do mes de janeiro [...] noventa e oito annos [...] a Ana filha de António Martins e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+1 NOTE Possível mesmo casal de S8-B1-m0010-e-03 (Ana, 18/02/1694) e S8-B1-m0018-e-02 (António, 12/02/1696): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos. As duas crianças
+2 CONC  chamadas Ana são mantidas como pessoas distintas.
 0 @S54@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0026-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0026.jpg
 2 CONT esquerda, assento 1; batismo 25/01/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e cinco dias do mes de janeiro [...] noventa e oito annos [...] a Catarina filha de António Martins e de sua mulher Isabel Nabais». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes
+2 CONC  normalizada.
 0 @S55@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0026-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0026.jpg
 2 CONT esquerda, assento 2; batismo 15/03/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quinze dias do mes de março [...] noventa e oito annos [...] a Domingos filho de Pedro Domingues e de sua mulher Ana Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizad
+2 CONC a.
+1 NOTE Possível mesmo casal de S8-B1-m0015-d-02 (Francisco, 15/08/1695): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos.
 0 @S56@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0026-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0026.jpg
 2 CONT direita, assento 1; batismo 31/05/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos trinta e hum dias do mes de maio [...] noventa e oito annos [...] a José filho de Domingos Gonçalves e de sua mulher Isabel Nabais». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
+2 CONC malizada.
 0 @S57@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0026-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0026.jpg
 2 CONT direita, assento 2; batismo 07/06/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos sete dias do mes de junho [...] noventa e oito annos [...] a Gabriel filho de Gabriel Nunes e de sua mulher Helena Marques». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+1 NOTE Possível mesmo casal de S8-B1-m0012-e-01 (Helena, 28/07/1694): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos.
 0 @S58@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0026-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0026.jpg
 2 CONT direita, assento 3; batismo 06/07/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos seis dias do mes de julho [...] noventa e oito annos [...] a Ana filha de José Fernandes e de Isabel Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S59@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0028-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0028.jpg
 2 CONT esquerda, assento 1; batismo 22/07/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e dois dias do mes de julho [...] noventa e oito annos [...] a Manuel filho de João Santiago [...] e de sua mulher Maria Lopes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes no
+2 CONC rmalizada.
 0 @S60@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0028-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0028.jpg
 2 CONT direita, assento 1; batismo 15/08/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quinze dias do mes de agosto [...] noventa e oito annos [...] a Manuel filho de Manuel Carvalho e de sua mulher Maria Gonçalves». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normali
+2 CONC zada.
 0 @S61@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0029-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0029.jpg
 2 CONT esquerda, assento 1; batismo 08/09/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos oito dias do mes de setembro [...] noventa e oito annos [...] a Lúcia filha de Manuel da Costa e de sua mulher Maria Lopes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S62@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0029-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0029.jpg
 2 CONT direita, assento 2; batismo 25/09/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e cinco dias do mes de setembro [...] noventa e oito annos [...] a João filho de João Gomes e de sua mulher Ana Lourença». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normal
+2 CONC izada.
 0 @S63@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0029-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0029.jpg
 2 CONT direita, assento 3; batismo 02/10/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dois dias do mes de outubro [...] noventa e oito annos [...] a Catarina filha de João Martins e de sua mulher Isabel Nunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S64@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0030-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0030.jpg
 2 CONT esquerda, assento 2; batismo 07/11/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos sete dias do mes de novembro [...] noventa e oito annos [...] a Manuel filho de Domingos Gonçalves e de sua mulher Isabel Domingues». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
+2 CONC malizada.
 0 @S65@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0030-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0030.jpg
 2 CONT esquerda, assento 3; batismo 28/12/1698.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e oito dias do mes de dezembro [...] noventa e oito annos [...] a Maria filha de Francisco Fernandes [...] e de sua mulher Maria Lourença». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia d
+2 CONC os nomes normalizada.
 0 @S66@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0031-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0031.jpg
 2 CONT esquerda, assento 1; batismo 29/01/1699.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e nove dias do mês de janeiro de mil seiscentos e noventa e nove anos [...] a Manuel filho de Domingos Duarte e de sua mulher Maria Gomes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências e
+2 CONC ditoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S67@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0031-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0031.jpg
 2 CONT esquerda, assento 2; batismo 02/02/1699.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dois dias do mês de fevereiro de mil seiscentos e noventa e nove anos batizei [...] a António filho de António Dias e de sua mulher Ana Luís [...] do segundo matrimónio da parte dele». Excerto parcial de leitura; reticências edi
+2 CONC toriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S68@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0032-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0032.jpg
 2 CONT direita, assento 1; batismo 06/07/1699.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos seis dias do mês de julho de mil seiscentos e noventa e nove anos batizei [...] a Ana filha de Diogo Lourenço e de sua mulher Isabel Fernandes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências e
+2 CONC ditoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S69@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0033-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0033.jpg
 2 CONT direita, assento 2; batismo 10/09/1699.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dez dias do mês de setembro de mil e seiscentos e noventa e nove anos batizei [...] a António filho de Manuel Gomes e de sua mulher Maria Gomes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências
+2 CONC  editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S70@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0034-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0034.jpg
 2 CONT esquerda, assento 1; batismo 12/10/1699.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos doze dias do mês de outubro de mil seiscentos e noventa e nove anos [...] a Maria filha de Francisco Pires e de sua mulher Domingas Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e gra
+2 CONC fia dos nomes normalizada.
 0 @S71@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0034-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0034.jpg
 2 CONT direita, assento 4; batismo 04/12/1699.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quatro dias do mês de dezembro de mil seiscentos e noventa e nove anos [...] Manuel filho de Manuel Rodrigues e Maria Gonçalves sua mulher [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia
+2 CONC  dos nomes normalizada.
 0 @S72@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0034-d-05
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0034.jpg
 2 CONT direita, assento 5; batismo 07/12/1699.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos sete dias do mês de dezembro de mil seiscentos e noventa e nove anos [...] Antónia filha de António Leal [...] e de sua mulher Maria Pires [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafi
+2 CONC a dos nomes normalizada.
 0 @S73@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0035-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0035.jpg
 2 CONT esquerda, assento 3; batismo 13/01/1700.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos treze dias do mês de janeiro de mil e setecentos anos [...] a Joana filha de João Martins e de sua mulher Ana Vaz [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S74@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0035-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0035.jpg
 2 CONT direita, assento 2; batismo 14/02/1700.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos catorze dias do mês de fevereiro de mil e setecentos anos [...] Catarina filha de Domingos Jorge e de sua mulher Maria Pires [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes norm
+2 CONC alizada.
 0 @S75@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0037-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0037.jpg
 2 CONT direita, assento 3; batismo 27/07/1700.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e sete dias do mês de julho de mil e setecentos anos batizei [...] a Guiomar filha de João Lopes e de sua mulher Guiomar Martins [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos
+2 CONC  nomes normalizada.
 0 @S76@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0038-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0038.jpg
 2 CONT direita, assento 3; batismo 01/09/1700.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Ao primeiro dia do mês de setembro de mil e setecentos anos [...] a Manuel filho de Domingos Gama e de sua mulher Isabel Novais [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes norma
+2 CONC lizada.
 0 @S77@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0041-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0041.jpg
 2 CONT esquerda, assento 2; batismo 01/02/1701.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Ao primeiro dia do mês de fevereiro de mil e setecentos e um anos [...] a Francisco filho de Baltasar Dias e de sua mulher Ana Rodrigues [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos no
+2 CONC mes normalizada.
 0 @S78@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0041-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0041.jpg
 2 CONT direita, assento 4; batismo 06/08/1701.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos seis dias do mês de agosto de mil e setecentos e um anos batizei [...] a Maria filha de Paulo e de sua mulher Ana Mendes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editoriais, abreviaturas
+2 CONC  expandidas e grafia dos nomes normalizada.
+1 NOTE O assento identifica o pai apenas como Paulo; não se acrescenta apelido por hipótese. A data é a do texto, apesar da posição antes dos assentos de março e abril em m0042.
 0 @S79@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0042-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0042.jpg
 2 CONT direita, assento 3; batismo 20/07/1701.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte dias do mês de julho de mil e setecentos e um anos batizei [...] a Manuel filho de Manuel Gonçalves e de sua mulher Cecília Luís [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editori
+2 CONC ais, abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S80@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0043-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0043.jpg
 2 CONT esquerda, assento 2; batismo 10/08/1701.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dez dias do mês de agosto de mil e setecentos e um anos batizei [...] a Maria filha de Gonçalo Antunes e de sua mulher Maria Afonso [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editoriais,
+2 CONC  abreviaturas expandidas e grafia dos nomes normalizada.
 0 @S81@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0043-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0043.jpg
 2 CONT esquerda, assento 3; batismo 17/08/1701.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezassete dias do mês de agosto de mil e setecentos e um anos batizei [...] a Manuel filho de João Antunes e de sua mulher Maria Lopes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos
+2 CONC  nomes normalizada.
 0 @S82@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0043-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0043.jpg
 2 CONT direita, assento 2; batismo 17/09/1701.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezassete dias do mês de setembro de mil e setecentos e um anos batizei [...] a João filho de Manuel Vaz [...] e de sua mulher Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e g
+2 CONC rafia dos nomes normalizada.
 0 @S83@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0044-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0044.jpg
 2 CONT esquerda, assento 3; batismo 08/10/1701.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos oito dias do mês de outubro de mil e setecentos e um anos batizei [...] a António filho de Manuel Lopes e de sua mulher Maria Gomes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos no
+2 CONC mes normalizada.
 0 @S84@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0047-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0047.jpg
 2 CONT esquerda, assento 2; batismo 07/04/1702.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos sete dias do mês de abril de mil e setecentos e dois anos batizei [...] a António filho de Domingos Martins e de sua mulher Isabel Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e gra
+2 CONC fia dos nomes normalizada.
 0 @S85@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0050-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0050.jpg
 2 CONT esquerda, assento 1; batismo 26/08/1702.
-2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e seis dias do mês de agosto de mil e setecentos e dois anos batizei [...] a António filho de António Gonçalves [...] e de sua mulher Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas
+2 CONC  expandidas e grafia dos nomes normalizada.
+0 @S86@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0051-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0051.jpg
+2 CONT direita, assento 1; batismo 27/11/1702.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e sete dias do mês de novembro de mil e setecentos e dois anos batizei [...] a Maria filha de Domingos Martins [...] e de sua mulher Maria Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas exp
+2 CONC andidas e grafia dos nomes normalizada.
+0 @S87@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0052-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0052.jpg
+2 CONT esquerda, assento 1; batismo 09/12/1702.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos nove dias do mês de dezembro de mil e setecentos e dois anos batizei [...] Domingos [...] filho de Manuel Fernandes [...] e de sua mulher Catarina Franco [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expan
+2 CONC didas e grafia dos nomes normalizada.
+0 @S88@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0052-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0052.jpg
+2 CONT esquerda, assento 3; batismo 23/12/1702.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e três dias do mês de dezembro de mil e setecentos e dois anos batizei [...] a Ana filha de Tomás Fernandes e de sua mulher Maria Esteves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e
+2 CONC  grafia dos nomes normalizada.
+0 @S89@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0052-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0052.jpg
+2 CONT direita, assento 2; batismo 22/01/1703.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e dois dias do mês de janeiro de mil e setecentos e três anos batizei [...] a Francisco filho de Domingos Pires [...] e de sua mulher Francisca Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviatur
+2 CONC as expandidas e grafia dos nomes normalizada.
+0 @S90@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0053-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0053.jpg
+2 CONT esquerda, assento 1; batismo 19/02/1703.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezanove dias do mês de fevereiro de mil e setecentos e três anos batizei [...] a Ana filha de Sebastião Afonso e de sua mulher Isabel Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas
+2 CONC  e grafia dos nomes normalizada.
+0 @S91@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0057-d-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0057.jpg
+2 CONT direita, assento 3; batismo 19/06/1704.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezanove dias do mês de junho de mil e setecentos e quatro anos batizei [...] a Diogo filho de José Fernandes e de sua mulher Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e gr
+2 CONC afia dos nomes normalizada.
+0 @S92@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0058-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0058.jpg
+2 CONT esquerda, assento 3; batismo 20/07/1704.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte dias do mês de julho de mil e setecentos e quatro anos batizei [...] a João filho de Francisco Fernandes [...] e de sua mulher Isabel Antunes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas
+2 CONC  e grafia dos nomes normalizada.
+0 @S93@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0060-e-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0060.jpg
+2 CONT esquerda, assento 4; batismo 09/10/1704.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos nove dias do mês de outubro de mil e setecentos e quatro anos batizei [...] a António filho de António Pires e de sua mulher Maria Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e gr
+2 CONC afia dos nomes normalizada.
+1 NOTE O assento continua no alto da página direita da mesma imagem; foi contado uma única vez.
+0 @S94@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0070-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0070.jpg
+2 CONT esquerda, assento 3; óbito 25/01/1695.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e cinco dias do mês de janeiro de mil e seiscentos e noventa e cinco anos faleceu Miguel Dias Duro [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S95@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0070-e-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0070.jpg
+2 CONT esquerda, assento 4; óbito 14/02/1695.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos catorze dias do mês de fevereiro de mil e seiscentos e noventa e cinco anos faleceu Baltasar Soleiro [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S96@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0076-e-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0076.jpg
+2 CONT esquerda, assento 4; óbito 25/04/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e cinco dias do mês de abril de mil e seiscentos e noventa e sete anos faleceu António Luís [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S97@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0077-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0077.jpg
+2 CONT direita, assento 1; óbito 26/08/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e seis dias do mês de agosto de mil e seiscentos e noventa e sete anos faleceu Maria Correia mulher de Diogo Luís Serrano [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes
+2 CONC  normalizada.
+0 @S98@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0078-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0078.jpg
+2 CONT esquerda, assento 1; óbito 29/09/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e nove dias do mês de setembro de mil e seiscentos e noventa e sete faleceu Maria filha de Francisco Mendes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S99@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0078-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0078.jpg
+2 CONT direita, assento 2; óbito 13/10/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos treze dias do mês de outubro de mil e seiscentos e noventa e sete anos faleceu Catarina Gonçalves mulher de António Martins [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
+2 CONC malizada.
+0 @S100@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0079-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0079.jpg
+2 CONT esquerda, assento 2; óbito 22/10/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e dois dias do mês de outubro de mil e seiscentos e noventa e sete anos faleceu José Marques [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S101@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0079-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0079.jpg
+2 CONT esquerda, assento 3; óbito 24/10/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e quatro dias do mês de outubro de mil e seiscentos e noventa e sete anos faleceu Sebastião Martins [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S102@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0083-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0083.jpg
+2 CONT esquerda, assento 1; óbito 15/07/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quinze dias do mês de julho de mil e seiscentos e noventa e oito anos faleceu Manuel Gomes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S103@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0084-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0084.jpg
+2 CONT esquerda, assento 1; óbito 16/02/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezasseis dias do mês de fevereiro de mil e seiscentos e noventa e oito anos faleceu Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S104@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0085-e-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0085.jpg
+2 CONT esquerda, assento 4; óbito 11/03/1699.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos onze dias do mês de março de mil e seiscentos e noventa e nove anos faleceu Maria Lourenço mulher de António Toucado [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normaliza
+2 CONC da.
+0 @S105@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0116-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0116.jpg
+2 CONT direita, assento 1; casamento 04/06/1694.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quatro dias do mês de junho de mil e seiscentos e noventa e quatro anos recebi em face da Igreja a João Pires ... com Ana Lourença ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nome
+2 CONC s normalizada.
+1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
+0 @S106@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0116-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0116.jpg
+2 CONT direita, assento 2; casamento 20/07/1694.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte dias do mês de julho de mil e seiscentos e noventa e quatro anos recebi em face da Igreja a João Marques ... com Catarina Miguel ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos n
+2 CONC omes normalizada.
+1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
+0 @S107@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0118-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0118.jpg
+2 CONT direita, assento 1; casamento 17/06/1696.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezassete dias do mês de junho de mil e seiscentos e noventa e seis anos recebi em face da Igreja a João Fernandes ... com Maria Gonçalves ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia
+2 CONC  dos nomes normalizada.
+1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
+0 @S108@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0119-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg
+2 CONT esquerda, assento 1; casamento 23/06/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e três dias do mês de junho de mil e seiscentos e noventa e sete anos recebi em face da Igreja a Francisco Martins ... com Isabel Pires ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafi
+2 CONC a dos nomes normalizada.
+1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
+0 @S109@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0119-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg
+2 CONT esquerda, assento 2; casamento 03/07/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos três dias do mês de julho de mil e seiscentos e noventa e sete anos recebi em face da Igreja a João Lopes Valado ... com Domingas Nunes ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos
+2 CONC  nomes normalizada.
+1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
+0 @S110@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0119-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg
+2 CONT esquerda, assento 3; casamento 10/08/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dez dias do mês de agosto de mil e seiscentos e noventa e sete anos ... Manuel Luís ... com Catarina Luís ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
+1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
+0 @S111@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0120-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/PT-ADLSB-PRQ-PSBG34-001-B1_m0120.jpg
+2 CONT esquerda, assento 3; casamento 04/03/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quatro dias do mês de março de mil e seiscentos e noventa e oito anos recebi em face da Igreja a Francisco Martins ... com Isabel Nunes ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos
+2 CONC  nomes normalizada.
+1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
 0 TRLR

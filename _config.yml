@@ -1,0 +1,4 @@
+# As fotografias e transcrições de investigação ficam no repositório.
+# O explorador liga ao arquivo e carrega apenas os dados gerados.
+exclude:
+  - fontes

@@ -110,6 +110,21 @@ As novas leituras têm uma cadeia aditiva independente, sem alterar os resultado
    disponível para apoio de leitura. O relatório gerado conserva esta lista e
    as `notas_pagina`, incluindo continuações e notas de visitação.
 
+7. `tipo` distingue `batismo` (valor por omissão para as entradas anteriores), `obito`
+   e `casamento`. Cada confirmação exige excerto e os campos essenciais do evento:
+   batismo com criança, sexo, pais e `data_batismo`; óbito com `falecido` (nome e sexo,
+   que pode ser vazio quando não explícito) e pelo menos `data_obito` ou `data_sepultura`;
+   casamento com `noivo`, `noiva` e `data_casamento`. Todas as datas são explícitas e
+   validadas no intervalo do livro. Uma remissão só pode usar um evento confirmado
+   do mesmo tipo e com a mesma data; no óbito, refere especificamente `data_obito`.
+8. Um óbito cria uma pessoa independente: apenas `data_obito` ocupa a data de óbito
+   da ficha. `data_sepultura` conserva-se na fonte, evidência e evento GEDCOM `BURI`,
+   sem inferir a morte ou o nascimento. Um casamento cria dois nubentes e um núcleo
+   com data, sem filhos ou pais inferidos. Parentes apenas mencionados nos excertos
+   não geram ligações nesta primeira leitura. Mantém-se a ausência de fusão automática.
+   No GEDCOM, cada pessoa e casamento apontam para a fonte do respetivo assento,
+   independentemente do número de pessoas criadas. O relatório inclui totais por tipo.
+
 O filtro «Assentos originais S8» permite consultar este suplemento. As fontes incluem uma
 ligação ao livro no arquivo. A versão `?v=N` de `dados_s8.js` sobe quando este muda.
 
@@ -170,6 +185,9 @@ Dois destinos, a partir dos mesmos ficheiros:
 
 1. **GitHub Pages** — `index.html` + `dados.js` + `dados_s8.js` na raiz do repositório, ramo `main`.
    Público, com `<meta name="robots" content="noindex,nofollow">`.
+   O build Jekyll usa `_config.yml` para excluir `fontes/` da publicação: as fotografias
+   ficam no Git e são consultadas através das ligações ao arquivo; não são necessárias
+   ao explorador. Evita-se enviar dezenas de GiB de fontes para o artefacto Pages.
 2. **Artefacto privado** — a mesma página, com os mesmos dados, incluindo o suplemento S8.
 
 A Drive guarda cópias de arquivo (GEDCOM, CSV, arquivo do blogue), não serve a página.

@@ -32,6 +32,49 @@ def nome_legivel(valor):
         raise ValueError('Nome confirmado em falta ou com marcas de dúvida: ' + repr(valor))
 
 
+def tipo(assento):
+    return assento.get('tipo', 'batismo')
+
+
+def datas_evento(assento):
+    campos = {'batismo': ('data_batismo',), 'obito': ('data_obito', 'data_sepultura'),
+              'casamento': ('data_casamento',)}[tipo(assento)]
+    return {campo: assento[campo] for campo in campos if assento.get(campo)}
+
+
+def validar_confirmado(a, livro):
+    ident, evento = a['id'], tipo(a)
+    if a.get('duvidas') or not isinstance(a.get('excerto'), str) or not a['excerto'].strip():
+        raise ValueError('Assento confirmado com dúvidas ou sem excerto: ' + ident)
+    if evento == 'batismo':
+        for valor in (a['crianca']['nome'], a['pai'], a['mae']):
+            nome_legivel(valor)
+        if a['crianca']['sexo'] not in ('M', 'F') or not a.get('data_batismo'):
+            raise ValueError('Batismo sem sexo/data válidos: ' + ident)
+    elif evento == 'obito':
+        nome_legivel(a['falecido']['nome'])
+        if a['falecido']['sexo'] not in ('M', 'F', '') or not datas_evento(a):
+            raise ValueError('Óbito sem sexo válido ou data explícita: ' + ident)
+    else:
+        nome_legivel(a['noivo'])
+        nome_legivel(a['noiva'])
+        if not a.get('data_casamento'):
+            raise ValueError('Casamento sem data: ' + ident)
+    permitidas = {'batismo': {'data_batismo'}, 'obito': {'data_obito', 'data_sepultura'},
+                  'casamento': {'data_casamento'}}[evento]
+    for campo in ('data_batismo', 'data_obito', 'data_sepultura', 'data_casamento'):
+        if a.get(campo) and campo not in permitidas:
+            raise ValueError('Data de outro tipo de evento: ' + ident)
+    for valor in datas_evento(a).values():
+        dia = data(valor)
+        if not (datetime.fromisoformat(livro['data_inicial']).date() <= dia <=
+                datetime.fromisoformat(livro['data_final']).date()):
+            raise ValueError('Data fora do livro: ' + ident)
+    if a.get('data_obito') and a.get('data_sepultura'):
+        if data(a['data_sepultura']) < data(a['data_obito']):
+            raise ValueError('Sepultura anterior ao óbito: ' + ident)
+
+
 def ler(raiz):
     registos, vistos, posicoes = [], set(), set()
     entradas = sorted((raiz / 'fontes/S8/transcricoes').glob('*.json'))
@@ -74,25 +117,22 @@ def ler(raiz):
                 raise ValueError('Posição inválida: ' + ident)
             if assento['estado'] not in ('confirmado', 'pendente'):
                 raise ValueError('Estado desconhecido: ' + ident)
+            if tipo(assento) not in ('batismo', 'obito', 'casamento'):
+                raise ValueError('Tipo de assento desconhecido: ' + ident)
             if assento['estado'] == 'confirmado':
-                if assento.get('duvidas') or not assento.get('excerto'):
-                    raise ValueError('Assento confirmado com dúvidas ou sem excerto: ' + ident)
-                for valor in (assento['crianca']['nome'], assento['pai'], assento['mae']):
-                    nome_legivel(valor)
-                if assento['crianca']['sexo'] not in ('M', 'F'):
-                    raise ValueError('Sexo inválido: ' + ident)
-                dia = data(assento['data_batismo'])
-                if not (datetime.fromisoformat(livro['data_inicial']).date() <= dia <=
-                        datetime.fromisoformat(livro['data_final']).date()):
-                    raise ValueError('Data fora do livro: ' + ident)
+                validar_confirmado(assento, livro)
             elif not assento.get('duvidas'):
                 raise ValueError('Leitura pendente sem dúvidas descritas: ' + ident)
             registos.append((assento, livro, caminho.parent / imagens[assento['imagem']]))
     por_id = {a['id']: a for a, _, _ in registos}
     for a, _, _ in registos:
         if a['estado'] == 'confirmado' and a.get('data_por_remissao'):
-            anterior = por_id[a['data_por_remissao']]
-            if anterior['estado'] != 'confirmado' or anterior['data_batismo'] != a['data_batismo']:
+            anterior = por_id.get(a['data_por_remissao'])
+            campo = {'batismo': 'data_batismo', 'obito': 'data_obito',
+                     'casamento': 'data_casamento'}[tipo(a)]
+            if (not anterior or anterior['estado'] != 'confirmado' or
+                    tipo(anterior) != tipo(a) or not a.get(campo) or
+                    anterior.get(campo) != a[campo]):
                 raise ValueError('Remissão de data inconsistente: ' + a['id'])
     return registos
 
@@ -104,24 +144,52 @@ def construir(registos):
             pendentes.append(dict(a, livro=livro['referencia'], ficheiro_imagem=str(imagem)))
             continue
         i, fi = len(pessoas), len(familias)
-        fonte = ('Fonte original S8 — Batismo ' + a['data_batismo'] + ' — ' +
+        evento = tipo(a)
+        rotulo = {'batismo': 'Batismo', 'obito': 'Óbito', 'casamento': 'Casamento'}[evento]
+        if evento == 'obito':
+            data_fonte = a['data_obito'] if a.get('data_obito') else 'com data de óbito desconhecida'
+            if a.get('data_sepultura'):
+                data_fonte += '; sepultura ' + a['data_sepultura']
+        else:
+            data_fonte = a['data_batismo' if evento == 'batismo' else 'data_casamento']
+        fonte = ('Fonte original S8 — ' + rotulo + ' ' + data_fonte + ' — ' +
                  livro['referencia'] + ', imagem ' + a['imagem'] + ', ' + a['lado'] +
                  ', assento ' + str(a['ordem']) + '. Leitura direta dos campos essenciais; '
                  'identidade com as genealogias do blogue por confirmar.')
         evidencia = dict(id=a['id'], origem='S8', url=livro['origem'], imagem=str(imagem),
                          lado=a['lado'], ordem=a['ordem'])
-        for nome, sexo, papel in ((a['crianca']['nome'], a['crianca']['sexo'], 'criança'),
-                                  (a['pai'], 'M', 'pai'), (a['mae'], 'F', 'mãe')):
-            filho = papel == 'criança'
-            pessoas.append([nome, sexo, '', a['data_batismo'] if filho else '', '', '',
-                            fi if filho else -1, [] if filho else [fi],
-                            'Assentos paroquiais', [], [fonte + ' Papel: ' + papel + '.'],
-                            [dict(evidencia, papel=papel)]])
-        familias.append([i + 1, i + 2, '',
-                         'Casal identificado no batismo; data de casamento não indicada. '
-                         'Ligação às famílias da base por confirmar.', [i]])
+        if evento == 'batismo':
+            for nome, sexo, papel in ((a['crianca']['nome'], a['crianca']['sexo'], 'criança'),
+                                      (a['pai'], 'M', 'pai'), (a['mae'], 'F', 'mãe')):
+                filho = papel == 'criança'
+                pessoas.append([nome, sexo, '', a['data_batismo'] if filho else '', '', '',
+                                fi if filho else -1, [] if filho else [fi],
+                                'Assentos paroquiais', [], [fonte + ' Papel: ' + papel + '.'],
+                                [dict(evidencia, papel=papel)]])
+            familias.append([i + 1, i + 2, '',
+                             'Casal identificado no batismo; data de casamento não indicada. '
+                             'Ligação às famílias da base por confirmar.', [i]])
+        else:
+            evidencia.update(tipo=evento, excerto=a['excerto'])
+            if a.get('data_sepultura'):
+                evidencia['data_sepultura'] = a['data_sepultura']
+            fonte += ' ' + a['excerto']
+            if a.get('nota'):
+                fonte += ' ' + a['nota']
+            if evento == 'obito':
+                pessoas.append([a['falecido']['nome'], a['falecido']['sexo'], '', '',
+                                a.get('data_obito', ''), '', -1, [], 'Assentos paroquiais', [],
+                                [fonte + ' Papel: falecido.'], [dict(evidencia, papel='falecido')]])
+            else:
+                for campo, sexo in (('noivo', 'M'), ('noiva', 'F')):
+                    pessoas.append([a[campo], sexo, '', '', '', '', -1, [fi],
+                                    'Assentos paroquiais', [], [fonte + ' Papel: ' + campo + '.'],
+                                    [dict(evidencia, papel=campo)]])
+                familias.append([i, i + 1, a['data_casamento'],
+                                 'Casamento identificado no original S8; filiações e ligação '
+                                 'às famílias da base por confirmar.', []])
         aplicados.append(dict(a, livro=livro['referencia'], ficheiro_imagem=str(imagem),
-                              pessoa=i, familia=fi))
+                              pessoa=i, familia=fi if evento != 'obito' else -1))
     return dict(p=pessoas, f=familias), aplicados, pendentes
 
 
@@ -153,29 +221,66 @@ def gerar_js(suplemento, ids):
 def gerar_gedcom(suplemento, aplicados):
     linhas = ['0 HEAD', '1 SOUR Assentos originais S8', '1 GEDC', '2 VERS 5.5.1',
               '2 FORM LINEAGE-LINKED', '1 CHAR UTF-8', '1 FILE assentos_s8.ged']
+    fontes = {a['id']: i + 1 for i, a in enumerate(aplicados)}
+    por_id = {a['id']: a for a in aplicados}
+
+    def evento(tag, valor):
+        dia = data(valor)
+        linhas.extend(['1 ' + tag, f'2 DATE {dia.day} {MESES[dia.month-1]} {dia.year}'])
+
+    def nota(nivel, texto):
+        for i, parte in enumerate(texto.splitlines()):
+            prefixo = str(nivel) + ' NOTE ' if i == 0 else str(nivel + 1) + ' CONT '
+            # Conserva o texto completo e os caracteres UTF-8 em linhas curtas.
+            trecho = prefixo
+            for caracter in parte:
+                if len((trecho + caracter).encode('utf-8')) > 248:
+                    sem_espacos = trecho.rstrip(' ')
+                    linhas.append(sem_espacos)
+                    trecho = str(nivel + 1) + ' CONC ' + trecho[len(sem_espacos):]
+                trecho += caracter
+            linhas.append(trecho)
+
     for i, p in enumerate(suplemento['p']):
         partes = p[0].rsplit(' ', 1)
         nome = p[0] if len(partes) == 1 else partes[0] + ' /' + partes[1] + '/'
-        linhas.extend([f'0 @I{i+1}@ INDI', '1 NAME ' + nome, '1 SEX ' + p[1]])
+        linhas.extend([f'0 @I{i+1}@ INDI', '1 NAME ' + nome])
+        if p[1]:
+            linhas.append('1 SEX ' + p[1])
         if p[3]:
-            dia = data(p[3])
-            linhas.extend(['1 BAPM', f'2 DATE {dia.day} {MESES[dia.month-1]} {dia.year}'])
+            evento('BAPM', p[3])
+        if p[4]:
+            evento('DEAT', p[4])
+        evidencia = p[11][0]
+        a = por_id[evidencia['id']]
+        if tipo(a) == 'obito' and a.get('data_sepultura'):
+            evento('BURI', a['data_sepultura'])
         if p[6] >= 0:
             linhas.append(f'1 FAMC @F{p[6]+1}@')
         for fi in p[7]:
             linhas.append(f'1 FAMS @F{fi+1}@')
-        linhas.extend([f'1 SOUR @S{i//3+1}@', '2 NOTE Papel: ' + p[11][0]['papel'],
+        linhas.extend([f"1 SOUR @S{fontes[a['id']]}@", '2 NOTE Papel: ' + evidencia['papel'],
                        '1 NOTE Identidade com as genealogias do blogue por confirmar.'])
     for i, f in enumerate(suplemento['f']):
         linhas.extend([f'0 @F{i+1}@ FAM', f'1 HUSB @I{f[0]+1}@', f'1 WIFE @I{f[1]+1}@'])
+        if f[2]:
+            evento('MARR', f[2])
+            ident = suplemento['p'][f[0]][11][0]['id']
+            linhas.append(f'2 SOUR @S{fontes[ident]}@')
         linhas.extend(f'1 CHIL @I{c+1}@' for c in f[4])
-        linhas.append('1 NOTE ' + f[3])
+        nota(1, f[3])
+    urls = {p[11][0]['id']: p[11][0]['url'] for p in suplemento['p']}
+    rotulos = {'data_batismo': 'batismo', 'data_obito': 'óbito',
+               'data_sepultura': 'sepultura', 'data_casamento': 'casamento'}
     for i, a in enumerate(aplicados):
-        livro = next(p[11][0]['url'] for p in suplemento['p'] if p[11][0]['id'] == a['id'])
+        datas = '; '.join(rotulos[c] + ' ' + v for c, v in datas_evento(a).items())
         linhas.extend([f'0 @S{i+1}@ SOUR', '1 TITL ' + a['livro'] + ' — ' + a['id'],
-                       '1 PUBL ' + livro, '1 NOTE Imagem: ' + a['ficheiro_imagem'],
-                       f"2 CONT {a['lado']}, assento {a['ordem']}; batismo {a['data_batismo']}.",
-                       '2 CONT Leitura dos campos essenciais, sem data de nascimento inferida.'])
+                       '1 PUBL ' + urls[a['id']], '1 NOTE Imagem: ' + a['ficheiro_imagem'],
+                       f"2 CONT {a['lado']}, assento {a['ordem']}; {datas}.",
+                       '2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.'])
+        nota(1, a['excerto'])
+        if a.get('nota'):
+            nota(1, a['nota'])
     return '\n'.join(linhas + ['0 TRLR', ''])
 
 
@@ -187,13 +292,18 @@ def gerar(raiz):
     base = json.loads(base_js[base_js.index('{'):].strip().rstrip(';'))
     coincidencias = []
     for a in aplicados:
+        if tipo(a) != 'batismo':
+            continue
         for fi, f in enumerate(base['f']):
             if f[0] < 0 or f[1] < 0:
                 continue
             if (normalizar(base['p'][f[0]][0]), normalizar(base['p'][f[1]][0])) == (normalizar(a['pai']), normalizar(a['mae'])):
                 coincidencias.append(dict(assento=a['id'], familia_base=fi,
                     fundido=False, motivo='Só coincidência dos nomes do casal; identidade não demonstrada.'))
-    relatorio = dict(confirmados=len(aplicados), pendentes=len(pendentes),
+    por_tipo = {t: dict(confirmados=sum(tipo(a) == t for a in aplicados),
+                        pendentes=sum(tipo(a) == t for a in pendentes))
+                for t in ('batismo', 'obito', 'casamento')}
+    relatorio = dict(confirmados=len(aplicados), pendentes=len(pendentes), por_tipo=por_tipo,
                      novas_pessoas=len(suplemento['p']), novos_nucleos=len(suplemento['f']),
                      aplicados=aplicados, por_rever=pendentes, coincidencias_nao_fundidas=coincidencias,
                      imagens_duplicadas=[dict(im, livro=lote['livro']) for lote in lotes
