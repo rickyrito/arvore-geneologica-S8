@@ -37,7 +37,7 @@ def tipo(assento):
 
 
 def datas_evento(assento):
-    campos = {'batismo': ('data_batismo',), 'obito': ('data_obito', 'data_sepultura'),
+    campos = {'batismo': ('data_nascimento', 'data_batismo'), 'obito': ('data_obito', 'data_sepultura'),
               'casamento': ('data_casamento',)}[tipo(assento)]
     return {campo: assento[campo] for campo in campos if assento.get(campo)}
 
@@ -60,13 +60,20 @@ def validar_confirmado(a, livro):
         nome_legivel(a['noiva'])
         if not a.get('data_casamento'):
             raise ValueError('Casamento sem data: ' + ident)
-    permitidas = {'batismo': {'data_batismo'}, 'obito': {'data_obito', 'data_sepultura'},
+    if a.get('data_nascimento'):
+        if not isinstance(a.get('evidencia_nascimento'), str) or not a['evidencia_nascimento'].strip():
+            raise ValueError('Nascimento sem indicação explícita no original: ' + ident)
+        if evento == 'batismo' and data(a['data_nascimento']) > data(a['data_batismo']):
+            raise ValueError('Nascimento posterior ao batismo: ' + ident)
+    permitidas = {'batismo': {'data_nascimento', 'data_batismo'}, 'obito': {'data_obito', 'data_sepultura'},
                   'casamento': {'data_casamento'}}[evento]
-    for campo in ('data_batismo', 'data_obito', 'data_sepultura', 'data_casamento'):
+    for campo in ('data_nascimento', 'data_batismo', 'data_obito', 'data_sepultura', 'data_casamento'):
         if a.get(campo) and campo not in permitidas:
             raise ValueError('Data de outro tipo de evento: ' + ident)
-    for valor in datas_evento(a).values():
+    for campo, valor in datas_evento(a).items():
         dia = data(valor)
+        if campo == 'data_nascimento':
+            continue  # O nascimento explícito pode ser anterior ao intervalo do livro de batismos.
         if not (datetime.fromisoformat(livro['data_inicial']).date() <= dia <=
                 datetime.fromisoformat(livro['data_final']).date()):
             raise ValueError('Data fora do livro: ' + ident)
@@ -159,10 +166,13 @@ def construir(registos):
         evidencia = dict(id=a['id'], origem='S8', url=livro['origem'], imagem=str(imagem),
                          lado=a['lado'], ordem=a['ordem'])
         if evento == 'batismo':
+            if a.get('data_nascimento'):
+                fonte += ' Nascimento explicitamente indicado: ' + a['data_nascimento'] + '.'
             for nome, sexo, papel in ((a['crianca']['nome'], a['crianca']['sexo'], 'criança'),
                                       (a['pai'], 'M', 'pai'), (a['mae'], 'F', 'mãe')):
                 filho = papel == 'criança'
-                pessoas.append([nome, sexo, '', a['data_batismo'] if filho else '', '', '',
+                pessoas.append([nome, sexo, a.get('data_nascimento', '') if filho else '',
+                                a['data_batismo'] if filho else '', '', '',
                                 fi if filho else -1, [] if filho else [fi],
                                 'Assentos paroquiais', [], [fonte + ' Papel: ' + papel + '.'],
                                 [dict(evidencia, papel=papel)]])
@@ -247,12 +257,15 @@ def gerar_gedcom(suplemento, aplicados):
         linhas.extend([f'0 @I{i+1}@ INDI', '1 NAME ' + nome])
         if p[1]:
             linhas.append('1 SEX ' + p[1])
+        evidencia = p[11][0]
+        a = por_id[evidencia['id']]
+        if p[2]:
+            evento('BIRT', p[2])
+            linhas.append(f"2 SOUR @S{fontes[a['id']]}@")
         if p[3]:
             evento('BAPM', p[3])
         if p[4]:
             evento('DEAT', p[4])
-        evidencia = p[11][0]
-        a = por_id[evidencia['id']]
         if tipo(a) == 'obito' and a.get('data_sepultura'):
             evento('BURI', a['data_sepultura'])
         if p[6] >= 0:
@@ -270,7 +283,7 @@ def gerar_gedcom(suplemento, aplicados):
         linhas.extend(f'1 CHIL @I{c+1}@' for c in f[4])
         nota(1, f[3])
     urls = {p[11][0]['id']: p[11][0]['url'] for p in suplemento['p']}
-    rotulos = {'data_batismo': 'batismo', 'data_obito': 'óbito',
+    rotulos = {'data_nascimento': 'nascimento explícito', 'data_batismo': 'batismo', 'data_obito': 'óbito',
                'data_sepultura': 'sepultura', 'data_casamento': 'casamento'}
     for i, a in enumerate(aplicados):
         datas = '; '.join(rotulos[c] + ' ' + v for c, v in datas_evento(a).items())
@@ -279,6 +292,8 @@ def gerar_gedcom(suplemento, aplicados):
                        f"2 CONT {a['lado']}, assento {a['ordem']}; {datas}.",
                        '2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.'])
         nota(1, a['excerto'])
+        if a.get('data_nascimento'):
+            nota(1, a['evidencia_nascimento'])
         if a.get('nota'):
             nota(1, a['nota'])
     return '\n'.join(linhas + ['0 TRLR', ''])

@@ -94,6 +94,32 @@ class AssentosS8Test(unittest.TestCase):
         self.assertEqual(reconstruido, texto)
         self.assertTrue(all(len(l.encode('utf-8')) <= 248 for l in ged.splitlines()))
 
+    def test_nascimento_explicito_separado_do_batismo(self):
+        self.assentos[0].update(data_nascimento='31/12/1691',
+                                evidencia_nascimento='O texto indica o nascimento em 31 de dezembro de 1691.')
+        suplemento, aplicados, _ = s8.construir(self.ler())
+        self.assertEqual(suplemento['p'][0][2:4], ['31/12/1691', '02/01/1692'])
+        self.assertEqual([p[2] for p in suplemento['p'][1:]], [''] * 6)
+        ged = s8.gerar_gedcom(suplemento, aplicados)
+        self.assertIn('1 BIRT\n2 DATE 31 DEC 1691\n2 SOUR @S1@', ged)
+        self.assertIn('1 BAPM\n2 DATE 2 JAN 1692', ged)
+        self.assertEqual(ged.count('1 BIRT'), 1)
+        self.assertIn(self.assentos[0]['evidencia_nascimento'], ged)
+
+    def test_nascimento_sem_prova_ou_incompativel_rejeitado(self):
+        original = copy.deepcopy(self.assentos[0])
+        for alteracao in [dict(data_nascimento='01/01/1692'),
+                          dict(data_nascimento='03/01/1692', evidencia_nascimento='Texto explícito.'),
+                          dict(data_nascimento='31/02/1691', evidencia_nascimento='Texto explícito.')]:
+            with self.subTest(alteracao=alteracao):
+                self.assentos[0] = dict(original, **alteracao)
+                with self.assertRaises(ValueError):
+                    self.ler()
+        self.assentos[0] = original
+        self.assentos[1].update(data_nascimento='01/01/1692', evidencia_nascimento='Texto explícito.')
+        with self.assertRaises(ValueError):
+            self.ler()
+
     def test_datas_invalidas_e_tipo_desconhecido(self):
         casos = [dict(data_sepultura='03/01/1800'), dict(data_sepultura='31/02/1692'),
                  dict(data_sepultura='03/01/1692', data_obito='04/01/1692'),
