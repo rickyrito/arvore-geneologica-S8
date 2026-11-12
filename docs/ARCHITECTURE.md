@@ -103,6 +103,13 @@ As novas leituras têm uma cadeia aditiva independente, sem alterar os resultado
    base. Os relatórios anteriores mantêm-se. Quando a cadeia completa voltar a estar
    disponível, a reconciliação terá de ser explícita para evitar duplicar estes assentos.
 
+6. Repetições de fotografias ficam em `imagens_duplicadas` na entrada manual, com
+   `imagem`, `repete` (imagem canónica) e `motivo`. Ambas têm de constar do inventário
+   e das imagens examinadas. Não se admitem assentos na fotografia repetida, nem
+   referências circulares ou a outra repetida. A fotografia alternativa continua
+   disponível para apoio de leitura. O relatório gerado conserva esta lista e
+   as `notas_pagina`, incluindo continuações e notas de visitação.
+
 O filtro «Assentos originais S8» permite consultar este suplemento. As fontes incluem uma
 ligação ao livro no arquivo. A versão `?v=N` de `dados_s8.js` sobe quando este muda.
 

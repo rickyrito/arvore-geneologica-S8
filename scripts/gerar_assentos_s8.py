@@ -49,8 +49,20 @@ def ler(raiz):
                    for im in livro['imagens']}
         if not livro['origem'].startswith('https://digitarq.arquivos.pt/'):
             raise ValueError('Origem do arquivo inválida.')
+        duplicadas = lote.get('imagens_duplicadas', [])
+        repetidas = {im['imagem'] for im in duplicadas}
+        if len(repetidas) != len(duplicadas):
+            raise ValueError('Imagem duplicada declarada mais de uma vez.')
+        for im in duplicadas:
+            if (im['imagem'] == im['repete'] or im['repete'] in repetidas or
+                    im['imagem'] not in imagens or im['repete'] not in imagens or
+                    im['imagem'] not in lote['imagens_examinadas'] or
+                    im['repete'] not in lote['imagens_examinadas'] or not im.get('motivo')):
+                raise ValueError('Declaração de repetição de imagem inválida.')
         for assento in lote['assentos']:
             ident = assento['id']
+            if assento['imagem'] in repetidas:
+                raise ValueError('Usar a imagem canónica em vez da imagem repetida: ' + ident)
             posicao = (livro['referencia'], assento['imagem'], assento['lado'], assento['ordem'])
             if ident in vistos or posicao in posicoes:
                 raise ValueError('Assento repetido: ' + ident)
@@ -169,6 +181,8 @@ def gerar_gedcom(suplemento, aplicados):
 
 def gerar(raiz):
     suplemento, aplicados, pendentes = construir(ler(raiz))
+    lotes = [json.loads(p.read_text(encoding='utf-8'))
+             for p in sorted((raiz / 'fontes/S8/transcricoes').glob('*.json'))]
     base_js = (raiz / 'dados.js').read_text(encoding='utf-8')
     base = json.loads(base_js[base_js.index('{'):].strip().rstrip(';'))
     coincidencias = []
@@ -181,7 +195,11 @@ def gerar(raiz):
                     fundido=False, motivo='Só coincidência dos nomes do casal; identidade não demonstrada.'))
     relatorio = dict(confirmados=len(aplicados), pendentes=len(pendentes),
                      novas_pessoas=len(suplemento['p']), novos_nucleos=len(suplemento['f']),
-                     aplicados=aplicados, por_rever=pendentes, coincidencias_nao_fundidas=coincidencias)
+                     aplicados=aplicados, por_rever=pendentes, coincidencias_nao_fundidas=coincidencias,
+                     imagens_duplicadas=[dict(im, livro=lote['livro']) for lote in lotes
+                                         for im in lote.get('imagens_duplicadas', [])],
+                     notas_pagina=[dict(nota, livro=lote['livro']) for lote in lotes
+                                   for nota in lote.get('notas_pagina', [])])
     return {
         'dados_s8.js': gerar_js(suplemento, [a['id'] for a in aplicados]),
         'assentos_s8.ged': gerar_gedcom(suplemento, aplicados),

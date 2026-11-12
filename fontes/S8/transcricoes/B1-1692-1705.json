@@ -2,117 +2,4221 @@
   "schema": 1,
   "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B1/registo.json",
   "metodo": "Leitura direta dos campos essenciais das fotografias. Grafia dos nomes normalizada (Izabel/Joam/Manoel para Isabel/João/Manuel). Não é transcrição diplomática integral. Padrinhos e restantes cláusulas não foram integrados. Datas de batismo não são datas de nascimento. Identidades com a base do blogue por demonstrar.",
-  "imagens_examinadas": ["m0001", "m0002", "m0003", "m0004", "m0005"],
+  "imagens_examinadas": [
+    "m0001",
+    "m0002",
+    "m0003",
+    "m0004",
+    "m0005",
+    "m0006",
+    "m0007",
+    "m0008",
+    "m0009",
+    "m0010",
+    "m0011",
+    "m0012",
+    "m0013",
+    "m0014",
+    "m0015",
+    "m0016",
+    "m0017",
+    "m0018",
+    "m0019",
+    "m0020",
+    "m0021",
+    "m0022",
+    "m0023",
+    "m0024",
+    "m0025",
+    "m0026",
+    "m0027",
+    "m0028",
+    "m0029",
+    "m0030",
+    "m0031",
+    "m0032",
+    "m0033",
+    "m0034",
+    "m0035",
+    "m0036",
+    "m0037",
+    "m0038",
+    "m0039",
+    "m0040",
+    "m0041",
+    "m0042",
+    "m0043",
+    "m0044",
+    "m0045",
+    "m0046",
+    "m0047",
+    "m0048",
+    "m0049",
+    "m0050"
+  ],
   "sem_assentos": [
-    {"imagem": "m0001", "nota": "Capa: Sabugal, Souto, B-1."},
-    {"imagem": "m0002", "nota": "Página introdutória danificada; sem assento individual integrado."}
+    {
+      "imagem": "m0001",
+      "nota": "Capa: Sabugal, Souto, B-1."
+    },
+    {
+      "imagem": "m0002",
+      "nota": "Página introdutória danificada; sem assento individual integrado."
+    }
   ],
   "assentos": [
     {
-      "id": "S8-B1-m0003-d-01", "imagem": "m0003", "lado": "direita", "ordem": 1,
-      "estado": "pendente", "leitura_parcial": "António; ano 1692.",
-      "duvidas": ["Confirmar dia e mês.", "Filiação por decifrar."]
+      "id": "S8-B1-m0003-d-01",
+      "imagem": "m0003",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "António; ano 1692.",
+      "duvidas": [
+        "Confirmar dia e mês.",
+        "Filiação por decifrar."
+      ]
     },
     {
-      "id": "S8-B1-m0003-d-02", "imagem": "m0003", "lado": "direita", "ordem": 2,
-      "estado": "pendente", "leitura_parcial": "Data aparente: 15 de julho de 1692.",
-      "duvidas": ["Confirmar nome marginal, data e filiação."]
+      "id": "S8-B1-m0003-d-02",
+      "imagem": "m0003",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "João, filho de Francisco Gonçalves e Domingas Gonçalves; julho de 1692.",
+      "duvidas": [
+        "O dia requer nova leitura; a hipótese anterior de 15 de julho não ficou confirmada."
+      ],
+      "nota_revisao": "Filiação mais legível na ampliação. Mantido pendente porque o numeral do dia não ficou seguro."
     },
     {
-      "id": "S8-B1-m0003-d-03", "imagem": "m0003", "lado": "direita", "ordem": 3,
-      "estado": "pendente", "leitura_parcial": "Data aparente: 23 de julho de 1692.",
-      "duvidas": ["Nome da criança e filiação por confirmar."]
+      "id": "S8-B1-m0003-d-03",
+      "imagem": "m0003",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Aparente Domingos; 23 de julho de 1692; filiação aparente António Martins e Catarina Lopes.",
+      "duvidas": [
+        "Confirmar nome da criança e apelidos dos pais.",
+        "Comparar com m0004, esquerda, assento 2, sem fundir: há semelhanças de nomes e a cronologia requer revisão."
+      ]
     },
     {
-      "id": "S8-B1-m0004-e-01", "imagem": "m0004", "lado": "esquerda", "ordem": 1,
-      "estado": "pendente", "leitura_parcial": "Maria; «No mesmo dia mês era ut supra».",
-      "duvidas": ["Confirmar filiação e data herdada do assento anterior."]
+      "id": "S8-B1-m0004-e-01",
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; «No mesmo dia mês era ut supra»; aparente filiação Domingos Dias e Maria Gomes.",
+      "duvidas": [
+        "Confirmar nome completo do pai e a data por remissão ao assento anterior."
+      ]
     },
     {
-      "id": "S8-B1-m0004-e-02", "imagem": "m0004", "lado": "esquerda", "ordem": 2,
-      "estado": "pendente", "leitura_parcial": "Data aparente: 23 de agosto de 1692.",
-      "duvidas": ["Confirmar nome da criança, dia e filiação."]
+      "id": "S8-B1-m0004-e-02",
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Data aparente: 23 de agosto de 1692.",
+      "duvidas": [
+        "Confirmar nome da criança, dia e filiação.",
+        "Comparar a filiação com m0003, direita, assento 3; sem concluir que são o mesmo casal ou criança."
+      ]
     },
     {
-      "id": "S8-B1-m0004-e-03", "imagem": "m0004", "lado": "esquerda", "ordem": 3,
-      "estado": "pendente", "leitura_parcial": "Maria; aparente 17 de setembro de 1692.",
-      "duvidas": ["Rever leitura dos apelidos dos pais antes de integrar."]
+      "id": "S8-B1-m0004-e-03",
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "17/09/1692",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Paulo Gonçalves",
+      "mae": "Maria Martins",
+      "excerto": "«Aos dezasete dias do mes de setembro [...] noventa e dois annos [...] a Maria filha de Paulo Gonçalves e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0010-d-04 (João, 21/05/1694). Coincidência de filiação com cronologia compatível, sem fusão."
     },
     {
-      "id": "S8-B1-m0004-e-04", "imagem": "m0004", "lado": "esquerda", "ordem": 4,
-      "estado": "pendente", "leitura_parcial": "Maria; aparente 16 de outubro de 1692.",
-      "duvidas": ["Filiação por confirmar."]
+      "id": "S8-B1-m0004-e-04",
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 16 de outubro de 1692.",
+      "duvidas": [
+        "Filiação por confirmar."
+      ]
     },
     {
-      "id": "S8-B1-m0004-d-01", "imagem": "m0004", "lado": "direita", "ordem": 1,
-      "estado": "confirmado", "data_batismo": "26/12/1692",
-      "crianca": {"nome": "Isabel", "sexo": "F"},
-      "pai": "João Lopes", "mae": "Maria Martins",
+      "id": "S8-B1-m0004-d-01",
+      "imagem": "m0004",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "confirmado",
+      "data_batismo": "26/12/1692",
+      "crianca": {
+        "nome": "Isabel",
+        "sexo": "F"
+      },
+      "pai": "João Lopes",
+      "mae": "Maria Martins",
       "excerto": "«Aos vinte e seis dias do mes de dezembro [...] noventa e dois annos baptizei [...] a Izabel de Joam Lopes e de sua m[ulhe]r Maria Martins». Reticências e expansão da abreviatura editoriais.",
       "duvidas": []
     },
     {
-      "id": "S8-B1-m0004-d-02", "imagem": "m0004", "lado": "direita", "ordem": 2,
-      "estado": "confirmado", "data_batismo": "26/12/1692",
-      "crianca": {"nome": "Manuel", "sexo": "M"},
-      "pai": "Domingos Lopes", "mae": "Guiomar Nunes",
+      "id": "S8-B1-m0004-d-02",
+      "imagem": "m0004",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "data_batismo": "26/12/1692",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Domingos Lopes",
+      "mae": "Guiomar Nunes",
       "excerto": "«No mesmo dia mes era ut supra [...] Manoel filho de Domingos Lopes e de sua m[ulhe]r Guimar Nunes [...] do segundo matrimonio». Reticências e expansão da abreviatura editoriais; nome da mãe normalizado como Guiomar.",
       "data_por_remissao": "S8-B1-m0004-d-01",
-      "duvidas": []
+      "duvidas": [],
+      "nota": "Possível mesmo casal de S8-B1-m0013-d-04 (Maria, 22/11/1694). Coincidência de filiação e cronologia compatível, sem fusão."
     },
     {
-      "id": "S8-B1-m0004-d-03", "imagem": "m0004", "lado": "direita", "ordem": 3,
-      "estado": "pendente", "leitura_parcial": "António; 28 de dezembro de 1692; mãe Ana Lopes.",
-      "duvidas": ["Apelido do pai por confirmar."]
+      "id": "S8-B1-m0004-d-03",
+      "imagem": "m0004",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "António; 28 de dezembro de 1692; mãe Ana Lopes.",
+      "duvidas": [
+        "Apelido do pai por confirmar."
+      ]
     },
     {
-      "id": "S8-B1-m0004-d-04", "imagem": "m0004", "lado": "direita", "ordem": 4,
-      "estado": "confirmado", "data_batismo": "30/12/1692",
-      "crianca": {"nome": "Manuel", "sexo": "M"},
-      "pai": "Manuel Nunes", "mae": "Maria Fernandes",
+      "id": "S8-B1-m0004-d-04",
+      "imagem": "m0004",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "confirmado",
+      "data_batismo": "30/12/1692",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Nunes",
+      "mae": "Maria Fernandes",
       "excerto": "«Aos trinta dias do mes de dezembro de mil e seis centos e noventa e dois annos baptizei [...] a Manoel filho de Manoel Nunes e de sua m[ulhe]r Maria Fernandes». Reticências e expansão da abreviatura editoriais.",
       "nota": "O dia lê-se «trinta», sem «e um». Nenhuma data de nascimento foi extraída.",
       "duvidas": []
     },
     {
-      "id": "S8-B1-m0005-e-01", "imagem": "m0005", "lado": "esquerda", "ordem": 1,
-      "estado": "pendente", "leitura_parcial": "Maria.",
-      "duvidas": ["Confirmar data e filiação; não inferir o ano pela sequência das imagens."]
+      "id": "S8-B1-m0005-e-01",
+      "imagem": "m0005",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; outubro de 1692; aparente mãe Maria Lourença.",
+      "duvidas": [
+        "Confirmar numeral do dia e nome completo do pai."
+      ]
     },
     {
-      "id": "S8-B1-m0005-e-02", "imagem": "m0005", "lado": "esquerda", "ordem": 2,
-      "estado": "pendente", "leitura_parcial": "Isabel; aparente filiação João Rodrigues e Maria Dias.",
-      "duvidas": ["Confirmar data, filiação e naturalidade."]
+      "id": "S8-B1-m0005-e-02",
+      "imagem": "m0005",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "20/11/1692",
+      "crianca": {
+        "nome": "Isabel",
+        "sexo": "F"
+      },
+      "pai": "João Rodrigues",
+      "mae": "Maria Dias",
+      "excerto": "«Aos vinte dias do mes de novembro [...] noventa e dois annos [...] a Isabel [...] de João Rodrigues e de sua mulher Maria Dias». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
     },
     {
-      "id": "S8-B1-m0005-e-03", "imagem": "m0005", "lado": "esquerda", "ordem": 3,
-      "estado": "pendente", "leitura_parcial": "Manuel.",
-      "duvidas": ["Confirmar data e nomes completos dos pais."]
+      "id": "S8-B1-m0005-e-03",
+      "imagem": "m0005",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; aparente 13 de março de 1692; pai João Nunes, com possível apelido adicional; mãe Leonor.",
+      "duvidas": [
+        "Confirmar mês e ano, sem os inferir da sequência das imagens.",
+        "Confirmar apelidos completos dos pais."
+      ]
     },
     {
-      "id": "S8-B1-m0005-e-04", "imagem": "m0005", "lado": "esquerda", "ordem": 4,
-      "estado": "pendente", "leitura_parcial": "João; referência a batismo em caso de necessidade.",
-      "duvidas": ["Confirmar filiação, data e quem administrou o batismo."]
+      "id": "S8-B1-m0005-e-04",
+      "imagem": "m0005",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "João; remissão de data; batismo em caso de necessidade; aparente filiação João Dias e Maria Fernandes.",
+      "duvidas": [
+        "Confirmar data do assento anterior, filiação e quem administrou o batismo."
+      ]
     },
     {
-      "id": "S8-B1-m0005-d-01", "imagem": "m0005", "lado": "direita", "ordem": 1,
-      "estado": "pendente", "leitura_parcial": "Isabel.",
-      "duvidas": ["Confirmar data, filiação e cláusulas sobre estado dos pais."]
+      "id": "S8-B1-m0005-d-01",
+      "imagem": "m0005",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel.",
+      "duvidas": [
+        "Confirmar data, filiação e cláusulas sobre estado dos pais."
+      ]
     },
     {
-      "id": "S8-B1-m0005-d-02", "imagem": "m0005", "lado": "direita", "ordem": 2,
-      "estado": "pendente", "leitura_parcial": "Domingos; aparente 1 de novembro de 1692.",
-      "duvidas": ["Confirmar data e filiação."]
+      "id": "S8-B1-m0005-d-02",
+      "imagem": "m0005",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "01/11/1692",
+      "crianca": {
+        "nome": "Domingos",
+        "sexo": "M"
+      },
+      "pai": "Manuel Lopes",
+      "mae": "Isabel Gonçalves",
+      "excerto": "«Ao primeiro dia do mes de novembro [...] noventa e dois annos [...] a Domingos [...] filho de Manuel Lopes e de sua mulher Isabel Gonçalves do primeiro matrimonio». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
     },
     {
-      "id": "S8-B1-m0005-d-03", "imagem": "m0005", "lado": "direita", "ordem": 3,
-      "estado": "pendente", "leitura_parcial": "Data aparente: 9 de novembro de 1692.",
-      "duvidas": ["Nome da criança e filiação por decifrar."]
+      "id": "S8-B1-m0005-d-03",
+      "imagem": "m0005",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Data aparente: 9 de novembro de 1692.",
+      "duvidas": [
+        "Nome da criança e filiação por decifrar."
+      ]
     },
     {
-      "id": "S8-B1-m0005-d-04", "imagem": "m0005", "lado": "direita", "ordem": 4,
-      "estado": "pendente", "leitura_parcial": "Maria; aparente 1 de dezembro de 1692.",
-      "duvidas": ["Confirmar data e apelidos dos pais."]
+      "id": "S8-B1-m0005-d-04",
+      "imagem": "m0005",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 1 de dezembro de 1692.",
+      "duvidas": [
+        "Confirmar data e apelidos dos pais."
+      ]
+    },
+    {
+      "id": "S8-B1-m0006-e-01",
+      "imagem": "m0006",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "João; dezembro de 1692; aparente pai Pedro Nunes.",
+      "duvidas": [
+        "Confirmar numeral do dia e nome completo da mãe."
+      ]
+    },
+    {
+      "id": "S8-B1-m0006-e-02",
+      "imagem": "m0006",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Francisco; «No mesmo dia mes era ut supra»; aparente pai Manuel Lopes.",
+      "duvidas": [
+        "Confirmar remissão de data e nome completo da mãe.",
+        "Não ligar ao casal de outro assento só por coincidência do nome do pai."
+      ]
+    },
+    {
+      "id": "S8-B1-m0006-e-03",
+      "imagem": "m0006",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Aparente 21 de dezembro de 1692; nome marginal de leitura duvidosa.",
+      "duvidas": [
+        "Confirmar nome da criança e filiação nas linhas com sobreposição de tinta."
+      ]
+    },
+    {
+      "id": "S8-B1-m0006-e-04",
+      "imagem": "m0006",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "13/01/1693",
+      "crianca": {
+        "nome": "Isabel",
+        "sexo": "F"
+      },
+      "pai": "João Rodrigues Coelho",
+      "mae": "Isabel Pires",
+      "excerto": "«Aos treze dias do mes de janeiro [...] noventa e tres annos [...] Isabel filha de João Rodrigues Coelho e de sua mulher Isabel Pires». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0006-d-01",
+      "imagem": "m0006",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "António; aparente 22 de janeiro de 1693; pai António Dias; mãe Maria.",
+      "duvidas": [
+        "Confirmar apelido da mãe e leitura do ano."
+      ]
+    },
+    {
+      "id": "S8-B1-m0006-d-02",
+      "imagem": "m0006",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; 28 de janeiro; aparente pai Manuel Jorge.",
+      "duvidas": [
+        "Rever o ano escrito e nome completo da mãe; não deduzir o ano pelo assento anterior."
+      ]
+    },
+    {
+      "id": "S8-B1-m0006-d-03",
+      "imagem": "m0006",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; 1 de fevereiro; aparente filiação António Dias e Isabel Lopes.",
+      "duvidas": [
+        "Confirmar filiação e ano: a grafia parece indicar «noventa e dois», apesar de assentos anteriores de 1693."
+      ]
+    },
+    {
+      "id": "S8-B1-m0006-d-04",
+      "imagem": "m0006",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; 8 de fevereiro; aparente pai Manuel Fernandes.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e ano escrito, sem regularizar pela sequência."
+      ]
+    },
+    {
+      "id": "S8-B1-m0007-e-01",
+      "imagem": "m0007",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "17/02/1693",
+      "crianca": {
+        "nome": "Catarina",
+        "sexo": "F"
+      },
+      "pai": "Domingos Jorge",
+      "mae": "Maria Luís",
+      "excerto": "«Aos dezasete dias do mes de fevereiro [...] noventa e tres annos [...] a Catarina filha de Domingos Jorge e de sua mulher Maria Luis». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.",
+      "nota": "Luís é o nome/apelido lido na fonte; não foi convertido para Luísa."
+    },
+    {
+      "id": "S8-B1-m0007-e-02",
+      "imagem": "m0007",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; 8 de março de 1693; pai Domingos Gonçalves; mãe Beatriz, com apelido por confirmar.",
+      "duvidas": [
+        "Apelido da mãe de leitura duvidosa; não o estabelecer por semelhança com outro assento."
+      ]
+    },
+    {
+      "id": "S8-B1-m0007-e-03",
+      "imagem": "m0007",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; aparente 4 de abril de 1693.",
+      "duvidas": [
+        "Confirmar filiação completa e numeral do dia."
+      ]
+    },
+    {
+      "id": "S8-B1-m0007-e-04",
+      "imagem": "m0007",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Aparente Domingos; 24 de abril de 1693.",
+      "duvidas": [
+        "Confirmar nome marginal e filiação nas linhas inferiores."
+      ]
+    },
+    {
+      "id": "S8-B1-m0007-d-01",
+      "imagem": "m0007",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 17 de maio de 1693.",
+      "duvidas": [
+        "Confirmar nomes completos dos pais e cláusulas de naturalidade."
+      ]
+    },
+    {
+      "id": "S8-B1-m0007-d-02",
+      "imagem": "m0007",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; maio de 1693; aparente pai João Rodrigues.",
+      "duvidas": [
+        "Confirmar dia e nome completo da mãe; tinta transpassada cobre parte da filiação."
+      ]
+    },
+    {
+      "id": "S8-B1-m0007-d-03",
+      "imagem": "m0007",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "João; «No mesmo dia mes era ut supra».",
+      "duvidas": [
+        "Confirmar data do assento anterior e filiação completa."
+      ]
+    },
+    {
+      "id": "S8-B1-m0008-e-01",
+      "imagem": "m0008",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "António; aparente 11 de junho de 1693; pai Manuel Fernandes, com possível apelido adicional.",
+      "duvidas": [
+        "Confirmar apelidos completos dos pais e data; várias palavras cobertas por tinta transpassada."
+      ]
+    },
+    {
+      "id": "S8-B1-m0008-e-02",
+      "imagem": "m0008",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; «No mesmo dia mes era ut supra»; aparente pai João Gonçalves.",
+      "duvidas": [
+        "Confirmar remissão de data e nome completo da mãe."
+      ]
+    },
+    {
+      "id": "S8-B1-m0008-e-03",
+      "imagem": "m0008",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "António; aparente 24 de junho de 1693.",
+      "duvidas": [
+        "Confirmar data e filiação nas linhas inferiores manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0008-d-01",
+      "imagem": "m0008",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; aparente 19 de julho de 1693; pai Gonçalo Lourenço.",
+      "duvidas": [
+        "Confirmar nome completo da mãe."
+      ]
+    },
+    {
+      "id": "S8-B1-m0008-d-02",
+      "imagem": "m0008",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; aparente 26 de julho de 1693; mãe Isabel Nunes.",
+      "duvidas": [
+        "Confirmar nome completo do pai e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0008-d-03",
+      "imagem": "m0008",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "António; «No mesmo dia mes era ut supra»; batismo em caso de necessidade; pai Pedro Domingues e mãe Ana Martins.",
+      "duvidas": [
+        "Confirmar formalmente a remissão ao assento anterior antes de integrar a data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0008-d-04",
+      "imagem": "m0008",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "António; aparente 2 de agosto de 1693; pai Domingos Jorge.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0009-e-01",
+      "imagem": "m0009",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "15 de agosto de 1693; aparente Dionísio, filho de António Pires e Domingas Fernandes.",
+      "duvidas": [
+        "Confirmar nome da criança: a leitura inicial da abreviatura marginal é insuficiente."
+      ]
+    },
+    {
+      "id": "S8-B1-m0009-e-02",
+      "imagem": "m0009",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; agosto de 1693; aparente filiação José Gonçalves e Domingas Lopes.",
+      "duvidas": [
+        "Confirmar numeral do dia (16/17) e rever filiação."
+      ]
+    },
+    {
+      "id": "S8-B1-m0009-e-03",
+      "imagem": "m0009",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; aparente 26 de agosto de 1693; mãe Maria Martins.",
+      "duvidas": [
+        "Confirmar apelido do pai e a data; tinta transpassada sobre a linha."
+      ]
+    },
+    {
+      "id": "S8-B1-m0009-e-04",
+      "imagem": "m0009",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "João; aparente 22 de setembro de 1693.",
+      "duvidas": [
+        "Confirmar filiação completa nas linhas inferiores manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0009-d-01",
+      "imagem": "m0009",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "21 de setembro de 1693; aparente filiação Manuel Lopes e Isabel Pires.",
+      "duvidas": [
+        "Nome da criança por confirmar: rever abreviatura marginal e palavra no corpo do assento."
+      ]
+    },
+    {
+      "id": "S8-B1-m0009-d-02",
+      "imagem": "m0009",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; 28 de outubro de 1693; referência a batismo administrado por Antónia Fernandes.",
+      "duvidas": [
+        "Distinguir quem administrou o batismo dos pais da criança; confirmar nomes completos destes."
+      ]
+    },
+    {
+      "id": "S8-B1-m0009-d-03",
+      "imagem": "m0009",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "02/11/1693",
+      "crianca": {
+        "nome": "Diogo",
+        "sexo": "M"
+      },
+      "pai": "Manuel Marcos",
+      "mae": "Maria Rodrigues",
+      "excerto": "«Aos dois dias do mes de novembro [...] noventa e tres annos [...] a Diogo filho de Manuel Marcos e de sua mulher Maria Rodrigues». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0009-d-04",
+      "imagem": "m0009",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 21 de dezembro de 1693; pai Domingos Nabais.",
+      "duvidas": [
+        "Confirmar apelido do pai e nome completo da mãe; assento no fundo da página com pouca definição."
+      ]
+    },
+    {
+      "id": "S8-B1-m0010-e-01",
+      "imagem": "m0010",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "«No mesmo dia mes era ut supra»; administração dos santos óleos após batismo em necessidade.",
+      "duvidas": [
+        "Confirmar nome/sexo da criança, filiação e remissão da data ao assento de m0009."
+      ]
+    },
+    {
+      "id": "S8-B1-m0010-e-02",
+      "imagem": "m0010",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; aparente 20 de janeiro de 1694; mãe Madalena.",
+      "duvidas": [
+        "Confirmar filiação completa e distinguir a data do batismo da administração dos santos óleos."
+      ]
+    },
+    {
+      "id": "S8-B1-m0010-e-03",
+      "imagem": "m0010",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "18/02/1694",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "António Martins",
+      "mae": "Maria Martins",
+      "excerto": "«Aos dezoito dias do mes de fevereiro [...] noventa e quatro annos [...] a Ana filha de António Martins e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0010-e-04",
+      "imagem": "m0010",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; abril de 1694; aparente pai Pedro Martins.",
+      "duvidas": [
+        "Confirmar numeral do dia e nome completo da mãe nas linhas inferiores manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0010-d-01",
+      "imagem": "m0010",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 6 de fevereiro de 1694; pai Domingos Dias.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e data nas primeiras linhas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0010-d-02",
+      "imagem": "m0010",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "José; aparente 14 de maio de 1694; mãe Domingas.",
+      "duvidas": [
+        "Confirmar nomes completos dos pais e não confundir naturalidades com apelidos."
+      ]
+    },
+    {
+      "id": "S8-B1-m0010-d-03",
+      "imagem": "m0010",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; «No mesmo dia mes era ut supra»; batismo em casa por necessidade.",
+      "duvidas": [
+        "Confirmar filiação e remissão de data ao assento anterior."
+      ]
+    },
+    {
+      "id": "S8-B1-m0010-d-04",
+      "imagem": "m0010",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "21/05/1694",
+      "crianca": {
+        "nome": "João",
+        "sexo": "M"
+      },
+      "pai": "Paulo Gonçalves",
+      "mae": "Maria Martins",
+      "excerto": "«Aos vinte e hum dias do mes de maio [...] noventa e quatro annos [...] a João [...] de Paulo Gonçalves e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0004-e-03 (Maria, 17/09/1692): nomes de ambos os pais coincidem e datas são compatíveis. Identidade do casal por confirmar; famílias mantidas separadas."
+    },
+    {
+      "id": "S8-B1-m0011-e-01",
+      "imagem": "m0011",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; aparente 2 de abril de 1694; pai Domingos Gonçalves.",
+      "duvidas": [
+        "Confirmar nome completo da mãe nas linhas com manchas e o numeral do dia."
+      ]
+    },
+    {
+      "id": "S8-B1-m0011-e-02",
+      "imagem": "m0011",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "26/05/1694",
+      "crianca": {
+        "nome": "Gonçalo",
+        "sexo": "M"
+      },
+      "pai": "Domingos Martins",
+      "mae": "Guiomar Lopes",
+      "excerto": "«Aos vinte e seis dias do mes de maio [...] noventa e quatro annos [...] a Gonçalo filho de Domingos Martins e de sua mulher Guiomar Lopes». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0011-e-03",
+      "imagem": "m0011",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "António; aparente 7 de junho de 1694; pai Manuel Cardoso.",
+      "duvidas": [
+        "Confirmar apelido do pai e nome completo da mãe."
+      ]
+    },
+    {
+      "id": "S8-B1-m0011-e-04",
+      "imagem": "m0011",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "António; aparente 19 de junho de 1694; pai Bento; mãe Ana.",
+      "duvidas": [
+        "Confirmar filiação completa lendo conjuntamente o fim da página esquerda e o topo da direita."
+      ],
+      "nota": "O assento continua no topo da página direita de m0011. Essa continuação não é um segundo batismo.",
+      "continuacao": {
+        "imagem": "m0011",
+        "lado": "direita",
+        "posicao": "topo, antes do assento de Isabel"
+      }
+    },
+    {
+      "id": "S8-B1-m0011-d-01",
+      "imagem": "m0011",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; aparente 9 de julho de 1694; pai Francisco Vicente; mãe Maria.",
+      "duvidas": [
+        "Confirmar apelido da mãe; não normalizar uma palavra de leitura insegura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0011-d-02",
+      "imagem": "m0011",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "15/07/1694",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Gaspar Fernandes",
+      "mae": "Domingas Gonçalves",
+      "excerto": "«Aos quinze dias do mes de julho [...] noventa e quatro annos [...] a Manuel filho de Gaspar Fernandes [...] e de sua mulher Domingas Gonçalves». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0011-d-03",
+      "imagem": "m0011",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; julho de 1694.",
+      "duvidas": [
+        "Confirmar dia e filiação; manchas e tinta transpassada nas linhas inferiores."
+      ]
+    },
+    {
+      "id": "S8-B1-m0012-e-01",
+      "imagem": "m0012",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "28/07/1694",
+      "crianca": {
+        "nome": "Helena",
+        "sexo": "F"
+      },
+      "pai": "Gabriel Nunes",
+      "mae": "Helena Marques",
+      "excerto": "«Aos vinte e oito dias do mes de julho [...] noventa e quatro annos [...] a Helena filha de Gabriel Nunes e de sua mulher Helena Marques». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0012-e-02",
+      "imagem": "m0012",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 9 de agosto de 1694; pai Bartolomeu.",
+      "duvidas": [
+        "Confirmar nomes completos dos pais."
+      ]
+    },
+    {
+      "id": "S8-B1-m0012-e-03",
+      "imagem": "m0012",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; aparente 13 de agosto de 1694; pai João Martins.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e a data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0012-e-04",
+      "imagem": "m0012",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "15/08/1694",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Diogo Lourenço",
+      "mae": "Águeda Pires",
+      "excerto": "«Aos quinze dias do mes de agosto [...] noventa e quatro annos [...] a Ana [...] de Diogo Lourenço e de sua mulher Águeda Pires». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0012-d-01",
+      "imagem": "m0012",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; aparente 6 de setembro de 1694; pai António.",
+      "duvidas": [
+        "Confirmar apelidos completos dos pais."
+      ]
+    },
+    {
+      "id": "S8-B1-m0012-d-02",
+      "imagem": "m0012",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "05/09/1694",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "António Martins",
+      "mae": "Maria Morais",
+      "excerto": "«Aos cinco dias do mes de setembro [...] noventa e quatro annos [...] a Maria filha de António Martins e de sua mulher Maria Morais». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0012-d-03",
+      "imagem": "m0012",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "20/09/1694",
+      "crianca": {
+        "nome": "Domingos",
+        "sexo": "M"
+      },
+      "pai": "João Lopes",
+      "mae": "Maria Lourença",
+      "excerto": "«Aos vinte dias do mes de setembro [...] noventa e quatro annos [...] a Domingos filho de João Lopes e de sua mulher Maria Lourença». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0012-d-04",
+      "imagem": "m0012",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Teresa; aparente 12 de outubro de 1694; pai Bento; mãe Manuela Gomes.",
+      "duvidas": [
+        "Confirmar apelido do pai e naturalidades; não usar topónimos como apelidos."
+      ]
+    },
+    {
+      "id": "S8-B1-m0013-e-01",
+      "imagem": "m0013",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "24/09/1694",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Manuel Gonçalves",
+      "mae": "Maria Gonçalves",
+      "excerto": "«Aos vinte e quatro dias do mes de setembro [...] noventa e quatro annos [...] a Maria filha de Manuel Gonçalves [...] e de sua mulher Maria Gonçalves». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0013-e-02",
+      "imagem": "m0013",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "22/09/1694",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "António Pires",
+      "mae": "Maria Inês",
+      "excerto": "«Aos vinte e dois dias do mes de setembro [...] noventa e quatro annos [...] a Maria filha de António Pires e de sua mulher Maria Inês». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0013-e-03",
+      "imagem": "m0013",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; 9 de outubro; aparente filiação António Lourenço e Maria Pires.",
+      "duvidas": [
+        "Confirmar ano por remissão e filiação; não acrescentar ano sem documentar a remissão."
+      ]
+    },
+    {
+      "id": "S8-B1-m0013-e-04",
+      "imagem": "m0013",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "João; aparente 2 de outubro de 1694; pai Gonçalo Garcia.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e a data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0013-d-01",
+      "imagem": "m0013",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; aparente 1 de outubro de 1694; pai António Nunes.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0013-d-02",
+      "imagem": "m0013",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 24 de outubro de 1694; pai Bartolomeu.",
+      "duvidas": [
+        "Confirmar apelidos dos pais e separar as cláusulas de naturalidade."
+      ]
+    },
+    {
+      "id": "S8-B1-m0013-d-03",
+      "imagem": "m0013",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Gonçalo; aparente 18 de novembro de 1694; pai Cândido Lopes; mãe Maria.",
+      "duvidas": [
+        "Confirmar apelido abreviado da mãe e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0013-d-04",
+      "imagem": "m0013",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "22/11/1694",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Domingos Lopes",
+      "mae": "Guiomar Nunes",
+      "excerto": "«Aos vinte e dois [dias] do mes de novembro [...] noventa e quatro annos [...] a Maria filha de Domingos Lopes e de sua mulher Guiomar Nunes». Excerto parcial de leitura; reticências editoriais e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0004-d-02 (Manuel, 26/12/1692): nomes dos pais coincidem e datas são compatíveis. Filhos não fundidos; identidade do casal por confirmar."
+    },
+    {
+      "id": "S8-B1-m0013-d-05",
+      "imagem": "m0013",
+      "lado": "direita",
+      "ordem": 5,
+      "estado": "pendente",
+      "leitura_parcial": "Brígida; «No mesmo dia mes era ut supra»; batismo em casa por necessidade; pai Domingos Pais; mãe Margarida.",
+      "duvidas": [
+        "Confirmar nomes completos dos pais e rever a remissão de data."
+      ],
+      "data_por_remissao": "S8-B1-m0013-d-04"
+    },
+    {
+      "id": "S8-B1-m0014-e-01",
+      "imagem": "m0014",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "André; aparente 24 de novembro de 1694; mãe Isabel.",
+      "duvidas": [
+        "Confirmar nomes completos dos pais e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0014-e-02",
+      "imagem": "m0014",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; dia 6, ano 1695; pai Manuel Nunes e mãe Maria Martins.",
+      "duvidas": [
+        "Rever o mês (janeiro/fevereiro) e distinguir batismo de administração dos santos óleos."
+      ]
+    },
+    {
+      "id": "S8-B1-m0014-e-03",
+      "imagem": "m0014",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "09/03/1695",
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "António Martins",
+      "mae": "Maria Pires",
+      "excerto": "«Aos nove dias do mes de março [...] noventa e cinco annos [...] a António filho de António Martins e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0014-e-04",
+      "imagem": "m0014",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "06/04/1695",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Domingos Martins",
+      "mae": "Maria Pires",
+      "excerto": "«Aos seis dias do mes de abril [...] noventa e cinco annos [...] a Manuel filho de Domingos Martins [...] e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0014-d-01",
+      "imagem": "m0014",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; aparente 25 de abril de 1695; pai Domingos Marcos, com possível apelido adicional.",
+      "duvidas": [
+        "Confirmar nomes completos dos pais e distinguir a administração dos santos óleos do batismo."
+      ]
+    },
+    {
+      "id": "S8-B1-m0014-d-02",
+      "imagem": "m0014",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "01/05/1695",
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "António Jorge",
+      "mae": "Catarina Dias",
+      "excerto": "«Ao primeiro dia do mes de maio [...] noventa e cinco annos [...] a António filho de António Jorge e de sua mulher Catarina Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0014-d-03",
+      "imagem": "m0014",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; maio de 1695.",
+      "duvidas": [
+        "Confirmar numeral do dia e filiação nas linhas com tinta transpassada."
+      ]
+    },
+    {
+      "id": "S8-B1-m0014-d-04",
+      "imagem": "m0014",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "28/05/1695",
+      "crianca": {
+        "nome": "João",
+        "sexo": "M"
+      },
+      "pai": "João Gonçalves",
+      "mae": "Maria Lopes",
+      "excerto": "«Aos vinte e oito dias do mes de maio [...] noventa e cinco annos [...] a João filho de João Gonçalves e de sua mulher Maria Lopes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0015-e-01",
+      "imagem": "m0015",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "João; junho de 1695.",
+      "duvidas": [
+        "Confirmar dia e nomes completos dos pais; mancha extensa nas primeiras linhas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0015-e-02",
+      "imagem": "m0015",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "26/06/1695",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Domingos Martins",
+      "mae": "Isabel Rodrigues",
+      "excerto": "«Aos vinte e seis dias do mes de junho [...] noventa e cinco annos [...] a Ana filha de Domingos Martins e de sua mulher Isabel Rodrigues». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0015-e-03",
+      "imagem": "m0015",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "16/07/1695",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "António Martins",
+      "mae": "Catarina Pires",
+      "excerto": "«Aos dezasseis dias do mes de julho [...] noventa e cinco annos [...] a Maria filha de António Martins e de sua mulher Catarina Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0015-e-04",
+      "imagem": "m0015",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; aparente 17 de julho de 1695; pai António Gil.",
+      "duvidas": [
+        "Confirmar nome completo da mãe, abreviado, e rever a data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0015-d-01",
+      "imagem": "m0015",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Bernabé; aparente 25 de julho de 1695; pai Domingos Gonçalves; mãe Isabel.",
+      "duvidas": [
+        "Confirmar apelido da mãe e numeral do dia."
+      ]
+    },
+    {
+      "id": "S8-B1-m0015-d-02",
+      "imagem": "m0015",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "15/08/1695",
+      "crianca": {
+        "nome": "Francisco",
+        "sexo": "M"
+      },
+      "pai": "Pedro Domingues",
+      "mae": "Ana Martins",
+      "excerto": "«Aos quinze dias do mes de agosto [...] noventa e cinco annos [...] a Francisco filho de Pedro Domingues e de sua mulher Ana Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0015-d-03",
+      "imagem": "m0015",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "19/08/1695",
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "Manuel Nunes",
+      "mae": "Maria Fernandes",
+      "excerto": "«Aos dezanove dias do mes de agosto [...] noventa e cinco annos [...] a António filho de Manuel Nunes e de Maria Fernandes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0004-d-04 (Manuel, 30/12/1692): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos."
+    },
+    {
+      "id": "S8-B1-m0016-e-01",
+      "imagem": "m0016",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Antónia; aparente 25 de agosto de 1695; mãe Isabel.",
+      "duvidas": [
+        "Confirmar filiação completa nas palavras cobertas por tinta transpassada."
+      ]
+    },
+    {
+      "id": "S8-B1-m0016-e-02",
+      "imagem": "m0016",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "José; 1 de setembro de 1695; mãe Isabel, com apelido abreviado.",
+      "duvidas": [
+        "Confirmar nome completo do pai e apelido da mãe; não estabelecer filiação por semelhança com outro assento."
+      ]
+    },
+    {
+      "id": "S8-B1-m0016-e-03",
+      "imagem": "m0016",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "02/09/1695",
+      "crianca": {
+        "nome": "João",
+        "sexo": "M"
+      },
+      "pai": "João Rodrigues",
+      "mae": "Maria Dias",
+      "excerto": "«Aos dois dias do mes de setembro [...] noventa e cinco annos [...] a João filho de João Rodrigues [...] e de sua mulher Maria Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0005-e-02 (Isabel, 20/11/1692): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos."
+    },
+    {
+      "id": "S8-B1-m0016-d-01",
+      "imagem": "m0016",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "10/09/1695",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "José Marques",
+      "mae": "Isabel Marques",
+      "excerto": "«Aos dez dias do mes de setembro [...] noventa e cinco annos [...] a Manuel filho de José Marques [...] e de sua mulher Isabel Marques». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0016-d-02",
+      "imagem": "m0016",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 6 de outubro de 1695.",
+      "duvidas": [
+        "Confirmar filiação e data; tinta transpassada sobre os nomes."
+      ]
+    },
+    {
+      "id": "S8-B1-m0016-d-03",
+      "imagem": "m0016",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Jerónima; aparente 28 de outubro de 1695; pai Domingos Jorge.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0016-d-04",
+      "imagem": "m0016",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "José; aparente 1 de dezembro de 1695.",
+      "duvidas": [
+        "Confirmar filiação e dia nas linhas muito manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0017-e-01",
+      "imagem": "m0017",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "31/10/1695",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "João Pires",
+      "mae": "Ana Fernandes",
+      "excerto": "«Aos trinta e hum dias do mes de outubro [...] noventa e cinco annos [...] a Maria filha de João Pires e de sua mulher Ana Fernandes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0017-e-02",
+      "imagem": "m0017",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "«No mesmo dia mes era ut supra»; pai António Marcos.",
+      "duvidas": [
+        "Confirmar nome da criança, nome completo da mãe e remissão de data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0017-e-03",
+      "imagem": "m0017",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; aparente 1 de novembro de 1695.",
+      "duvidas": [
+        "Confirmar nomes completos dos pais nas linhas manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0017-d-01",
+      "imagem": "m0017",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "06/11/1695",
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "José Lopes",
+      "mae": "Maria Pires",
+      "excerto": "«Aos seis dias do mes de novembro [...] noventa e cinco annos [...] a José filho de José Lopes e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0017-d-02",
+      "imagem": "m0017",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 10 de novembro de 1695.",
+      "duvidas": [
+        "Confirmar filiação e numeral do dia; sobreposição de tinta."
+      ]
+    },
+    {
+      "id": "S8-B1-m0017-d-03",
+      "imagem": "m0017",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "24/12/1695",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Luís Pinto",
+      "mae": "Ana Gonçalves",
+      "excerto": "«Aos vinte e quatro dias do mes de dezembro [...] noventa e cinco annos [...] a Maria filha de Luís Pinto e de sua mulher Ana Gonçalves». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0017-d-04",
+      "imagem": "m0017",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; janeiro de 1696.",
+      "duvidas": [
+        "Confirmar numeral do dia e filiação completa nas linhas inferiores."
+      ]
+    },
+    {
+      "id": "S8-B1-m0018-e-01",
+      "imagem": "m0018",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "29/01/1696",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Domingos Jorge",
+      "mae": "Catarina Martins",
+      "excerto": "«Aos vinte e nove dias do mes de janeiro [...] noventa e seis annos [...] a Maria filha de Domingos Jorge e de sua mulher Catarina Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0018-e-02",
+      "imagem": "m0018",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "12/02/1696",
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "António Martins",
+      "mae": "Maria Martins",
+      "excerto": "«Aos doze dias do mes de fevereiro [...] noventa e seis annos [...] a António filho de António Martins e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0010-e-03 (Ana, 18/02/1694): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos."
+    },
+    {
+      "id": "S8-B1-m0018-e-03",
+      "imagem": "m0018",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "António; aparente 21 de janeiro de 1696.",
+      "duvidas": [
+        "Confirmar mês e filiação; não alterar a data aparente para a ajustar à ordem das imagens."
+      ]
+    },
+    {
+      "id": "S8-B1-m0018-e-04",
+      "imagem": "m0018",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; aparente 27 de março de 1696; mãe Maria Dias.",
+      "duvidas": [
+        "Confirmar nome completo do pai e a data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0018-d-01",
+      "imagem": "m0018",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "13/04/1696",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "António Lourenço",
+      "mae": "Maria Pires",
+      "excerto": "«Aos treze dias do mes de abril [...] noventa e seis annos [...] a Maria filha de António Lourenço e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0018-d-02",
+      "imagem": "m0018",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "09/04/1696",
+      "crianca": {
+        "nome": "João",
+        "sexo": "M"
+      },
+      "pai": "João Martins",
+      "mae": "Isabel Martins",
+      "excerto": "«Aos nove dias do mes de abril [...] noventa e seis annos [...] a João filho de João Martins e de Isabel Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0018-d-03",
+      "imagem": "m0018",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "António; aparente 22 de abril de 1696.",
+      "duvidas": [
+        "Confirmar filiação nas linhas cobertas por tinta transpassada."
+      ]
+    },
+    {
+      "id": "S8-B1-m0018-d-04",
+      "imagem": "m0018",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "António; aparente 28 de abril de 1696.",
+      "duvidas": [
+        "Confirmar filiação e numeral do dia nas linhas manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0019-e-01",
+      "imagem": "m0019",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "29/04/1696",
+      "crianca": {
+        "nome": "Brígida",
+        "sexo": "F"
+      },
+      "pai": "Manuel Fernandes",
+      "mae": "Isabel Nunes",
+      "excerto": "«Aos vinte e nove dias do mes de abril [...] noventa e seis annos [...] a Brígida filha de Manuel Fernandes [...] e de sua mulher Isabel Nunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0019-e-02",
+      "imagem": "m0019",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; aparente 1 de maio de 1696; pai Bartolomeu.",
+      "duvidas": [
+        "Confirmar nomes completos dos pais."
+      ]
+    },
+    {
+      "id": "S8-B1-m0019-e-03",
+      "imagem": "m0019",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; aparente 7 de maio de 1696.",
+      "duvidas": [
+        "Confirmar filiação completa nas linhas manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0019-e-04",
+      "imagem": "m0019",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maio de 1696; nome marginal e filiação de leitura insegura.",
+      "duvidas": [
+        "Confirmar nome da criança, dia e nomes dos pais."
+      ]
+    },
+    {
+      "id": "S8-B1-m0019-d-01",
+      "imagem": "m0019",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "08/06/1696",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Pedro Lourenço Nabais",
+      "mae": "Inês Antunes",
+      "excerto": "«Aos oito dias do mes de junho [...] noventa e seis annos [...] a Ana filha de Pedro Lourenço Nabais e de sua mulher Inês Antunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0019-d-02",
+      "imagem": "m0019",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "20/06/1696",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "António Rodrigues",
+      "mae": "Isabel Martins",
+      "excerto": "«Aos vinte dias do mes de junho [...] noventa e seis annos [...] a Maria filha de António Rodrigues e de sua mulher Isabel Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0019-d-03",
+      "imagem": "m0019",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "José; aparente 12 de julho de 1696; mãe Maria Fernandes.",
+      "duvidas": [
+        "Confirmar nome completo do pai e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0019-d-04",
+      "imagem": "m0019",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; julho de 1696; pai Domingos Miguel e mãe Maria Nunes.",
+      "duvidas": [
+        "Confirmar numeral do dia e filiação; ler a conclusão no topo esquerdo de m0020."
+      ],
+      "continuacao": {
+        "imagem": "m0020",
+        "lado": "esquerda",
+        "posicao": "topo, antes do primeiro assento novo de Maria"
+      },
+      "nota": "Um único assento iniciado em m0019, direita, e terminado em m0020, esquerda. A continuação não foi contada como novo batismo."
+    },
+    {
+      "id": "S8-B1-m0020-e-01",
+      "imagem": "m0020",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "05/08/1696",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "António Martins",
+      "mae": "Maria Pires",
+      "excerto": "«Aos cinco dias do mes de agosto [...] noventa e seis annos [...] a Maria filha de António Martins e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0014-e-03 (António, 09/03/1695): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos."
+    },
+    {
+      "id": "S8-B1-m0020-e-02",
+      "imagem": "m0020",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; 6 de agosto de 1696; pai Cândido Lopes.",
+      "duvidas": [
+        "Confirmar nome e apelido da mãe, sem os deduzir de outro assento do mesmo nome de pai."
+      ]
+    },
+    {
+      "id": "S8-B1-m0020-e-03",
+      "imagem": "m0020",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; aparente 15 de agosto de 1696; pai Bento Nabais.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0020-e-04",
+      "imagem": "m0020",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Aparente Gonçalo; setembro de 1696.",
+      "duvidas": [
+        "Confirmar nome da criança, dia e filiação no fundo manchado da página."
+      ]
+    },
+    {
+      "id": "S8-B1-m0020-d-01",
+      "imagem": "m0020",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; setembro de 1696; pai António Pires e mãe Maria Nunes.",
+      "duvidas": [
+        "Confirmar numeral do dia antes de integrar."
+      ]
+    },
+    {
+      "id": "S8-B1-m0020-d-02",
+      "imagem": "m0020",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "28/09/1696",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "António Nabais",
+      "mae": "Maria Gonçalves",
+      "excerto": "«Aos vinte e oito dias do mes de setembro [...] noventa e seis annos [...] a Ana filha de António Nabais e de sua mulher Maria Gonçalves». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0020-d-03",
+      "imagem": "m0020",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "01/10/1696",
+      "crianca": {
+        "nome": "Gonçalo",
+        "sexo": "M"
+      },
+      "pai": "João Lopes",
+      "mae": "Maria Pires",
+      "excerto": "«Ao primeiro dia do mes de setembro digo de outubro [...] noventa e seis annos [...] a Gonçalo filho de João Lopes e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "O redator corrige o mês: «setembro digo de outubro». Registado outubro, conservando a correção no excerto."
+    },
+    {
+      "id": "S8-B1-m0020-d-04",
+      "imagem": "m0020",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "01/10/1696",
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "João Lopes",
+      "mae": "Maria Rodrigues",
+      "excerto": "«No mesmo dia mes era ut supra [...] a António filho de João Lopes e de sua mulher Maria Rodrigues [...] baptizei em casa por necessidade». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "data_por_remissao": "S8-B1-m0020-d-03",
+      "nota": "O pai tem o mesmo nome do pai do assento anterior, mas as mães são diferentes. Famílias mantidas separadas."
+    },
+    {
+      "id": "S8-B1-m0020-d-05",
+      "imagem": "m0020",
+      "lado": "direita",
+      "ordem": 5,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; aparente 8 de outubro de 1696.",
+      "duvidas": [
+        "Confirmar nomes completos dos pais nas últimas linhas manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0021-e-01",
+      "imagem": "m0021",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; aparente 28 de outubro de 1696; pai José Duarte.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0021-e-02",
+      "imagem": "m0021",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; aparente 10 de novembro de 1696; pai Domingos Jorge.",
+      "duvidas": [
+        "Confirmar nome completo da mãe nas linhas com sobreposição de tinta."
+      ]
+    },
+    {
+      "id": "S8-B1-m0021-e-03",
+      "imagem": "m0021",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; «No mesmo dia mes era ut supra»; referência a batismo em casa e santos óleos.",
+      "duvidas": [
+        "Confirmar filiação e distinguir data do batismo da administração posterior dos santos óleos."
+      ]
+    },
+    {
+      "id": "S8-B1-m0021-e-04",
+      "imagem": "m0021",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "António; dia 2 de janeiro; filiação de leitura parcial.",
+      "duvidas": [
+        "Confirmar ano escrito, sem o inferir pela sequência de imagens.",
+        "Confirmar nomes dos pais."
+      ]
+    },
+    {
+      "id": "S8-B1-m0021-d-01",
+      "imagem": "m0021",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 18 de novembro de 1696; pai Cândido Lourenço.",
+      "duvidas": [
+        "Confirmar nome completo da mãe nas linhas manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0021-d-02",
+      "imagem": "m0021",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "18/11/1696",
+      "crianca": {
+        "nome": "Isabel",
+        "sexo": "F"
+      },
+      "pai": "Domingos Gonçalves",
+      "mae": "Isabel Dias",
+      "excerto": "«Aos dezoito dias do mes de novembro [...] noventa e seis annos [...] a Isabel filha de Domingos Gonçalves e de sua mulher Isabel Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0021-d-03",
+      "imagem": "m0021",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "António; aparente 28 de novembro de 1696; pai Manuel Marques.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0021-d-04",
+      "imagem": "m0021",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; aparente 9 de dezembro de 1696.",
+      "duvidas": [
+        "Confirmar filiação e separar os nomes das cláusulas de naturalidade e estado."
+      ]
+    },
+    {
+      "id": "S8-B1-m0022-e-01",
+      "imagem": "m0022",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; 2 de janeiro de 1697; mãe Maria Antunes.",
+      "duvidas": [
+        "Confirmar nome completo do pai."
+      ]
+    },
+    {
+      "id": "S8-B1-m0022-e-02",
+      "imagem": "m0022",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "António; remissão ao dia anterior; pai João Martins; mãe Ana Dias.",
+      "duvidas": [
+        "Distinguir data do batismo em necessidade da data em que foram administrados os santos óleos."
+      ]
+    },
+    {
+      "id": "S8-B1-m0022-e-03",
+      "imagem": "m0022",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Gaspar; 10 de janeiro de 1697; pai Gaspar Gonçalves; mãe Domingas.",
+      "duvidas": [
+        "Confirmar apelido abreviado da mãe."
+      ]
+    },
+    {
+      "id": "S8-B1-m0022-e-04",
+      "imagem": "m0022",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "28/01/1697",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Bartolomeu Fernandes",
+      "mae": "Maria Pires",
+      "excerto": "«Aos vinte e oito dias do mes de janeiro [...] noventa e sete annos [...] a Ana filha de Bartolomeu Fernandes [...] e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0022-d-01",
+      "imagem": "m0022",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "14/02/1697",
+      "crianca": {
+        "nome": "Domingos",
+        "sexo": "M"
+      },
+      "pai": "Domingos Serrão",
+      "mae": "Maria Gomes",
+      "excerto": "«Aos quatorze dias do mes de fevereiro [...] noventa e sete [...] a Domingos filho de Domingos Serrão e de sua mulher Maria Gomes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0022-d-02",
+      "imagem": "m0022",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "02/02/1697",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Domingos Lopes",
+      "mae": "Guiomar Nunes",
+      "excerto": "«Aos dois dias do mes de fevereiro [...] noventa e sete annos [...] a Ana filha de Domingos Lopes e de sua mulher Guiomar Nunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0004-d-02 (Manuel, 26/12/1692) e S8-B1-m0013-d-04 (Maria, 22/11/1694): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos."
+    },
+    {
+      "id": "S8-B1-m0022-d-03",
+      "imagem": "m0022",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "16/03/1697",
+      "crianca": {
+        "nome": "Catarina",
+        "sexo": "F"
+      },
+      "pai": "António Dias",
+      "mae": "Maria Pires",
+      "excerto": "«Aos dezasseis dias do mes de março [...] noventa e sete annos [...] a Catarina filha de António Dias [...] e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0023-e-01",
+      "imagem": "m0023",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; aparente 10 de abril de 1697; pai Pedro Vicente; mãe Maria.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0023-e-02",
+      "imagem": "m0023",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "23/04/1697",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "António Jorge",
+      "mae": "Catarina Dias",
+      "excerto": "«Aos vinte e tres dias do mes de abril [...] noventa e sete annos [...] a Manuel filho de António Jorge e de sua mulher Catarina Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0014-d-02 (António, 01/05/1695): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos."
+    },
+    {
+      "id": "S8-B1-m0023-e-03",
+      "imagem": "m0023",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "26/05/1697",
+      "crianca": {
+        "nome": "João",
+        "sexo": "M"
+      },
+      "pai": "Manuel Dias",
+      "mae": "Maria Antunes",
+      "excerto": "«Aos vinte e seis dias do mes de maio [...] noventa e sete annos [...] a João filho de Manuel Dias e de Maria Antunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0023-d-01",
+      "imagem": "m0023",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; aparente 26 de maio de 1697; pai Bernardo Lourenço.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0023-d-02",
+      "imagem": "m0023",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 29 de maio de 1697; pai Bento.",
+      "duvidas": [
+        "Confirmar filiação completa; texto com tinta transpassada."
+      ]
+    },
+    {
+      "id": "S8-B1-m0023-d-03",
+      "imagem": "m0023",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; aparente 11 de julho de 1697.",
+      "duvidas": [
+        "Confirmar filiação e numeral do dia nas linhas muito manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0024-e-01",
+      "imagem": "m0024",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; dia 24, mês por remissão; mãe Madalena.",
+      "duvidas": [
+        "Confirmar data completa, filiação e distinguir o padre que batizou dos pais."
+      ]
+    },
+    {
+      "id": "S8-B1-m0024-e-02",
+      "imagem": "m0024",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "José; 8 de agosto; pai Gonçalo Pires e mãe Isabel Afonso.",
+      "duvidas": [
+        "Confirmar ano por remissão ao texto anterior antes de integrar a data completa."
+      ]
+    },
+    {
+      "id": "S8-B1-m0024-e-03",
+      "imagem": "m0024",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Teresa; aparente 15 de agosto de 1697.",
+      "duvidas": [
+        "Confirmar filiação completa e numeral do dia; manchas extensas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0024-d-01",
+      "imagem": "m0024",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; agosto de 1697.",
+      "duvidas": [
+        "Confirmar dia e nomes dos pais no texto muito manchado."
+      ]
+    },
+    {
+      "id": "S8-B1-m0024-d-02",
+      "imagem": "m0024",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Leonor; setembro de 1697.",
+      "duvidas": [
+        "Confirmar dia e filiação nas linhas muito cobertas por tinta."
+      ]
+    },
+    {
+      "id": "S8-B1-m0024-d-03",
+      "imagem": "m0024",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; setembro de 1697.",
+      "duvidas": [
+        "Confirmar dia e filiação; não extrair apelidos de palavras incompletas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0025-e-01",
+      "imagem": "m0025",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; aparente 29 de setembro de 1697.",
+      "duvidas": [
+        "Confirmar filiação e distinguir oficiante e pais no texto manchado."
+      ]
+    },
+    {
+      "id": "S8-B1-m0025-e-02",
+      "imagem": "m0025",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "José; «No mesmo dia mes era ut supra»; administração dos santos óleos.",
+      "duvidas": [
+        "Confirmar filiação e data do batismo anterior em casa por necessidade."
+      ]
+    },
+    {
+      "id": "S8-B1-m0025-e-03",
+      "imagem": "m0025",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "14/12/1697",
+      "crianca": {
+        "nome": "Francisco",
+        "sexo": "M"
+      },
+      "pai": "António Martins",
+      "mae": "Catarina Afonso",
+      "excerto": "«Aos quatorze dias do mes de dezembro [...] noventa e sete annos [...] a Francisco filho de António Martins e de sua mulher Catarina Afonso». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0025-e-04",
+      "imagem": "m0025",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 17 de novembro de 1697.",
+      "duvidas": [
+        "Confirmar filiação e dia nas últimas linhas da página."
+      ]
+    },
+    {
+      "id": "S8-B1-m0025-d-01",
+      "imagem": "m0025",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; 5 de janeiro de 1698; pai João Pires; mãe Domingas.",
+      "duvidas": [
+        "Confirmar apelido da mãe."
+      ]
+    },
+    {
+      "id": "S8-B1-m0025-d-02",
+      "imagem": "m0025",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; «No mesmo dia mes era ut supra»; pai Bento Fernandes; mãe Domingas.",
+      "duvidas": [
+        "Confirmar apelido da mãe e distinguir data do batismo da administração dos santos óleos."
+      ]
+    },
+    {
+      "id": "S8-B1-m0025-d-03",
+      "imagem": "m0025",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; «No mesmo dia mes era ut supra»; administração dos santos óleos.",
+      "duvidas": [
+        "Confirmar filiação e data do batismo em necessidade.",
+        "Comparar com o primeiro assento desta página sem concluir identidade pela repetição do nome."
+      ]
+    },
+    {
+      "id": "S8-B1-m0025-d-04",
+      "imagem": "m0025",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "06/01/1698",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "António Martins",
+      "mae": "Maria Martins",
+      "excerto": "«Aos seis dias do mes de janeiro [...] noventa e oito annos [...] a Ana filha de António Martins e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0010-e-03 (Ana, 18/02/1694) e S8-B1-m0018-e-02 (António, 12/02/1696): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos. As duas crianças chamadas Ana são mantidas como pessoas distintas."
+    },
+    {
+      "id": "S8-B1-m0026-e-01",
+      "imagem": "m0026",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "25/01/1698",
+      "crianca": {
+        "nome": "Catarina",
+        "sexo": "F"
+      },
+      "pai": "António Martins",
+      "mae": "Isabel Nabais",
+      "excerto": "«Aos vinte e cinco dias do mes de janeiro [...] noventa e oito annos [...] a Catarina filha de António Martins e de sua mulher Isabel Nabais». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0026-e-02",
+      "imagem": "m0026",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "15/03/1698",
+      "crianca": {
+        "nome": "Domingos",
+        "sexo": "M"
+      },
+      "pai": "Pedro Domingues",
+      "mae": "Ana Martins",
+      "excerto": "«Aos quinze dias do mes de março [...] noventa e oito annos [...] a Domingos filho de Pedro Domingues e de sua mulher Ana Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0015-d-02 (Francisco, 15/08/1695): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos."
+    },
+    {
+      "id": "S8-B1-m0026-e-03",
+      "imagem": "m0026",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Francisco; 14 de maio; filiação Domingos Jorge e Isabel Pires; o ano parece «noventa e três».",
+      "duvidas": [
+        "Rever o ano escrito, que parece 1693, em vez de o regularizar para 1698 pela ordem do livro.",
+        "A fotografia repetida m0027 é apoio de leitura, não um segundo assento."
+      ]
+    },
+    {
+      "id": "S8-B1-m0026-d-01",
+      "imagem": "m0026",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "31/05/1698",
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Domingos Gonçalves",
+      "mae": "Isabel Nabais",
+      "excerto": "«Aos trinta e hum dias do mes de maio [...] noventa e oito annos [...] a José filho de Domingos Gonçalves e de sua mulher Isabel Nabais». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0026-d-02",
+      "imagem": "m0026",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "07/06/1698",
+      "crianca": {
+        "nome": "Gabriel",
+        "sexo": "M"
+      },
+      "pai": "Gabriel Nunes",
+      "mae": "Helena Marques",
+      "excerto": "«Aos sete dias do mes de junho [...] noventa e oito annos [...] a Gabriel filho de Gabriel Nunes e de sua mulher Helena Marques». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "Possível mesmo casal de S8-B1-m0012-e-01 (Helena, 28/07/1694): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos."
+    },
+    {
+      "id": "S8-B1-m0026-d-03",
+      "imagem": "m0026",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "06/07/1698",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "José Fernandes",
+      "mae": "Isabel Dias",
+      "excerto": "«Aos seis dias do mes de julho [...] noventa e oito annos [...] a Ana filha de José Fernandes e de Isabel Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0028-e-01",
+      "imagem": "m0028",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "22/07/1698",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "João Santiago",
+      "mae": "Maria Lopes",
+      "excerto": "«Aos vinte e dois dias do mes de julho [...] noventa e oito annos [...] a Manuel filho de João Santiago [...] e de sua mulher Maria Lopes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0028-e-02",
+      "imagem": "m0028",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; dia 7 de 1698; pai Manuel Pires e mãe Francisca Gonçalves.",
+      "duvidas": [
+        "Confirmar mês escrito (julho/agosto) antes de integrar a data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0028-e-03",
+      "imagem": "m0028",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 21 de julho de 1698; pai Bartolomeu; mãe Inês Antunes.",
+      "duvidas": [
+        "Confirmar a forma completa do nome do pai e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0028-e-04",
+      "imagem": "m0028",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; «No mesmo dia mes era ut supra»; administração dos santos óleos após batismo em necessidade.",
+      "duvidas": [
+        "Confirmar filiação e data do batismo, distinguindo-a da administração dos santos óleos."
+      ]
+    },
+    {
+      "id": "S8-B1-m0028-d-01",
+      "imagem": "m0028",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "15/08/1698",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Carvalho",
+      "mae": "Maria Gonçalves",
+      "excerto": "«Aos quinze dias do mes de agosto [...] noventa e oito annos [...] a Manuel filho de Manuel Carvalho e de sua mulher Maria Gonçalves». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0028-d-02",
+      "imagem": "m0028",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Jacinto; aparente 27 de agosto de 1698; pai João Lopes.",
+      "duvidas": [
+        "Confirmar nome completo da mãe e dia."
+      ]
+    },
+    {
+      "id": "S8-B1-m0028-d-03",
+      "imagem": "m0028",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; «No mesmo dia mes era ut supra».",
+      "duvidas": [
+        "Confirmar filiação completa e data por remissão."
+      ]
+    },
+    {
+      "id": "S8-B1-m0029-e-01",
+      "imagem": "m0029",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "08/09/1698",
+      "crianca": {
+        "nome": "Lúcia",
+        "sexo": "F"
+      },
+      "pai": "Manuel da Costa",
+      "mae": "Maria Lopes",
+      "excerto": "«Aos oito dias do mes de setembro [...] noventa e oito annos [...] a Lúcia filha de Manuel da Costa e de sua mulher Maria Lopes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0029-e-02",
+      "imagem": "m0029",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; aparente 10 de setembro de 1698; batismo por outro padre com licença.",
+      "duvidas": [
+        "Confirmar filiação e dia, separando oficiante e pais."
+      ]
+    },
+    {
+      "id": "S8-B1-m0029-d-01",
+      "imagem": "m0029",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; aparente 26 de setembro de 1698; mãe Isabel Lourença.",
+      "duvidas": [
+        "Confirmar nome completo do pai e data."
+      ]
+    },
+    {
+      "id": "S8-B1-m0029-d-02",
+      "imagem": "m0029",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "25/09/1698",
+      "crianca": {
+        "nome": "João",
+        "sexo": "M"
+      },
+      "pai": "João Gomes",
+      "mae": "Ana Lourença",
+      "excerto": "«Aos vinte e cinco dias do mes de setembro [...] noventa e oito annos [...] a João filho de João Gomes e de sua mulher Ana Lourença». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0029-d-03",
+      "imagem": "m0029",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "02/10/1698",
+      "crianca": {
+        "nome": "Catarina",
+        "sexo": "F"
+      },
+      "pai": "João Martins",
+      "mae": "Isabel Nunes",
+      "excerto": "«Aos dois dias do mes de outubro [...] noventa e oito annos [...] a Catarina filha de João Martins e de sua mulher Isabel Nunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0029-d-04",
+      "imagem": "m0029",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; 3 de outubro de 1698; pai Pedro; mãe Ana Gil.",
+      "duvidas": [
+        "Confirmar apelido do pai (Gonçalo/Gonçalves) sem normalizar uma leitura insegura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0030-e-01",
+      "imagem": "m0030",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; aparente 30 de outubro de 1698; mãe Maria.",
+      "duvidas": [
+        "Confirmar nomes completos dos pais e dia."
+      ]
+    },
+    {
+      "id": "S8-B1-m0030-e-02",
+      "imagem": "m0030",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "07/11/1698",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Domingos Gonçalves",
+      "mae": "Isabel Domingues",
+      "excerto": "«Aos sete dias do mes de novembro [...] noventa e oito annos [...] a Manuel filho de Domingos Gonçalves e de sua mulher Isabel Domingues». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0030-e-03",
+      "imagem": "m0030",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "28/12/1698",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Francisco Fernandes",
+      "mae": "Maria Lourença",
+      "excerto": "«Aos vinte e oito dias do mes de dezembro [...] noventa e oito annos [...] a Maria filha de Francisco Fernandes [...] e de sua mulher Maria Lourença». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0030-d-01",
+      "imagem": "m0030",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; dezembro de 1698.",
+      "duvidas": [
+        "Confirmar numeral do dia e filiação; sobreposição extensa de tinta."
+      ]
+    },
+    {
+      "id": "S8-B1-m0030-d-02",
+      "imagem": "m0030",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Nome marginal «Maria/Madalena»; dezembro de 1698.",
+      "duvidas": [
+        "Confirmar nome da criança, dia e filiação."
+      ]
+    },
+    {
+      "id": "S8-B1-m0030-d-03",
+      "imagem": "m0030",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; aparente 16 de janeiro de 1699.",
+      "duvidas": [
+        "Confirmar filiação e data nas últimas linhas manchadas."
+      ]
+    },
+    {
+      "id": "S8-B1-m0031-e-01",
+      "imagem": "m0031",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "29/01/1699",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Domingos Duarte",
+      "mae": "Maria Gomes",
+      "excerto": "«Aos vinte e nove dias do mês de janeiro de mil seiscentos e noventa e nove anos [...] a Manuel filho de Domingos Duarte e de sua mulher Maria Gomes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0031-e-02",
+      "imagem": "m0031",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "02/02/1699",
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "António Dias",
+      "mae": "Ana Luís",
+      "excerto": "«Aos dois dias do mês de fevereiro de mil seiscentos e noventa e nove anos batizei [...] a António filho de António Dias e de sua mulher Ana Luís [...] do segundo matrimónio da parte dele». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0031-e-03",
+      "imagem": "m0031",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Mateus; data aparentemente 3 de março de 1699. Mãe aparentemente Catarina Pires; o pai parece chamar-se António, mas o apelido está coberto por uma mancha.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0031-d-01",
+      "imagem": "m0031",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Sebastiana; data aparentemente 7 de abril de 1699. Filiação parcialmente ocultada pela tinta.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0031-d-02",
+      "imagem": "m0031",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; data aparentemente 18 de abril de 1699. Nomes dos pais com manchas e sobreposição de escrita.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0031-d-03",
+      "imagem": "m0031",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; data e filiação por confirmar; mês não lido com segurança.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0031-d-04",
+      "imagem": "m0031",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "João, pela abreviatura marginal; data e filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0032-e-01",
+      "imagem": "m0032",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Lúcia; a data parece 28 de abril de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0032-e-02",
+      "imagem": "m0032",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; data por remissão «No mesmo dia mês e era ut supra». Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0032-e-03",
+      "imagem": "m0032",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; a data parece 16 de maio de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0032-e-04",
+      "imagem": "m0032",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 29 de maio de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0032-d-01",
+      "imagem": "m0032",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "06/07/1699",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Diogo Lourenço",
+      "mae": "Isabel Fernandes",
+      "excerto": "«Aos seis dias do mês de julho de mil seiscentos e noventa e nove anos batizei [...] a Ana filha de Diogo Lourenço e de sua mulher Isabel Fernandes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0032-d-02",
+      "imagem": "m0032",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; data aparentemente 28 de julho de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0032-d-03",
+      "imagem": "m0032",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; data aparentemente 27 de agosto de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0032-d-04",
+      "imagem": "m0032",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Francisco; data aparentemente por remissão ao assento anterior. O final continua no alto da página esquerda de m0033; não é um novo assento nessa imagem.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0033-e-01",
+      "imagem": "m0033",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; a data parece 29 de agosto de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0033-e-02",
+      "imagem": "m0033",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; data por remissão «No mesmo dia ut supra». Pais aparentemente João Lopes e Maria Pires; a data completa do assento de referência permanece por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0033-e-03",
+      "imagem": "m0033",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; agosto de 1699, dia por confirmar. Filiação sob tinta transpassada.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0033-e-04",
+      "imagem": "m0033",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Antónia; data aparentemente 24 de agosto de 1699, a conferir sem a corrigir pela sequência. Filiação manchada.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0033-d-01",
+      "imagem": "m0033",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "António; data por remissão «No mesmo dia mês e era ut supra». Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0033-d-02",
+      "imagem": "m0033",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "10/09/1699",
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "Manuel Gomes",
+      "mae": "Maria Gomes",
+      "excerto": "«Aos dez dias do mês de setembro de mil e seiscentos e noventa e nove anos batizei [...] a António filho de Manuel Gomes e de sua mulher Maria Gomes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0033-d-03",
+      "imagem": "m0033",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 27 de setembro de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0033-d-04",
+      "imagem": "m0033",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "André; a data parece 3 de outubro de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0034-e-01",
+      "imagem": "m0034",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "12/10/1699",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Francisco Pires",
+      "mae": "Domingas Gonçalves",
+      "excerto": "«Aos doze dias do mês de outubro de mil seiscentos e noventa e nove anos [...] a Maria filha de Francisco Pires e de sua mulher Domingas Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0034-e-02",
+      "imagem": "m0034",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; data aparentemente 16 de outubro de 1699. Mãe aparentemente Maria Lopes; nome completo do pai António por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0034-e-03",
+      "imagem": "m0034",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; a data parece 20 de outubro de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0034-e-04",
+      "imagem": "m0034",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 27 de outubro de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0034-d-01",
+      "imagem": "m0034",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "André; a data parece 26 de outubro de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0034-d-02",
+      "imagem": "m0034",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Joana; novembro de 1699, dia por confirmar. Pai aparentemente João Rodrigues; filiação completa por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0034-d-03",
+      "imagem": "m0034",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Joana; segundo assento, sem nome marginal próprio, depois da assinatura do anterior. Fórmula «No mesmo dia mês e era ut supra dei os santos óleos»; filha de Domingos e Maria, apelidos por confirmar. Não confundir as duas crianças nem a cerimónia com a data de batismo.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura.",
+        "Distinguir a data de aplicação dos santos óleos da data do batismo propriamente dito."
+      ]
+    },
+    {
+      "id": "S8-B1-m0034-d-04",
+      "imagem": "m0034",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "04/12/1699",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Rodrigues",
+      "mae": "Maria Gonçalves",
+      "excerto": "«Aos quatro dias do mês de dezembro de mil seiscentos e noventa e nove anos [...] Manuel filho de Manuel Rodrigues e Maria Gonçalves sua mulher [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0034-d-05",
+      "imagem": "m0034",
+      "lado": "direita",
+      "ordem": 5,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "07/12/1699",
+      "crianca": {
+        "nome": "Antónia",
+        "sexo": "F"
+      },
+      "pai": "António Leal",
+      "mae": "Maria Pires",
+      "excerto": "«Aos sete dias do mês de dezembro de mil seiscentos e noventa e nove anos [...] Antónia filha de António Leal [...] e de sua mulher Maria Pires [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0035-e-01",
+      "imagem": "m0035",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; a data parece 10 de dezembro de 1699. Pai aparentemente Paulo Martins; o apelido da mãe Maria não se lê com segurança.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0035-e-02",
+      "imagem": "m0035",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Lourenço; a data parece 11 de dezembro de 1699. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0035-e-03",
+      "imagem": "m0035",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "13/01/1700",
+      "crianca": {
+        "nome": "Joana",
+        "sexo": "F"
+      },
+      "pai": "João Martins",
+      "mae": "Ana Vaz",
+      "excerto": "«Aos treze dias do mês de janeiro de mil e setecentos anos [...] a Joana filha de João Martins e de sua mulher Ana Vaz [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0035-d-01",
+      "imagem": "m0035",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; a data parece 17 de janeiro de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0035-d-02",
+      "imagem": "m0035",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "14/02/1700",
+      "crianca": {
+        "nome": "Catarina",
+        "sexo": "F"
+      },
+      "pai": "Domingos Jorge",
+      "mae": "Maria Pires",
+      "excerto": "«Aos catorze dias do mês de fevereiro de mil e setecentos anos [...] Catarina filha de Domingos Jorge e de sua mulher Maria Pires [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0035-d-03",
+      "imagem": "m0035",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; a data parece 22 de fevereiro de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0036-e-01",
+      "imagem": "m0036",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; data aparentemente 26 de fevereiro de 1700. A filiação, aparentemente António Lopes e Catarina Pires, continua afetada por manchas e carece de confirmação.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0036-e-02",
+      "imagem": "m0036",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; a data parece 9 de março de 1700. Filiação por confirmar, incluindo a distinção entre os pais e outras pessoas nomeadas.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0036-e-03",
+      "imagem": "m0036",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Joana; a data parece 13 de março de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0036-d-01",
+      "imagem": "m0036",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; a data parece 2 de abril de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0036-d-02",
+      "imagem": "m0036",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "José; a data parece 17 de abril de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0036-d-03",
+      "imagem": "m0036",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 20 de abril de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0037-e-01",
+      "imagem": "m0037",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "José; a data parece 22 de maio de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0037-e-02",
+      "imagem": "m0037",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; data por remissão ao assento anterior. Há referência a batismo em casa; filiação e circunstâncias por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0037-e-03",
+      "imagem": "m0037",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; a data parece 29 de maio de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0037-d-01",
+      "imagem": "m0037",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; a data parece 30 de maio de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0037-d-02",
+      "imagem": "m0037",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; a data parece 13 de junho de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0037-d-03",
+      "imagem": "m0037",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "27/07/1700",
+      "crianca": {
+        "nome": "Guiomar",
+        "sexo": "F"
+      },
+      "pai": "João Lopes",
+      "mae": "Guiomar Martins",
+      "excerto": "«Aos vinte e sete dias do mês de julho de mil e setecentos anos batizei [...] a Guiomar filha de João Lopes e de sua mulher Guiomar Martins [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0038-e-01",
+      "imagem": "m0038",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; a data parece 10 de agosto de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0038-e-02",
+      "imagem": "m0038",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; data aparentemente 19 de agosto de 1700. Mãe aparentemente Maria Pires; nome completo do pai, que inclui Luís, por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0038-d-01",
+      "imagem": "m0038",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; agosto de 1700, dia por confirmar devido a escrita sobreposta e eventual emenda. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0038-d-02",
+      "imagem": "m0038",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; data por remissão «No mesmo dia mês e era ut supra». Filiação aparentemente António Duarte e Catarina Lopes, a conferir.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0038-d-03",
+      "imagem": "m0038",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "01/09/1700",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Domingos Gama",
+      "mae": "Isabel Novais",
+      "excerto": "«Ao primeiro dia do mês de setembro de mil e setecentos anos [...] a Manuel filho de Domingos Gama e de sua mulher Isabel Novais [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0039-e-01",
+      "imagem": "m0039",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 16 de setembro de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0039-e-02",
+      "imagem": "m0039",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; a data parece 22 de setembro de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0039-e-03",
+      "imagem": "m0039",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Data aparentemente 29 de setembro de 1700. Nome da criança abreviado na margem e no corpo, por confirmar; pais aparentemente Manuel Fernandes e Maria Lopes. Não se interpreta com segurança o texto sobre matrimónios anteriores.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0039-d-01",
+      "imagem": "m0039",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; a data parece 9 de outubro de 1700. Referência a batismo em casa; confirmar a filiação e a natureza da data.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0039-d-02",
+      "imagem": "m0039",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Francisco; a data parece 13 de outubro de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0039-d-03",
+      "imagem": "m0039",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 9 de novembro de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0040-e-01",
+      "imagem": "m0040",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; data por remissão ao assento anterior. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0040-e-02",
+      "imagem": "m0040",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "José; a data parece 20 de novembro de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0040-e-03",
+      "imagem": "m0040",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Francisco; dezembro de 1700, dia por confirmar. Filiação muito manchada.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0040-e-04",
+      "imagem": "m0040",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; a data parece 28 de dezembro de 1700. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0040-d-01",
+      "imagem": "m0040",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; a data parece 17 de janeiro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0040-d-02",
+      "imagem": "m0040",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; data por remissão ao assento anterior. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0040-d-03",
+      "imagem": "m0040",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Gaspar; a data parece 17 de janeiro de 1701. Filiação aparentemente Domingos Paz e Ana Rodrigues; conferir.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0041-e-01",
+      "imagem": "m0041",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "José; a data parece 24 de janeiro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0041-e-02",
+      "imagem": "m0041",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "01/02/1701",
+      "crianca": {
+        "nome": "Francisco",
+        "sexo": "M"
+      },
+      "pai": "Baltasar Dias",
+      "mae": "Ana Rodrigues",
+      "excerto": "«Ao primeiro dia do mês de fevereiro de mil e setecentos e um anos [...] a Francisco filho de Baltasar Dias e de sua mulher Ana Rodrigues [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0041-e-03",
+      "imagem": "m0041",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; a data parece 2 de fevereiro de 1701. Filiação por confirmar; há referência a batismo em casa.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0041-d-01",
+      "imagem": "m0041",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 5 de fevereiro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0041-d-02",
+      "imagem": "m0041",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 9 de fevereiro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0041-d-03",
+      "imagem": "m0041",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina, pela abreviatura marginal; data e filiação muito afetadas pela tinta transpassada.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0041-d-04",
+      "imagem": "m0041",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "06/08/1701",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Paulo",
+      "mae": "Ana Mendes",
+      "excerto": "«Aos seis dias do mês de agosto de mil e setecentos e um anos batizei [...] a Maria filha de Paulo e de sua mulher Ana Mendes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota": "O assento identifica o pai apenas como Paulo; não se acrescenta apelido por hipótese. A data é a do texto, apesar da posição antes dos assentos de março e abril em m0042."
+    },
+    {
+      "id": "S8-B1-m0042-e-01",
+      "imagem": "m0042",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; a data parece 27 de março de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0042-e-02",
+      "imagem": "m0042",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; a data parece 3 de abril de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0042-e-03",
+      "imagem": "m0042",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Lúcia; a data parece 13 de julho de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0042-d-01",
+      "imagem": "m0042",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; a data parece 18 de julho de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0042-d-02",
+      "imagem": "m0042",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; data por remissão ao assento anterior. Pais aparentemente Domingos Rodrigues e Isabel Gonçalves; conferir.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0042-d-03",
+      "imagem": "m0042",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "20/07/1701",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Gonçalves",
+      "mae": "Cecília Luís",
+      "excerto": "«Aos vinte dias do mês de julho de mil e setecentos e um anos batizei [...] a Manuel filho de Manuel Gonçalves e de sua mulher Cecília Luís [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0043-e-01",
+      "imagem": "m0043",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "António; a data parece 19 de junho de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0043-e-02",
+      "imagem": "m0043",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "10/08/1701",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Gonçalo Antunes",
+      "mae": "Maria Afonso",
+      "excerto": "«Aos dez dias do mês de agosto de mil e setecentos e um anos batizei [...] a Maria filha de Gonçalo Antunes e de sua mulher Maria Afonso [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0043-e-03",
+      "imagem": "m0043",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "17/08/1701",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "João Antunes",
+      "mae": "Maria Lopes",
+      "excerto": "«Aos dezassete dias do mês de agosto de mil e setecentos e um anos batizei [...] a Manuel filho de João Antunes e de sua mulher Maria Lopes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0043-e-04",
+      "imagem": "m0043",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Domingos; data aparentemente 20 de agosto de 1701. Pai aparentemente João Pires; nome completo da mãe Maria por confirmar. O assento continua no alto da página direita da mesma imagem.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0043-d-01",
+      "imagem": "m0043",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; a data parece 9 de setembro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0043-d-02",
+      "imagem": "m0043",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "17/09/1701",
+      "crianca": {
+        "nome": "João",
+        "sexo": "M"
+      },
+      "pai": "Manuel Vaz",
+      "mae": "Isabel Fernandes",
+      "excerto": "«Aos dezassete dias do mês de setembro de mil e setecentos e um anos batizei [...] a João filho de Manuel Vaz [...] e de sua mulher Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0043-d-03",
+      "imagem": "m0043",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "António; a data parece 26 de setembro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0044-e-01",
+      "imagem": "m0044",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "António; a data parece 30 de setembro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0044-e-02",
+      "imagem": "m0044",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 10 de outubro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0044-e-03",
+      "imagem": "m0044",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "08/10/1701",
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "Manuel Lopes",
+      "mae": "Maria Gomes",
+      "excerto": "«Aos oito dias do mês de outubro de mil e setecentos e um anos batizei [...] a António filho de Manuel Lopes e de sua mulher Maria Gomes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0044-e-04",
+      "imagem": "m0044",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 1 de novembro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0044-d-01",
+      "imagem": "m0044",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "António; a data parece 17 de outubro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0044-d-02",
+      "imagem": "m0044",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 22 de outubro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0044-d-03",
+      "imagem": "m0044",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; a data parece 15 de outubro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0044-d-04",
+      "imagem": "m0044",
+      "lado": "direita",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; a data parece 30 de outubro de 1701. Pai aparentemente Diogo; a filiação continua no alto da página esquerda de m0045 e carece de confirmação.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0045-e-01",
+      "imagem": "m0045",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 7 de novembro de 1701. Filiação por confirmar, distinguindo os títulos e os nomes pessoais no texto.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0045-e-02",
+      "imagem": "m0045",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 9 de novembro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0045-d-01",
+      "imagem": "m0045",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; a data parece 24 de dezembro de 1701. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0045-d-02",
+      "imagem": "m0045",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; dezembro de 1701, dia por confirmar. Filiação muito manchada.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0045-d-03",
+      "imagem": "m0045",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Gabriel; a data parece 18 de janeiro de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0046-e-01",
+      "imagem": "m0046",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "João; fevereiro de 1702, dia por confirmar. Filiação muito manchada.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0046-e-02",
+      "imagem": "m0046",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "António; a data parece 27 de fevereiro de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0046-e-03",
+      "imagem": "m0046",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "José; data e filiação por confirmar; mês aparentemente abril.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0046-e-04",
+      "imagem": "m0046",
+      "lado": "esquerda",
+      "ordem": 4,
+      "estado": "pendente",
+      "leitura_parcial": "Nome marginal abreviado, aparentemente António; nome no corpo, data e filiação por confirmar sob tinta transpassada.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0046-d-01",
+      "imagem": "m0046",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Madalena; a data parece 22 de fevereiro de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0046-d-02",
+      "imagem": "m0046",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; a data parece 1 de março de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0046-d-03",
+      "imagem": "m0046",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Ana; a data parece 12 de abril de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0047-e-01",
+      "imagem": "m0047",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; a data parece 4 de março de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0047-e-02",
+      "imagem": "m0047",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "07/04/1702",
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "Domingos Martins",
+      "mae": "Isabel Gonçalves",
+      "excerto": "«Aos sete dias do mês de abril de mil e setecentos e dois anos batizei [...] a António filho de Domingos Martins e de sua mulher Isabel Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0047-e-03",
+      "imagem": "m0047",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Francisco; abril de 1702, dia por confirmar, aparentemente dezanove. Filiação muito manchada; pai aparentemente António e mãe Luísa, apelidos por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0047-d-01",
+      "imagem": "m0047",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; a data parece 23 de abril de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0047-d-02",
+      "imagem": "m0047",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Francisco; a data parece 10 de maio de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0047-d-03",
+      "imagem": "m0047",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Catarina; a data parece 10 de maio de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0048-e-01",
+      "imagem": "m0048",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 14 de maio de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0048-e-02",
+      "imagem": "m0048",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; a data parece 22 de maio de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0048-e-03",
+      "imagem": "m0048",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; data e filiação por confirmar sob tinta transpassada.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0048-d-01",
+      "imagem": "m0048",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "António; a data parece 15 de junho de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0048-d-02",
+      "imagem": "m0048",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; a data parece 18 de junho de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0048-d-03",
+      "imagem": "m0048",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; data aparentemente 20 de julho de 1702. Mãe Maria Fernandes; nome completo do pai Manuel por confirmar sob a tinta transpassada.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0049-e-01",
+      "imagem": "m0049",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Maria; a data parece 13 de julho de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0049-e-02",
+      "imagem": "m0049",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "João; a data parece 28 de julho de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0049-e-03",
+      "imagem": "m0049",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; a data parece 27 de julho de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0049-d-01",
+      "imagem": "m0049",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "Manuel; a data parece 10 de agosto de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0049-d-02",
+      "imagem": "m0049",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Mateus; a data parece 10 de agosto de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0049-d-03",
+      "imagem": "m0049",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Francisco; a data parece 26 de agosto de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0050-e-01",
+      "imagem": "m0050",
+      "lado": "esquerda",
+      "ordem": 1,
+      "estado": "confirmado",
+      "duvidas": [],
+      "data_batismo": "26/08/1702",
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "António Gonçalves",
+      "mae": "Isabel Fernandes",
+      "excerto": "«Aos vinte e seis dias do mês de agosto de mil e setecentos e dois anos batizei [...] a António filho de António Gonçalves [...] e de sua mulher Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada."
+    },
+    {
+      "id": "S8-B1-m0050-e-02",
+      "imagem": "m0050",
+      "lado": "esquerda",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Francisco; agosto de 1702, dia por confirmar. A fórmula parece dizer que apenas foram dados os santos óleos; distinguir a data desta cerimónia da data de batismo.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura.",
+        "Distinguir a data de aplicação dos santos óleos da data do batismo propriamente dito."
+      ]
+    },
+    {
+      "id": "S8-B1-m0050-e-03",
+      "imagem": "m0050",
+      "lado": "esquerda",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "Isabel; setembro de 1702, dia por confirmar. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0050-d-01",
+      "imagem": "m0050",
+      "lado": "direita",
+      "ordem": 1,
+      "estado": "pendente",
+      "leitura_parcial": "António; a data parece 2 de outubro de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0050-d-02",
+      "imagem": "m0050",
+      "lado": "direita",
+      "ordem": 2,
+      "estado": "pendente",
+      "leitura_parcial": "Francisco; outubro de 1702, dia por confirmar. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    },
+    {
+      "id": "S8-B1-m0050-d-03",
+      "imagem": "m0050",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "pendente",
+      "leitura_parcial": "José; a data parece 17 de outubro de 1702. Filiação por confirmar.",
+      "duvidas": [
+        "Confirmar no original os campos essenciais ainda ilegíveis ou ambíguos, sobretudo a data completa e a filiação; a tinta transpassada e as manchas impedem uma leitura segura."
+      ]
+    }
+  ],
+  "revisto_em": "2026-11-11",
+  "notas_pagina": [
+    {
+      "imagem": "m0011",
+      "lado": "esquerda",
+      "nota": "Entre assentos há uma nota de visitação datada de maio de 1694. Não foi contada como batismo. A continuação do último assento esquerdo surge no topo direito."
+    },
+    {
+      "imagem": "m0017",
+      "lado": "esquerda",
+      "nota": "Há uma nota de visitação junto ao fundo da página, separada dos três assentos iniciados à esquerda. Não foi contada como batismo."
+    },
+    {
+      "imagem": "m0020",
+      "lado": "esquerda",
+      "nota": "O texto no topo é a conclusão de S8-B1-m0019-d-04. Só quatro assentos novos foram contados nesta página."
+    },
+    {
+      "imagem": "m0022",
+      "lado": "direita",
+      "nota": "Nota de visitação entre o segundo e o terceiro assento. Não contada como batismo."
+    },
+    {
+      "imagem": "m0027",
+      "nota": "Nova fotografia das duas páginas de m0026; zero assentos novos. Mantida para apoio de leitura."
+    },
+    {
+      "imagem": "m0029",
+      "lado": "esquerda",
+      "nota": "Nota de visitação acima do primeiro assento de Lúcia; não contada como batismo."
+    },
+    {
+      "imagem": "m0033",
+      "lado": "esquerda",
+      "nota": "O texto no alto da página conclui S8-B1-m0032-d-04 (Francisco); só quatro assentos novos começam nesta página."
+    },
+    {
+      "imagem": "m0034",
+      "lado": "direita",
+      "nota": "Há cinco assentos novos: André, Joana, outra Joana sem nome marginal próprio, Manuel e Antónia. A segunda Joana começa depois da assinatura da primeira, por remissão de data, e refere aplicação dos santos óleos. Não se fundem as duas crianças. Os assentos de Manuel e Antónia são os de ordem 4 e 5."
+    },
+    {
+      "imagem": "m0037",
+      "lado": "direita",
+      "nota": "Nota de visitação entre o primeiro e o segundo assento; não contada como batismo."
+    },
+    {
+      "imagem": "m0041",
+      "lado": "direita",
+      "nota": "O quarto assento declara 6 de agosto de 1701; a sequência seguinte inclui março e abril de 1701. As datas não foram corrigidas nem inferidas pela ordem das fotografias."
+    },
+    {
+      "imagem": "m0042",
+      "lado": "direita",
+      "nota": "Nota de visitação entre o segundo e o terceiro assento; não contada como batismo."
+    },
+    {
+      "imagem": "m0043",
+      "lado": "direita",
+      "nota": "O texto no alto da página conclui S8-B1-m0043-e-04 (Domingos); só três assentos novos começam nesta página."
+    },
+    {
+      "imagem": "m0045",
+      "lado": "esquerda",
+      "nota": "O texto no alto da página conclui S8-B1-m0044-d-04 (Ana), incluindo parte da filiação; só dois assentos novos começam nesta página."
+    },
+    {
+      "imagem": "m0050",
+      "lado": "esquerda",
+      "nota": "O segundo assento (Francisco) parece referir apenas a aplicação dos santos óleos. Ficou pendente, sem converter essa data em data de batismo."
+    }
+  ],
+  "imagens_duplicadas": [
+    {
+      "imagem": "m0027",
+      "repete": "m0026",
+      "motivo": "Comparação visual das duas páginas: mesmos seis assentos, na mesma posição, com iguais nomes, datas, padrinhos, assinaturas e manchas; enquadramento/resolução diferentes.",
+      "assentos_repetidos": [
+        "S8-B1-m0026-e-01",
+        "S8-B1-m0026-e-02",
+        "S8-B1-m0026-e-03",
+        "S8-B1-m0026-d-01",
+        "S8-B1-m0026-d-02",
+        "S8-B1-m0026-d-03"
+      ]
     }
   ]
 }
