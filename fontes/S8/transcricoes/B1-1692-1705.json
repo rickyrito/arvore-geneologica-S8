@@ -4572,7 +4572,8 @@
       "leitura_parcial": "Joana; outubro de 1702, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Manchas cobrem data e filiação; não foi possível confirmar os campos essenciais."
     },
     {
       "id": "S8-B1-m0051-e-02",
@@ -4583,7 +4584,8 @@
       "leitura_parcial": "Tomás; novembro de 1702, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Martins; mãe aparentemente Isabel Lourença. Conferir nomes e numeral do dia sob tinta."
     },
     {
       "id": "S8-B1-m0051-e-03",
@@ -4594,7 +4596,8 @@
       "leitura_parcial": "Nome marginal aparentemente Manuel; data e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: A margem e o corpo parecem admitir João, divergindo da hipótese anterior Manuel. Nome, dia e filiação requerem releitura."
     },
     {
       "id": "S8-B1-m0051-e-04",
@@ -4605,7 +4608,8 @@
       "leitura_parcial": "António; novembro de 1702, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel; apelido e nome materno cobertos. Não completar pelos padrinhos."
     },
     {
       "id": "S8-B1-m0051-d-01",
@@ -4632,7 +4636,8 @@
       "leitura_parcial": "Manuel; novembro de 1702, dia e filiação por confirmar. Conferir a referência a santos óleos e a natureza da cerimónia.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e nove de novembro; fórmula pus os santos óleos. Pai aparentemente Manuel Gonçalves; mãe e data do batismo anterior inseguros."
     },
     {
       "id": "S8-B1-m0051-d-03",
@@ -4643,7 +4648,8 @@
       "leitura_parcial": "Catarina; dezembro de 1702, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Sebastião Fernandes; nome materno e dia sob tinta. Conservar pendente."
     },
     {
       "id": "S8-B1-m0051-d-04",
@@ -4654,7 +4660,8 @@
       "leitura_parcial": "Maria; dezembro de 1702, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel Nunes; mãe com nome sobreposto. Sem confirmação integral."
     },
     {
       "id": "S8-B1-m0052-e-01",
@@ -4681,7 +4688,8 @@
       "leitura_parcial": "Isabel; dezembro de 1702, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e quatro de dezembro; pai aparentemente António Fernandes. Nome materno Maria seguido de palavra insegura; não fixar apelido."
     },
     {
       "id": "S8-B1-m0052-e-03",
@@ -4708,7 +4716,8 @@
       "leitura_parcial": "Maria; janeiro de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Gonçalo, com apelido sob tinta; mãe aparentemente Maria Jorge. Conferir ambos antes de integrar."
     },
     {
       "id": "S8-B1-m0052-d-02",
@@ -4731,11 +4740,18 @@
       "imagem": "m0052",
       "lado": "direita",
       "ordem": 3,
-      "estado": "pendente",
-      "leitura_parcial": "Manuel; data aparentemente 5 de fevereiro de 1703. Pais aparentemente João Nunes e Maria Nunes; conferir a grafia de ambos e a data.",
-      "duvidas": [
-        "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel; data aparentemente 5 de fevereiro de 1703. Pais aparentemente João Nunes e Maria Nunes; conferir a grafia de ambos e a data.",
+      "data_batismo": "05/02/1703",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "João Nunes",
+      "mae": "Maria Nunes",
+      "excerto": "«Aos cinco dias do mes de Fevereiro de mil e sete centos e tres annos baptizei e pus os sanctos oleos a Manoel filho de Joam Nunes e de sua m[ulher] M[ari]a Nunes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota_revisao": "12/11/2026: Nome, data e filiação conferidos na imagem e em recorte ampliado; nascimento não inferido."
     },
     {
       "id": "S8-B1-m0053-e-01",
@@ -4762,7 +4778,8 @@
       "leitura_parcial": "Manuel; março de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos Gonçalves; nome materno parece Catarina Antunes, ainda com tinta sobreposta."
     },
     {
       "id": "S8-B1-m0053-e-03",
@@ -4773,7 +4790,8 @@
       "leitura_parcial": "Manuel; março de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Ampliação: mãe aparentemente Ana Martins; a leitura inicial do nome paterno como Domingos Antunes não ficou segura. Mantidos pendentes o nome completo paterno e a data."
     },
     {
       "id": "S8-B1-m0053-e-04",
@@ -4784,7 +4802,8 @@
       "leitura_parcial": "João; março de 1703, dia e filiação por confirmar. Referência a batismo em casa.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Texto refere santos óleos e batismo anterior em casa por necessidade. Pai aparentemente João; nome materno e data do batismo por conferir."
     },
     {
       "id": "S8-B1-m0053-d-01",
@@ -4795,7 +4814,8 @@
       "leitura_parcial": "Manuel; abril de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; nome materno sob tinta. Não completar filiação com nomes de padrinhos."
     },
     {
       "id": "S8-B1-m0053-d-02",
@@ -4806,7 +4826,8 @@
       "leitura_parcial": "António; abril de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e dois de abril; nomes dos pais parcialmente ocultados. Sem confirmação integral."
     },
     {
       "id": "S8-B1-m0053-d-03",
@@ -4817,7 +4838,8 @@
       "leitura_parcial": "Domingos, pela abreviatura marginal; data e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Domingos pela abreviatura marginal e corpo parcialmente legível; filiação e dia permanecem inseguros."
     },
     {
       "id": "S8-B1-m0053-d-04",
@@ -4828,7 +4850,8 @@
       "leitura_parcial": "Manuel; maio de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Mãe aparentemente Maria Gonçalves; nome paterno e abertura sob manchas. Conservar pendente."
     },
     {
       "id": "S8-B1-m0054-e-01",
@@ -4839,7 +4862,8 @@
       "leitura_parcial": "Maria; maio de 1703, dia e filiação por confirmar. Conferir aplicação de santos óleos e batismo em casa.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Fórmula de santos óleos após batismo em casa por necessidade; mãe aparentemente Joana Baptista. Filiação e data do batismo anterior exigem conferência."
     },
     {
       "id": "S8-B1-m0054-e-02",
@@ -4850,7 +4874,8 @@
       "leitura_parcial": "Maria; maio de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; nome materno Domingas seguido de apelido inseguro. Sem confirmação integral."
     },
     {
       "id": "S8-B1-m0054-e-03",
@@ -4862,7 +4887,8 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura.",
         "Não converter a data da aplicação de santos óleos em data de batismo."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Conferida fórmula de santos óleos depois de batismo em casa. Conservadas hipóteses António Vaz e Isabel Gonçalves; não criada data de batismo."
     },
     {
       "id": "S8-B1-m0054-e-04",
@@ -4873,7 +4899,8 @@
       "leitura_parcial": "António; data por remissão ao assento anterior. A filiação continua no alto da página direita da mesma imagem.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Continuação no topo direito: mãe aparentemente Catarina Franco; texto refere batismo em casa por necessidade. Não duplicar a continuação nem equiparar a remissão à data do batismo anterior."
     },
     {
       "id": "S8-B1-m0054-d-01",
@@ -4884,7 +4911,8 @@
       "leitura_parcial": "Lúcia; julho de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: O nome marginal e o corpo parecem admitir Luísa, divergindo de Lúcia na leitura anterior. Filiação e nome exigem conferência."
     },
     {
       "id": "S8-B1-m0054-d-02",
@@ -4895,7 +4923,8 @@
       "leitura_parcial": "Lourenço; data por remissão ao assento anterior. Filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Lourenço e filiação sob tinta; remissão ao assento anterior ainda não permite data segura."
     },
     {
       "id": "S8-B1-m0054-d-03",
@@ -4906,7 +4935,8 @@
       "leitura_parcial": "Francisco; julho de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Cláusulas extensas de naturalidade e estado matrimonial sob manchas. Não completar nomes por contexto."
     },
     {
       "id": "S8-B1-m0055-e-01",
@@ -4917,7 +4947,8 @@
       "leitura_parcial": "Maria; agosto de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Pires; nome materno ocultado por tinta. Mantida pendência."
     },
     {
       "id": "S8-B1-m0055-e-02",
@@ -4928,7 +4959,8 @@
       "leitura_parcial": "Manuel; data e filiação por confirmar sob tinta transpassada.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Manuel parcialmente legível; dia e filiação sob manchas extensas. Sem confirmação nova."
     },
     {
       "id": "S8-B1-m0055-e-03",
@@ -4939,7 +4971,8 @@
       "leitura_parcial": "José; setembro de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel Campos; nome materno e data inseguros. Não estabelecer identidade com homónimos."
     },
     {
       "id": "S8-B1-m0055-e-04",
@@ -4950,7 +4983,8 @@
       "leitura_parcial": "Isabel; data e filiação muito manchadas.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Margem Isabel; filiação e abertura fortemente manchadas. Mantida leitura parcial."
     },
     {
       "id": "S8-B1-m0055-d-01",
@@ -4961,7 +4995,8 @@
       "leitura_parcial": "Maria; outubro de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; nome materno e apelidos sob manchas. Sem confirmação integral."
     },
     {
       "id": "S8-B1-m0055-d-02",
@@ -4972,7 +5007,8 @@
       "leitura_parcial": "Maria; novembro de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Maria na margem; filiação sob tinta. Conservar pendente."
     },
     {
       "id": "S8-B1-m0055-d-03",
@@ -4983,7 +5019,8 @@
       "leitura_parcial": "Catarina; data e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Catarina na margem; abertura e filiação sobrepostas. Sem confirmação nova."
     },
     {
       "id": "S8-B1-m0055-d-04",
@@ -4994,7 +5031,8 @@
       "leitura_parcial": "Maria; dezembro de 1703, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Bartolomeu; restante filiação sob manchas. Não completar pelos padrinhos."
     },
     {
       "id": "S8-B1-m0056-e-01",
@@ -5005,7 +5043,8 @@
       "leitura_parcial": "António; janeiro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e nove de janeiro de 1704; pai aparentemente António Fernandes e mãe Maria Pires. Tinta nos nomes impede confirmação integral."
     },
     {
       "id": "S8-B1-m0056-e-02",
@@ -5016,7 +5055,8 @@
       "leitura_parcial": "Domingos; data e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; restante filiação e abertura cobertas. Mantida pendência."
     },
     {
       "id": "S8-B1-m0056-e-03",
@@ -5027,7 +5067,8 @@
       "leitura_parcial": "Isabel; janeiro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Fórmula aparentemente de santos óleos; pai Bernardo com apelido inseguro. Não completar data de batismo por remissão."
     },
     {
       "id": "S8-B1-m0056-e-04",
@@ -5038,7 +5079,8 @@
       "leitura_parcial": "Manuel; data e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura e filiação fortemente sobrepostas; nome materno aparentemente Catarina. Sem confirmação nova."
     },
     {
       "id": "S8-B1-m0056-d-01",
@@ -5049,7 +5091,8 @@
       "leitura_parcial": "Manuel; janeiro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e oito de janeiro; mãe aparentemente Maria Nunes. Nome paterno sob tinta."
     },
     {
       "id": "S8-B1-m0056-d-02",
@@ -5060,7 +5103,8 @@
       "leitura_parcial": "Isabel; março de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura aparente cinco de março; pai aparentemente Manuel Fernandes. Nome materno sob tinta."
     },
     {
       "id": "S8-B1-m0056-d-03",
@@ -5071,7 +5115,8 @@
       "leitura_parcial": "Francisco; março de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura aparente doze de março; filiação sobreposta. Não completar pelos padrinhos."
     },
     {
       "id": "S8-B1-m0056-d-04",
@@ -5082,7 +5127,8 @@
       "leitura_parcial": "Manuel; março de 1704, dia e filiação por confirmar. O final está junto ao limite inferior da fotografia; m0057 começa um novo assento de Miguel.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Reconfirmado final junto ao limite inferior da fotografia; m0057 começa Miguel, sem duplicação ou continuação atribuída a esse assento. Filiação de Manuel ainda sob tinta."
     },
     {
       "id": "S8-B1-m0057-e-01",
@@ -5093,7 +5139,8 @@
       "leitura_parcial": "Miguel; março de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura aparente dezanove de março; nomes dos pais sob manchas. Mantida pendência."
     },
     {
       "id": "S8-B1-m0057-e-02",
@@ -5104,7 +5151,8 @@
       "leitura_parcial": "Domingos; abril de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; apelido e nome materno sobrepostos. Sem confirmação integral."
     },
     {
       "id": "S8-B1-m0057-e-03",
@@ -5115,7 +5163,8 @@
       "leitura_parcial": "Ana; maio de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Ampliação: abertura aparente dois de maio de 1704; mãe aparentemente Maria Gonçalves. O apelido paterno continua sobreposto; não se confirmou filiação integral."
     },
     {
       "id": "S8-B1-m0057-e-04",
@@ -5126,7 +5175,8 @@
       "leitura_parcial": "Manuel; maio de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Manuel e filiação sobrepostos na parte inferior da página. Não preencher nomes pela sequência."
     },
     {
       "id": "S8-B1-m0057-d-01",
@@ -5137,7 +5187,8 @@
       "leitura_parcial": "Francisco; junho de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel; restante filiação sob manchas extensas. Sem confirmação nova."
     },
     {
       "id": "S8-B1-m0057-d-02",
@@ -5148,7 +5199,8 @@
       "leitura_parcial": "Maria; junho de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Mãe aparentemente Catarina Gonçalves; nome paterno coberto. Não completar pelos padrinhos."
     },
     {
       "id": "S8-B1-m0057-d-03",
@@ -5175,7 +5227,8 @@
       "leitura_parcial": "Manuel; junho de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura, nome no corpo e filiação sob manchas extensas. Mantida leitura parcial."
     },
     {
       "id": "S8-B1-m0058-e-02",
@@ -5186,7 +5239,8 @@
       "leitura_parcial": "Maria; julho de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António, com apelido inseguro; nome materno sobreposto. Não integrar filiação incompleta."
     },
     {
       "id": "S8-B1-m0058-e-03",
@@ -5213,7 +5267,8 @@
       "leitura_parcial": "Manuel; julho de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Manuel na margem; filiação coberta por tinta. Sem confirmação nova."
     },
     {
       "id": "S8-B1-m0058-d-02",
@@ -5224,7 +5279,8 @@
       "leitura_parcial": "Manuel; agosto de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Texto refere batismo em casa por necessidade e santos óleos; pai aparentemente Domingos Lopes. Mãe e data do batismo anterior por conferir."
     },
     {
       "id": "S8-B1-m0058-d-03",
@@ -5235,7 +5291,8 @@
       "leitura_parcial": "Catarina; agosto de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e seis de agosto; pai aparentemente José Afonso e mãe Inês Martins. Tinta sobre a filiação impede confirmação integral."
     },
     {
       "id": "S8-B1-m0058-d-04",
@@ -5246,7 +5303,8 @@
       "leitura_parcial": "Caetano; agosto de 1704, dia e filiação por confirmar. Conferir batismo em casa e aplicação dos santos óleos.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Fórmula de santos óleos após batismo em casa; pai aparentemente Matias Lopes. Nome materno e data do batismo anterior inseguros."
     },
     {
       "id": "S8-B1-m0059-e-01",
@@ -5257,7 +5315,8 @@
       "leitura_parcial": "Lourenço; agosto de 1704, dia e filiação por confirmar. Conferir aplicação de santos óleos.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Reconfirmada menção de santos óleos e batismo em casa por necessidade. Filiação ainda sob manchas; não criada data de batismo."
     },
     {
       "id": "S8-B1-m0059-e-02",
@@ -5268,7 +5327,8 @@
       "leitura_parcial": "Francisco; agosto de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel Martins; nome materno Maria com apelido ocultado. Sem confirmação integral."
     },
     {
       "id": "S8-B1-m0059-e-03",
@@ -5279,7 +5339,8 @@
       "leitura_parcial": "António; agosto de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Referência marginal a filhos de uma viúva deve ser lida com o corpo completo. Filiação e cláusulas sobrepostas; não se estabeleceram ligações."
     },
     {
       "id": "S8-B1-m0059-d-01",
@@ -5290,7 +5351,8 @@
       "leitura_parcial": "António; setembro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome António na margem; filiação parcialmente sob tinta. Sem confirmação nova."
     },
     {
       "id": "S8-B1-m0059-d-02",
@@ -5301,7 +5363,8 @@
       "leitura_parcial": "Ana; setembro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura aparente cinco de setembro; mãe aparentemente Catarina Martins. Pai e filiação completa por conferir."
     },
     {
       "id": "S8-B1-m0059-d-03",
@@ -5312,7 +5375,8 @@
       "leitura_parcial": "Maria; data por remissão ao assento anterior. Filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Fórmula aparentemente de santos óleos por remissão; nomes dos pais e data do batismo anterior inseguros."
     },
     {
       "id": "S8-B1-m0060-e-01",
@@ -5323,7 +5387,8 @@
       "leitura_parcial": "Domingos; setembro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; mãe aparentemente Maria Fernandes. Tinta sobre nomes e abertura impede confirmação."
     },
     {
       "id": "S8-B1-m0060-e-02",
@@ -5334,7 +5399,8 @@
       "leitura_parcial": "Catarina; outubro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Gonçalves; nome materno sob tinta. Sem confirmação integral."
     },
     {
       "id": "S8-B1-m0060-e-03",
@@ -5345,7 +5411,8 @@
       "leitura_parcial": "Francisco; outubro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Francisco Gonçalves; mãe Inês com apelido inseguro. Conservar pendente."
     },
     {
       "id": "S8-B1-m0060-e-04",
@@ -5373,7 +5440,8 @@
       "leitura_parcial": "Manuel; outubro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: O topo direito continua o assento de António iniciado em m0060 esquerda, sem entrada nova. No assento de Manuel, filiação ainda sobreposta."
     },
     {
       "id": "S8-B1-m0060-d-02",
@@ -5384,7 +5452,8 @@
       "leitura_parcial": "Ana; data e filiação muito manchadas.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Ana na margem; data e nomes dos pais fortemente manchados. Sem confirmação nova."
     },
     {
       "id": "S8-B1-m0060-d-03",
@@ -5395,7 +5464,8 @@
       "leitura_parcial": "Manuel; data e filiação muito manchadas.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Manuel na margem; filiação sob tinta. Não preencher campos essenciais por contexto."
     },
     {
       "id": "S8-B1-m0061-e-01",
@@ -5406,7 +5476,8 @@
       "leitura_parcial": "Maria; novembro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Gonçalves; nome materno sob manchas. Sem confirmação integral."
     },
     {
       "id": "S8-B1-m0061-e-02",
@@ -5417,7 +5488,8 @@
       "leitura_parcial": "Domingos; novembro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel Afonso; mãe aparentemente Isabel Gonçalves. Conferir ambas as leituras sob tinta."
     },
     {
       "id": "S8-B1-m0061-e-03",
@@ -5428,7 +5500,8 @@
       "leitura_parcial": "Ana; novembro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel Rodrigues; nome materno e dia ainda cobertos. Conservar pendente."
     },
     {
       "id": "S8-B1-m0061-e-04",
@@ -5439,7 +5512,8 @@
       "leitura_parcial": "Nome marginal aparentemente Teresa; novembro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: A hipótese Teresa na leitura anterior não é segura; abreviatura marginal e nome no corpo exigem comparação ampliada. Não fixado nome ou sexo."
     },
     {
       "id": "S8-B1-m0061-d-01",
@@ -5450,7 +5524,8 @@
       "leitura_parcial": "Francisco; novembro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura e filiação parcialmente cobertas; existe nota marginal adicional cuja leitura integral permanece por fazer."
     },
     {
       "id": "S8-B1-m0061-d-02",
@@ -5461,7 +5536,8 @@
       "leitura_parcial": "Jorge; novembro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai António com apelido sob mancha; mãe aparentemente Maria Afonso. Sem confirmação integral."
     },
     {
       "id": "S8-B1-m0061-d-03",
@@ -5472,7 +5548,8 @@
       "leitura_parcial": "Manuel; dezembro de 1704, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Manuel e data de dezembro parcialmente legíveis; filiação ainda insegura."
     },
     {
       "id": "S8-B1-m0061-d-04",
@@ -5483,7 +5560,8 @@
       "leitura_parcial": "Ana; agosto, aparentemente 1705, mas ano, dia e filiação exigem conferência sem os inferir pela sequência.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Mês aparentemente agosto; ano escrito parcialmente coberto, sem resolução segura entre as hipóteses. Não foi inferido pela posição entre assentos."
     },
     {
       "id": "S8-B1-m0062-e-01",
@@ -5494,7 +5572,8 @@
       "leitura_parcial": "Maria; fevereiro de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Fórmula de santos óleos e referência a licença; conferir circunstâncias e filiação antes de fixar data de batismo."
     },
     {
       "id": "S8-B1-m0062-e-02",
@@ -5505,7 +5584,8 @@
       "leitura_parcial": "Maria; fevereiro de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Maria; pai aparentemente João Gonçalves e mãe Isabel Nunes. Sobreposição de tinta impede confirmação integral."
     },
     {
       "id": "S8-B1-m0062-e-03",
@@ -5516,7 +5596,8 @@
       "leitura_parcial": "Maria; março de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Abertura e filiação sob manchas; mantida leitura parcial sem preencher os apelidos."
     },
     {
       "id": "S8-B1-m0062-d-01",
@@ -5527,7 +5608,8 @@
       "leitura_parcial": "Nome aparentemente Luísa ou Lúcia; fevereiro de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: A margem e o corpo favorecem Luísa, mas filiação e numeral do dia ainda sob tinta. Não convertida a hipótese em nome confirmado."
     },
     {
       "id": "S8-B1-m0062-d-02",
@@ -5538,7 +5620,8 @@
       "leitura_parcial": "Maria; maio de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Mãe aparentemente Maria Gonçalves; nome paterno e data sob tinta. Conservar pendente."
     },
     {
       "id": "S8-B1-m0062-d-03",
@@ -5549,7 +5632,8 @@
       "leitura_parcial": "António; junho de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome António na margem; filiação coberta em parte. Não completar pelos padrinhos."
     },
     {
       "id": "S8-B1-m0062-d-04",
@@ -5560,7 +5644,8 @@
       "leitura_parcial": "João; junho de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Texto aparentemente regista santos óleos; pai aparentemente João Gonçalves. Data do batismo anterior e nome materno por conferir."
     },
     {
       "id": "S8-B1-m0063-e-01",
@@ -5571,7 +5656,8 @@
       "leitura_parcial": "Nome da criança ainda ambíguo entre Maria e Manuel; data aparentemente 19 de julho de 1705. Pais aparentemente Manuel Lopes e Maria Fernandes; confirmar nome e data no original.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Ampliação: o corpo favorece Manuel, mas a abreviatura marginal parece Maria. Conservada divergência entre corpo e margem, sem fixar nome ou sexo. Pais aparentemente Manuel Lopes e Maria Fernandes; data aparente 19/07/1705."
     },
     {
       "id": "S8-B1-m0063-e-02",
@@ -5582,7 +5668,8 @@
       "leitura_parcial": "Domingos; julho de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Domingos; abertura e filiação sob manchas. Sem confirmação nova."
     },
     {
       "id": "S8-B1-m0063-e-03",
@@ -5593,7 +5680,8 @@
       "leitura_parcial": "Manuel; julho de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Pires; nome materno sob manchas. Não completar pelos padrinhos."
     },
     {
       "id": "S8-B1-m0063-e-04",
@@ -5604,7 +5692,8 @@
       "leitura_parcial": "Isabel; julho de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Fórmula aparentemente de santos óleos; mãe Maria com apelido inseguro. Não equiparar data da cerimónia a data de batismo anterior."
     },
     {
       "id": "S8-B1-m0063-d-01",
@@ -5615,7 +5704,8 @@
       "leitura_parcial": "Ana; junho de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Ana na margem e no corpo parcialmente legível; filiação ainda coberta. Sem confirmação nova."
     },
     {
       "id": "S8-B1-m0063-d-02",
@@ -5626,7 +5716,8 @@
       "leitura_parcial": "Maria; julho de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Maria; filiação sob tinta transpassada extensa. Mantida pendência."
     },
     {
       "id": "S8-B1-m0063-d-03",
@@ -5637,7 +5728,8 @@
       "leitura_parcial": "Domingos; julho de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Pires; nome materno e cláusulas de naturalidade cobertos. Sem confirmação integral."
     },
     {
       "id": "S8-B1-m0064-e-01",
@@ -5648,7 +5740,8 @@
       "leitura_parcial": "Domingos; julho de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome Domingos; abertura e filiação sob manchas extensas. Sem confirmação nova."
     },
     {
       "id": "S8-B1-m0064-e-02",
@@ -5659,7 +5752,8 @@
       "leitura_parcial": "António; data aparentemente 20 de julho de 1705. Filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome António na margem; filiação sob tinta transpassada. Não fixar nomes por contexto."
     },
     {
       "id": "S8-B1-m0064-e-03",
@@ -5670,7 +5764,8 @@
       "leitura_parcial": "José; agosto de 1705, dia e filiação por confirmar.",
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ]
+      ],
+      "nota_revisao": "12/11/2026: Nome José pela abreviatura marginal; dia e filiação ainda inseguros. Último assento da secção de batismos, sem transcrever os óbitos da página direita nesta revisão."
     },
     {
       "id": "S8-B1-m0064-d-01",
@@ -13173,6 +13268,220 @@
       "notas_imagem": {
         "m0027": "Conferidos ambos os lados: segunda fotografia das páginas de m0026, com enquadramento diferente e os mesmos três assentos em cada lado; não acrescenta registos."
       }
+    },
+    {
+      "data": "2026-11-12",
+      "imagens": [
+        "m0051",
+        "m0052",
+        "m0053",
+        "m0054",
+        "m0055",
+        "m0056",
+        "m0057",
+        "m0058",
+        "m0059",
+        "m0060",
+        "m0061",
+        "m0062",
+        "m0063",
+        "m0064"
+      ],
+      "limite": "m0064 esquerda; a página direita de óbitos não foi revista neste lote",
+      "metodo": "Segunda leitura visual de m0051–m0063 em ambos os lados e m0064 apenas à esquerda, com recortes ampliados de quatro entradas, sem OCR. Um batismo passa a confirmado; mantidas as leituras anteriores e as dúvidas das entradas pendentes. A revisão chega ao fim da secção de batismos; não é transcrição diplomática integral nem resolução de todas as pendências.",
+      "assentos_revistos": [
+        "S8-B1-m0051-e-01",
+        "S8-B1-m0051-e-02",
+        "S8-B1-m0051-e-03",
+        "S8-B1-m0051-e-04",
+        "S8-B1-m0051-d-01",
+        "S8-B1-m0051-d-02",
+        "S8-B1-m0051-d-03",
+        "S8-B1-m0051-d-04",
+        "S8-B1-m0052-e-01",
+        "S8-B1-m0052-e-02",
+        "S8-B1-m0052-e-03",
+        "S8-B1-m0052-d-01",
+        "S8-B1-m0052-d-02",
+        "S8-B1-m0052-d-03",
+        "S8-B1-m0053-e-01",
+        "S8-B1-m0053-e-02",
+        "S8-B1-m0053-e-03",
+        "S8-B1-m0053-e-04",
+        "S8-B1-m0053-d-01",
+        "S8-B1-m0053-d-02",
+        "S8-B1-m0053-d-03",
+        "S8-B1-m0053-d-04",
+        "S8-B1-m0054-e-01",
+        "S8-B1-m0054-e-02",
+        "S8-B1-m0054-e-03",
+        "S8-B1-m0054-e-04",
+        "S8-B1-m0054-d-01",
+        "S8-B1-m0054-d-02",
+        "S8-B1-m0054-d-03",
+        "S8-B1-m0055-e-01",
+        "S8-B1-m0055-e-02",
+        "S8-B1-m0055-e-03",
+        "S8-B1-m0055-e-04",
+        "S8-B1-m0055-d-01",
+        "S8-B1-m0055-d-02",
+        "S8-B1-m0055-d-03",
+        "S8-B1-m0055-d-04",
+        "S8-B1-m0056-e-01",
+        "S8-B1-m0056-e-02",
+        "S8-B1-m0056-e-03",
+        "S8-B1-m0056-e-04",
+        "S8-B1-m0056-d-01",
+        "S8-B1-m0056-d-02",
+        "S8-B1-m0056-d-03",
+        "S8-B1-m0056-d-04",
+        "S8-B1-m0057-e-01",
+        "S8-B1-m0057-e-02",
+        "S8-B1-m0057-e-03",
+        "S8-B1-m0057-e-04",
+        "S8-B1-m0057-d-01",
+        "S8-B1-m0057-d-02",
+        "S8-B1-m0057-d-03",
+        "S8-B1-m0058-e-01",
+        "S8-B1-m0058-e-02",
+        "S8-B1-m0058-e-03",
+        "S8-B1-m0058-d-01",
+        "S8-B1-m0058-d-02",
+        "S8-B1-m0058-d-03",
+        "S8-B1-m0058-d-04",
+        "S8-B1-m0059-e-01",
+        "S8-B1-m0059-e-02",
+        "S8-B1-m0059-e-03",
+        "S8-B1-m0059-d-01",
+        "S8-B1-m0059-d-02",
+        "S8-B1-m0059-d-03",
+        "S8-B1-m0060-e-01",
+        "S8-B1-m0060-e-02",
+        "S8-B1-m0060-e-03",
+        "S8-B1-m0060-e-04",
+        "S8-B1-m0060-d-01",
+        "S8-B1-m0060-d-02",
+        "S8-B1-m0060-d-03",
+        "S8-B1-m0061-e-01",
+        "S8-B1-m0061-e-02",
+        "S8-B1-m0061-e-03",
+        "S8-B1-m0061-e-04",
+        "S8-B1-m0061-d-01",
+        "S8-B1-m0061-d-02",
+        "S8-B1-m0061-d-03",
+        "S8-B1-m0061-d-04",
+        "S8-B1-m0062-e-01",
+        "S8-B1-m0062-e-02",
+        "S8-B1-m0062-e-03",
+        "S8-B1-m0062-d-01",
+        "S8-B1-m0062-d-02",
+        "S8-B1-m0062-d-03",
+        "S8-B1-m0062-d-04",
+        "S8-B1-m0063-e-01",
+        "S8-B1-m0063-e-02",
+        "S8-B1-m0063-e-03",
+        "S8-B1-m0063-e-04",
+        "S8-B1-m0063-d-01",
+        "S8-B1-m0063-d-02",
+        "S8-B1-m0063-d-03",
+        "S8-B1-m0064-e-01",
+        "S8-B1-m0064-e-02",
+        "S8-B1-m0064-e-03"
+      ],
+      "assentos_alterados": [
+        "S8-B1-m0051-e-01",
+        "S8-B1-m0051-e-02",
+        "S8-B1-m0051-e-03",
+        "S8-B1-m0051-e-04",
+        "S8-B1-m0051-d-02",
+        "S8-B1-m0051-d-03",
+        "S8-B1-m0051-d-04",
+        "S8-B1-m0052-e-02",
+        "S8-B1-m0052-d-01",
+        "S8-B1-m0052-d-03",
+        "S8-B1-m0053-e-02",
+        "S8-B1-m0053-e-03",
+        "S8-B1-m0053-e-04",
+        "S8-B1-m0053-d-01",
+        "S8-B1-m0053-d-02",
+        "S8-B1-m0053-d-03",
+        "S8-B1-m0053-d-04",
+        "S8-B1-m0054-e-01",
+        "S8-B1-m0054-e-02",
+        "S8-B1-m0054-e-03",
+        "S8-B1-m0054-e-04",
+        "S8-B1-m0054-d-01",
+        "S8-B1-m0054-d-02",
+        "S8-B1-m0054-d-03",
+        "S8-B1-m0055-e-01",
+        "S8-B1-m0055-e-02",
+        "S8-B1-m0055-e-03",
+        "S8-B1-m0055-e-04",
+        "S8-B1-m0055-d-01",
+        "S8-B1-m0055-d-02",
+        "S8-B1-m0055-d-03",
+        "S8-B1-m0055-d-04",
+        "S8-B1-m0056-e-01",
+        "S8-B1-m0056-e-02",
+        "S8-B1-m0056-e-03",
+        "S8-B1-m0056-e-04",
+        "S8-B1-m0056-d-01",
+        "S8-B1-m0056-d-02",
+        "S8-B1-m0056-d-03",
+        "S8-B1-m0056-d-04",
+        "S8-B1-m0057-e-01",
+        "S8-B1-m0057-e-02",
+        "S8-B1-m0057-e-03",
+        "S8-B1-m0057-e-04",
+        "S8-B1-m0057-d-01",
+        "S8-B1-m0057-d-02",
+        "S8-B1-m0058-e-01",
+        "S8-B1-m0058-e-02",
+        "S8-B1-m0058-d-01",
+        "S8-B1-m0058-d-02",
+        "S8-B1-m0058-d-03",
+        "S8-B1-m0058-d-04",
+        "S8-B1-m0059-e-01",
+        "S8-B1-m0059-e-02",
+        "S8-B1-m0059-e-03",
+        "S8-B1-m0059-d-01",
+        "S8-B1-m0059-d-02",
+        "S8-B1-m0059-d-03",
+        "S8-B1-m0060-e-01",
+        "S8-B1-m0060-e-02",
+        "S8-B1-m0060-e-03",
+        "S8-B1-m0060-d-01",
+        "S8-B1-m0060-d-02",
+        "S8-B1-m0060-d-03",
+        "S8-B1-m0061-e-01",
+        "S8-B1-m0061-e-02",
+        "S8-B1-m0061-e-03",
+        "S8-B1-m0061-e-04",
+        "S8-B1-m0061-d-01",
+        "S8-B1-m0061-d-02",
+        "S8-B1-m0061-d-03",
+        "S8-B1-m0061-d-04",
+        "S8-B1-m0062-e-01",
+        "S8-B1-m0062-e-02",
+        "S8-B1-m0062-e-03",
+        "S8-B1-m0062-d-01",
+        "S8-B1-m0062-d-02",
+        "S8-B1-m0062-d-03",
+        "S8-B1-m0062-d-04",
+        "S8-B1-m0063-e-01",
+        "S8-B1-m0063-e-02",
+        "S8-B1-m0063-e-03",
+        "S8-B1-m0063-e-04",
+        "S8-B1-m0063-d-01",
+        "S8-B1-m0063-d-02",
+        "S8-B1-m0063-d-03",
+        "S8-B1-m0064-e-01",
+        "S8-B1-m0064-e-02",
+        "S8-B1-m0064-e-03"
+      ],
+      "novos_confirmados": [
+        "S8-B1-m0052-d-03"
+      ]
     }
   ]
 }

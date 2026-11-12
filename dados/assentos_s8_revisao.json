@@ -1,10 +1,10 @@
 {
-  "confirmados": 127,
-  "pendentes": 838,
+  "confirmados": 128,
+  "pendentes": 837,
   "por_tipo": {
     "batismo": {
-      "confirmados": 109,
-      "pendentes": 315
+      "confirmados": 110,
+      "pendentes": 314
     },
     "obito": {
       "confirmados": 11,
@@ -15,8 +15,8 @@
       "pendentes": 86
     }
   },
-  "novas_pessoas": 352,
-  "novos_nucleos": 116,
+  "novas_pessoas": 355,
+  "novos_nucleos": 117,
   "aplicados": [
     {
       "id": "S8-B1-m0004-e-03",
@@ -2171,6 +2171,28 @@
       "familia": 104
     },
     {
+      "id": "S8-B1-m0052-d-03",
+      "imagem": "m0052",
+      "lado": "direita",
+      "ordem": 3,
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel; data aparentemente 5 de fevereiro de 1703. Pais aparentemente João Nunes e Maria Nunes; conferir a grafia de ambos e a data.",
+      "data_batismo": "05/02/1703",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "João Nunes",
+      "mae": "Maria Nunes",
+      "excerto": "«Aos cinco dias do mes de Fevereiro de mil e sete centos e tres annos baptizei e pus os sanctos oleos a Manoel filho de Joam Nunes e de sua m[ulher] M[ari]a Nunes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
+      "nota_revisao": "12/11/2026: Nome, data e filiação conferidos na imagem e em recorte ampliado; nascimento não inferido.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B1",
+      "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0052.jpg",
+      "pessoa": 315,
+      "familia": 105
+    },
+    {
       "id": "S8-B1-m0053-e-01",
       "imagem": "m0053",
       "lado": "esquerda",
@@ -2187,8 +2209,8 @@
       "excerto": "«Aos dezanove dias do mês de fevereiro de mil e setecentos e três anos batizei [...] a Ana filha de Sebastião Afonso e de sua mulher Isabel Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0053.jpg",
-      "pessoa": 315,
-      "familia": 105
+      "pessoa": 318,
+      "familia": 106
     },
     {
       "id": "S8-B1-m0057-d-03",
@@ -2207,8 +2229,8 @@
       "excerto": "«Aos dezanove dias do mês de junho de mil e setecentos e quatro anos batizei [...] a Diogo filho de José Fernandes e de sua mulher Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0057.jpg",
-      "pessoa": 318,
-      "familia": 106
+      "pessoa": 321,
+      "familia": 107
     },
     {
       "id": "S8-B1-m0058-e-03",
@@ -2227,8 +2249,8 @@
       "excerto": "«Aos vinte dias do mês de julho de mil e setecentos e quatro anos batizei [...] a João filho de Francisco Fernandes [...] e de sua mulher Isabel Antunes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0058.jpg",
-      "pessoa": 321,
-      "familia": 107
+      "pessoa": 324,
+      "familia": 108
     },
     {
       "id": "S8-B1-m0060-e-04",
@@ -2248,8 +2270,8 @@
       "nota": "O assento continua no alto da página direita da mesma imagem; foi contado uma única vez.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0060.jpg",
-      "pessoa": 324,
-      "familia": 108
+      "pessoa": 327,
+      "familia": 109
     },
     {
       "id": "S8-B1-m0070-e-03",
@@ -2267,7 +2289,7 @@
       "data_obito": "25/01/1695",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0070.jpg",
-      "pessoa": 327,
+      "pessoa": 330,
       "familia": -1
     },
     {
@@ -2286,7 +2308,7 @@
       "data_obito": "14/02/1695",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0070.jpg",
-      "pessoa": 328,
+      "pessoa": 331,
       "familia": -1
     },
     {
@@ -2305,7 +2327,7 @@
       "data_obito": "25/04/1697",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0076.jpg",
-      "pessoa": 329,
+      "pessoa": 332,
       "familia": -1
     },
     {
@@ -2324,7 +2346,7 @@
       "data_obito": "26/08/1697",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0077.jpg",
-      "pessoa": 330,
+      "pessoa": 333,
       "familia": -1
     },
     {
@@ -2343,7 +2365,7 @@
       "data_obito": "29/09/1697",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0078.jpg",
-      "pessoa": 331,
+      "pessoa": 334,
       "familia": -1
     },
     {
@@ -2362,7 +2384,7 @@
       "data_obito": "13/10/1697",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0078.jpg",
-      "pessoa": 332,
+      "pessoa": 335,
       "familia": -1
     },
     {
@@ -2381,7 +2403,7 @@
       "data_obito": "22/10/1697",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0079.jpg",
-      "pessoa": 333,
+      "pessoa": 336,
       "familia": -1
     },
     {
@@ -2400,7 +2422,7 @@
       "data_obito": "24/10/1697",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0079.jpg",
-      "pessoa": 334,
+      "pessoa": 337,
       "familia": -1
     },
     {
@@ -2419,7 +2441,7 @@
       "data_obito": "15/07/1698",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0083.jpg",
-      "pessoa": 335,
+      "pessoa": 338,
       "familia": -1
     },
     {
@@ -2438,7 +2460,7 @@
       "data_obito": "16/02/1698",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0084.jpg",
-      "pessoa": 336,
+      "pessoa": 339,
       "familia": -1
     },
     {
@@ -2457,7 +2479,7 @@
       "data_obito": "11/03/1699",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0085.jpg",
-      "pessoa": 337,
+      "pessoa": 340,
       "familia": -1
     },
     {
@@ -2475,8 +2497,8 @@
       "nota": "Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0116.jpg",
-      "pessoa": 338,
-      "familia": 109
+      "pessoa": 341,
+      "familia": 110
     },
     {
       "id": "S8-B1-m0116-d-02",
@@ -2493,8 +2515,8 @@
       "nota": "Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0116.jpg",
-      "pessoa": 340,
-      "familia": 110
+      "pessoa": 343,
+      "familia": 111
     },
     {
       "id": "S8-B1-m0118-d-01",
@@ -2511,8 +2533,8 @@
       "nota": "Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0118.jpg",
-      "pessoa": 342,
-      "familia": 111
+      "pessoa": 345,
+      "familia": 112
     },
     {
       "id": "S8-B1-m0119-e-01",
@@ -2529,8 +2551,8 @@
       "nota": "Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg",
-      "pessoa": 344,
-      "familia": 112
+      "pessoa": 347,
+      "familia": 113
     },
     {
       "id": "S8-B1-m0119-e-02",
@@ -2547,8 +2569,8 @@
       "nota": "Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg",
-      "pessoa": 346,
-      "familia": 113
+      "pessoa": 349,
+      "familia": 114
     },
     {
       "id": "S8-B1-m0119-e-03",
@@ -2565,8 +2587,8 @@
       "nota": "Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg",
-      "pessoa": 348,
-      "familia": 114
+      "pessoa": 351,
+      "familia": 115
     },
     {
       "id": "S8-B1-m0120-e-03",
@@ -2583,8 +2605,8 @@
       "nota": "Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0120.jpg",
-      "pessoa": 350,
-      "familia": 115
+      "pessoa": 353,
+      "familia": 116
     }
   ],
   "por_rever": [
@@ -5798,6 +5820,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Manchas cobrem data e filiação; não foi possível confirmar os campos essenciais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0051.jpg"
     },
@@ -5811,6 +5834,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Martins; mãe aparentemente Isabel Lourença. Conferir nomes e numeral do dia sob tinta.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0051.jpg"
     },
@@ -5824,6 +5848,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: A margem e o corpo parecem admitir João, divergindo da hipótese anterior Manuel. Nome, dia e filiação requerem releitura.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0051.jpg"
     },
@@ -5837,6 +5862,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel; apelido e nome materno cobertos. Não completar pelos padrinhos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0051.jpg"
     },
@@ -5850,6 +5876,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e nove de novembro; fórmula pus os santos óleos. Pai aparentemente Manuel Gonçalves; mãe e data do batismo anterior inseguros.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0051.jpg"
     },
@@ -5863,6 +5890,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Sebastião Fernandes; nome materno e dia sob tinta. Conservar pendente.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0051.jpg"
     },
@@ -5876,6 +5904,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel Nunes; mãe com nome sobreposto. Sem confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0051.jpg"
     },
@@ -5889,6 +5918,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e quatro de dezembro; pai aparentemente António Fernandes. Nome materno Maria seguido de palavra insegura; não fixar apelido.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0052.jpg"
     },
@@ -5902,19 +5932,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B1",
-      "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0052.jpg"
-    },
-    {
-      "id": "S8-B1-m0052-d-03",
-      "imagem": "m0052",
-      "lado": "direita",
-      "ordem": 3,
-      "estado": "pendente",
-      "leitura_parcial": "Manuel; data aparentemente 5 de fevereiro de 1703. Pais aparentemente João Nunes e Maria Nunes; conferir a grafia de ambos e a data.",
-      "duvidas": [
-        "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
-      ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Gonçalo, com apelido sob tinta; mãe aparentemente Maria Jorge. Conferir ambos antes de integrar.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0052.jpg"
     },
@@ -5928,6 +5946,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos Gonçalves; nome materno parece Catarina Antunes, ainda com tinta sobreposta.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0053.jpg"
     },
@@ -5941,6 +5960,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Ampliação: mãe aparentemente Ana Martins; a leitura inicial do nome paterno como Domingos Antunes não ficou segura. Mantidos pendentes o nome completo paterno e a data.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0053.jpg"
     },
@@ -5954,6 +5974,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Texto refere santos óleos e batismo anterior em casa por necessidade. Pai aparentemente João; nome materno e data do batismo por conferir.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0053.jpg"
     },
@@ -5967,6 +5988,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; nome materno sob tinta. Não completar filiação com nomes de padrinhos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0053.jpg"
     },
@@ -5980,6 +6002,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e dois de abril; nomes dos pais parcialmente ocultados. Sem confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0053.jpg"
     },
@@ -5993,6 +6016,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Domingos pela abreviatura marginal e corpo parcialmente legível; filiação e dia permanecem inseguros.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0053.jpg"
     },
@@ -6006,6 +6030,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Mãe aparentemente Maria Gonçalves; nome paterno e abertura sob manchas. Conservar pendente.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0053.jpg"
     },
@@ -6019,6 +6044,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Fórmula de santos óleos após batismo em casa por necessidade; mãe aparentemente Joana Baptista. Filiação e data do batismo anterior exigem conferência.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0054.jpg"
     },
@@ -6032,6 +6058,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; nome materno Domingas seguido de apelido inseguro. Sem confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0054.jpg"
     },
@@ -6046,6 +6073,7 @@
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura.",
         "Não converter a data da aplicação de santos óleos em data de batismo."
       ],
+      "nota_revisao": "12/11/2026: Conferida fórmula de santos óleos depois de batismo em casa. Conservadas hipóteses António Vaz e Isabel Gonçalves; não criada data de batismo.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0054.jpg"
     },
@@ -6059,6 +6087,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Continuação no topo direito: mãe aparentemente Catarina Franco; texto refere batismo em casa por necessidade. Não duplicar a continuação nem equiparar a remissão à data do batismo anterior.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0054.jpg"
     },
@@ -6072,6 +6101,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: O nome marginal e o corpo parecem admitir Luísa, divergindo de Lúcia na leitura anterior. Filiação e nome exigem conferência.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0054.jpg"
     },
@@ -6085,6 +6115,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Lourenço e filiação sob tinta; remissão ao assento anterior ainda não permite data segura.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0054.jpg"
     },
@@ -6098,6 +6129,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Cláusulas extensas de naturalidade e estado matrimonial sob manchas. Não completar nomes por contexto.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0054.jpg"
     },
@@ -6111,6 +6143,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Pires; nome materno ocultado por tinta. Mantida pendência.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0055.jpg"
     },
@@ -6124,6 +6157,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Manuel parcialmente legível; dia e filiação sob manchas extensas. Sem confirmação nova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0055.jpg"
     },
@@ -6137,6 +6171,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel Campos; nome materno e data inseguros. Não estabelecer identidade com homónimos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0055.jpg"
     },
@@ -6150,6 +6185,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Margem Isabel; filiação e abertura fortemente manchadas. Mantida leitura parcial.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0055.jpg"
     },
@@ -6163,6 +6199,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; nome materno e apelidos sob manchas. Sem confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0055.jpg"
     },
@@ -6176,6 +6213,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Maria na margem; filiação sob tinta. Conservar pendente.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0055.jpg"
     },
@@ -6189,6 +6227,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Catarina na margem; abertura e filiação sobrepostas. Sem confirmação nova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0055.jpg"
     },
@@ -6202,6 +6241,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Bartolomeu; restante filiação sob manchas. Não completar pelos padrinhos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0055.jpg"
     },
@@ -6215,6 +6255,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e nove de janeiro de 1704; pai aparentemente António Fernandes e mãe Maria Pires. Tinta nos nomes impede confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0056.jpg"
     },
@@ -6228,6 +6269,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; restante filiação e abertura cobertas. Mantida pendência.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0056.jpg"
     },
@@ -6241,6 +6283,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Fórmula aparentemente de santos óleos; pai Bernardo com apelido inseguro. Não completar data de batismo por remissão.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0056.jpg"
     },
@@ -6254,6 +6297,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura e filiação fortemente sobrepostas; nome materno aparentemente Catarina. Sem confirmação nova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0056.jpg"
     },
@@ -6267,6 +6311,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e oito de janeiro; mãe aparentemente Maria Nunes. Nome paterno sob tinta.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0056.jpg"
     },
@@ -6280,6 +6325,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura aparente cinco de março; pai aparentemente Manuel Fernandes. Nome materno sob tinta.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0056.jpg"
     },
@@ -6293,6 +6339,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura aparente doze de março; filiação sobreposta. Não completar pelos padrinhos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0056.jpg"
     },
@@ -6306,6 +6353,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Reconfirmado final junto ao limite inferior da fotografia; m0057 começa Miguel, sem duplicação ou continuação atribuída a esse assento. Filiação de Manuel ainda sob tinta.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0056.jpg"
     },
@@ -6319,6 +6367,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura aparente dezanove de março; nomes dos pais sob manchas. Mantida pendência.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0057.jpg"
     },
@@ -6332,6 +6381,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; apelido e nome materno sobrepostos. Sem confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0057.jpg"
     },
@@ -6345,6 +6395,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Ampliação: abertura aparente dois de maio de 1704; mãe aparentemente Maria Gonçalves. O apelido paterno continua sobreposto; não se confirmou filiação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0057.jpg"
     },
@@ -6358,6 +6409,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Manuel e filiação sobrepostos na parte inferior da página. Não preencher nomes pela sequência.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0057.jpg"
     },
@@ -6371,6 +6423,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel; restante filiação sob manchas extensas. Sem confirmação nova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0057.jpg"
     },
@@ -6384,6 +6437,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Mãe aparentemente Catarina Gonçalves; nome paterno coberto. Não completar pelos padrinhos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0057.jpg"
     },
@@ -6397,6 +6451,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura, nome no corpo e filiação sob manchas extensas. Mantida leitura parcial.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0058.jpg"
     },
@@ -6410,6 +6465,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António, com apelido inseguro; nome materno sobreposto. Não integrar filiação incompleta.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0058.jpg"
     },
@@ -6423,6 +6479,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Manuel na margem; filiação coberta por tinta. Sem confirmação nova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0058.jpg"
     },
@@ -6436,6 +6493,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Texto refere batismo em casa por necessidade e santos óleos; pai aparentemente Domingos Lopes. Mãe e data do batismo anterior por conferir.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0058.jpg"
     },
@@ -6449,6 +6507,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura aparente vinte e seis de agosto; pai aparentemente José Afonso e mãe Inês Martins. Tinta sobre a filiação impede confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0058.jpg"
     },
@@ -6462,6 +6521,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Fórmula de santos óleos após batismo em casa; pai aparentemente Matias Lopes. Nome materno e data do batismo anterior inseguros.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0058.jpg"
     },
@@ -6475,6 +6535,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Reconfirmada menção de santos óleos e batismo em casa por necessidade. Filiação ainda sob manchas; não criada data de batismo.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0059.jpg"
     },
@@ -6488,6 +6549,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel Martins; nome materno Maria com apelido ocultado. Sem confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0059.jpg"
     },
@@ -6501,6 +6563,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Referência marginal a filhos de uma viúva deve ser lida com o corpo completo. Filiação e cláusulas sobrepostas; não se estabeleceram ligações.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0059.jpg"
     },
@@ -6514,6 +6577,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome António na margem; filiação parcialmente sob tinta. Sem confirmação nova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0059.jpg"
     },
@@ -6527,6 +6591,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura aparente cinco de setembro; mãe aparentemente Catarina Martins. Pai e filiação completa por conferir.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0059.jpg"
     },
@@ -6540,6 +6605,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Fórmula aparentemente de santos óleos por remissão; nomes dos pais e data do batismo anterior inseguros.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0059.jpg"
     },
@@ -6553,6 +6619,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Domingos; mãe aparentemente Maria Fernandes. Tinta sobre nomes e abertura impede confirmação.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0060.jpg"
     },
@@ -6566,6 +6633,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Gonçalves; nome materno sob tinta. Sem confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0060.jpg"
     },
@@ -6579,6 +6647,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Francisco Gonçalves; mãe Inês com apelido inseguro. Conservar pendente.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0060.jpg"
     },
@@ -6592,6 +6661,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: O topo direito continua o assento de António iniciado em m0060 esquerda, sem entrada nova. No assento de Manuel, filiação ainda sobreposta.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0060.jpg"
     },
@@ -6605,6 +6675,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Ana na margem; data e nomes dos pais fortemente manchados. Sem confirmação nova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0060.jpg"
     },
@@ -6618,6 +6689,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Manuel na margem; filiação sob tinta. Não preencher campos essenciais por contexto.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0060.jpg"
     },
@@ -6631,6 +6703,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Gonçalves; nome materno sob manchas. Sem confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0061.jpg"
     },
@@ -6644,6 +6717,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel Afonso; mãe aparentemente Isabel Gonçalves. Conferir ambas as leituras sob tinta.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0061.jpg"
     },
@@ -6657,6 +6731,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente Manuel Rodrigues; nome materno e dia ainda cobertos. Conservar pendente.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0061.jpg"
     },
@@ -6670,6 +6745,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: A hipótese Teresa na leitura anterior não é segura; abreviatura marginal e nome no corpo exigem comparação ampliada. Não fixado nome ou sexo.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0061.jpg"
     },
@@ -6683,6 +6759,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura e filiação parcialmente cobertas; existe nota marginal adicional cuja leitura integral permanece por fazer.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0061.jpg"
     },
@@ -6696,6 +6773,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai António com apelido sob mancha; mãe aparentemente Maria Afonso. Sem confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0061.jpg"
     },
@@ -6709,6 +6787,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Manuel e data de dezembro parcialmente legíveis; filiação ainda insegura.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0061.jpg"
     },
@@ -6722,6 +6801,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Mês aparentemente agosto; ano escrito parcialmente coberto, sem resolução segura entre as hipóteses. Não foi inferido pela posição entre assentos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0061.jpg"
     },
@@ -6735,6 +6815,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Fórmula de santos óleos e referência a licença; conferir circunstâncias e filiação antes de fixar data de batismo.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0062.jpg"
     },
@@ -6748,6 +6829,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Maria; pai aparentemente João Gonçalves e mãe Isabel Nunes. Sobreposição de tinta impede confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0062.jpg"
     },
@@ -6761,6 +6843,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Abertura e filiação sob manchas; mantida leitura parcial sem preencher os apelidos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0062.jpg"
     },
@@ -6774,6 +6857,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: A margem e o corpo favorecem Luísa, mas filiação e numeral do dia ainda sob tinta. Não convertida a hipótese em nome confirmado.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0062.jpg"
     },
@@ -6787,6 +6871,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Mãe aparentemente Maria Gonçalves; nome paterno e data sob tinta. Conservar pendente.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0062.jpg"
     },
@@ -6800,6 +6885,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome António na margem; filiação coberta em parte. Não completar pelos padrinhos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0062.jpg"
     },
@@ -6813,6 +6899,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Texto aparentemente regista santos óleos; pai aparentemente João Gonçalves. Data do batismo anterior e nome materno por conferir.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0062.jpg"
     },
@@ -6826,6 +6913,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Ampliação: o corpo favorece Manuel, mas a abreviatura marginal parece Maria. Conservada divergência entre corpo e margem, sem fixar nome ou sexo. Pais aparentemente Manuel Lopes e Maria Fernandes; data aparente 19/07/1705.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0063.jpg"
     },
@@ -6839,6 +6927,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Domingos; abertura e filiação sob manchas. Sem confirmação nova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0063.jpg"
     },
@@ -6852,6 +6941,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Pires; nome materno sob manchas. Não completar pelos padrinhos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0063.jpg"
     },
@@ -6865,6 +6955,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Fórmula aparentemente de santos óleos; mãe Maria com apelido inseguro. Não equiparar data da cerimónia a data de batismo anterior.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0063.jpg"
     },
@@ -6878,6 +6969,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Ana na margem e no corpo parcialmente legível; filiação ainda coberta. Sem confirmação nova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0063.jpg"
     },
@@ -6891,6 +6983,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Maria; filiação sob tinta transpassada extensa. Mantida pendência.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0063.jpg"
     },
@@ -6904,6 +6997,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Pai aparentemente António Pires; nome materno e cláusulas de naturalidade cobertos. Sem confirmação integral.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0063.jpg"
     },
@@ -6917,6 +7011,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome Domingos; abertura e filiação sob manchas extensas. Sem confirmação nova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0064.jpg"
     },
@@ -6930,6 +7025,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome António na margem; filiação sob tinta transpassada. Não fixar nomes por contexto.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0064.jpg"
     },
@@ -6943,6 +7039,7 @@
       "duvidas": [
         "Confirmar os campos essenciais ainda ambíguos ou ilegíveis no original; as manchas e a tinta transpassada impedem a integração segura."
       ],
+      "nota_revisao": "12/11/2026: Nome José pela abreviatura marginal; dia e filiação ainda inseguros. Último assento da secção de batismos, sem transcrever os óbitos da página direita nesta revisão.",
       "livro": "PT/TT/PRQ/PSBG34/001/B1",
       "ficheiro_imagem": "fontes\\S8\\RegistosDeNascimentos\\PT-TT-PRQ-PSBG34-001-B1\\PT-ADLSB-PRQ-PSBG34-001-B1_m0064.jpg"
     },
