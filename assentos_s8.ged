@@ -2536,42 +2536,42 @@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I331@ INDI
-1 NAME Miguel Dias /Duro/
-1 SEX M
+1 NAME Catarina /Gonçalves/
+1 SEX F
 1 DEAT
-2 DATE 25 JAN 1695
+2 DATE 19 MAR 1693
 1 SOUR @S111@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I332@ INDI
-1 NAME Baltasar /Soleiro/
-1 SEX M
+1 NAME Catarina /Vaz/
+1 SEX F
 1 DEAT
-2 DATE 14 FEB 1695
+2 DATE 6 APR 1693
 1 SOUR @S112@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I333@ INDI
-1 NAME António /Luís/
+1 NAME António /Gonçalves/
 1 SEX M
 1 DEAT
-2 DATE 25 APR 1697
+2 DATE 20 SEP 1693
 1 SOUR @S113@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I334@ INDI
-1 NAME Maria /Correia/
+1 NAME Maria /Gomes/
 1 SEX F
 1 DEAT
-2 DATE 26 AUG 1697
+2 DATE 19 DEC 1693
 1 SOUR @S114@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I335@ INDI
-1 NAME Maria
-1 SEX F
+1 NAME António
+1 SEX M
 1 DEAT
-2 DATE 29 SEP 1697
+2 DATE 8 APR 1694
 1 SOUR @S115@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
@@ -2579,146 +2579,490 @@
 1 NAME Catarina /Gonçalves/
 1 SEX F
 1 DEAT
-2 DATE 13 OCT 1697
+2 DATE 2 MAY 1694
 1 SOUR @S116@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I337@ INDI
-1 NAME José /Marques/
-1 SEX M
+1 NAME Isabel /Nunes/
+1 SEX F
 1 DEAT
-2 DATE 22 OCT 1697
+2 DATE 4 JUN 1694
 1 SOUR @S117@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I338@ INDI
-1 NAME Sebastião /Martins/
+1 NAME Basílio /Pires/
 1 SEX M
 1 DEAT
-2 DATE 24 OCT 1697
+2 DATE 14 AUG 1694
 1 SOUR @S118@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I339@ INDI
-1 NAME Manuel /Gomes/
+1 NAME Sebastião /Nunes/
 1 SEX M
 1 DEAT
-2 DATE 15 JUL 1698
+2 DATE 15 SEP 1694
 1 SOUR @S119@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I340@ INDI
-1 NAME Isabel /Fernandes/
+1 NAME Maria /Antunes/
 1 SEX F
 1 DEAT
-2 DATE 16 FEB 1698
+2 DATE 19 OCT 1694
 1 SOUR @S120@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I341@ INDI
-1 NAME Maria /Lourenço/
-1 SEX F
+1 NAME Lucas /Gonçalves/
+1 SEX M
 1 DEAT
-2 DATE 11 MAR 1699
+2 DATE 6 DEC 1694
 1 SOUR @S121@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I342@ INDI
+1 NAME Catarina /Luís/
+1 SEX F
+1 DEAT
+2 DATE 2 JAN 1695
+1 SOUR @S122@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I343@ INDI
+1 NAME Brás /Martins/
+1 SEX M
+1 DEAT
+2 DATE 6 JAN 1695
+1 SOUR @S123@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I344@ INDI
+1 NAME Miguel Dias /Duro/
+1 SEX M
+1 DEAT
+2 DATE 25 JAN 1695
+1 SOUR @S124@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I345@ INDI
+1 NAME Baltasar /Soleiro/
+1 SEX M
+1 DEAT
+2 DATE 14 FEB 1695
+1 SOUR @S125@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I346@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 DEAT
+2 DATE 10 JUN 1695
+1 SOUR @S126@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I347@ INDI
+1 NAME Domingos Lourenço /Duro/
+1 SEX M
+1 DEAT
+2 DATE 31 DEC 1695
+1 SOUR @S127@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I348@ INDI
+1 NAME Leonor /Domingues/
+1 SEX F
+1 DEAT
+2 DATE 25 MAR 1696
+1 SOUR @S128@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I349@ INDI
+1 NAME Domingos /Esteves/
+1 SEX M
+1 DEAT
+2 DATE 26 JUL 1696
+1 SOUR @S129@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I350@ INDI
+1 NAME Isabel
+1 SEX F
+1 DEAT
+2 DATE 10 OCT 1696
+1 SOUR @S130@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I351@ INDI
+1 NAME Manuel
+1 SEX M
+1 DEAT
+2 DATE 29 OCT 1696
+1 SOUR @S131@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I352@ INDI
+1 NAME Catarina
+1 SEX F
+1 DEAT
+2 DATE 14 FEB 1697
+1 SOUR @S132@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I353@ INDI
+1 NAME Ana /Gonçalves/
+1 SEX F
+1 DEAT
+2 DATE 3 APR 1697
+1 SOUR @S133@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I354@ INDI
+1 NAME Maria /Afonso/
+1 SEX F
+1 DEAT
+2 DATE 26 APR 1697
+1 SOUR @S134@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I355@ INDI
+1 NAME António /Luís/
+1 SEX M
+1 DEAT
+2 DATE 25 APR 1697
+1 SOUR @S135@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I356@ INDI
+1 NAME Manuel /Fernandes/
+1 SEX M
+1 DEAT
+2 DATE 4 MAY 1697
+1 SOUR @S136@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I357@ INDI
+1 NAME Isabel
+1 SEX F
+1 DEAT
+2 DATE 7 JUN 1697
+1 SOUR @S137@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I358@ INDI
+1 NAME Maria /Luís/
+1 SEX F
+1 DEAT
+2 DATE 8 JUN 1697
+1 SOUR @S138@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I359@ INDI
+1 NAME Maria /Vaz/
+1 SEX F
+1 DEAT
+2 DATE 25 JUN 1697
+1 SOUR @S139@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I360@ INDI
+1 NAME Isabel
+1 SEX F
+1 DEAT
+2 DATE 16 JUL 1697
+1 SOUR @S140@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I361@ INDI
+1 NAME Isabel /Gonçalves/
+1 SEX F
+1 DEAT
+2 DATE 20 JUL 1697
+1 SOUR @S141@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I362@ INDI
+1 NAME Maria /Correia/
+1 SEX F
+1 DEAT
+2 DATE 26 AUG 1697
+1 SOUR @S142@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I363@ INDI
+1 NAME Isabel /Martins/
+1 SEX F
+1 DEAT
+2 DATE 28 AUG 1697
+1 SOUR @S143@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I364@ INDI
+1 NAME Maria /Afonso/
+1 SEX F
+1 DEAT
+2 DATE 4 SEP 1697
+1 SOUR @S144@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I365@ INDI
+1 NAME Maria /Afonso/
+1 SEX F
+1 DEAT
+2 DATE 26 SEP 1697
+1 SOUR @S145@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I366@ INDI
+1 NAME Maria
+1 SEX F
+1 DEAT
+2 DATE 29 SEP 1697
+1 SOUR @S146@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I367@ INDI
+1 NAME Catarina /Gonçalves/
+1 SEX F
+1 DEAT
+2 DATE 13 OCT 1697
+1 SOUR @S147@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I368@ INDI
+1 NAME José /Marques/
+1 SEX M
+1 DEAT
+2 DATE 22 OCT 1697
+1 SOUR @S148@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I369@ INDI
+1 NAME Sebastião /Martins/
+1 SEX M
+1 DEAT
+2 DATE 24 OCT 1697
+1 SOUR @S149@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I370@ INDI
+1 NAME Maria /Antunes/
+1 SEX F
+1 DEAT
+2 DATE 5 NOV 1697
+1 SOUR @S150@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I371@ INDI
+1 NAME Maria /Alves/
+1 SEX F
+1 DEAT
+2 DATE 14 NOV 1697
+1 SOUR @S151@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I372@ INDI
+1 NAME Maria /Lopes/
+1 SEX F
+1 DEAT
+2 DATE 14 DEC 1697
+1 SOUR @S152@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I373@ INDI
+1 NAME António Martins /Serrano/
+1 SEX M
+1 DEAT
+2 DATE 17 DEC 1697
+1 SOUR @S153@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I374@ INDI
+1 NAME António /Luís/
+1 SEX M
+1 DEAT
+2 DATE 13 APR 1698
+1 SOUR @S154@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I375@ INDI
+1 NAME Manuel /Álvares/
+1 SEX M
+1 DEAT
+2 DATE 8 APR 1698
+1 SOUR @S155@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I376@ INDI
+1 NAME Francisco /Gonçalves/
+1 SEX M
+1 DEAT
+2 DATE 10 JUN 1698
+1 SOUR @S156@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I377@ INDI
+1 NAME Manuel /Gomes/
+1 SEX M
+1 DEAT
+2 DATE 15 JUL 1698
+1 SOUR @S157@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I378@ INDI
+1 NAME Francisco /Caldas/
+1 SEX M
+1 DEAT
+2 DATE 7 AUG 1698
+1 SOUR @S158@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I379@ INDI
+1 NAME Manuel /Mateus/
+1 SEX M
+1 DEAT
+2 DATE 11 AUG 1698
+1 SOUR @S159@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I380@ INDI
+1 NAME Isabel /Fernandes/
+1 SEX F
+1 DEAT
+2 DATE 16 FEB 1698
+1 SOUR @S160@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I381@ INDI
+1 NAME Inês /Gonçalves/
+1 SEX F
+1 DEAT
+2 DATE 22 FEB 1698
+1 SOUR @S161@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I382@ INDI
+1 NAME Maria /Lourenço/
+1 SEX F
+1 DEAT
+2 DATE 11 MAR 1699
+1 SOUR @S162@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I383@ INDI
+1 NAME Isabel /Pires/
+1 SEX F
+1 DEAT
+2 DATE 3 SEP 1699
+1 SOUR @S163@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I384@ INDI
+1 NAME Ana
+1 SEX F
+1 DEAT
+2 DATE 29 SEP 1699
+1 SOUR @S164@
+2 NOTE Papel: falecido
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I385@ INDI
 1 NAME João /Pires/
 1 SEX M
 1 FAMS @F111@
-1 SOUR @S122@
+1 SOUR @S165@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I343@ INDI
+0 @I386@ INDI
 1 NAME Ana /Lourença/
 1 SEX F
 1 FAMS @F111@
-1 SOUR @S122@
+1 SOUR @S165@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I344@ INDI
+0 @I387@ INDI
 1 NAME João /Marques/
 1 SEX M
 1 FAMS @F112@
-1 SOUR @S123@
+1 SOUR @S166@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I345@ INDI
+0 @I388@ INDI
 1 NAME Catarina /Miguel/
 1 SEX F
 1 FAMS @F112@
-1 SOUR @S123@
+1 SOUR @S166@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I346@ INDI
+0 @I389@ INDI
 1 NAME João /Fernandes/
 1 SEX M
 1 FAMS @F113@
-1 SOUR @S124@
+1 SOUR @S167@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I347@ INDI
+0 @I390@ INDI
 1 NAME Maria /Gonçalves/
 1 SEX F
 1 FAMS @F113@
-1 SOUR @S124@
+1 SOUR @S167@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I348@ INDI
+0 @I391@ INDI
 1 NAME Francisco /Martins/
 1 SEX M
 1 FAMS @F114@
-1 SOUR @S125@
+1 SOUR @S168@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I349@ INDI
+0 @I392@ INDI
 1 NAME Isabel /Pires/
 1 SEX F
 1 FAMS @F114@
-1 SOUR @S125@
+1 SOUR @S168@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I350@ INDI
+0 @I393@ INDI
 1 NAME João Lopes /Valado/
 1 SEX M
 1 FAMS @F115@
-1 SOUR @S126@
+1 SOUR @S169@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I351@ INDI
+0 @I394@ INDI
 1 NAME Domingas /Nunes/
 1 SEX F
 1 FAMS @F115@
-1 SOUR @S126@
+1 SOUR @S169@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I352@ INDI
+0 @I395@ INDI
 1 NAME Manuel /Luís/
 1 SEX M
 1 FAMS @F116@
-1 SOUR @S127@
+1 SOUR @S170@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I353@ INDI
+0 @I396@ INDI
 1 NAME Catarina /Luís/
 1 SEX F
 1 FAMS @F116@
-1 SOUR @S127@
+1 SOUR @S170@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I354@ INDI
+0 @I397@ INDI
 1 NAME Francisco /Martins/
 1 SEX M
 1 FAMS @F117@
-1 SOUR @S128@
+1 SOUR @S171@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I355@ INDI
+0 @I398@ INDI
 1 NAME Isabel /Nunes/
 1 SEX F
 1 FAMS @F117@
-1 SOUR @S128@
+1 SOUR @S171@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @F1@ FAM
@@ -3272,53 +3616,53 @@
 1 CHIL @I328@
 1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
 0 @F111@ FAM
-1 HUSB @I342@
-1 WIFE @I343@
+1 HUSB @I385@
+1 WIFE @I386@
 1 MARR
 2 DATE 4 JUN 1694
-2 SOUR @S122@
+2 SOUR @S165@
 1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
 0 @F112@ FAM
-1 HUSB @I344@
-1 WIFE @I345@
+1 HUSB @I387@
+1 WIFE @I388@
 1 MARR
 2 DATE 20 JUL 1694
-2 SOUR @S123@
+2 SOUR @S166@
 1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
 0 @F113@ FAM
-1 HUSB @I346@
-1 WIFE @I347@
+1 HUSB @I389@
+1 WIFE @I390@
 1 MARR
 2 DATE 17 JUN 1696
-2 SOUR @S124@
+2 SOUR @S167@
 1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
 0 @F114@ FAM
-1 HUSB @I348@
-1 WIFE @I349@
+1 HUSB @I391@
+1 WIFE @I392@
 1 MARR
 2 DATE 23 JUN 1697
-2 SOUR @S125@
+2 SOUR @S168@
 1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
 0 @F115@ FAM
-1 HUSB @I350@
-1 WIFE @I351@
+1 HUSB @I393@
+1 WIFE @I394@
 1 MARR
 2 DATE 3 JUL 1697
-2 SOUR @S126@
+2 SOUR @S169@
 1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
 0 @F116@ FAM
-1 HUSB @I352@
-1 WIFE @I353@
+1 HUSB @I395@
+1 WIFE @I396@
 1 MARR
 2 DATE 10 AUG 1697
-2 SOUR @S127@
+2 SOUR @S170@
 1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
 0 @F117@ FAM
-1 HUSB @I354@
-1 WIFE @I355@
+1 HUSB @I397@
+1 WIFE @I398@
 1 MARR
 2 DATE 4 MAR 1698
-2 SOUR @S128@
+2 SOUR @S171@
 1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
 0 @S1@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-e-03
@@ -4189,27 +4533,281 @@
 2 CONC afia dos nomes normalizada.
 1 NOTE O assento continua no alto da página direita da mesma imagem; foi contado uma única vez.
 0 @S111@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0065-d-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0065.jpg
+2 CONT direita, assento 3; óbito 19/03/1693.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezanove dias do mes de Março de mil e seis centos e noventa e tres annos falleceo Catherina Gonçalves viuva não fez testamento [...] Recebeo todos os sacramentos [...] foi sepultada nesta igreja do lugar do Souto».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S112@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0065-d-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0065.jpg
+2 CONT direita, assento 4; óbito 06/04/1693.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos seis dias do mes de Abril de mil e seis centos e noventa e tres annos falleceo Catherina Vaz mulher de Antonio Martins de Barroco não fez testamento [...] Recebeo todos os sacramentos foi sepultada nesta igreja do lugar do Souto».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S113@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0066-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0066.jpg
+2 CONT direita, assento 1; óbito 20/09/1693.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte dias do mes de Setembro de mil e seis centos e noventa e tres annos falleceo Antonio Gonçalves fez testamento seu filho Joam Gonçalves ficou por testamenteiro [...] Recebeo todos os sacramentos foi sepultado nesta igreja do lug
+2 CONC ar do Souto».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S114@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0067-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0067.jpg
+2 CONT esquerda, assento 3; óbito 19/12/1693.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezanove dias do mes de Dezembro de mil e seis centos e noventa e tres annos falleceo Maria Gomes mulher de Francisco Martins fez testamento [...] Recebeo todos os sacramentos foi sepultada nesta igreja do lugar do Souto».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S115@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0067-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0067.jpg
+2 CONT direita, assento 1; óbito 08/04/1694.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos oito dias do mes de Abril de mil e seis centos e noventa e quatro annos falleceo Antonio filho de Andre Pires não fez testamento [...] por não ser de idade que teria huns nove annos foi enterrado nesta igreja do lugar do Souto».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S116@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0067-d-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0067.jpg
+2 CONT direita, assento 4; óbito 02/05/1694.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dois dias do mes de Maio de mil e seis centos e noventa e quatro annos falleceo Catherina Gonçalves fez testamento ficou por testamenteiro seu filho Domingos Gonçalves Recebeo todos os sacramentos Foi sepultada nesta igreja do lugar
+2 CONC  do Souto».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S117@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0068-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0068.jpg
+2 CONT esquerda, assento 2; óbito 04/06/1694.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos coatro dias do mes de Junho de mil e seis centos e noventa e quatro annos falleceo Izabel Nunes mulher de Francisco Gonçalves fez testamento [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S118@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0068-d-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0068.jpg
+2 CONT direita, assento 3; óbito 14/08/1694.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quatorze dias do mes de Agosto de mil e seis centos e noventa e quatro annos falleceo Basilio Pires não fez testamento sua m[ulher] Anna Fernandes [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S119@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0069-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0069.jpg
+2 CONT esquerda, assento 1; óbito 15/09/1694.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quinze dias do mes de Setembro de mil e seis centos e noventa e quatro annos falleceo Sebastião Nunes fez testamento seu filho Vasco Nunes [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S120@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0069-e-05
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0069.jpg
+2 CONT esquerda, assento 5; óbito 19/10/1694.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezanove dias do mes de outubro de mil e seis centos e noventa e quatro annos falleceo Maria Antunes [...] não fez testamento [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas. O recorte confirma Antunes, mulher de Domingos Nabais; a hipótese Lopes foi rejeitada.
+0 @S121@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0069-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0069.jpg
+2 CONT direita, assento 2; óbito 06/12/1694.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos seis dias do mes de Dezembro de mil e seis centos e noventa e quatro annos falleceo Lucas Gonçalves de viuvo não fez testamento seu f[ilh]o Antonio Gonçalves [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S122@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0069-d-05
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0069.jpg
+2 CONT direita, assento 5; óbito 02/01/1695.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dois dias do mes de Janeiro de mil e seis centos e noventa e sinco annos falleceo Catherina Luiz viuva fez testamento seu sobrinho Manoel Gonçalves [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas. O mês abreviado é janeiro; mantida a posição material do assento, sem ajustar a data à sequência.
+0 @S123@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0070-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0070.jpg
+2 CONT esquerda, assento 1; óbito 06/01/1695.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos seis dias do mes de Jan[ei]ro de mil e seis centos e noventa e sinco annos falleceo Bras Martins não fez testamento [...] Recebeo todos os sacramentos [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S124@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0070-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0070.jpg
 2 CONT esquerda, assento 3; óbito 25/01/1695.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e cinco dias do mês de janeiro de mil e seiscentos e noventa e cinco anos faleceu Miguel Dias Duro [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S112@ SOUR
+0 @S125@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0070-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0070.jpg
 2 CONT esquerda, assento 4; óbito 14/02/1695.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos catorze dias do mês de fevereiro de mil e seiscentos e noventa e cinco anos faleceu Baltasar Soleiro [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S113@ SOUR
+0 @S126@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0070-d-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0070.jpg
+2 CONT direita, assento 3; óbito 10/06/1695.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dez dias do mes de Junho de mil e seis centos e noventa e sinco annos falleceo Maria Gonçalves m[ulher] de Antonio Monteiro fez testamento [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S127@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0071-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0071.jpg
+2 CONT esquerda, assento 2; óbito 31/12/1695.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos trinta e um dias do mes de Dezembro de mil e seis centos e noventa e sinco annos falleceo Domingos Lourenço Duro não fez testamento [...] foi sepultado na capella da sancta misericordia [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S128@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0071-e-05
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0071.jpg
+2 CONT esquerda, assento 5; óbito 25/03/1696.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e sinco dias do mes de Março de mil e seis centos e noventa e seis annos falleceo Leanor Domingues viuva não fez testamento seu f[ilh]o Domingos Martins [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S129@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0072-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0072.jpg
+2 CONT esquerda, assento 1; óbito 26/07/1696.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e seis dias do mes de Julho de mil e seis centos e noventa e seis annos falleceo Domingos Esteves [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S130@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0073-d-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0073.jpg
+2 CONT direita, assento 3; óbito 10/10/1696.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dez dias do mes de Outubro de mil e seis centos e noventa e seis annos falleceo Izabel solteira [...] não fez testamento [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas. Solteira indica estado civil. Não atribuído o apelido Afonso da hipótese anterior, nem apelido paterno.
+0 @S131@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0074-e-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0074.jpg
+2 CONT esquerda, assento 4; óbito 29/10/1696.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e nove dias do mes de outubro de mil e seis centos e noventa e seis annos falleceo Manoel solteiro filho de Antonio Nunes [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas. O recorte confirma vinte e nove. Solteiro indica estado civil; o assento nomeia o pai António Nunes, sem atribuir automaticamente o seu apelido ao falecido.
+0 @S132@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0075-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0075.jpg
+2 CONT direita, assento 2; óbito 14/02/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quatorze dias do mes de Fevereiro de mil e seis centos e noventa e sete annos falleceo Catherina solteira [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas. Solteira indica estado civil, não apelido; registado apenas o nome próprio enunciado.
+0 @S133@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0076-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0076.jpg
+2 CONT esquerda, assento 2; óbito 03/04/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos tres dias do mes de Abril de mil e seis centos e noventa e sete annos falleceo Anna Gonçalves [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S134@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0076-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0076.jpg
+2 CONT esquerda, assento 3; óbito 26/04/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e seis dias do mes de Abril de mil e seis centos e noventa e sete annos falleceo Maria Affonça [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S135@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0076-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0076.jpg
 2 CONT esquerda, assento 4; óbito 25/04/1697.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e cinco dias do mês de abril de mil e seiscentos e noventa e sete anos faleceu António Luís [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S114@ SOUR
+0 @S136@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0076-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0076.jpg
+2 CONT direita, assento 2; óbito 04/05/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quatro dias do mes de Maio de mil e seis centos e noventa e sete annos falleceo Manoel Fernandes o Gato [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas. Referido no texto como «o Gato»; designação conservada no excerto, sem a acrescentar como apelido.
+0 @S137@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0076-d-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0076.jpg
+2 CONT direita, assento 3; óbito 07/06/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos sete dias do mes de Junho de mil e seis centos e noventa e sete annos falleceo Izabel solteira [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas. Solteira indica estado civil, não apelido; registado apenas o nome próprio enunciado.
+0 @S138@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0076-d-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0076.jpg
+2 CONT direita, assento 4; óbito 08/06/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos oito dias do mes de Junho de mil e seis centos e noventa e sete annos falleceo Maria Luiz [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S139@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0077-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0077.jpg
+2 CONT esquerda, assento 1; óbito 25/06/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e sinco dias do mes de Junho de mil e seis centos e noventa e sete annos falleceo Maria Vaz [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S140@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0077-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0077.jpg
+2 CONT esquerda, assento 2; óbito 16/07/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezaseis dias do mes de Julho de mil e seis centos e noventa e sete annos falleceo Izabel solteira [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas. Solteira indica estado civil, não apelido; registado apenas o nome próprio enunciado. O dia foi corrigido para dezasseis na conferência.
+0 @S141@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0077-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0077.jpg
+2 CONT esquerda, assento 3; óbito 20/07/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte dias do mes de Julho de mil e seis centos e noventa e sete annos falleceo Izabel Gonçalves viuva [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S142@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0077-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0077.jpg
@@ -4217,14 +4815,41 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e seis dias do mês de agosto de mil e seiscentos e noventa e sete anos faleceu Maria Correia mulher de Diogo Luís Serrano [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes
 2 CONC  normalizada.
-0 @S115@ SOUR
+0 @S143@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0077-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0077.jpg
+2 CONT direita, assento 2; óbito 28/08/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e oito dias do mes de Agosto de mil e seis centos e noventa e sete annos falleceu Izabel Martins viuva [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S144@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0077-d-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0077.jpg
+2 CONT direita, assento 3; óbito 04/09/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quatro dias do mes de Setembro de mil e seis centos e noventa e sete annos falleceu Maria Affonça [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S145@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0077-d-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0077.jpg
+2 CONT direita, assento 4; óbito 26/09/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e seis dias de Setembro de mil e seis centos e noventa e sete annos falleceu Maria Affonça [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S146@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0078-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0078.jpg
 2 CONT esquerda, assento 1; óbito 29/09/1697.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e nove dias do mês de setembro de mil e seiscentos e noventa e sete faleceu Maria filha de Francisco Mendes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S116@ SOUR
+0 @S147@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0078-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0078.jpg
@@ -4232,35 +4857,125 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos treze dias do mês de outubro de mil e seiscentos e noventa e sete anos faleceu Catarina Gonçalves mulher de António Martins [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
 2 CONC malizada.
-0 @S117@ SOUR
+0 @S148@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0079-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0079.jpg
 2 CONT esquerda, assento 2; óbito 22/10/1697.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e dois dias do mês de outubro de mil e seiscentos e noventa e sete anos faleceu José Marques [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S118@ SOUR
+0 @S149@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0079-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0079.jpg
 2 CONT esquerda, assento 3; óbito 24/10/1697.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e quatro dias do mês de outubro de mil e seiscentos e noventa e sete anos faleceu Sebastião Martins [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S119@ SOUR
+0 @S150@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0079-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0079.jpg
+2 CONT direita, assento 2; óbito 05/11/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos sinco dias do mes de 9bro de mil e seis centos e noventa e sete annos falleceu Maria Antunes [...] fez testamento [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S151@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0080-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0080.jpg
+2 CONT esquerda, assento 2; óbito 14/11/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos 14 dias do mes de novembro de mil e seis centos e noventa e sete annos falleceu Maria Alves fez testamento [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S152@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0080-d-05
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0080.jpg
+2 CONT direita, assento 5; óbito 14/12/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos quatorze dias do mes de Dezembro de mil e seis centos e noventa e sete annos falleceu Maria Lopes [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S153@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0081-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0081.jpg
+2 CONT esquerda, assento 1; óbito 17/12/1697.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dezasete dias do mes de Dezembro de mil e seis centos e noventa e sete annos falleceo Antonio Martins Sarrano [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S154@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0081-d-06
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0081.jpg
+2 CONT direita, assento 6; óbito 13/04/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos treze dias do mes de Abril de mil e seis centos e noventa e oito annos falleceo Antonio Luiz fez testamento [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S155@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0082-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0082.jpg
+2 CONT esquerda, assento 2; óbito 08/04/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos oito dias do mes de Abril de mil e seis centos e noventa e oito annos falleceo Manoel Alvares [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S156@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0082-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0082.jpg
+2 CONT direita, assento 1; óbito 10/06/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos dez dias do mes de Junho de mil e seis centos e noventa e oito annos falleceo Francisco Gonçalves preto não fez testamento [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas. A palavra «preto» segue o nome no original e é conservada no excerto, sem a interpretar como apelido.
+0 @S157@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0083-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0083.jpg
 2 CONT esquerda, assento 1; óbito 15/07/1698.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos quinze dias do mês de julho de mil e seiscentos e noventa e oito anos faleceu Manuel Gomes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S120@ SOUR
+0 @S158@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0083-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0083.jpg
+2 CONT esquerda, assento 2; óbito 07/08/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos sete dias do mes de Agosto de mil e seis centos e noventa e oito annos falleceo Francisco Caldas fez testamento [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S159@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0083-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0083.jpg
+2 CONT esquerda, assento 3; óbito 11/08/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos onze dias do mes de Agosto de mil e seis centos e noventa e oito annos falleceo Manoel Matheus [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S160@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0084-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0084.jpg
 2 CONT esquerda, assento 1; óbito 16/02/1698.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dezasseis dias do mês de fevereiro de mil e seiscentos e noventa e oito anos faleceu Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S121@ SOUR
+0 @S161@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0084-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0084.jpg
+2 CONT esquerda, assento 2; óbito 22/02/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e dois dias do mes de Fevereiro de mil e seis centos e noventa e oito annos falleceo Ines Gonçalves [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S162@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0085-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0085.jpg
@@ -4268,7 +4983,25 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos onze dias do mês de março de mil e seiscentos e noventa e nove anos faleceu Maria Lourenço mulher de António Toucado [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normaliza
 2 CONC da.
-0 @S122@ SOUR
+0 @S163@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0086-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0086.jpg
+2 CONT esquerda, assento 1; óbito 03/09/1699.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos tres dias do mes de Setembro de mil e seis centos e noventa e nove annos falleceo Izabel Pires [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas.
+0 @S164@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0086-e-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0086.jpg
+2 CONT esquerda, assento 4; óbito 29/09/1699.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e nove dias do mes de Setembro de mil e seis centos e noventa e nove annos falleceo Anna solteira [...]».
+1 NOTE Excerto de leitura parcial, com abreviaturas desenvolvidas e grafia parcialmente normalizada; [...] marca omissões. Campos essenciais confirmados: nome enunciado, sexo e data explícita de falecimento. Restante texto não constitui transcri
+2 CONC ção integral; parentes citados não criam ligações genealógicas. Solteira indica estado civil, não apelido; registado apenas o nome próprio enunciado.
+0 @S165@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0116-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0116.jpg
@@ -4277,7 +5010,7 @@
 1 NOTE «Aos quatro dias do mês de junho de mil e seiscentos e noventa e quatro anos recebi em face da Igreja a João Pires ... com Ana Lourença ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nome
 2 CONC s normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S123@ SOUR
+0 @S166@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0116-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0116.jpg
@@ -4286,7 +5019,7 @@
 1 NOTE «Aos vinte dias do mês de julho de mil e seiscentos e noventa e quatro anos recebi em face da Igreja a João Marques ... com Catarina Miguel ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos n
 2 CONC omes normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S124@ SOUR
+0 @S167@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0118-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0118.jpg
@@ -4295,7 +5028,7 @@
 1 NOTE «Aos dezassete dias do mês de junho de mil e seiscentos e noventa e seis anos recebi em face da Igreja a João Fernandes ... com Maria Gonçalves ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia
 2 CONC  dos nomes normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S125@ SOUR
+0 @S168@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0119-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg
@@ -4304,7 +5037,7 @@
 1 NOTE «Aos vinte e três dias do mês de junho de mil e seiscentos e noventa e sete anos recebi em face da Igreja a Francisco Martins ... com Isabel Pires ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafi
 2 CONC a dos nomes normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S126@ SOUR
+0 @S169@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0119-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg
@@ -4313,7 +5046,7 @@
 1 NOTE «Aos três dias do mês de julho de mil e seiscentos e noventa e sete anos recebi em face da Igreja a João Lopes Valado ... com Domingas Nunes ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos
 2 CONC  nomes normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S127@ SOUR
+0 @S170@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0119-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg
@@ -4321,7 +5054,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dez dias do mês de agosto de mil e seiscentos e noventa e sete anos ... Manuel Luís ... com Catarina Luís ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S128@ SOUR
+0 @S171@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0120-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0120.jpg
