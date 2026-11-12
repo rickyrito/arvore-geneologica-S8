@@ -2,7 +2,7 @@
 import copy
 import importlib.util
 import json
-from pathlib import Path
+from pathlib import Path, PureWindowsPath
 import shutil
 import subprocess
 import tempfile
@@ -58,6 +58,19 @@ class AssentosS8Test(unittest.TestCase):
         self.assertEqual(suplemento['f'][1], [4, 5, '04/01/1692',
                          'Casamento identificado no original S8; filiações e ligação '
                          'às famílias da base por confirmar.', []])
+
+    def test_caminhos_de_imagem_portaveis_entre_sistemas(self):
+        registos = self.ler()
+        windows = [(a, livro, PureWindowsPath(imagem.as_posix()))
+                   for a, livro, imagem in registos]
+        esperado = s8.construir(registos)
+        obtido = s8.construir(windows)
+        self.assertEqual(obtido, esperado)  # Pessoas, aplicados e pendentes.
+        suplemento, aplicados, pendentes = obtido
+        self.assertEqual(pendentes[0]['ficheiro_imagem'], 'fontes/S8/livro/teste_m0005.jpg')
+        ged = s8.gerar_gedcom(suplemento, aplicados)
+        self.assertEqual(ged, s8.gerar_gedcom(*esperado[:2]))
+        self.assertIn('1 NOTE Imagem: fontes/S8/livro/teste_m0001.jpg', ged)
 
     def test_gedcom_eventos_e_fontes_com_tamanhos_diferentes(self):
         suplemento, aplicados, _ = s8.construir(self.ler())

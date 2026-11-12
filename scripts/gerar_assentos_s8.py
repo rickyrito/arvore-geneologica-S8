@@ -148,7 +148,7 @@ def construir(registos):
     pessoas, familias, aplicados, pendentes = [], [], [], []
     for a, livro, imagem in registos:
         if a['estado'] == 'pendente':
-            pendentes.append(dict(a, livro=livro['referencia'], ficheiro_imagem=str(imagem)))
+            pendentes.append(dict(a, livro=livro['referencia'], ficheiro_imagem=imagem.as_posix()))
             continue
         i, fi = len(pessoas), len(familias)
         evento = tipo(a)
@@ -163,7 +163,7 @@ def construir(registos):
                  livro['referencia'] + ', imagem ' + a['imagem'] + ', ' + a['lado'] +
                  ', assento ' + str(a['ordem']) + '. Leitura direta dos campos essenciais; '
                  'identidade com as genealogias do blogue por confirmar.')
-        evidencia = dict(id=a['id'], origem='S8', url=livro['origem'], imagem=str(imagem),
+        evidencia = dict(id=a['id'], origem='S8', url=livro['origem'], imagem=imagem.as_posix(),
                          lado=a['lado'], ordem=a['ordem'])
         if evento == 'batismo':
             if a.get('data_nascimento'):
@@ -198,7 +198,7 @@ def construir(registos):
                 familias.append([i, i + 1, a['data_casamento'],
                                  'Casamento identificado no original S8; filiações e ligação '
                                  'às famílias da base por confirmar.', []])
-        aplicados.append(dict(a, livro=livro['referencia'], ficheiro_imagem=str(imagem),
+        aplicados.append(dict(a, livro=livro['referencia'], ficheiro_imagem=imagem.as_posix(),
                               pessoa=i, familia=fi if evento != 'obito' else -1))
     return dict(p=pessoas, f=familias), aplicados, pendentes
 

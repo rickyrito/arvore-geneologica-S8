@@ -115,7 +115,8 @@ As novas leituras têm uma cadeia aditiva independente, sem alterar os resultado
    batismo com criança, sexo, pais e `data_batismo`; óbito com `falecido` (nome e sexo,
    que pode ser vazio quando não explícito) e pelo menos `data_obito` ou `data_sepultura`;
    casamento com `noivo`, `noiva` e `data_casamento`. Todas as datas são explícitas e
-   validadas no intervalo do livro. Uma remissão só pode usar um evento confirmado
+   validadas no intervalo do livro, salvo o nascimento explícito descrito abaixo.
+   Uma remissão só pode usar um evento confirmado
    do mesmo tipo e com a mesma data; no óbito, refere especificamente `data_obito`.
 8. Um óbito cria uma pessoa independente: apenas `data_obito` ocupa a data de óbito
    da ficha. `data_sepultura` conserva-se na fonte, evidência e evento GEDCOM `BURI`,
@@ -124,6 +125,14 @@ As novas leituras têm uma cadeia aditiva independente, sem alterar os resultado
    não geram ligações nesta primeira leitura. Mantém-se a ausência de fusão automática.
    No GEDCOM, cada pessoa e casamento apontam para a fonte do respetivo assento,
    independentemente do número de pessoas criadas. O relatório inclui totais por tipo.
+
+9. Um batismo pode incluir `data_nascimento` apenas com `evidencia_nascimento` explícita
+   no original. A data tem de ser válida e não posterior ao batismo; pode anteceder
+   o intervalo do livro. É guardada no campo de nascimento e no evento GEDCOM `BIRT`,
+   separadamente de `BAPM`. Não se calcula por idade nem se copia do batismo.
+10. Os caminhos relativos das imagens nas evidências, relatório e GEDCOM usam sempre
+    separadores `/` (POSIX), também quando o gerador corre em Windows. A geração
+    deve produzir os mesmos ficheiros em ambos os sistemas.
 
 O filtro «Assentos originais S8» permite consultar este suplemento. As fontes incluem uma
 ligação ao livro no arquivo. A versão `?v=N` de `dados_s8.js` sobe quando este muda.
