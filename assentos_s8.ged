@@ -811,161 +811,161 @@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I106@ INDI
-1 NAME Francisco
+1 NAME Bernabé
 1 SEX M
 1 BAPM
-2 DATE 15 AUG 1695
+2 DATE 25 JUL 1695
 1 FAMC @F36@
 1 SOUR @S36@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I107@ INDI
-1 NAME Pedro /Domingues/
+1 NAME Domingos /Gonçalves/
 1 SEX M
 1 FAMS @F36@
 1 SOUR @S36@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I108@ INDI
-1 NAME Ana /Martins/
+1 NAME Isabel /Nabais/
 1 SEX F
 1 FAMS @F36@
 1 SOUR @S36@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I109@ INDI
-1 NAME António
+1 NAME Francisco
 1 SEX M
 1 BAPM
-2 DATE 19 AUG 1695
+2 DATE 15 AUG 1695
 1 FAMC @F37@
 1 SOUR @S37@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I110@ INDI
-1 NAME Manuel /Nunes/
+1 NAME Pedro /Domingues/
 1 SEX M
 1 FAMS @F37@
 1 SOUR @S37@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I111@ INDI
-1 NAME Maria /Fernandes/
+1 NAME Ana /Martins/
 1 SEX F
 1 FAMS @F37@
 1 SOUR @S37@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I112@ INDI
-1 NAME João
+1 NAME António
 1 SEX M
 1 BAPM
-2 DATE 2 SEP 1695
+2 DATE 19 AUG 1695
 1 FAMC @F38@
 1 SOUR @S38@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I113@ INDI
-1 NAME João /Rodrigues/
+1 NAME Manuel /Nunes/
 1 SEX M
 1 FAMS @F38@
 1 SOUR @S38@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I114@ INDI
-1 NAME Maria /Dias/
+1 NAME Maria /Fernandes/
 1 SEX F
 1 FAMS @F38@
 1 SOUR @S38@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I115@ INDI
-1 NAME Manuel
+1 NAME João
 1 SEX M
 1 BAPM
-2 DATE 10 SEP 1695
+2 DATE 2 SEP 1695
 1 FAMC @F39@
 1 SOUR @S39@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I116@ INDI
-1 NAME José /Marques/
+1 NAME João /Rodrigues/
 1 SEX M
 1 FAMS @F39@
 1 SOUR @S39@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I117@ INDI
-1 NAME Isabel /Marques/
+1 NAME Maria /Dias/
 1 SEX F
 1 FAMS @F39@
 1 SOUR @S39@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I118@ INDI
-1 NAME Maria
-1 SEX F
+1 NAME Manuel
+1 SEX M
 1 BAPM
-2 DATE 31 OCT 1695
+2 DATE 10 SEP 1695
 1 FAMC @F40@
 1 SOUR @S40@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I119@ INDI
-1 NAME João /Pires/
+1 NAME José /Marques/
 1 SEX M
 1 FAMS @F40@
 1 SOUR @S40@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I120@ INDI
-1 NAME Ana /Fernandes/
+1 NAME Isabel /Marques/
 1 SEX F
 1 FAMS @F40@
 1 SOUR @S40@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I121@ INDI
-1 NAME José
-1 SEX M
+1 NAME Maria
+1 SEX F
 1 BAPM
-2 DATE 6 NOV 1695
+2 DATE 31 OCT 1695
 1 FAMC @F41@
 1 SOUR @S41@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I122@ INDI
-1 NAME José /Lopes/
+1 NAME João /Pires/
 1 SEX M
 1 FAMS @F41@
 1 SOUR @S41@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I123@ INDI
-1 NAME Maria /Pires/
+1 NAME Ana /Fernandes/
 1 SEX F
 1 FAMS @F41@
 1 SOUR @S41@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I124@ INDI
-1 NAME Maria
-1 SEX F
+1 NAME José
+1 SEX M
 1 BAPM
-2 DATE 24 DEC 1695
+2 DATE 6 NOV 1695
 1 FAMC @F42@
 1 SOUR @S42@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I125@ INDI
-1 NAME Luís /Pinto/
+1 NAME José /Lopes/
 1 SEX M
 1 FAMS @F42@
 1 SOUR @S42@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I126@ INDI
-1 NAME Ana /Gonçalves/
+1 NAME Maria /Pires/
 1 SEX F
 1 FAMS @F42@
 1 SOUR @S42@
@@ -975,158 +975,158 @@
 1 NAME Maria
 1 SEX F
 1 BAPM
-2 DATE 29 JAN 1696
+2 DATE 24 DEC 1695
 1 FAMC @F43@
 1 SOUR @S43@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I128@ INDI
-1 NAME Domingos /Jorge/
+1 NAME Luís /Pinto/
 1 SEX M
 1 FAMS @F43@
 1 SOUR @S43@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I129@ INDI
-1 NAME Catarina /Martins/
+1 NAME Ana /Gonçalves/
 1 SEX F
 1 FAMS @F43@
 1 SOUR @S43@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I130@ INDI
-1 NAME António
-1 SEX M
+1 NAME Maria
+1 SEX F
 1 BAPM
-2 DATE 12 FEB 1696
+2 DATE 29 JAN 1696
 1 FAMC @F44@
 1 SOUR @S44@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I131@ INDI
-1 NAME António /Martins/
+1 NAME Domingos /Jorge/
 1 SEX M
 1 FAMS @F44@
 1 SOUR @S44@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I132@ INDI
-1 NAME Maria /Martins/
+1 NAME Catarina /Martins/
 1 SEX F
 1 FAMS @F44@
 1 SOUR @S44@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I133@ INDI
-1 NAME Maria
-1 SEX F
+1 NAME António
+1 SEX M
 1 BAPM
-2 DATE 13 APR 1696
+2 DATE 12 FEB 1696
 1 FAMC @F45@
 1 SOUR @S45@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I134@ INDI
-1 NAME António /Lourenço/
+1 NAME António /Martins/
 1 SEX M
 1 FAMS @F45@
 1 SOUR @S45@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I135@ INDI
-1 NAME Maria /Pires/
+1 NAME Maria /Martins/
 1 SEX F
 1 FAMS @F45@
 1 SOUR @S45@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I136@ INDI
-1 NAME João
-1 SEX M
+1 NAME Maria
+1 SEX F
 1 BAPM
-2 DATE 9 APR 1696
+2 DATE 13 APR 1696
 1 FAMC @F46@
 1 SOUR @S46@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I137@ INDI
-1 NAME João /Martins/
+1 NAME António /Lourenço/
 1 SEX M
 1 FAMS @F46@
 1 SOUR @S46@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I138@ INDI
-1 NAME Isabel /Martins/
+1 NAME Maria /Pires/
 1 SEX F
 1 FAMS @F46@
 1 SOUR @S46@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I139@ INDI
-1 NAME Brígida
-1 SEX F
+1 NAME João
+1 SEX M
 1 BAPM
-2 DATE 29 APR 1696
+2 DATE 9 APR 1696
 1 FAMC @F47@
 1 SOUR @S47@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I140@ INDI
-1 NAME Manuel /Fernandes/
+1 NAME João /Martins/
 1 SEX M
 1 FAMS @F47@
 1 SOUR @S47@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I141@ INDI
-1 NAME Isabel /Nunes/
+1 NAME Isabel /Martins/
 1 SEX F
 1 FAMS @F47@
 1 SOUR @S47@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I142@ INDI
-1 NAME Ana
+1 NAME Brígida
 1 SEX F
 1 BAPM
-2 DATE 8 JUN 1696
+2 DATE 29 APR 1696
 1 FAMC @F48@
 1 SOUR @S48@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I143@ INDI
-1 NAME Pedro Lourenço /Nabais/
+1 NAME Manuel /Fernandes/
 1 SEX M
 1 FAMS @F48@
 1 SOUR @S48@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I144@ INDI
-1 NAME Inês /Antunes/
+1 NAME Isabel /Nunes/
 1 SEX F
 1 FAMS @F48@
 1 SOUR @S48@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I145@ INDI
-1 NAME Maria
+1 NAME Ana
 1 SEX F
 1 BAPM
-2 DATE 20 JUN 1696
+2 DATE 8 JUN 1696
 1 FAMC @F49@
 1 SOUR @S49@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I146@ INDI
-1 NAME António /Rodrigues/
+1 NAME Pedro Lourenço /Nabais/
 1 SEX M
 1 FAMS @F49@
 1 SOUR @S49@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I147@ INDI
-1 NAME Isabel /Martins/
+1 NAME Inês /Antunes/
 1 SEX F
 1 FAMS @F49@
 1 SOUR @S49@
@@ -1136,388 +1136,388 @@
 1 NAME Maria
 1 SEX F
 1 BAPM
-2 DATE 5 AUG 1696
+2 DATE 20 JUN 1696
 1 FAMC @F50@
 1 SOUR @S50@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I149@ INDI
-1 NAME António /Martins/
+1 NAME António /Rodrigues/
 1 SEX M
 1 FAMS @F50@
 1 SOUR @S50@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I150@ INDI
-1 NAME Maria /Pires/
+1 NAME Isabel /Martins/
 1 SEX F
 1 FAMS @F50@
 1 SOUR @S50@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I151@ INDI
-1 NAME Ana
+1 NAME Maria
 1 SEX F
 1 BAPM
-2 DATE 28 SEP 1696
+2 DATE 5 AUG 1696
 1 FAMC @F51@
 1 SOUR @S51@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I152@ INDI
-1 NAME António /Nabais/
+1 NAME António /Martins/
 1 SEX M
 1 FAMS @F51@
 1 SOUR @S51@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I153@ INDI
-1 NAME Maria /Gonçalves/
+1 NAME Maria /Pires/
 1 SEX F
 1 FAMS @F51@
 1 SOUR @S51@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I154@ INDI
-1 NAME Gonçalo
+1 NAME Manuel
 1 SEX M
 1 BAPM
-2 DATE 1 OCT 1696
+2 DATE 5 SEP 1696
 1 FAMC @F52@
 1 SOUR @S52@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I155@ INDI
-1 NAME João /Lopes/
+1 NAME António /Pires/
 1 SEX M
 1 FAMS @F52@
 1 SOUR @S52@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I156@ INDI
-1 NAME Maria /Pires/
+1 NAME Maria /Nunes/
 1 SEX F
 1 FAMS @F52@
 1 SOUR @S52@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I157@ INDI
-1 NAME António
-1 SEX M
+1 NAME Ana
+1 SEX F
 1 BAPM
-2 DATE 1 OCT 1696
+2 DATE 28 SEP 1696
 1 FAMC @F53@
 1 SOUR @S53@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I158@ INDI
-1 NAME João /Lopes/
+1 NAME António /Nabais/
 1 SEX M
 1 FAMS @F53@
 1 SOUR @S53@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I159@ INDI
-1 NAME Maria /Rodrigues/
+1 NAME Maria /Gonçalves/
 1 SEX F
 1 FAMS @F53@
 1 SOUR @S53@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I160@ INDI
-1 NAME Isabel
-1 SEX F
+1 NAME Gonçalo
+1 SEX M
 1 BAPM
-2 DATE 18 NOV 1696
+2 DATE 1 OCT 1696
 1 FAMC @F54@
 1 SOUR @S54@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I161@ INDI
-1 NAME Domingos /Gonçalves/
+1 NAME João /Lopes/
 1 SEX M
 1 FAMS @F54@
 1 SOUR @S54@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I162@ INDI
-1 NAME Isabel /Dias/
+1 NAME Maria /Pires/
 1 SEX F
 1 FAMS @F54@
 1 SOUR @S54@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I163@ INDI
-1 NAME Ana
-1 SEX F
+1 NAME António
+1 SEX M
 1 BAPM
-2 DATE 28 JAN 1697
+2 DATE 1 OCT 1696
 1 FAMC @F55@
 1 SOUR @S55@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I164@ INDI
-1 NAME Bartolomeu /Fernandes/
+1 NAME João /Lopes/
 1 SEX M
 1 FAMS @F55@
 1 SOUR @S55@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I165@ INDI
-1 NAME Maria /Pires/
+1 NAME Maria /Rodrigues/
 1 SEX F
 1 FAMS @F55@
 1 SOUR @S55@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I166@ INDI
-1 NAME Domingos
-1 SEX M
+1 NAME Isabel
+1 SEX F
 1 BAPM
-2 DATE 14 FEB 1697
+2 DATE 28 OCT 1696
 1 FAMC @F56@
 1 SOUR @S56@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I167@ INDI
-1 NAME Domingos /Serrão/
+1 NAME José /Duarte/
 1 SEX M
 1 FAMS @F56@
 1 SOUR @S56@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I168@ INDI
-1 NAME Maria /Gomes/
+1 NAME Maria /Gonçalves/
 1 SEX F
 1 FAMS @F56@
 1 SOUR @S56@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I169@ INDI
-1 NAME Ana
+1 NAME Isabel
 1 SEX F
 1 BAPM
-2 DATE 2 FEB 1697
+2 DATE 18 NOV 1696
 1 FAMC @F57@
 1 SOUR @S57@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I170@ INDI
-1 NAME Domingos /Lopes/
+1 NAME Domingos /Gonçalves/
 1 SEX M
 1 FAMS @F57@
 1 SOUR @S57@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I171@ INDI
-1 NAME Guiomar /Nunes/
+1 NAME Isabel /Dias/
 1 SEX F
 1 FAMS @F57@
 1 SOUR @S57@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I172@ INDI
-1 NAME Catarina
+1 NAME Ana
 1 SEX F
 1 BAPM
-2 DATE 16 MAR 1697
+2 DATE 9 DEC 1696
 1 FAMC @F58@
 1 SOUR @S58@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I173@ INDI
-1 NAME António /Dias/
+1 NAME Domingos /Gonçalves/
 1 SEX M
 1 FAMS @F58@
 1 SOUR @S58@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I174@ INDI
-1 NAME Maria /Pires/
+1 NAME Maria /Gonçalves/
 1 SEX F
 1 FAMS @F58@
 1 SOUR @S58@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I175@ INDI
-1 NAME Manuel
-1 SEX M
+1 NAME Ana
+1 SEX F
 1 BAPM
-2 DATE 23 APR 1697
+2 DATE 28 JAN 1697
 1 FAMC @F59@
 1 SOUR @S59@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I176@ INDI
-1 NAME António /Jorge/
+1 NAME Bartolomeu /Fernandes/
 1 SEX M
 1 FAMS @F59@
 1 SOUR @S59@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I177@ INDI
-1 NAME Catarina /Dias/
+1 NAME Maria /Pires/
 1 SEX F
 1 FAMS @F59@
 1 SOUR @S59@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I178@ INDI
-1 NAME João
+1 NAME Domingos
 1 SEX M
 1 BAPM
-2 DATE 26 MAY 1697
+2 DATE 14 FEB 1697
 1 FAMC @F60@
 1 SOUR @S60@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I179@ INDI
-1 NAME Manuel /Dias/
+1 NAME Domingos /Serrão/
 1 SEX M
 1 FAMS @F60@
 1 SOUR @S60@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I180@ INDI
-1 NAME Maria /Antunes/
+1 NAME Maria /Gomes/
 1 SEX F
 1 FAMS @F60@
 1 SOUR @S60@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I181@ INDI
-1 NAME Francisco
-1 SEX M
+1 NAME Ana
+1 SEX F
 1 BAPM
-2 DATE 14 DEC 1697
+2 DATE 2 FEB 1697
 1 FAMC @F61@
 1 SOUR @S61@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I182@ INDI
-1 NAME António /Martins/
+1 NAME Domingos /Lopes/
 1 SEX M
 1 FAMS @F61@
 1 SOUR @S61@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I183@ INDI
-1 NAME Catarina /Afonso/
+1 NAME Guiomar /Nunes/
 1 SEX F
 1 FAMS @F61@
 1 SOUR @S61@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I184@ INDI
-1 NAME Ana
+1 NAME Catarina
 1 SEX F
 1 BAPM
-2 DATE 6 JAN 1698
+2 DATE 16 MAR 1697
 1 FAMC @F62@
 1 SOUR @S62@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I185@ INDI
-1 NAME António /Martins/
+1 NAME António /Dias/
 1 SEX M
 1 FAMS @F62@
 1 SOUR @S62@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I186@ INDI
-1 NAME Maria /Martins/
+1 NAME Maria /Pires/
 1 SEX F
 1 FAMS @F62@
 1 SOUR @S62@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I187@ INDI
-1 NAME Catarina
-1 SEX F
+1 NAME Manuel
+1 SEX M
 1 BAPM
-2 DATE 25 JAN 1698
+2 DATE 23 APR 1697
 1 FAMC @F63@
 1 SOUR @S63@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I188@ INDI
-1 NAME António /Martins/
+1 NAME António /Jorge/
 1 SEX M
 1 FAMS @F63@
 1 SOUR @S63@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I189@ INDI
-1 NAME Isabel /Nabais/
+1 NAME Catarina /Dias/
 1 SEX F
 1 FAMS @F63@
 1 SOUR @S63@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I190@ INDI
-1 NAME Domingos
+1 NAME João
 1 SEX M
 1 BAPM
-2 DATE 15 MAR 1698
+2 DATE 26 MAY 1697
 1 FAMC @F64@
 1 SOUR @S64@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I191@ INDI
-1 NAME Pedro /Domingues/
+1 NAME Manuel /Dias/
 1 SEX M
 1 FAMS @F64@
 1 SOUR @S64@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I192@ INDI
-1 NAME Ana /Martins/
+1 NAME Maria /Antunes/
 1 SEX F
 1 FAMS @F64@
 1 SOUR @S64@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I193@ INDI
-1 NAME José
+1 NAME Francisco
 1 SEX M
 1 BAPM
-2 DATE 31 MAY 1698
+2 DATE 14 DEC 1697
 1 FAMC @F65@
 1 SOUR @S65@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I194@ INDI
-1 NAME Domingos /Gonçalves/
+1 NAME António /Martins/
 1 SEX M
 1 FAMS @F65@
 1 SOUR @S65@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I195@ INDI
-1 NAME Isabel /Nabais/
+1 NAME Catarina /Afonso/
 1 SEX F
 1 FAMS @F65@
 1 SOUR @S65@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I196@ INDI
-1 NAME Gabriel
+1 NAME Manuel
 1 SEX M
 1 BAPM
-2 DATE 7 JUN 1698
+2 DATE 5 JAN 1698
 1 FAMC @F66@
 1 SOUR @S66@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I197@ INDI
-1 NAME Gabriel /Nunes/
+1 NAME João /Pires/
 1 SEX M
 1 FAMS @F66@
 1 SOUR @S66@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I198@ INDI
-1 NAME Helena /Marques/
+1 NAME Domingas /Pires/
 1 SEX F
 1 FAMS @F66@
 1 SOUR @S66@
@@ -1527,135 +1527,135 @@
 1 NAME Ana
 1 SEX F
 1 BAPM
-2 DATE 6 JUL 1698
+2 DATE 6 JAN 1698
 1 FAMC @F67@
 1 SOUR @S67@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I200@ INDI
-1 NAME José /Fernandes/
+1 NAME António /Martins/
 1 SEX M
 1 FAMS @F67@
 1 SOUR @S67@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I201@ INDI
-1 NAME Isabel /Dias/
+1 NAME Maria /Martins/
 1 SEX F
 1 FAMS @F67@
 1 SOUR @S67@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I202@ INDI
-1 NAME Manuel
-1 SEX M
+1 NAME Catarina
+1 SEX F
 1 BAPM
-2 DATE 22 JUL 1698
+2 DATE 25 JAN 1698
 1 FAMC @F68@
 1 SOUR @S68@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I203@ INDI
-1 NAME João /Santiago/
+1 NAME António /Martins/
 1 SEX M
 1 FAMS @F68@
 1 SOUR @S68@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I204@ INDI
-1 NAME Maria /Lopes/
+1 NAME Isabel /Nabais/
 1 SEX F
 1 FAMS @F68@
 1 SOUR @S68@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I205@ INDI
-1 NAME Manuel
+1 NAME Domingos
 1 SEX M
 1 BAPM
-2 DATE 15 AUG 1698
+2 DATE 15 MAR 1698
 1 FAMC @F69@
 1 SOUR @S69@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I206@ INDI
-1 NAME Manuel /Carvalho/
+1 NAME Pedro /Domingues/
 1 SEX M
 1 FAMS @F69@
 1 SOUR @S69@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I207@ INDI
-1 NAME Maria /Gonçalves/
+1 NAME Ana /Martins/
 1 SEX F
 1 FAMS @F69@
 1 SOUR @S69@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I208@ INDI
-1 NAME Lúcia
-1 SEX F
+1 NAME José
+1 SEX M
 1 BAPM
-2 DATE 8 SEP 1698
+2 DATE 31 MAY 1698
 1 FAMC @F70@
 1 SOUR @S70@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I209@ INDI
-1 NAME Manuel da /Costa/
+1 NAME Domingos /Gonçalves/
 1 SEX M
 1 FAMS @F70@
 1 SOUR @S70@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I210@ INDI
-1 NAME Maria /Lopes/
+1 NAME Isabel /Nabais/
 1 SEX F
 1 FAMS @F70@
 1 SOUR @S70@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I211@ INDI
-1 NAME João
+1 NAME Gabriel
 1 SEX M
 1 BAPM
-2 DATE 25 SEP 1698
+2 DATE 7 JUN 1698
 1 FAMC @F71@
 1 SOUR @S71@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I212@ INDI
-1 NAME João /Gomes/
+1 NAME Gabriel /Nunes/
 1 SEX M
 1 FAMS @F71@
 1 SOUR @S71@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I213@ INDI
-1 NAME Ana /Lourença/
+1 NAME Helena /Marques/
 1 SEX F
 1 FAMS @F71@
 1 SOUR @S71@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I214@ INDI
-1 NAME Catarina
+1 NAME Ana
 1 SEX F
 1 BAPM
-2 DATE 2 OCT 1698
+2 DATE 6 JUL 1698
 1 FAMC @F72@
 1 SOUR @S72@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I215@ INDI
-1 NAME João /Martins/
+1 NAME José /Fernandes/
 1 SEX M
 1 FAMS @F72@
 1 SOUR @S72@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I216@ INDI
-1 NAME Isabel /Nunes/
+1 NAME Isabel /Dias/
 1 SEX F
 1 FAMS @F72@
 1 SOUR @S72@
@@ -1665,43 +1665,43 @@
 1 NAME Manuel
 1 SEX M
 1 BAPM
-2 DATE 7 NOV 1698
+2 DATE 22 JUL 1698
 1 FAMC @F73@
 1 SOUR @S73@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I218@ INDI
-1 NAME Domingos /Gonçalves/
+1 NAME João /Santiago/
 1 SEX M
 1 FAMS @F73@
 1 SOUR @S73@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I219@ INDI
-1 NAME Isabel /Domingues/
+1 NAME Maria /Lopes/
 1 SEX F
 1 FAMS @F73@
 1 SOUR @S73@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I220@ INDI
-1 NAME Maria
-1 SEX F
+1 NAME Manuel
+1 SEX M
 1 BAPM
-2 DATE 28 DEC 1698
+2 DATE 7 APR 1698
 1 FAMC @F74@
 1 SOUR @S74@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I221@ INDI
-1 NAME Francisco /Fernandes/
+1 NAME Manuel /Pires/
 1 SEX M
 1 FAMS @F74@
 1 SOUR @S74@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I222@ INDI
-1 NAME Maria /Lourença/
+1 NAME Francisca /Gonçalves/
 1 SEX F
 1 FAMS @F74@
 1 SOUR @S74@
@@ -1711,112 +1711,112 @@
 1 NAME Manuel
 1 SEX M
 1 BAPM
-2 DATE 29 JAN 1699
+2 DATE 15 AUG 1698
 1 FAMC @F75@
 1 SOUR @S75@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I224@ INDI
-1 NAME Domingos /Duarte/
+1 NAME Manuel /Carvalho/
 1 SEX M
 1 FAMS @F75@
 1 SOUR @S75@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I225@ INDI
-1 NAME Maria /Gomes/
+1 NAME Maria /Gonçalves/
 1 SEX F
 1 FAMS @F75@
 1 SOUR @S75@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I226@ INDI
-1 NAME António
-1 SEX M
+1 NAME Lúcia
+1 SEX F
 1 BAPM
-2 DATE 2 FEB 1699
+2 DATE 8 SEP 1698
 1 FAMC @F76@
 1 SOUR @S76@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I227@ INDI
-1 NAME António /Dias/
+1 NAME Manuel da /Costa/
 1 SEX M
 1 FAMS @F76@
 1 SOUR @S76@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I228@ INDI
-1 NAME Ana /Luís/
+1 NAME Maria /Lopes/
 1 SEX F
 1 FAMS @F76@
 1 SOUR @S76@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I229@ INDI
-1 NAME Ana
+1 NAME Maria
 1 SEX F
 1 BAPM
-2 DATE 6 JUL 1699
+2 DATE 26 SEP 1698
 1 FAMC @F77@
 1 SOUR @S77@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I230@ INDI
-1 NAME Diogo /Lourenço/
+1 NAME António /Dias/
 1 SEX M
 1 FAMS @F77@
 1 SOUR @S77@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I231@ INDI
-1 NAME Isabel /Fernandes/
+1 NAME Isabel /Lourença/
 1 SEX F
 1 FAMS @F77@
 1 SOUR @S77@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I232@ INDI
-1 NAME António
+1 NAME João
 1 SEX M
 1 BAPM
-2 DATE 10 SEP 1699
+2 DATE 25 SEP 1698
 1 FAMC @F78@
 1 SOUR @S78@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I233@ INDI
-1 NAME Manuel /Gomes/
+1 NAME João /Gomes/
 1 SEX M
 1 FAMS @F78@
 1 SOUR @S78@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I234@ INDI
-1 NAME Maria /Gomes/
+1 NAME Ana /Lourença/
 1 SEX F
 1 FAMS @F78@
 1 SOUR @S78@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I235@ INDI
-1 NAME Maria
+1 NAME Catarina
 1 SEX F
 1 BAPM
-2 DATE 12 OCT 1699
+2 DATE 2 OCT 1698
 1 FAMC @F79@
 1 SOUR @S79@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I236@ INDI
-1 NAME Francisco /Pires/
+1 NAME João /Martins/
 1 SEX M
 1 FAMS @F79@
 1 SOUR @S79@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I237@ INDI
-1 NAME Domingas /Gonçalves/
+1 NAME Isabel /Nunes/
 1 SEX F
 1 FAMS @F79@
 1 SOUR @S79@
@@ -1826,519 +1826,519 @@
 1 NAME Manuel
 1 SEX M
 1 BAPM
-2 DATE 4 DEC 1699
+2 DATE 7 NOV 1698
 1 FAMC @F80@
 1 SOUR @S80@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I239@ INDI
-1 NAME Manuel /Rodrigues/
+1 NAME Domingos /Gonçalves/
 1 SEX M
 1 FAMS @F80@
 1 SOUR @S80@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I240@ INDI
-1 NAME Maria /Gonçalves/
+1 NAME Isabel /Domingues/
 1 SEX F
 1 FAMS @F80@
 1 SOUR @S80@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I241@ INDI
-1 NAME Antónia
+1 NAME Maria
 1 SEX F
 1 BAPM
-2 DATE 7 DEC 1699
+2 DATE 28 DEC 1698
 1 FAMC @F81@
 1 SOUR @S81@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I242@ INDI
-1 NAME António /Leal/
+1 NAME Francisco /Fernandes/
 1 SEX M
 1 FAMS @F81@
 1 SOUR @S81@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I243@ INDI
-1 NAME Maria /Pires/
+1 NAME Maria /Lourença/
 1 SEX F
 1 FAMS @F81@
 1 SOUR @S81@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I244@ INDI
-1 NAME Joana
-1 SEX F
+1 NAME Manuel
+1 SEX M
 1 BAPM
-2 DATE 13 JAN 1700
+2 DATE 29 JAN 1699
 1 FAMC @F82@
 1 SOUR @S82@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I245@ INDI
-1 NAME João /Martins/
+1 NAME Domingos /Duarte/
 1 SEX M
 1 FAMS @F82@
 1 SOUR @S82@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I246@ INDI
-1 NAME Ana /Vaz/
+1 NAME Maria /Gomes/
 1 SEX F
 1 FAMS @F82@
 1 SOUR @S82@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I247@ INDI
-1 NAME Catarina
-1 SEX F
+1 NAME António
+1 SEX M
 1 BAPM
-2 DATE 14 FEB 1700
+2 DATE 2 FEB 1699
 1 FAMC @F83@
 1 SOUR @S83@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I248@ INDI
-1 NAME Domingos /Jorge/
+1 NAME António /Dias/
 1 SEX M
 1 FAMS @F83@
 1 SOUR @S83@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I249@ INDI
-1 NAME Maria /Pires/
+1 NAME Ana /Luís/
 1 SEX F
 1 FAMS @F83@
 1 SOUR @S83@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I250@ INDI
-1 NAME Guiomar
+1 NAME Ana
 1 SEX F
 1 BAPM
-2 DATE 27 JUL 1700
+2 DATE 6 JUL 1699
 1 FAMC @F84@
 1 SOUR @S84@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I251@ INDI
-1 NAME João /Lopes/
+1 NAME Diogo /Lourenço/
 1 SEX M
 1 FAMS @F84@
 1 SOUR @S84@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I252@ INDI
-1 NAME Guiomar /Martins/
+1 NAME Isabel /Fernandes/
 1 SEX F
 1 FAMS @F84@
 1 SOUR @S84@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I253@ INDI
-1 NAME Manuel
+1 NAME António
 1 SEX M
 1 BAPM
-2 DATE 1 SEP 1700
+2 DATE 10 SEP 1699
 1 FAMC @F85@
 1 SOUR @S85@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I254@ INDI
-1 NAME Domingos /Gama/
+1 NAME Manuel /Gomes/
 1 SEX M
 1 FAMS @F85@
 1 SOUR @S85@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I255@ INDI
-1 NAME Isabel /Novais/
+1 NAME Maria /Gomes/
 1 SEX F
 1 FAMS @F85@
 1 SOUR @S85@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I256@ INDI
-1 NAME Francisco
-1 SEX M
+1 NAME Maria
+1 SEX F
 1 BAPM
-2 DATE 1 FEB 1701
+2 DATE 12 OCT 1699
 1 FAMC @F86@
 1 SOUR @S86@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I257@ INDI
-1 NAME Baltasar /Dias/
+1 NAME Francisco /Pires/
 1 SEX M
 1 FAMS @F86@
 1 SOUR @S86@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I258@ INDI
-1 NAME Ana /Rodrigues/
+1 NAME Domingas /Gonçalves/
 1 SEX F
 1 FAMS @F86@
 1 SOUR @S86@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I259@ INDI
-1 NAME Maria
-1 SEX F
+1 NAME Manuel
+1 SEX M
 1 BAPM
-2 DATE 6 AUG 1701
+2 DATE 4 DEC 1699
 1 FAMC @F87@
 1 SOUR @S87@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I260@ INDI
-1 NAME Paulo
+1 NAME Manuel /Rodrigues/
 1 SEX M
 1 FAMS @F87@
 1 SOUR @S87@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I261@ INDI
-1 NAME Ana /Mendes/
+1 NAME Maria /Gonçalves/
 1 SEX F
 1 FAMS @F87@
 1 SOUR @S87@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I262@ INDI
-1 NAME Manuel
-1 SEX M
+1 NAME Antónia
+1 SEX F
 1 BAPM
-2 DATE 20 JUL 1701
+2 DATE 7 DEC 1699
 1 FAMC @F88@
 1 SOUR @S88@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I263@ INDI
-1 NAME Manuel /Gonçalves/
+1 NAME António /Leal/
 1 SEX M
 1 FAMS @F88@
 1 SOUR @S88@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I264@ INDI
-1 NAME Cecília /Luís/
+1 NAME Maria /Pires/
 1 SEX F
 1 FAMS @F88@
 1 SOUR @S88@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I265@ INDI
-1 NAME Maria
+1 NAME Joana
 1 SEX F
 1 BAPM
-2 DATE 10 AUG 1701
+2 DATE 13 JAN 1700
 1 FAMC @F89@
 1 SOUR @S89@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I266@ INDI
-1 NAME Gonçalo /Antunes/
+1 NAME João /Martins/
 1 SEX M
 1 FAMS @F89@
 1 SOUR @S89@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I267@ INDI
-1 NAME Maria /Afonso/
+1 NAME Ana /Vaz/
 1 SEX F
 1 FAMS @F89@
 1 SOUR @S89@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I268@ INDI
-1 NAME Manuel
-1 SEX M
+1 NAME Catarina
+1 SEX F
 1 BAPM
-2 DATE 17 AUG 1701
+2 DATE 14 FEB 1700
 1 FAMC @F90@
 1 SOUR @S90@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I269@ INDI
-1 NAME João /Antunes/
+1 NAME Domingos /Jorge/
 1 SEX M
 1 FAMS @F90@
 1 SOUR @S90@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I270@ INDI
-1 NAME Maria /Lopes/
+1 NAME Maria /Pires/
 1 SEX F
 1 FAMS @F90@
 1 SOUR @S90@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I271@ INDI
-1 NAME João
-1 SEX M
+1 NAME Guiomar
+1 SEX F
 1 BAPM
-2 DATE 17 SEP 1701
+2 DATE 27 JUL 1700
 1 FAMC @F91@
 1 SOUR @S91@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I272@ INDI
-1 NAME Manuel /Vaz/
+1 NAME João /Lopes/
 1 SEX M
 1 FAMS @F91@
 1 SOUR @S91@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I273@ INDI
-1 NAME Isabel /Fernandes/
+1 NAME Guiomar /Martins/
 1 SEX F
 1 FAMS @F91@
 1 SOUR @S91@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I274@ INDI
-1 NAME António
+1 NAME Manuel
 1 SEX M
 1 BAPM
-2 DATE 8 OCT 1701
+2 DATE 1 SEP 1700
 1 FAMC @F92@
 1 SOUR @S92@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I275@ INDI
-1 NAME Manuel /Lopes/
+1 NAME Domingos /Gama/
 1 SEX M
 1 FAMS @F92@
 1 SOUR @S92@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I276@ INDI
-1 NAME Maria /Gomes/
+1 NAME Isabel /Novais/
 1 SEX F
 1 FAMS @F92@
 1 SOUR @S92@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I277@ INDI
-1 NAME António
+1 NAME Francisco
 1 SEX M
 1 BAPM
-2 DATE 7 APR 1702
+2 DATE 1 FEB 1701
 1 FAMC @F93@
 1 SOUR @S93@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I278@ INDI
-1 NAME Domingos /Martins/
+1 NAME Baltasar /Dias/
 1 SEX M
 1 FAMS @F93@
 1 SOUR @S93@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I279@ INDI
-1 NAME Isabel /Gonçalves/
+1 NAME Ana /Rodrigues/
 1 SEX F
 1 FAMS @F93@
 1 SOUR @S93@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I280@ INDI
-1 NAME António
-1 SEX M
+1 NAME Maria
+1 SEX F
 1 BAPM
-2 DATE 26 AUG 1702
+2 DATE 6 AUG 1701
 1 FAMC @F94@
 1 SOUR @S94@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I281@ INDI
-1 NAME António /Gonçalves/
+1 NAME Paulo
 1 SEX M
 1 FAMS @F94@
 1 SOUR @S94@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I282@ INDI
-1 NAME Isabel /Fernandes/
+1 NAME Ana /Mendes/
 1 SEX F
 1 FAMS @F94@
 1 SOUR @S94@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I283@ INDI
-1 NAME Maria
-1 SEX F
+1 NAME Manuel
+1 SEX M
 1 BAPM
-2 DATE 27 NOV 1702
+2 DATE 20 JUL 1701
 1 FAMC @F95@
 1 SOUR @S95@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I284@ INDI
-1 NAME Domingos /Martins/
+1 NAME Manuel /Gonçalves/
 1 SEX M
 1 FAMS @F95@
 1 SOUR @S95@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I285@ INDI
-1 NAME Maria /Gonçalves/
+1 NAME Cecília /Luís/
 1 SEX F
 1 FAMS @F95@
 1 SOUR @S95@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I286@ INDI
-1 NAME Domingos
-1 SEX M
+1 NAME Maria
+1 SEX F
 1 BAPM
-2 DATE 9 DEC 1702
+2 DATE 10 AUG 1701
 1 FAMC @F96@
 1 SOUR @S96@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I287@ INDI
-1 NAME Manuel /Fernandes/
+1 NAME Gonçalo /Antunes/
 1 SEX M
 1 FAMS @F96@
 1 SOUR @S96@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I288@ INDI
-1 NAME Catarina /Franco/
+1 NAME Maria /Afonso/
 1 SEX F
 1 FAMS @F96@
 1 SOUR @S96@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I289@ INDI
-1 NAME Ana
-1 SEX F
+1 NAME Manuel
+1 SEX M
 1 BAPM
-2 DATE 23 DEC 1702
+2 DATE 17 AUG 1701
 1 FAMC @F97@
 1 SOUR @S97@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I290@ INDI
-1 NAME Tomás /Fernandes/
+1 NAME João /Antunes/
 1 SEX M
 1 FAMS @F97@
 1 SOUR @S97@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I291@ INDI
-1 NAME Maria /Esteves/
+1 NAME Maria /Lopes/
 1 SEX F
 1 FAMS @F97@
 1 SOUR @S97@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I292@ INDI
-1 NAME Francisco
+1 NAME João
 1 SEX M
 1 BAPM
-2 DATE 22 JAN 1703
+2 DATE 17 SEP 1701
 1 FAMC @F98@
 1 SOUR @S98@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I293@ INDI
-1 NAME Domingos /Pires/
+1 NAME Manuel /Vaz/
 1 SEX M
 1 FAMS @F98@
 1 SOUR @S98@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I294@ INDI
-1 NAME Francisca /Gonçalves/
+1 NAME Isabel /Fernandes/
 1 SEX F
 1 FAMS @F98@
 1 SOUR @S98@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I295@ INDI
-1 NAME Ana
-1 SEX F
+1 NAME António
+1 SEX M
 1 BAPM
-2 DATE 19 FEB 1703
+2 DATE 8 OCT 1701
 1 FAMC @F99@
 1 SOUR @S99@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I296@ INDI
-1 NAME Sebastião /Afonso/
+1 NAME Manuel /Lopes/
 1 SEX M
 1 FAMS @F99@
 1 SOUR @S99@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I297@ INDI
-1 NAME Isabel /Gonçalves/
+1 NAME Maria /Gomes/
 1 SEX F
 1 FAMS @F99@
 1 SOUR @S99@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I298@ INDI
-1 NAME Diogo
+1 NAME António
 1 SEX M
 1 BAPM
-2 DATE 19 JUN 1704
+2 DATE 7 APR 1702
 1 FAMC @F100@
 1 SOUR @S100@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I299@ INDI
-1 NAME José /Fernandes/
+1 NAME Domingos /Martins/
 1 SEX M
 1 FAMS @F100@
 1 SOUR @S100@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I300@ INDI
-1 NAME Isabel /Fernandes/
+1 NAME Isabel /Gonçalves/
 1 SEX F
 1 FAMS @F100@
 1 SOUR @S100@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I301@ INDI
-1 NAME João
+1 NAME António
 1 SEX M
 1 BAPM
-2 DATE 20 JUL 1704
+2 DATE 26 AUG 1702
 1 FAMC @F101@
 1 SOUR @S101@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I302@ INDI
-1 NAME Francisco /Fernandes/
+1 NAME António /Gonçalves/
 1 SEX M
 1 FAMS @F101@
 1 SOUR @S101@
 2 NOTE Papel: pai
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I303@ INDI
-1 NAME Isabel /Antunes/
+1 NAME Isabel /Fernandes/
 1 SEX F
 1 FAMS @F101@
 1 SOUR @S101@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I304@ INDI
-1 NAME António
-1 SEX M
+1 NAME Maria
+1 SEX F
 1 BAPM
-2 DATE 9 OCT 1704
+2 DATE 27 NOV 1702
 1 FAMC @F102@
 1 SOUR @S102@
 2 NOTE Papel: criança
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I305@ INDI
-1 NAME António /Pires/
+1 NAME Domingos /Martins/
 1 SEX M
 1 FAMS @F102@
 1 SOUR @S102@
@@ -2352,189 +2352,350 @@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @I307@ INDI
+1 NAME Domingos
+1 SEX M
+1 BAPM
+2 DATE 9 DEC 1702
+1 FAMC @F103@
+1 SOUR @S103@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I308@ INDI
+1 NAME Manuel /Fernandes/
+1 SEX M
+1 FAMS @F103@
+1 SOUR @S103@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I309@ INDI
+1 NAME Catarina /Franco/
+1 SEX F
+1 FAMS @F103@
+1 SOUR @S103@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I310@ INDI
+1 NAME Ana
+1 SEX F
+1 BAPM
+2 DATE 23 DEC 1702
+1 FAMC @F104@
+1 SOUR @S104@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I311@ INDI
+1 NAME Tomás /Fernandes/
+1 SEX M
+1 FAMS @F104@
+1 SOUR @S104@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I312@ INDI
+1 NAME Maria /Esteves/
+1 SEX F
+1 FAMS @F104@
+1 SOUR @S104@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I313@ INDI
+1 NAME Francisco
+1 SEX M
+1 BAPM
+2 DATE 22 JAN 1703
+1 FAMC @F105@
+1 SOUR @S105@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I314@ INDI
+1 NAME Domingos /Pires/
+1 SEX M
+1 FAMS @F105@
+1 SOUR @S105@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I315@ INDI
+1 NAME Francisca /Gonçalves/
+1 SEX F
+1 FAMS @F105@
+1 SOUR @S105@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I316@ INDI
+1 NAME Ana
+1 SEX F
+1 BAPM
+2 DATE 19 FEB 1703
+1 FAMC @F106@
+1 SOUR @S106@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I317@ INDI
+1 NAME Sebastião /Afonso/
+1 SEX M
+1 FAMS @F106@
+1 SOUR @S106@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I318@ INDI
+1 NAME Isabel /Gonçalves/
+1 SEX F
+1 FAMS @F106@
+1 SOUR @S106@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I319@ INDI
+1 NAME Diogo
+1 SEX M
+1 BAPM
+2 DATE 19 JUN 1704
+1 FAMC @F107@
+1 SOUR @S107@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I320@ INDI
+1 NAME José /Fernandes/
+1 SEX M
+1 FAMS @F107@
+1 SOUR @S107@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I321@ INDI
+1 NAME Isabel /Fernandes/
+1 SEX F
+1 FAMS @F107@
+1 SOUR @S107@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I322@ INDI
+1 NAME João
+1 SEX M
+1 BAPM
+2 DATE 20 JUL 1704
+1 FAMC @F108@
+1 SOUR @S108@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I323@ INDI
+1 NAME Francisco /Fernandes/
+1 SEX M
+1 FAMS @F108@
+1 SOUR @S108@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I324@ INDI
+1 NAME Isabel /Antunes/
+1 SEX F
+1 FAMS @F108@
+1 SOUR @S108@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I325@ INDI
+1 NAME António
+1 SEX M
+1 BAPM
+2 DATE 9 OCT 1704
+1 FAMC @F109@
+1 SOUR @S109@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I326@ INDI
+1 NAME António /Pires/
+1 SEX M
+1 FAMS @F109@
+1 SOUR @S109@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I327@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 FAMS @F109@
+1 SOUR @S109@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I328@ INDI
 1 NAME Miguel Dias /Duro/
 1 SEX M
 1 DEAT
 2 DATE 25 JAN 1695
-1 SOUR @S103@
+1 SOUR @S110@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I308@ INDI
+0 @I329@ INDI
 1 NAME Baltasar /Soleiro/
 1 SEX M
 1 DEAT
 2 DATE 14 FEB 1695
-1 SOUR @S104@
+1 SOUR @S111@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I309@ INDI
+0 @I330@ INDI
 1 NAME António /Luís/
 1 SEX M
 1 DEAT
 2 DATE 25 APR 1697
-1 SOUR @S105@
+1 SOUR @S112@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I310@ INDI
+0 @I331@ INDI
 1 NAME Maria /Correia/
 1 SEX F
 1 DEAT
 2 DATE 26 AUG 1697
-1 SOUR @S106@
+1 SOUR @S113@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I311@ INDI
+0 @I332@ INDI
 1 NAME Maria
 1 SEX F
 1 DEAT
 2 DATE 29 SEP 1697
-1 SOUR @S107@
+1 SOUR @S114@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I312@ INDI
+0 @I333@ INDI
 1 NAME Catarina /Gonçalves/
 1 SEX F
 1 DEAT
 2 DATE 13 OCT 1697
-1 SOUR @S108@
+1 SOUR @S115@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I313@ INDI
+0 @I334@ INDI
 1 NAME José /Marques/
 1 SEX M
 1 DEAT
 2 DATE 22 OCT 1697
-1 SOUR @S109@
+1 SOUR @S116@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I314@ INDI
+0 @I335@ INDI
 1 NAME Sebastião /Martins/
 1 SEX M
 1 DEAT
 2 DATE 24 OCT 1697
-1 SOUR @S110@
+1 SOUR @S117@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I315@ INDI
+0 @I336@ INDI
 1 NAME Manuel /Gomes/
 1 SEX M
 1 DEAT
 2 DATE 15 JUL 1698
-1 SOUR @S111@
+1 SOUR @S118@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I316@ INDI
+0 @I337@ INDI
 1 NAME Isabel /Fernandes/
 1 SEX F
 1 DEAT
 2 DATE 16 FEB 1698
-1 SOUR @S112@
+1 SOUR @S119@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I317@ INDI
+0 @I338@ INDI
 1 NAME Maria /Lourenço/
 1 SEX F
 1 DEAT
 2 DATE 11 MAR 1699
-1 SOUR @S113@
+1 SOUR @S120@
 2 NOTE Papel: falecido
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I318@ INDI
+0 @I339@ INDI
 1 NAME João /Pires/
 1 SEX M
-1 FAMS @F103@
-1 SOUR @S114@
+1 FAMS @F110@
+1 SOUR @S121@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I319@ INDI
+0 @I340@ INDI
 1 NAME Ana /Lourença/
 1 SEX F
-1 FAMS @F103@
-1 SOUR @S114@
+1 FAMS @F110@
+1 SOUR @S121@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I320@ INDI
+0 @I341@ INDI
 1 NAME João /Marques/
 1 SEX M
-1 FAMS @F104@
-1 SOUR @S115@
+1 FAMS @F111@
+1 SOUR @S122@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I321@ INDI
+0 @I342@ INDI
 1 NAME Catarina /Miguel/
 1 SEX F
-1 FAMS @F104@
-1 SOUR @S115@
+1 FAMS @F111@
+1 SOUR @S122@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I322@ INDI
+0 @I343@ INDI
 1 NAME João /Fernandes/
 1 SEX M
-1 FAMS @F105@
-1 SOUR @S116@
+1 FAMS @F112@
+1 SOUR @S123@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I323@ INDI
+0 @I344@ INDI
 1 NAME Maria /Gonçalves/
 1 SEX F
-1 FAMS @F105@
-1 SOUR @S116@
+1 FAMS @F112@
+1 SOUR @S123@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I324@ INDI
+0 @I345@ INDI
 1 NAME Francisco /Martins/
 1 SEX M
-1 FAMS @F106@
-1 SOUR @S117@
+1 FAMS @F113@
+1 SOUR @S124@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I325@ INDI
+0 @I346@ INDI
 1 NAME Isabel /Pires/
 1 SEX F
-1 FAMS @F106@
-1 SOUR @S117@
+1 FAMS @F113@
+1 SOUR @S124@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I326@ INDI
+0 @I347@ INDI
 1 NAME João Lopes /Valado/
 1 SEX M
-1 FAMS @F107@
-1 SOUR @S118@
+1 FAMS @F114@
+1 SOUR @S125@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I327@ INDI
+0 @I348@ INDI
 1 NAME Domingas /Nunes/
 1 SEX F
-1 FAMS @F107@
-1 SOUR @S118@
+1 FAMS @F114@
+1 SOUR @S125@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I328@ INDI
+0 @I349@ INDI
 1 NAME Manuel /Luís/
 1 SEX M
-1 FAMS @F108@
-1 SOUR @S119@
+1 FAMS @F115@
+1 SOUR @S126@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I329@ INDI
+0 @I350@ INDI
 1 NAME Catarina /Luís/
 1 SEX F
-1 FAMS @F108@
-1 SOUR @S119@
+1 FAMS @F115@
+1 SOUR @S126@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I330@ INDI
+0 @I351@ INDI
 1 NAME Francisco /Martins/
 1 SEX M
-1 FAMS @F109@
-1 SOUR @S120@
+1 FAMS @F116@
+1 SOUR @S127@
 2 NOTE Papel: noivo
 1 NOTE Identidade com as genealogias do blogue por confirmar.
-0 @I331@ INDI
+0 @I352@ INDI
 1 NAME Isabel /Nunes/
 1 SEX F
-1 FAMS @F109@
-1 SOUR @S120@
+1 FAMS @F116@
+1 SOUR @S127@
 2 NOTE Papel: noiva
 1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @F1@ FAM
@@ -3048,53 +3209,88 @@
 1 CHIL @I304@
 1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
 0 @F103@ FAM
-1 HUSB @I318@
-1 WIFE @I319@
-1 MARR
-2 DATE 4 JUN 1694
-2 SOUR @S114@
-1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+1 HUSB @I308@
+1 WIFE @I309@
+1 CHIL @I307@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
 0 @F104@ FAM
+1 HUSB @I311@
+1 WIFE @I312@
+1 CHIL @I310@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F105@ FAM
+1 HUSB @I314@
+1 WIFE @I315@
+1 CHIL @I313@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F106@ FAM
+1 HUSB @I317@
+1 WIFE @I318@
+1 CHIL @I316@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F107@ FAM
 1 HUSB @I320@
 1 WIFE @I321@
-1 MARR
-2 DATE 20 JUL 1694
-2 SOUR @S115@
-1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
-0 @F105@ FAM
-1 HUSB @I322@
-1 WIFE @I323@
-1 MARR
-2 DATE 17 JUN 1696
-2 SOUR @S116@
-1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
-0 @F106@ FAM
-1 HUSB @I324@
-1 WIFE @I325@
-1 MARR
-2 DATE 23 JUN 1697
-2 SOUR @S117@
-1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
-0 @F107@ FAM
+1 CHIL @I319@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F108@ FAM
+1 HUSB @I323@
+1 WIFE @I324@
+1 CHIL @I322@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F109@ FAM
 1 HUSB @I326@
 1 WIFE @I327@
+1 CHIL @I325@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F110@ FAM
+1 HUSB @I339@
+1 WIFE @I340@
+1 MARR
+2 DATE 4 JUN 1694
+2 SOUR @S121@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+0 @F111@ FAM
+1 HUSB @I341@
+1 WIFE @I342@
+1 MARR
+2 DATE 20 JUL 1694
+2 SOUR @S122@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+0 @F112@ FAM
+1 HUSB @I343@
+1 WIFE @I344@
+1 MARR
+2 DATE 17 JUN 1696
+2 SOUR @S123@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+0 @F113@ FAM
+1 HUSB @I345@
+1 WIFE @I346@
+1 MARR
+2 DATE 23 JUN 1697
+2 SOUR @S124@
+1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
+0 @F114@ FAM
+1 HUSB @I347@
+1 WIFE @I348@
 1 MARR
 2 DATE 3 JUL 1697
-2 SOUR @S118@
+2 SOUR @S125@
 1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
-0 @F108@ FAM
-1 HUSB @I328@
-1 WIFE @I329@
+0 @F115@ FAM
+1 HUSB @I349@
+1 WIFE @I350@
 1 MARR
 2 DATE 10 AUG 1697
-2 SOUR @S119@
+2 SOUR @S126@
 1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
-0 @F109@ FAM
-1 HUSB @I330@
-1 WIFE @I331@
+0 @F116@ FAM
+1 HUSB @I351@
+1 WIFE @I352@
 1 MARR
 2 DATE 4 MAR 1698
-2 SOUR @S120@
+2 SOUR @S127@
 1 NOTE Casamento identificado no original S8; filiações e ligação às famílias da base por confirmar.
 0 @S1@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-e-03
@@ -3364,6 +3560,14 @@
 1 NOTE «Aos dezasseis dias do mes de julho [...] noventa e cinco annos [...] a Maria filha de António Martins e de sua mulher Catarina Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normal
 2 CONC izada.
 0 @S36@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0015-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0015.jpg
+2 CONT direita, assento 1; batismo 25/07/1695.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e sinco dias do mes de Julho de mil e seis centos e noventa e sinco annos baptizei e pus os sanctos oleos a Bernabe filho de Domingos Gonçalves e de sua m[ulher] Izabel Nabais». Excerto parcial de leitura; reticências editoria
+2 CONC is, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S37@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0015-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0015.jpg
@@ -3371,7 +3575,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos quinze dias do mes de agosto [...] noventa e cinco annos [...] a Francisco filho de Pedro Domingues e de sua mulher Ana Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normaliz
 2 CONC ada.
-0 @S37@ SOUR
+0 @S38@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0015-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0015.jpg
@@ -3379,7 +3583,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dezanove dias do mes de agosto [...] noventa e cinco annos [...] a António filho de Manuel Nunes e de Maria Fernandes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 1 NOTE Possível mesmo casal de S8-B1-m0004-d-04 (Manuel, 30/12/1692): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos.
-0 @S38@ SOUR
+0 @S39@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0016-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0016.jpg
@@ -3388,7 +3592,7 @@
 1 NOTE «Aos dois dias do mes de setembro [...] noventa e cinco annos [...] a João filho de João Rodrigues [...] e de sua mulher Maria Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normali
 2 CONC zada.
 1 NOTE Possível mesmo casal de S8-B1-m0005-e-02 (Isabel, 20/11/1692): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos.
-0 @S39@ SOUR
+0 @S40@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0016-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0016.jpg
@@ -3396,7 +3600,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dez dias do mes de setembro [...] noventa e cinco annos [...] a Manuel filho de José Marques [...] e de sua mulher Isabel Marques». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes norma
 2 CONC lizada.
-0 @S40@ SOUR
+0 @S41@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0017-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0017.jpg
@@ -3404,14 +3608,14 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos trinta e hum dias do mes de outubro [...] noventa e cinco annos [...] a Maria filha de João Pires e de sua mulher Ana Fernandes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normali
 2 CONC zada.
-0 @S41@ SOUR
+0 @S42@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0017-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0017.jpg
 2 CONT direita, assento 1; batismo 06/11/1695.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos seis dias do mes de novembro [...] noventa e cinco annos [...] a José filho de José Lopes e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S42@ SOUR
+0 @S43@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0017-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0017.jpg
@@ -3419,7 +3623,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e quatro dias do mes de dezembro [...] noventa e cinco annos [...] a Maria filha de Luís Pinto e de sua mulher Ana Gonçalves». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
 2 CONC malizada.
-0 @S43@ SOUR
+0 @S44@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0018-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0018.jpg
@@ -3427,7 +3631,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e nove dias do mes de janeiro [...] noventa e seis annos [...] a Maria filha de Domingos Jorge e de sua mulher Catarina Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes no
 2 CONC rmalizada.
-0 @S44@ SOUR
+0 @S45@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0018-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0018.jpg
@@ -3436,21 +3640,21 @@
 1 NOTE «Aos doze dias do mes de fevereiro [...] noventa e seis annos [...] a António filho de António Martins e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normal
 2 CONC izada.
 1 NOTE Possível mesmo casal de S8-B1-m0010-e-03 (Ana, 18/02/1694): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos.
-0 @S45@ SOUR
+0 @S46@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0018-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0018.jpg
 2 CONT direita, assento 1; batismo 13/04/1696.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos treze dias do mes de abril [...] noventa e seis annos [...] a Maria filha de António Lourenço e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S46@ SOUR
+0 @S47@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0018-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0018.jpg
 2 CONT direita, assento 2; batismo 09/04/1696.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos nove dias do mes de abril [...] noventa e seis annos [...] a João filho de João Martins e de Isabel Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S47@ SOUR
+0 @S48@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0019-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0019.jpg
@@ -3458,7 +3662,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e nove dias do mes de abril [...] noventa e seis annos [...] a Brígida filha de Manuel Fernandes [...] e de sua mulher Isabel Nunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nom
 2 CONC es normalizada.
-0 @S48@ SOUR
+0 @S49@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0019-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0019.jpg
@@ -3466,7 +3670,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos oito dias do mes de junho [...] noventa e seis annos [...] a Ana filha de Pedro Lourenço Nabais e de sua mulher Inês Antunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normaliza
 2 CONC da.
-0 @S49@ SOUR
+0 @S50@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0019-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0019.jpg
@@ -3474,7 +3678,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte dias do mes de junho [...] noventa e seis annos [...] a Maria filha de António Rodrigues e de sua mulher Isabel Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normaliza
 2 CONC da.
-0 @S50@ SOUR
+0 @S51@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0020-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0020.jpg
@@ -3482,7 +3686,15 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos cinco dias do mes de agosto [...] noventa e seis annos [...] a Maria filha de António Martins e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 1 NOTE Possível mesmo casal de S8-B1-m0014-e-03 (António, 09/03/1695): os nomes dos dois pais coincidem e as datas são compatíveis. Identidade do casal por confirmar; sem fusão de famílias ou filhos.
-0 @S51@ SOUR
+0 @S52@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0020-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0020.jpg
+2 CONT direita, assento 1; batismo 05/09/1696.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos cinco dias do mes de Setembro de mil e seis centos e noventa e seis annos baptizei e pus os sanctos oleos a Manoel filho de Antonio Pires e de sua m[ulher] Maria Nunes». Excerto parcial de leitura; reticências editoriais, abreviatura
+2 CONC s expandidas e grafia dos nomes normalizada.
+0 @S53@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0020-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0020.jpg
@@ -3490,7 +3702,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e oito dias do mes de setembro [...] noventa e seis annos [...] a Ana filha de António Nabais e de sua mulher Maria Gonçalves». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes no
 2 CONC rmalizada.
-0 @S52@ SOUR
+0 @S54@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0020-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0020.jpg
@@ -3499,7 +3711,7 @@
 1 NOTE «Ao primeiro dia do mes de setembro digo de outubro [...] noventa e seis annos [...] a Gonçalo filho de João Lopes e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos no
 2 CONC mes normalizada.
 1 NOTE O redator corrige o mês: «setembro digo de outubro». Registado outubro, conservando a correção no excerto.
-0 @S53@ SOUR
+0 @S55@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0020-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0020.jpg
@@ -3508,7 +3720,15 @@
 1 NOTE «No mesmo dia mes era ut supra [...] a António filho de João Lopes e de sua mulher Maria Rodrigues [...] baptizei em casa por necessidade». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes n
 2 CONC ormalizada.
 1 NOTE O pai tem o mesmo nome do pai do assento anterior, mas as mães são diferentes. Famílias mantidas separadas.
-0 @S54@ SOUR
+0 @S56@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0021-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0021.jpg
+2 CONT esquerda, assento 1; batismo 28/10/1696.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e oito dias do mes de Outubro de mil e seis centos e noventa e seis annos baptizei e pus os sanctos oleos a Izabel f[ilh]a de Jose Duarte [...] e de sua m[ulher] Maria Gonçalves». Excerto parcial de leitura; reticências editor
+2 CONC iais, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S57@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0021-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0021.jpg
@@ -3516,7 +3736,15 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dezoito dias do mes de novembro [...] noventa e seis annos [...] a Isabel filha de Domingos Gonçalves e de sua mulher Isabel Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes norma
 2 CONC lizada.
-0 @S55@ SOUR
+0 @S58@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0021-d-04
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0021.jpg
+2 CONT direita, assento 4; batismo 09/12/1696.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos nove dias do mes de Dezembro de mil e seis centos e noventa e seis annos baptizei e pus os sanctos oleos a Anna f[ilh]a de Domingos Gonçalves [...] e de sua m[ulher] Maria Gonçalves». Excerto parcial de leitura; reticências editori
+2 CONC ais, abreviaturas expandidas e grafia dos nomes normalizada.
+0 @S59@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0022-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0022.jpg
@@ -3524,7 +3752,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e oito dias do mes de janeiro [...] noventa e sete annos [...] a Ana filha de Bartolomeu Fernandes [...] e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nom
 2 CONC es normalizada.
-0 @S56@ SOUR
+0 @S60@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0022-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0022.jpg
@@ -3532,7 +3760,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos quatorze dias do mes de fevereiro [...] noventa e sete [...] a Domingos filho de Domingos Serrão e de sua mulher Maria Gomes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizad
 2 CONC a.
-0 @S57@ SOUR
+0 @S61@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0022-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0022.jpg
@@ -3540,7 +3768,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dois dias do mes de fevereiro [...] noventa e sete annos [...] a Ana filha de Domingos Lopes e de sua mulher Guiomar Nunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 1 NOTE Possível mesmo casal de S8-B1-m0004-d-02 (Manuel, 26/12/1692) e S8-B1-m0013-d-04 (Maria, 22/11/1694): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos.
-0 @S58@ SOUR
+0 @S62@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0022-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0022.jpg
@@ -3548,7 +3776,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dezasseis dias do mes de março [...] noventa e sete annos [...] a Catarina filha de António Dias [...] e de sua mulher Maria Pires». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
 2 CONC malizada.
-0 @S59@ SOUR
+0 @S63@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0023-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0023.jpg
@@ -3557,14 +3785,14 @@
 1 NOTE «Aos vinte e tres dias do mes de abril [...] noventa e sete annos [...] a Manuel filho de António Jorge e de sua mulher Catarina Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normal
 2 CONC izada.
 1 NOTE Possível mesmo casal de S8-B1-m0014-d-02 (António, 01/05/1695): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos.
-0 @S60@ SOUR
+0 @S64@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0023-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0023.jpg
 2 CONT esquerda, assento 3; batismo 26/05/1697.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e seis dias do mes de maio [...] noventa e sete annos [...] a João filho de Manuel Dias e de Maria Antunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S61@ SOUR
+0 @S65@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0025-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0025.jpg
@@ -3572,7 +3800,15 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos quatorze dias do mes de dezembro [...] noventa e sete annos [...] a Francisco filho de António Martins e de sua mulher Catarina Afonso». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes
 2 CONC  normalizada.
-0 @S62@ SOUR
+0 @S66@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0025-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0025.jpg
+2 CONT direita, assento 1; batismo 05/01/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos sinco dias do mes de Jan[ei]ro de mil e seis centos e noventa e oito annos baptizei e pus os sanctos oleos a Manoel f[ilh]o de Joam Pires e de sua m[ulher] Domingas P[ire]s». Excerto parcial de leitura; reticências editoriais, abrevi
+2 CONC aturas expandidas e grafia dos nomes normalizada.
+0 @S67@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0025-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0025.jpg
@@ -3581,7 +3817,7 @@
 1 NOTE «Aos seis dias do mes de janeiro [...] noventa e oito annos [...] a Ana filha de António Martins e de sua mulher Maria Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 1 NOTE Possível mesmo casal de S8-B1-m0010-e-03 (Ana, 18/02/1694) e S8-B1-m0018-e-02 (António, 12/02/1696): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos. As duas crianças
 2 CONC  chamadas Ana são mantidas como pessoas distintas.
-0 @S63@ SOUR
+0 @S68@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0026-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0026.jpg
@@ -3589,7 +3825,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e cinco dias do mes de janeiro [...] noventa e oito annos [...] a Catarina filha de António Martins e de sua mulher Isabel Nabais». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes
 2 CONC  normalizada.
-0 @S64@ SOUR
+0 @S69@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0026-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0026.jpg
@@ -3598,7 +3834,7 @@
 1 NOTE «Aos quinze dias do mes de março [...] noventa e oito annos [...] a Domingos filho de Pedro Domingues e de sua mulher Ana Martins». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizad
 2 CONC a.
 1 NOTE Possível mesmo casal de S8-B1-m0015-d-02 (Francisco, 15/08/1695): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos.
-0 @S65@ SOUR
+0 @S70@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0026-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0026.jpg
@@ -3606,7 +3842,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos trinta e hum dias do mes de maio [...] noventa e oito annos [...] a José filho de Domingos Gonçalves e de sua mulher Isabel Nabais». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
 2 CONC malizada.
-0 @S66@ SOUR
+0 @S71@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0026-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0026.jpg
@@ -3614,14 +3850,14 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos sete dias do mes de junho [...] noventa e oito annos [...] a Gabriel filho de Gabriel Nunes e de sua mulher Helena Marques». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 1 NOTE Possível mesmo casal de S8-B1-m0012-e-01 (Helena, 28/07/1694): nomes de ambos os pais coincidem e datas são compatíveis. Identidade por confirmar; sem fusão de famílias ou filhos.
-0 @S67@ SOUR
+0 @S72@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0026-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0026.jpg
 2 CONT direita, assento 3; batismo 06/07/1698.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos seis dias do mes de julho [...] noventa e oito annos [...] a Ana filha de José Fernandes e de Isabel Dias». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S68@ SOUR
+0 @S73@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0028-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0028.jpg
@@ -3629,7 +3865,15 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e dois dias do mes de julho [...] noventa e oito annos [...] a Manuel filho de João Santiago [...] e de sua mulher Maria Lopes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes no
 2 CONC rmalizada.
-0 @S69@ SOUR
+0 @S74@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0028-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0028.jpg
+2 CONT esquerda, assento 2; batismo 07/04/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos sete dias do mes de Abril de mil e seis centos e noventa e oito annos baptizei e pus os sanctos oleos a Manoel filho de Manoel Pires e de sua m[ulher] Francisca Gonçalves». Excerto parcial de leitura; reticências editoriais, abrevia
+2 CONC turas expandidas e grafia dos nomes normalizada.
+0 @S75@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0028-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0028.jpg
@@ -3637,14 +3881,22 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos quinze dias do mes de agosto [...] noventa e oito annos [...] a Manuel filho de Manuel Carvalho e de sua mulher Maria Gonçalves». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normali
 2 CONC zada.
-0 @S70@ SOUR
+0 @S76@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0029-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0029.jpg
 2 CONT esquerda, assento 1; batismo 08/09/1698.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos oito dias do mes de setembro [...] noventa e oito annos [...] a Lúcia filha de Manuel da Costa e de sua mulher Maria Lopes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S71@ SOUR
+0 @S77@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0029-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
+1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0029.jpg
+2 CONT direita, assento 1; batismo 26/09/1698.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE «Aos vinte e seis dias do mes de Setembro de mil e seis centos e noventa e oito annos [...] a Maria filha de Antonio Dias e de sua m[ulher] Izabel Lourença». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e g
+2 CONC rafia dos nomes normalizada.
+0 @S78@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0029-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0029.jpg
@@ -3652,14 +3904,14 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e cinco dias do mes de setembro [...] noventa e oito annos [...] a João filho de João Gomes e de sua mulher Ana Lourença». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normal
 2 CONC izada.
-0 @S72@ SOUR
+0 @S79@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0029-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0029.jpg
 2 CONT direita, assento 3; batismo 02/10/1698.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dois dias do mes de outubro [...] noventa e oito annos [...] a Catarina filha de João Martins e de sua mulher Isabel Nunes». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S73@ SOUR
+0 @S80@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0030-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0030.jpg
@@ -3667,7 +3919,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos sete dias do mes de novembro [...] noventa e oito annos [...] a Manuel filho de Domingos Gonçalves e de sua mulher Isabel Domingues». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
 2 CONC malizada.
-0 @S74@ SOUR
+0 @S81@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0030-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0030.jpg
@@ -3675,7 +3927,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e oito dias do mes de dezembro [...] noventa e oito annos [...] a Maria filha de Francisco Fernandes [...] e de sua mulher Maria Lourença». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia d
 2 CONC os nomes normalizada.
-0 @S75@ SOUR
+0 @S82@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0031-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0031.jpg
@@ -3683,7 +3935,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e nove dias do mês de janeiro de mil seiscentos e noventa e nove anos [...] a Manuel filho de Domingos Duarte e de sua mulher Maria Gomes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências e
 2 CONC ditoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S76@ SOUR
+0 @S83@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0031-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0031.jpg
@@ -3691,7 +3943,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dois dias do mês de fevereiro de mil seiscentos e noventa e nove anos batizei [...] a António filho de António Dias e de sua mulher Ana Luís [...] do segundo matrimónio da parte dele». Excerto parcial de leitura; reticências edi
 2 CONC toriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S77@ SOUR
+0 @S84@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0032-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0032.jpg
@@ -3699,7 +3951,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos seis dias do mês de julho de mil seiscentos e noventa e nove anos batizei [...] a Ana filha de Diogo Lourenço e de sua mulher Isabel Fernandes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências e
 2 CONC ditoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S78@ SOUR
+0 @S85@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0033-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0033.jpg
@@ -3707,7 +3959,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dez dias do mês de setembro de mil e seiscentos e noventa e nove anos batizei [...] a António filho de Manuel Gomes e de sua mulher Maria Gomes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências
 2 CONC  editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S79@ SOUR
+0 @S86@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0034-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0034.jpg
@@ -3715,7 +3967,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos doze dias do mês de outubro de mil seiscentos e noventa e nove anos [...] a Maria filha de Francisco Pires e de sua mulher Domingas Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e gra
 2 CONC fia dos nomes normalizada.
-0 @S80@ SOUR
+0 @S87@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0034-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0034.jpg
@@ -3723,7 +3975,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos quatro dias do mês de dezembro de mil seiscentos e noventa e nove anos [...] Manuel filho de Manuel Rodrigues e Maria Gonçalves sua mulher [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia
 2 CONC  dos nomes normalizada.
-0 @S81@ SOUR
+0 @S88@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0034-d-05
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0034.jpg
@@ -3731,14 +3983,14 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos sete dias do mês de dezembro de mil seiscentos e noventa e nove anos [...] Antónia filha de António Leal [...] e de sua mulher Maria Pires [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafi
 2 CONC a dos nomes normalizada.
-0 @S82@ SOUR
+0 @S89@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0035-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0035.jpg
 2 CONT esquerda, assento 3; batismo 13/01/1700.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos treze dias do mês de janeiro de mil e setecentos anos [...] a Joana filha de João Martins e de sua mulher Ana Vaz [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S83@ SOUR
+0 @S90@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0035-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0035.jpg
@@ -3746,7 +3998,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos catorze dias do mês de fevereiro de mil e setecentos anos [...] Catarina filha de Domingos Jorge e de sua mulher Maria Pires [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes norm
 2 CONC alizada.
-0 @S84@ SOUR
+0 @S91@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0037-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0037.jpg
@@ -3754,7 +4006,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e sete dias do mês de julho de mil e setecentos anos batizei [...] a Guiomar filha de João Lopes e de sua mulher Guiomar Martins [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos
 2 CONC  nomes normalizada.
-0 @S85@ SOUR
+0 @S92@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0038-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0038.jpg
@@ -3762,7 +4014,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Ao primeiro dia do mês de setembro de mil e setecentos anos [...] a Manuel filho de Domingos Gama e de sua mulher Isabel Novais [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes norma
 2 CONC lizada.
-0 @S86@ SOUR
+0 @S93@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0041-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0041.jpg
@@ -3770,7 +4022,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Ao primeiro dia do mês de fevereiro de mil e setecentos e um anos [...] a Francisco filho de Baltasar Dias e de sua mulher Ana Rodrigues [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos no
 2 CONC mes normalizada.
-0 @S87@ SOUR
+0 @S94@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0041-d-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0041.jpg
@@ -3779,7 +4031,7 @@
 1 NOTE «Aos seis dias do mês de agosto de mil e setecentos e um anos batizei [...] a Maria filha de Paulo e de sua mulher Ana Mendes [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editoriais, abreviaturas
 2 CONC  expandidas e grafia dos nomes normalizada.
 1 NOTE O assento identifica o pai apenas como Paulo; não se acrescenta apelido por hipótese. A data é a do texto, apesar da posição antes dos assentos de março e abril em m0042.
-0 @S88@ SOUR
+0 @S95@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0042-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0042.jpg
@@ -3787,7 +4039,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte dias do mês de julho de mil e setecentos e um anos batizei [...] a Manuel filho de Manuel Gonçalves e de sua mulher Cecília Luís [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editori
 2 CONC ais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S89@ SOUR
+0 @S96@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0043-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0043.jpg
@@ -3795,7 +4047,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dez dias do mês de agosto de mil e setecentos e um anos batizei [...] a Maria filha de Gonçalo Antunes e de sua mulher Maria Afonso [...] do primeiro matrimónio de entre ambos». Excerto parcial de leitura; reticências editoriais,
 2 CONC  abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S90@ SOUR
+0 @S97@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0043-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0043.jpg
@@ -3803,7 +4055,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dezassete dias do mês de agosto de mil e setecentos e um anos batizei [...] a Manuel filho de João Antunes e de sua mulher Maria Lopes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos
 2 CONC  nomes normalizada.
-0 @S91@ SOUR
+0 @S98@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0043-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0043.jpg
@@ -3811,7 +4063,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dezassete dias do mês de setembro de mil e setecentos e um anos batizei [...] a João filho de Manuel Vaz [...] e de sua mulher Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e g
 2 CONC rafia dos nomes normalizada.
-0 @S92@ SOUR
+0 @S99@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0044-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0044.jpg
@@ -3819,7 +4071,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos oito dias do mês de outubro de mil e setecentos e um anos batizei [...] a António filho de Manuel Lopes e de sua mulher Maria Gomes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos no
 2 CONC mes normalizada.
-0 @S93@ SOUR
+0 @S100@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0047-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0047.jpg
@@ -3827,7 +4079,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos sete dias do mês de abril de mil e setecentos e dois anos batizei [...] a António filho de Domingos Martins e de sua mulher Isabel Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e gra
 2 CONC fia dos nomes normalizada.
-0 @S94@ SOUR
+0 @S101@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0050-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0050.jpg
@@ -3835,7 +4087,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e seis dias do mês de agosto de mil e setecentos e dois anos batizei [...] a António filho de António Gonçalves [...] e de sua mulher Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas
 2 CONC  expandidas e grafia dos nomes normalizada.
-0 @S95@ SOUR
+0 @S102@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0051-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0051.jpg
@@ -3843,7 +4095,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e sete dias do mês de novembro de mil e setecentos e dois anos batizei [...] a Maria filha de Domingos Martins [...] e de sua mulher Maria Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas exp
 2 CONC andidas e grafia dos nomes normalizada.
-0 @S96@ SOUR
+0 @S103@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0052-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0052.jpg
@@ -3851,7 +4103,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos nove dias do mês de dezembro de mil e setecentos e dois anos batizei [...] Domingos [...] filho de Manuel Fernandes [...] e de sua mulher Catarina Franco [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expan
 2 CONC didas e grafia dos nomes normalizada.
-0 @S97@ SOUR
+0 @S104@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0052-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0052.jpg
@@ -3859,7 +4111,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e três dias do mês de dezembro de mil e setecentos e dois anos batizei [...] a Ana filha de Tomás Fernandes e de sua mulher Maria Esteves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e
 2 CONC  grafia dos nomes normalizada.
-0 @S98@ SOUR
+0 @S105@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0052-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0052.jpg
@@ -3867,7 +4119,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e dois dias do mês de janeiro de mil e setecentos e três anos batizei [...] a Francisco filho de Domingos Pires [...] e de sua mulher Francisca Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviatur
 2 CONC as expandidas e grafia dos nomes normalizada.
-0 @S99@ SOUR
+0 @S106@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0053-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0053.jpg
@@ -3875,7 +4127,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dezanove dias do mês de fevereiro de mil e setecentos e três anos batizei [...] a Ana filha de Sebastião Afonso e de sua mulher Isabel Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas
 2 CONC  e grafia dos nomes normalizada.
-0 @S100@ SOUR
+0 @S107@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0057-d-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0057.jpg
@@ -3883,7 +4135,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dezanove dias do mês de junho de mil e setecentos e quatro anos batizei [...] a Diogo filho de José Fernandes e de sua mulher Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e gr
 2 CONC afia dos nomes normalizada.
-0 @S101@ SOUR
+0 @S108@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0058-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0058.jpg
@@ -3891,7 +4143,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte dias do mês de julho de mil e setecentos e quatro anos batizei [...] a João filho de Francisco Fernandes [...] e de sua mulher Isabel Antunes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas
 2 CONC  e grafia dos nomes normalizada.
-0 @S102@ SOUR
+0 @S109@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0060-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0060.jpg
@@ -3900,28 +4152,28 @@
 1 NOTE «Aos nove dias do mês de outubro de mil e setecentos e quatro anos batizei [...] a António filho de António Pires e de sua mulher Maria Gonçalves [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e gr
 2 CONC afia dos nomes normalizada.
 1 NOTE O assento continua no alto da página direita da mesma imagem; foi contado uma única vez.
-0 @S103@ SOUR
+0 @S110@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0070-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0070.jpg
 2 CONT esquerda, assento 3; óbito 25/01/1695.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e cinco dias do mês de janeiro de mil e seiscentos e noventa e cinco anos faleceu Miguel Dias Duro [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S104@ SOUR
+0 @S111@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0070-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0070.jpg
 2 CONT esquerda, assento 4; óbito 14/02/1695.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos catorze dias do mês de fevereiro de mil e seiscentos e noventa e cinco anos faleceu Baltasar Soleiro [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S105@ SOUR
+0 @S112@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0076-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0076.jpg
 2 CONT esquerda, assento 4; óbito 25/04/1697.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e cinco dias do mês de abril de mil e seiscentos e noventa e sete anos faleceu António Luís [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S106@ SOUR
+0 @S113@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0077-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0077.jpg
@@ -3929,14 +4181,14 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e seis dias do mês de agosto de mil e seiscentos e noventa e sete anos faleceu Maria Correia mulher de Diogo Luís Serrano [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes
 2 CONC  normalizada.
-0 @S107@ SOUR
+0 @S114@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0078-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0078.jpg
 2 CONT esquerda, assento 1; óbito 29/09/1697.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e nove dias do mês de setembro de mil e seiscentos e noventa e sete faleceu Maria filha de Francisco Mendes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S108@ SOUR
+0 @S115@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0078-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0078.jpg
@@ -3944,35 +4196,35 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos treze dias do mês de outubro de mil e seiscentos e noventa e sete anos faleceu Catarina Gonçalves mulher de António Martins [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes nor
 2 CONC malizada.
-0 @S109@ SOUR
+0 @S116@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0079-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0079.jpg
 2 CONT esquerda, assento 2; óbito 22/10/1697.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e dois dias do mês de outubro de mil e seiscentos e noventa e sete anos faleceu José Marques [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S110@ SOUR
+0 @S117@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0079-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0079.jpg
 2 CONT esquerda, assento 3; óbito 24/10/1697.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos vinte e quatro dias do mês de outubro de mil e seiscentos e noventa e sete anos faleceu Sebastião Martins [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S111@ SOUR
+0 @S118@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0083-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0083.jpg
 2 CONT esquerda, assento 1; óbito 15/07/1698.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos quinze dias do mês de julho de mil e seiscentos e noventa e oito anos faleceu Manuel Gomes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S112@ SOUR
+0 @S119@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0084-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0084.jpg
 2 CONT esquerda, assento 1; óbito 16/02/1698.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dezasseis dias do mês de fevereiro de mil e seiscentos e noventa e oito anos faleceu Isabel Fernandes [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
-0 @S113@ SOUR
+0 @S120@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0085-e-04
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0085.jpg
@@ -3980,7 +4232,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos onze dias do mês de março de mil e seiscentos e noventa e nove anos faleceu Maria Lourenço mulher de António Toucado [...]». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normaliza
 2 CONC da.
-0 @S114@ SOUR
+0 @S121@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0116-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0116.jpg
@@ -3989,7 +4241,7 @@
 1 NOTE «Aos quatro dias do mês de junho de mil e seiscentos e noventa e quatro anos recebi em face da Igreja a João Pires ... com Ana Lourença ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nome
 2 CONC s normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S115@ SOUR
+0 @S122@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0116-d-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0116.jpg
@@ -3998,7 +4250,7 @@
 1 NOTE «Aos vinte dias do mês de julho de mil e seiscentos e noventa e quatro anos recebi em face da Igreja a João Marques ... com Catarina Miguel ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos n
 2 CONC omes normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S116@ SOUR
+0 @S123@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0118-d-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0118.jpg
@@ -4007,7 +4259,7 @@
 1 NOTE «Aos dezassete dias do mês de junho de mil e seiscentos e noventa e seis anos recebi em face da Igreja a João Fernandes ... com Maria Gonçalves ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia
 2 CONC  dos nomes normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S117@ SOUR
+0 @S124@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0119-e-01
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg
@@ -4016,7 +4268,7 @@
 1 NOTE «Aos vinte e três dias do mês de junho de mil e seiscentos e noventa e sete anos recebi em face da Igreja a Francisco Martins ... com Isabel Pires ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafi
 2 CONC a dos nomes normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S118@ SOUR
+0 @S125@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0119-e-02
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg
@@ -4025,7 +4277,7 @@
 1 NOTE «Aos três dias do mês de julho de mil e seiscentos e noventa e sete anos recebi em face da Igreja a João Lopes Valado ... com Domingas Nunes ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos
 2 CONC  nomes normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S119@ SOUR
+0 @S126@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0119-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0119.jpg
@@ -4033,7 +4285,7 @@
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Aos dez dias do mês de agosto de mil e seiscentos e noventa e sete anos ... Manuel Luís ... com Catarina Luís ...». Excerto parcial de leitura; reticências editoriais, abreviaturas expandidas e grafia dos nomes normalizada.
 1 NOTE Confirmados apenas os nubentes e a data do casamento. Filiações, naturalidades, testemunhas e eventuais casamentos anteriores ficam por transcrever e reconciliar; não são criadas relações a partir desses campos.
-0 @S120@ SOUR
+0 @S127@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0120-e-03
 1 PUBL https://digitarq.arquivos.pt/documentDetails/7bc462642a044ca3b32af834774631f4
 1 NOTE Imagem: fontes\S8\RegistosDeNascimentos\PT-TT-PRQ-PSBG34-001-B1\PT-ADLSB-PRQ-PSBG34-001-B1_m0120.jpg
