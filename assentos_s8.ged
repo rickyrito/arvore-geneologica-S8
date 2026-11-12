@@ -6505,6 +6505,397 @@
 1 SOUR @S334@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I839@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 24 NOV 1738
+1 FAMC @F274@
+1 SOUR @S335@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I840@ INDI
+1 NAME João /Luís/
+1 SEX M
+1 FAMS @F274@
+1 SOUR @S335@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I841@ INDI
+1 NAME Brites /Gonçalves/
+1 SEX F
+1 FAMS @F274@
+1 SOUR @S335@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I842@ INDI
+1 NAME Isabel
+1 SEX F
+1 BAPM
+2 DATE 10 NOV 1738
+1 FAMC @F275@
+1 SOUR @S336@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I843@ INDI
+1 NAME António /Mendes/
+1 SEX M
+1 FAMS @F275@
+1 SOUR @S336@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I844@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 FAMS @F275@
+1 SOUR @S336@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I845@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 9 JAN 1739
+1 FAMC @F276@
+1 SOUR @S337@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I846@ INDI
+1 NAME Bernardo /Lourenço/
+1 SEX M
+1 FAMS @F276@
+1 SOUR @S337@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I847@ INDI
+1 NAME Maria /Segunda/
+1 SEX F
+1 FAMS @F276@
+1 SOUR @S337@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I848@ INDI
+1 NAME Quitéria
+1 SEX F
+1 BAPM
+2 DATE 31 MAY 1739
+1 FAMC @F277@
+1 SOUR @S338@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I849@ INDI
+1 NAME João /Domingues/
+1 SEX M
+1 FAMS @F277@
+1 SOUR @S338@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I850@ INDI
+1 NAME Maria /Nunes/
+1 SEX F
+1 FAMS @F277@
+1 SOUR @S338@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I851@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 28 JUN 1739
+1 FAMC @F278@
+1 SOUR @S339@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I852@ INDI
+1 NAME António /Mendes/
+1 SEX M
+1 FAMS @F278@
+1 SOUR @S339@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I853@ INDI
+1 NAME Ana /Marques/
+1 SEX F
+1 FAMS @F278@
+1 SOUR @S339@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I854@ INDI
+1 NAME Isabel
+1 SEX F
+1 BAPM
+2 DATE 28 AUG 1739
+1 FAMC @F279@
+1 SOUR @S340@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I855@ INDI
+1 NAME Luís /Carrilho/
+1 SEX M
+1 FAMS @F279@
+1 SOUR @S340@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I856@ INDI
+1 NAME Isabel /Nabais/
+1 SEX F
+1 FAMS @F279@
+1 SOUR @S340@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I857@ INDI
+1 NAME António
+1 SEX M
+1 BAPM
+2 DATE 22 SEP 1739
+1 FAMC @F280@
+1 SOUR @S341@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I858@ INDI
+1 NAME André /Martins/
+1 SEX M
+1 FAMS @F280@
+1 SOUR @S341@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I859@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 FAMS @F280@
+1 SOUR @S341@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I860@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 10 SEP 1739
+1 FAMC @F281@
+1 SOUR @S342@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I861@ INDI
+1 NAME Manuel /Gonçalves/
+1 SEX M
+1 FAMS @F281@
+1 SOUR @S342@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I862@ INDI
+1 NAME Catarina /Afonso/
+1 SEX F
+1 FAMS @F281@
+1 SOUR @S342@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I863@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 14 NOV 1739
+1 FAMC @F282@
+1 SOUR @S343@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I864@ INDI
+1 NAME Manuel /João/
+1 SEX M
+1 FAMS @F282@
+1 SOUR @S343@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I865@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 FAMS @F282@
+1 SOUR @S343@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I866@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 24 NOV 1739
+1 FAMC @F283@
+1 SOUR @S344@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I867@ INDI
+1 NAME Manuel /Luís/
+1 SEX M
+1 FAMS @F283@
+1 SOUR @S344@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I868@ INDI
+1 NAME Isabel /Gonçalves/
+1 SEX F
+1 FAMS @F283@
+1 SOUR @S344@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I869@ INDI
+1 NAME Ana
+1 SEX F
+1 BAPM
+2 DATE 7 JAN 1740
+1 FAMC @F284@
+1 SOUR @S345@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I870@ INDI
+1 NAME Manuel /Antunes/
+1 SEX M
+1 FAMS @F284@
+1 SOUR @S345@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I871@ INDI
+1 NAME Catarina /Nunes/
+1 SEX F
+1 FAMS @F284@
+1 SOUR @S345@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I872@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 25 FEB 1740
+1 FAMC @F285@
+1 SOUR @S346@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I873@ INDI
+1 NAME Baltasar /Martins/
+1 SEX M
+1 FAMS @F285@
+1 SOUR @S346@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I874@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 FAMS @F285@
+1 SOUR @S346@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I875@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 20 MAR 1740
+1 FAMC @F286@
+1 SOUR @S347@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I876@ INDI
+1 NAME Manuel Lopes /Velho/
+1 SEX M
+1 FAMS @F286@
+1 SOUR @S347@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I877@ INDI
+1 NAME Catarina /Nunes/
+1 SEX F
+1 FAMS @F286@
+1 SOUR @S347@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I878@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 1 MAY 1740
+1 FAMC @F287@
+1 SOUR @S348@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I879@ INDI
+1 NAME António /Luís/
+1 SEX M
+1 FAMS @F287@
+1 SOUR @S348@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I880@ INDI
+1 NAME Josefa /Pinheira/
+1 SEX F
+1 FAMS @F287@
+1 SOUR @S348@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I881@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 12 JUN 1740
+1 FAMC @F288@
+1 SOUR @S349@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I882@ INDI
+1 NAME Manuel Fernandes /Calvo/
+1 SEX M
+1 FAMS @F288@
+1 SOUR @S349@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I883@ INDI
+1 NAME Maria /Lourença/
+1 SEX F
+1 FAMS @F288@
+1 SOUR @S349@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I884@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 9 JUL 1740
+1 FAMC @F289@
+1 SOUR @S350@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I885@ INDI
+1 NAME Marcos /Fernandes/
+1 SEX M
+1 FAMS @F289@
+1 SOUR @S350@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I886@ INDI
+1 NAME Isabel /Fernandes/
+1 SEX F
+1 FAMS @F289@
+1 SOUR @S350@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I887@ INDI
+1 NAME Francisco
+1 SEX M
+1 BAPM
+2 DATE 19 JUL 1740
+1 FAMC @F290@
+1 SOUR @S351@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I888@ INDI
+1 NAME Domingos /Jorge/
+1 SEX M
+1 FAMS @F290@
+1 SOUR @S351@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I889@ INDI
+1 NAME Maria Gonçalves /Bola/
+1 SEX F
+1 FAMS @F290@
+1 SOUR @S351@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -7953,6 +8344,91 @@
 1 HUSB @I837@
 1 WIFE @I838@
 1 CHIL @I836@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F274@ FAM
+1 HUSB @I840@
+1 WIFE @I841@
+1 CHIL @I839@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F275@ FAM
+1 HUSB @I843@
+1 WIFE @I844@
+1 CHIL @I842@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F276@ FAM
+1 HUSB @I846@
+1 WIFE @I847@
+1 CHIL @I845@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F277@ FAM
+1 HUSB @I849@
+1 WIFE @I850@
+1 CHIL @I848@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F278@ FAM
+1 HUSB @I852@
+1 WIFE @I853@
+1 CHIL @I851@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F279@ FAM
+1 HUSB @I855@
+1 WIFE @I856@
+1 CHIL @I854@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F280@ FAM
+1 HUSB @I858@
+1 WIFE @I859@
+1 CHIL @I857@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F281@ FAM
+1 HUSB @I861@
+1 WIFE @I862@
+1 CHIL @I860@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F282@ FAM
+1 HUSB @I864@
+1 WIFE @I865@
+1 CHIL @I863@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F283@ FAM
+1 HUSB @I867@
+1 WIFE @I868@
+1 CHIL @I866@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F284@ FAM
+1 HUSB @I870@
+1 WIFE @I871@
+1 CHIL @I869@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F285@ FAM
+1 HUSB @I873@
+1 WIFE @I874@
+1 CHIL @I872@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F286@ FAM
+1 HUSB @I876@
+1 WIFE @I877@
+1 CHIL @I875@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F287@ FAM
+1 HUSB @I879@
+1 WIFE @I880@
+1 CHIL @I878@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F288@ FAM
+1 HUSB @I882@
+1 WIFE @I883@
+1 CHIL @I881@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F289@ FAM
+1 HUSB @I885@
+1 WIFE @I886@
+1 CHIL @I884@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F290@ FAM
+1 HUSB @I888@
+1 WIFE @I889@
+1 CHIL @I887@
 1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
 0 @S1@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-e-03
@@ -10783,5 +11259,146 @@
 2 CONT direita, assento 3; batismo 06/11/1738.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE «Em o mesmo dia acima batizei solenemente e pus os santos óleos a Manuel filho legítimo de António Fernandes e de sua mulher Maria Nabais». Excerto parcial normalizado; remissão para o assento anterior, datado de 6 de novembro de 1738.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S335@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0061-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0061.jpg
+2 CONT direita, assento 1; batismo 24/11/1738.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Manuel, filho de João Luís e de sua mulher Brites Gonçalves; batismo em 24/11/1738. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S336@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0061-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0061.jpg
+2 CONT direita, assento 2; batismo 10/11/1738.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Isabel, filha de António Mendes e de sua mulher Maria Gonçalves; batismo em 10/11/1738. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S337@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0062-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0062.jpg
+2 CONT direita, assento 2; batismo 09/01/1739.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Manuel, filho de Bernardo Lourenço e de sua mulher Maria Segunda; batismo em 09/01/1739. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S338@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0063-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0063.jpg
+2 CONT direita, assento 1; batismo 31/05/1739.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Quitéria, filha de João Domingues e de sua mulher Maria Nunes; batismo em 31/05/1739. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S339@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0064-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0064.jpg
+2 CONT esquerda, assento 2; batismo 28/06/1739.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Manuel, filho de António Mendes e de sua mulher Ana Marques; batismo em 28/06/1739. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S340@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0066-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0066.jpg
+2 CONT esquerda, assento 1; batismo 28/08/1739.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Isabel, filha de Luís Carrilho e de sua mulher Isabel Nabais; batismo em 28/08/1739. O texto declara batismo e aplicação de santos óleos. A grafia Carrilho é lida neste assent
+2 CONC o; não estabelece identidade com outros casais de filiação semelhante.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S341@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0066-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0066.jpg
+2 CONT direita, assento 1; batismo 22/09/1739.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: António, filho de André Martins e de sua mulher Maria Gonçalves; batismo em 22/09/1739. O texto declara batismo e aplicação de santos óleos. Batismo pelo padre Francisco Naba
+2 CONC is, com licença do cura.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S342@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0066-d-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0066.jpg
+2 CONT direita, assento 3; batismo 10/09/1739.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Manuel, filho de Manuel Gonçalves e de sua mulher Catarina Afonso; batismo em 10/09/1739. O texto declara batismo e aplicação de santos óleos. Batismo pelo padre Francisco Naba
+2 CONC is; assento redigido em 27 de setembro de 1739. As datas são distintas.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S343@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0067-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0067.jpg
+2 CONT direita, assento 1; batismo 14/11/1739.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Maria, filha de Manuel João e de sua mulher Maria Gonçalves; batismo em 14/11/1739. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S344@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0068-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0068.jpg
+2 CONT esquerda, assento 1; batismo 24/11/1739.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Manuel, filho de Manuel Luís e de sua mulher Isabel Gonçalves; batismo em 24/11/1739. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S345@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0068-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0068.jpg
+2 CONT esquerda, assento 2; batismo 07/01/1740.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Ana, filha de Manuel Antunes e de sua mulher Catarina Nunes; batismo em 07/01/1740. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S346@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0068-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0068.jpg
+2 CONT direita, assento 1; batismo 25/02/1740.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Maria, filha de Baltasar Martins e de sua mulher Maria Gonçalves; batismo em 25/02/1740. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S347@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0069-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0069.jpg
+2 CONT esquerda, assento 1; batismo 20/03/1740.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Manuel, filho de Manuel Lopes Velho e de sua mulher Catarina Nunes; batismo em 20/03/1740. O texto declara batismo e aplicação de santos óleos. A abreviatura do nome próprio do
+2 CONC  pai lê-se Manuel na segunda conferência; a leitura inicial João não se confirmou.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S348@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0069-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0069.jpg
+2 CONT direita, assento 1; batismo 01/05/1740.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Manuel, filho de António Luís e de sua mulher Josefa Pinheira; batismo em 01/05/1740. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S349@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0069-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0069.jpg
+2 CONT direita, assento 2; batismo 12/06/1740.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Manuel, filho de Manuel Fernandes Calvo e de sua mulher Maria Lourença; batismo em 12/06/1740. O texto declara batismo e aplicação de santos óleos. Batismo com licença pelo pa
+2 CONC dre Francisco Nabais; o fecho continua na m0070 esquerda.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S350@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0070-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0070.jpg
+2 CONT esquerda, assento 2; batismo 09/07/1740.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Manuel, filho de Marcos Fernandes e de sua mulher Isabel Fernandes; batismo em 09/07/1740. O texto declara batismo e aplicação de santos óleos.
+1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
+0 @S351@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0070-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0070.jpg
+2 CONT direita, assento 1; batismo 19/07/1740.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Campos essenciais lidos no original, com grafia normalizada: Francisco, filho de Domingos Jorge e de sua mulher Maria Gonçalves Bola; batismo em 19/07/1740. O texto declara batismo e aplicação de santos óleos.
 1 NOTE Leitura parcial dos campos essenciais, com grafia normalizada; não é transcrição diplomática integral. Referências adicionais na leitura anterior permanecem provisórias. Não inferidos apelidos ou identidades entre assentos.
 0 TRLR
