@@ -12508,6 +12508,1478 @@
 1 SOUR @S595@
 2 NOTE Papel: mãe
 1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1622@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 20 APR 1752
+1 FAMC @F535@
+1 SOUR @S596@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1623@ INDI
+1 NAME José /Nabais/
+1 SEX M
+1 FAMS @F535@
+1 SOUR @S596@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1624@ INDI
+1 NAME Isabel /Nabais/
+1 SEX F
+1 FAMS @F535@
+1 SOUR @S596@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1625@ INDI
+1 NAME Pedro
+1 SEX M
+1 BAPM
+2 DATE 17 APR 1751
+1 FAMC @F536@
+1 SOUR @S597@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1626@ INDI
+1 NAME Diogo Martins /Torceiro/
+1 SEX M
+1 FAMS @F536@
+1 SOUR @S597@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1627@ INDI
+1 NAME Maria /Lopes/
+1 SEX F
+1 FAMS @F536@
+1 SOUR @S597@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1628@ INDI
+1 NAME Isabel
+1 SEX F
+1 BAPM
+2 DATE 17 APR 1751
+1 FAMC @F537@
+1 SOUR @S598@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1629@ INDI
+1 NAME Manuel de /Oliveira/
+1 SEX M
+1 FAMS @F537@
+1 SOUR @S598@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1630@ INDI
+1 NAME Ana /Jorge/
+1 SEX F
+1 FAMS @F537@
+1 SOUR @S598@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1631@ INDI
+1 NAME José /Inácio/
+1 SEX M
+1 BAPM
+2 DATE 20 APR 1752
+1 FAMC @F538@
+1 SOUR @S599@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1632@ INDI
+1 NAME Domingos /Jorge/
+1 SEX M
+1 FAMS @F538@
+1 SOUR @S599@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1633@ INDI
+1 NAME Guiomar /Nunes/
+1 SEX F
+1 FAMS @F538@
+1 SOUR @S599@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1634@ INDI
+1 NAME Marcos
+1 SEX M
+1 BAPM
+2 DATE 9 MAY 1752
+1 FAMC @F539@
+1 SOUR @S600@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1635@ INDI
+1 NAME Manuel /Fernandes/
+1 SEX M
+1 FAMS @F539@
+1 SOUR @S600@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1636@ INDI
+1 NAME Maria /Lourença/
+1 SEX F
+1 FAMS @F539@
+1 SOUR @S600@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1637@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 11 JUL 1752
+1 FAMC @F540@
+1 SOUR @S601@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1638@ INDI
+1 NAME Domingos Fernandes /Claro/
+1 SEX M
+1 FAMS @F540@
+1 SOUR @S601@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1639@ INDI
+1 NAME Maria /Antunes/
+1 SEX F
+1 FAMS @F540@
+1 SOUR @S601@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1640@ INDI
+1 NAME António /Afonso/
+1 SEX M
+1 BAPM
+2 DATE 30 SEP 1752
+1 FAMC @F541@
+1 SOUR @S602@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1641@ INDI
+1 NAME Manuel /Pereira/
+1 SEX M
+1 FAMS @F541@
+1 SOUR @S602@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1642@ INDI
+1 NAME Helena /Fernandes/
+1 SEX F
+1 FAMS @F541@
+1 SOUR @S602@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1643@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 30 SEP 1752
+1 FAMC @F542@
+1 SOUR @S603@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1644@ INDI
+1 NAME Francisco /Lourenço/
+1 SEX M
+1 FAMS @F542@
+1 SOUR @S603@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1645@ INDI
+1 NAME Isabel /Gonçalves/
+1 SEX F
+1 FAMS @F542@
+1 SOUR @S603@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1646@ INDI
+1 NAME Ana
+1 SEX F
+1 BAPM
+2 DATE 26 AUG 1752
+1 FAMC @F543@
+1 SOUR @S604@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1647@ INDI
+1 NAME João /Fernandes/
+1 SEX M
+1 FAMS @F543@
+1 SOUR @S604@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1648@ INDI
+1 NAME Bárbara /Gonçalves/
+1 SEX F
+1 FAMS @F543@
+1 SOUR @S604@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1649@ INDI
+1 NAME Custódia
+1 SEX F
+1 BAPM
+2 DATE 21 AUG 1752
+1 FAMC @F544@
+1 SOUR @S605@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1650@ INDI
+1 NAME José /Galos/
+1 SEX M
+1 FAMS @F544@
+1 SOUR @S605@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1651@ INDI
+1 NAME Maria /Jorge/
+1 SEX F
+1 FAMS @F544@
+1 SOUR @S605@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1652@ INDI
+1 NAME Bárbara
+1 SEX F
+1 BAPM
+2 DATE 6 SEP 1752
+1 FAMC @F545@
+1 SOUR @S606@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1653@ INDI
+1 NAME Manuel de /Carvalho/
+1 SEX M
+1 FAMS @F545@
+1 SOUR @S606@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1654@ INDI
+1 NAME Maria /João/
+1 SEX F
+1 FAMS @F545@
+1 SOUR @S606@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1655@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 27 SEP 1752
+1 FAMC @F546@
+1 SOUR @S607@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1656@ INDI
+1 NAME João Alves /Pequeno/
+1 SEX M
+1 FAMS @F546@
+1 SOUR @S607@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1657@ INDI
+1 NAME Maria /Jorge/
+1 SEX F
+1 FAMS @F546@
+1 SOUR @S607@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1658@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 8 OCT 1752
+1 FAMC @F547@
+1 SOUR @S608@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1659@ INDI
+1 NAME Francisco /Manso/
+1 SEX M
+1 FAMS @F547@
+1 SOUR @S608@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1660@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 FAMS @F547@
+1 SOUR @S608@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1661@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 20 OCT 1752
+1 FAMC @F548@
+1 SOUR @S609@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1662@ INDI
+1 NAME António Vaz /Lavrador/
+1 SEX M
+1 FAMS @F548@
+1 SOUR @S609@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1663@ INDI
+1 NAME Maria /Martins/
+1 SEX F
+1 FAMS @F548@
+1 SOUR @S609@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1664@ INDI
+1 NAME José
+1 SEX M
+1 BAPM
+2 DATE 11 NOV 1752
+1 FAMC @F549@
+1 SOUR @S610@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1665@ INDI
+1 NAME Nicolau /Martins/
+1 SEX M
+1 FAMS @F549@
+1 SOUR @S610@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1666@ INDI
+1 NAME Maria /Alves/
+1 SEX F
+1 FAMS @F549@
+1 SOUR @S610@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1667@ INDI
+1 NAME Domingos
+1 SEX M
+1 BAPM
+2 DATE 11 NOV 1752
+1 FAMC @F550@
+1 SOUR @S611@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1668@ INDI
+1 NAME Baltasar /Martins/
+1 SEX M
+1 FAMS @F550@
+1 SOUR @S611@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1669@ INDI
+1 NAME Maria /Nunes/
+1 SEX F
+1 FAMS @F550@
+1 SOUR @S611@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1670@ INDI
+1 NAME Silvestre /José/
+1 SEX M
+1 BAPM
+2 DATE 15 NOV 1752
+1 FAMC @F551@
+1 SOUR @S612@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1671@ INDI
+1 NAME José Martins /Pais/
+1 SEX M
+1 FAMS @F551@
+1 SOUR @S612@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1672@ INDI
+1 NAME Ana /Nunes/
+1 SEX F
+1 FAMS @F551@
+1 SOUR @S612@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1673@ INDI
+1 NAME Francisco
+1 SEX M
+1 BAPM
+2 DATE 5 DEC 1752
+1 FAMC @F552@
+1 SOUR @S613@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1674@ INDI
+1 NAME Francisco Gonçalves /Vigário/
+1 SEX M
+1 FAMS @F552@
+1 SOUR @S613@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1675@ INDI
+1 NAME Guiomar /Martins/
+1 SEX F
+1 FAMS @F552@
+1 SOUR @S613@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1676@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 6 DEC 1752
+1 FAMC @F553@
+1 SOUR @S614@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1677@ INDI
+1 NAME António /Lopes/
+1 SEX M
+1 FAMS @F553@
+1 SOUR @S614@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1678@ INDI
+1 NAME Ana /Garcia/
+1 SEX F
+1 FAMS @F553@
+1 SOUR @S614@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1679@ INDI
+1 NAME Rosa /Antónia/
+1 SEX F
+1 BAPM
+2 DATE 12 DEC 1752
+1 FAMC @F554@
+1 SOUR @S615@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1680@ INDI
+1 NAME António /Gonçalves/
+1 SEX M
+1 FAMS @F554@
+1 SOUR @S615@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1681@ INDI
+1 NAME Maria /Martins/
+1 SEX F
+1 FAMS @F554@
+1 SOUR @S615@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1682@ INDI
+1 NAME Isabel
+1 SEX F
+1 BAPM
+2 DATE 25 DEC 1752
+1 FAMC @F555@
+1 SOUR @S616@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1683@ INDI
+1 NAME Manuel Gonçalves /Ambrósio/
+1 SEX M
+1 FAMS @F555@
+1 SOUR @S616@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1684@ INDI
+1 NAME Maria /Martins/
+1 SEX F
+1 FAMS @F555@
+1 SOUR @S616@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1685@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 3 FEB 1753
+1 FAMC @F556@
+1 SOUR @S617@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1686@ INDI
+1 NAME Domingos /Gonçalves/
+1 SEX M
+1 FAMS @F556@
+1 SOUR @S617@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1687@ INDI
+1 NAME Quitéria /Gonçalves/
+1 SEX F
+1 FAMS @F556@
+1 SOUR @S617@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1688@ INDI
+1 NAME José
+1 SEX M
+1 BAPM
+2 DATE 16 FEB 1753
+1 FAMC @F557@
+1 SOUR @S618@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1689@ INDI
+1 NAME José /Rodrigues/
+1 SEX M
+1 FAMS @F557@
+1 SOUR @S618@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1690@ INDI
+1 NAME Quitéria /Jorge/
+1 SEX F
+1 FAMS @F557@
+1 SOUR @S618@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1691@ INDI
+1 NAME Doroteia
+1 SEX F
+1 BAPM
+2 DATE 17 FEB 1753
+1 FAMC @F558@
+1 SOUR @S619@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1692@ INDI
+1 NAME Domingos Gonçalves de /Oliveira/
+1 SEX M
+1 FAMS @F558@
+1 SOUR @S619@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1693@ INDI
+1 NAME Brízida /Galos/
+1 SEX F
+1 FAMS @F558@
+1 SOUR @S619@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1694@ INDI
+1 NAME António
+1 SEX M
+1 BAPM
+2 DATE 20 FEB 1753
+1 FAMC @F559@
+1 SOUR @S620@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1695@ INDI
+1 NAME Domingos Gonçalves /Lucas/
+1 SEX M
+1 FAMS @F559@
+1 SOUR @S620@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1696@ INDI
+1 NAME Maria /Martins/
+1 SEX F
+1 FAMS @F559@
+1 SOUR @S620@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1697@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 28 FEB 1753
+1 FAMC @F560@
+1 SOUR @S621@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1698@ INDI
+1 NAME Francisco /Rodrigues/
+1 SEX M
+1 FAMS @F560@
+1 SOUR @S621@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1699@ INDI
+1 NAME Maria /Afonso/
+1 SEX F
+1 FAMS @F560@
+1 SOUR @S621@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1700@ INDI
+1 NAME Matias
+1 SEX M
+1 BAPM
+2 DATE 3 MAR 1753
+1 FAMC @F561@
+1 SOUR @S622@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1701@ INDI
+1 NAME Manuel /Dias/
+1 SEX M
+1 FAMS @F561@
+1 SOUR @S622@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1702@ INDI
+1 NAME Maria /Nunes/
+1 SEX F
+1 FAMS @F561@
+1 SOUR @S622@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1703@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 31 MAR 1753
+1 FAMC @F562@
+1 SOUR @S623@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1704@ INDI
+1 NAME Manuel Lourenço /Lavrador/
+1 SEX M
+1 FAMS @F562@
+1 SOUR @S623@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1705@ INDI
+1 NAME Rosa /Luís/
+1 SEX F
+1 FAMS @F562@
+1 SOUR @S623@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1706@ INDI
+1 NAME João
+1 SEX M
+1 BAPM
+2 DATE 9 APR 1753
+1 FAMC @F563@
+1 SOUR @S624@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1707@ INDI
+1 NAME Manuel Gonçalves /Baltum/
+1 SEX M
+1 FAMS @F563@
+1 SOUR @S624@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1708@ INDI
+1 NAME Ana /Nabais/
+1 SEX F
+1 FAMS @F563@
+1 SOUR @S624@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1709@ INDI
+1 NAME Isabel
+1 SEX F
+1 BAPM
+2 DATE 9 APR 1753
+1 FAMC @F564@
+1 SOUR @S625@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1710@ INDI
+1 NAME Manuel /Martins/
+1 SEX M
+1 FAMS @F564@
+1 SOUR @S625@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1711@ INDI
+1 NAME Maria /Fernandes/
+1 SEX F
+1 FAMS @F564@
+1 SOUR @S625@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1712@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 20 MAY 1753
+1 FAMC @F565@
+1 SOUR @S626@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1713@ INDI
+1 NAME Manuel /Gomes/
+1 SEX M
+1 FAMS @F565@
+1 SOUR @S626@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1714@ INDI
+1 NAME Mariana /Lopes/
+1 SEX F
+1 FAMS @F565@
+1 SOUR @S626@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1715@ INDI
+1 NAME António
+1 SEX M
+1 BAPM
+2 DATE 12 JUN 1753
+1 FAMC @F566@
+1 SOUR @S627@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1716@ INDI
+1 NAME António /Antunes/
+1 SEX M
+1 FAMS @F566@
+1 SOUR @S627@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1717@ INDI
+1 NAME Maria /Alves/
+1 SEX F
+1 FAMS @F566@
+1 SOUR @S627@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1718@ INDI
+1 NAME José
+1 SEX M
+1 BAPM
+2 DATE 18 JUN 1753
+1 FAMC @F567@
+1 SOUR @S628@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1719@ INDI
+1 NAME Sebastião /Martins/
+1 SEX M
+1 FAMS @F567@
+1 SOUR @S628@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1720@ INDI
+1 NAME Isabel /Rodrigues/
+1 SEX F
+1 FAMS @F567@
+1 SOUR @S628@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1721@ INDI
+1 NAME Isabel
+1 SEX F
+1 BAPM
+2 DATE 16 JUL 1753
+1 FAMC @F568@
+1 SOUR @S629@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1722@ INDI
+1 NAME José /Robalo/
+1 SEX M
+1 FAMS @F568@
+1 SOUR @S629@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1723@ INDI
+1 NAME Isabel /Gonçalves/
+1 SEX F
+1 FAMS @F568@
+1 SOUR @S629@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1724@ INDI
+1 NAME Doroteia
+1 SEX F
+1 BAPM
+2 DATE 24 JUL 1753
+1 FAMC @F569@
+1 SOUR @S630@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1725@ INDI
+1 NAME Manuel Mendes /Gago/
+1 SEX M
+1 FAMS @F569@
+1 SOUR @S630@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1726@ INDI
+1 NAME Maria /Carrilho/
+1 SEX F
+1 FAMS @F569@
+1 SOUR @S630@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1727@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 22 AUG 1753
+1 FAMC @F570@
+1 SOUR @S631@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1728@ INDI
+1 NAME Manuel Martins /Perdido/
+1 SEX M
+1 FAMS @F570@
+1 SOUR @S631@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1729@ INDI
+1 NAME Teresa /Fernandes/
+1 SEX F
+1 FAMS @F570@
+1 SOUR @S631@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1730@ INDI
+1 NAME José
+1 SEX M
+1 BAPM
+2 DATE 22 AUG 1753
+1 FAMC @F571@
+1 SOUR @S632@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1731@ INDI
+1 NAME Domingos Martins /Manho/
+1 SEX M
+1 FAMS @F571@
+1 SOUR @S632@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1732@ INDI
+1 NAME Teresa /Afonso/
+1 SEX F
+1 FAMS @F571@
+1 SOUR @S632@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1733@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 27 AUG 1753
+1 FAMC @F572@
+1 SOUR @S633@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1734@ INDI
+1 NAME José /Lourenço/
+1 SEX M
+1 FAMS @F572@
+1 SOUR @S633@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1735@ INDI
+1 NAME Maria /Nunes/
+1 SEX F
+1 FAMS @F572@
+1 SOUR @S633@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1736@ INDI
+1 NAME Gabriel
+1 SEX M
+1 BAPM
+2 DATE 14 SEP 1753
+1 FAMC @F573@
+1 SOUR @S634@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1737@ INDI
+1 NAME Estevão /Carrilho/
+1 SEX M
+1 FAMS @F573@
+1 SOUR @S634@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1738@ INDI
+1 NAME Isabel /Afonso/
+1 SEX F
+1 FAMS @F573@
+1 SOUR @S634@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1739@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 20 SEP 1753
+1 FAMC @F574@
+1 SOUR @S635@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1740@ INDI
+1 NAME Domingos Martins de /Guimarães/
+1 SEX M
+1 FAMS @F574@
+1 SOUR @S635@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1741@ INDI
+1 NAME Ana /Martins/
+1 SEX F
+1 FAMS @F574@
+1 SOUR @S635@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1742@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 7 OCT 1753
+1 FAMC @F575@
+1 SOUR @S636@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1743@ INDI
+1 NAME João /Luís/
+1 SEX M
+1 FAMS @F575@
+1 SOUR @S636@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1744@ INDI
+1 NAME Maria /Nunes/
+1 SEX F
+1 FAMS @F575@
+1 SOUR @S636@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1745@ INDI
+1 NAME Vitória
+1 SEX F
+1 BAPM
+2 DATE 15 OCT 1753
+1 FAMC @F576@
+1 SOUR @S637@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1746@ INDI
+1 NAME Manuel Fernandes da /Igreja/
+1 SEX M
+1 FAMS @F576@
+1 SOUR @S637@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1747@ INDI
+1 NAME Ignácia /Gonçalves/
+1 SEX F
+1 FAMS @F576@
+1 SOUR @S637@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1748@ INDI
+1 NAME José
+1 SEX M
+1 BAPM
+2 DATE 22 OCT 1753
+1 FAMC @F577@
+1 SOUR @S638@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1749@ INDI
+1 NAME João de /Carvalho/
+1 SEX M
+1 FAMS @F577@
+1 SOUR @S638@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1750@ INDI
+1 NAME Catarina /Lourença/
+1 SEX F
+1 FAMS @F577@
+1 SOUR @S638@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1751@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 22 OCT 1753
+1 FAMC @F578@
+1 SOUR @S639@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1752@ INDI
+1 NAME José /Nabais/
+1 SEX M
+1 FAMS @F578@
+1 SOUR @S639@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1753@ INDI
+1 NAME Isabel /Nabais/
+1 SEX F
+1 FAMS @F578@
+1 SOUR @S639@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1754@ INDI
+1 NAME Gabriel
+1 SEX M
+1 BAPM
+2 DATE 27 OCT 1753
+1 FAMC @F579@
+1 SOUR @S640@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1755@ INDI
+1 NAME Manuel Mourão /Vaz/
+1 SEX M
+1 FAMS @F579@
+1 SOUR @S640@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1756@ INDI
+1 NAME Catarina /Gonçalves/
+1 SEX F
+1 FAMS @F579@
+1 SOUR @S640@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1757@ INDI
+1 NAME Paulo /José/
+1 SEX M
+1 BAPM
+2 DATE 29 OCT 1753
+1 FAMC @F580@
+1 SOUR @S641@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1758@ INDI
+1 NAME João Esteves /Marçal/
+1 SEX M
+1 FAMS @F580@
+1 SOUR @S641@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1759@ INDI
+1 NAME Maria /Jorge/
+1 SEX F
+1 FAMS @F580@
+1 SOUR @S641@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1760@ INDI
+1 NAME Domingos
+1 SEX M
+1 BAPM
+2 DATE 20 NOV 1753
+1 FAMC @F581@
+1 SOUR @S642@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1761@ INDI
+1 NAME Brás /Luís/
+1 SEX M
+1 FAMS @F581@
+1 SOUR @S642@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1762@ INDI
+1 NAME Catarina /Martins/
+1 SEX F
+1 FAMS @F581@
+1 SOUR @S642@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1763@ INDI
+1 NAME Ana
+1 SEX F
+1 BAPM
+2 DATE 20 NOV 1753
+1 FAMC @F582@
+1 SOUR @S643@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1764@ INDI
+1 NAME Joaquim /Gonçalves/
+1 SEX M
+1 FAMS @F582@
+1 SOUR @S643@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1765@ INDI
+1 NAME Maria /Nunes/
+1 SEX F
+1 FAMS @F582@
+1 SOUR @S643@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1766@ INDI
+1 NAME Catarina
+1 SEX F
+1 BAPM
+2 DATE 9 DEC 1753
+1 FAMC @F583@
+1 SOUR @S644@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1767@ INDI
+1 NAME Domingos Nunes do /Alferes/
+1 SEX M
+1 FAMS @F583@
+1 SOUR @S644@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1768@ INDI
+1 NAME Maria /Martins/
+1 SEX F
+1 FAMS @F583@
+1 SOUR @S644@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1769@ INDI
+1 NAME Paula
+1 SEX F
+1 BAPM
+2 DATE 15 DEC 1753
+1 FAMC @F584@
+1 SOUR @S645@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1770@ INDI
+1 NAME Manuel /Nunes/
+1 SEX M
+1 FAMS @F584@
+1 SOUR @S645@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1771@ INDI
+1 NAME Luísa /Nunes/
+1 SEX F
+1 FAMS @F584@
+1 SOUR @S645@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1772@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 22 DEC 1753
+1 FAMC @F585@
+1 SOUR @S646@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1773@ INDI
+1 NAME Manuel /Luís/
+1 SEX M
+1 FAMS @F585@
+1 SOUR @S646@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1774@ INDI
+1 NAME Rosa /Gonçalves/
+1 SEX F
+1 FAMS @F585@
+1 SOUR @S646@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1775@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 29 DEC 1753
+1 FAMC @F586@
+1 SOUR @S647@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1776@ INDI
+1 NAME António Vaz /Lavrador/
+1 SEX M
+1 FAMS @F586@
+1 SOUR @S647@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1777@ INDI
+1 NAME Maria /Martins/
+1 SEX F
+1 FAMS @F586@
+1 SOUR @S647@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1778@ INDI
+1 NAME Isabel
+1 SEX F
+1 BAPM
+2 DATE 8 FEB 1754
+1 FAMC @F587@
+1 SOUR @S648@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1779@ INDI
+1 NAME João Garcia de /Carvalho/
+1 SEX M
+1 FAMS @F587@
+1 SOUR @S648@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1780@ INDI
+1 NAME Maria /Afonso/
+1 SEX F
+1 FAMS @F587@
+1 SOUR @S648@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1781@ INDI
+1 NAME Adrião
+1 SEX M
+1 BAPM
+2 DATE 1 MAR 1754
+1 FAMC @F588@
+1 SOUR @S649@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1782@ INDI
+1 NAME Manuel Gonçalves /Torceiro/
+1 SEX M
+1 FAMS @F588@
+1 SOUR @S649@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1783@ INDI
+1 NAME Maria /Fernandes/
+1 SEX F
+1 FAMS @F588@
+1 SOUR @S649@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1784@ INDI
+1 NAME Lázaro
+1 SEX M
+1 BAPM
+2 DATE 7 APR 1754
+1 FAMC @F589@
+1 SOUR @S650@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1785@ INDI
+1 NAME Manuel Gonçalves /Bolão/
+1 SEX M
+1 FAMS @F589@
+1 SOUR @S650@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1786@ INDI
+1 NAME Ana /Nabais/
+1 SEX F
+1 FAMS @F589@
+1 SOUR @S650@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1787@ INDI
+1 NAME José
+1 SEX M
+1 BAPM
+2 DATE 22 APR 1754
+1 FAMC @F590@
+1 SOUR @S651@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1788@ INDI
+1 NAME Manuel Garcia de /Carvalho/
+1 SEX M
+1 FAMS @F590@
+1 SOUR @S651@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1789@ INDI
+1 NAME Ana /Nunes/
+1 SEX F
+1 FAMS @F590@
+1 SOUR @S651@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1790@ INDI
+1 NAME Maria /Ignácia/
+1 SEX F
+1 BAPM
+2 DATE 22 APR 1754
+1 FAMC @F591@
+1 SOUR @S652@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1791@ INDI
+1 NAME Domingos Gonçalves /Lucas/
+1 SEX M
+1 FAMS @F591@
+1 SOUR @S652@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1792@ INDI
+1 NAME Maria /Martins/
+1 SEX F
+1 FAMS @F591@
+1 SOUR @S652@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1793@ INDI
+1 NAME Maria
+1 SEX F
+1 BAPM
+2 DATE 24 APR 1754
+1 FAMC @F592@
+1 SOUR @S653@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1794@ INDI
+1 NAME Sebastião /Afonso/
+1 SEX M
+1 FAMS @F592@
+1 SOUR @S653@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1795@ INDI
+1 NAME Maria /Gonçalves/
+1 SEX F
+1 FAMS @F592@
+1 SOUR @S653@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1796@ INDI
+1 NAME Sebastião
+1 SEX M
+1 BAPM
+2 DATE 29 MAY 1754
+1 FAMC @F593@
+1 SOUR @S654@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1797@ INDI
+1 NAME Sebastião /Lopes/
+1 SEX M
+1 FAMS @F593@
+1 SOUR @S654@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1798@ INDI
+1 NAME Maria /Amara/
+1 SEX F
+1 FAMS @F593@
+1 SOUR @S654@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1799@ INDI
+1 NAME José
+1 SEX M
+1 BAPM
+2 DATE 12 AUG 1754
+1 FAMC @F594@
+1 SOUR @S655@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1800@ INDI
+1 NAME Manuel /Gomes/
+1 SEX M
+1 FAMS @F594@
+1 SOUR @S655@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1801@ INDI
+1 NAME Mariana /Martins/
+1 SEX F
+1 FAMS @F594@
+1 SOUR @S655@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1802@ INDI
+1 NAME Manuel
+1 SEX M
+1 BAPM
+2 DATE 15 AUG 1754
+1 FAMC @F595@
+1 SOUR @S656@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1803@ INDI
+1 NAME Manuel Lourenço /Nabais/
+1 SEX M
+1 FAMS @F595@
+1 SOUR @S656@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1804@ INDI
+1 NAME Rosa /Luís/
+1 SEX F
+1 FAMS @F595@
+1 SOUR @S656@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1805@ INDI
+1 NAME João
+1 SEX M
+1 BAPM
+2 DATE 26 AUG 1754
+1 FAMC @F596@
+1 SOUR @S657@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1806@ INDI
+1 NAME José /Lourenço/
+1 SEX M
+1 FAMS @F596@
+1 SOUR @S657@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1807@ INDI
+1 NAME Ana /Lopes/
+1 SEX F
+1 FAMS @F596@
+1 SOUR @S657@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1808@ INDI
+1 NAME Ângela
+1 SEX F
+1 BAPM
+2 DATE 7 SEP 1754
+1 FAMC @F597@
+1 SOUR @S658@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1809@ INDI
+1 NAME José /Nunes/
+1 SEX M
+1 FAMS @F597@
+1 SOUR @S658@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1810@ INDI
+1 NAME Maria /Afonso/
+1 SEX F
+1 FAMS @F597@
+1 SOUR @S658@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1811@ INDI
+1 NAME Luísa
+1 SEX F
+1 BAPM
+2 DATE 22 SEP 1754
+1 FAMC @F598@
+1 SOUR @S659@
+2 NOTE Papel: criança
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1812@ INDI
+1 NAME José /Robalo/
+1 SEX M
+1 FAMS @F598@
+1 SOUR @S659@
+2 NOTE Papel: pai
+1 NOTE Identidade com as genealogias do blogue por confirmar.
+0 @I1813@ INDI
+1 NAME Isabel /Gonçalves/
+1 SEX F
+1 FAMS @F598@
+1 SOUR @S659@
+2 NOTE Papel: mãe
+1 NOTE Identidade com as genealogias do blogue por confirmar.
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -15261,6 +16733,326 @@
 1 HUSB @I1620@
 1 WIFE @I1621@
 1 CHIL @I1619@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F535@ FAM
+1 HUSB @I1623@
+1 WIFE @I1624@
+1 CHIL @I1622@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F536@ FAM
+1 HUSB @I1626@
+1 WIFE @I1627@
+1 CHIL @I1625@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F537@ FAM
+1 HUSB @I1629@
+1 WIFE @I1630@
+1 CHIL @I1628@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F538@ FAM
+1 HUSB @I1632@
+1 WIFE @I1633@
+1 CHIL @I1631@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F539@ FAM
+1 HUSB @I1635@
+1 WIFE @I1636@
+1 CHIL @I1634@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F540@ FAM
+1 HUSB @I1638@
+1 WIFE @I1639@
+1 CHIL @I1637@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F541@ FAM
+1 HUSB @I1641@
+1 WIFE @I1642@
+1 CHIL @I1640@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F542@ FAM
+1 HUSB @I1644@
+1 WIFE @I1645@
+1 CHIL @I1643@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F543@ FAM
+1 HUSB @I1647@
+1 WIFE @I1648@
+1 CHIL @I1646@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F544@ FAM
+1 HUSB @I1650@
+1 WIFE @I1651@
+1 CHIL @I1649@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F545@ FAM
+1 HUSB @I1653@
+1 WIFE @I1654@
+1 CHIL @I1652@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F546@ FAM
+1 HUSB @I1656@
+1 WIFE @I1657@
+1 CHIL @I1655@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F547@ FAM
+1 HUSB @I1659@
+1 WIFE @I1660@
+1 CHIL @I1658@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F548@ FAM
+1 HUSB @I1662@
+1 WIFE @I1663@
+1 CHIL @I1661@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F549@ FAM
+1 HUSB @I1665@
+1 WIFE @I1666@
+1 CHIL @I1664@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F550@ FAM
+1 HUSB @I1668@
+1 WIFE @I1669@
+1 CHIL @I1667@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F551@ FAM
+1 HUSB @I1671@
+1 WIFE @I1672@
+1 CHIL @I1670@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F552@ FAM
+1 HUSB @I1674@
+1 WIFE @I1675@
+1 CHIL @I1673@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F553@ FAM
+1 HUSB @I1677@
+1 WIFE @I1678@
+1 CHIL @I1676@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F554@ FAM
+1 HUSB @I1680@
+1 WIFE @I1681@
+1 CHIL @I1679@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F555@ FAM
+1 HUSB @I1683@
+1 WIFE @I1684@
+1 CHIL @I1682@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F556@ FAM
+1 HUSB @I1686@
+1 WIFE @I1687@
+1 CHIL @I1685@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F557@ FAM
+1 HUSB @I1689@
+1 WIFE @I1690@
+1 CHIL @I1688@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F558@ FAM
+1 HUSB @I1692@
+1 WIFE @I1693@
+1 CHIL @I1691@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F559@ FAM
+1 HUSB @I1695@
+1 WIFE @I1696@
+1 CHIL @I1694@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F560@ FAM
+1 HUSB @I1698@
+1 WIFE @I1699@
+1 CHIL @I1697@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F561@ FAM
+1 HUSB @I1701@
+1 WIFE @I1702@
+1 CHIL @I1700@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F562@ FAM
+1 HUSB @I1704@
+1 WIFE @I1705@
+1 CHIL @I1703@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F563@ FAM
+1 HUSB @I1707@
+1 WIFE @I1708@
+1 CHIL @I1706@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F564@ FAM
+1 HUSB @I1710@
+1 WIFE @I1711@
+1 CHIL @I1709@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F565@ FAM
+1 HUSB @I1713@
+1 WIFE @I1714@
+1 CHIL @I1712@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F566@ FAM
+1 HUSB @I1716@
+1 WIFE @I1717@
+1 CHIL @I1715@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F567@ FAM
+1 HUSB @I1719@
+1 WIFE @I1720@
+1 CHIL @I1718@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F568@ FAM
+1 HUSB @I1722@
+1 WIFE @I1723@
+1 CHIL @I1721@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F569@ FAM
+1 HUSB @I1725@
+1 WIFE @I1726@
+1 CHIL @I1724@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F570@ FAM
+1 HUSB @I1728@
+1 WIFE @I1729@
+1 CHIL @I1727@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F571@ FAM
+1 HUSB @I1731@
+1 WIFE @I1732@
+1 CHIL @I1730@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F572@ FAM
+1 HUSB @I1734@
+1 WIFE @I1735@
+1 CHIL @I1733@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F573@ FAM
+1 HUSB @I1737@
+1 WIFE @I1738@
+1 CHIL @I1736@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F574@ FAM
+1 HUSB @I1740@
+1 WIFE @I1741@
+1 CHIL @I1739@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F575@ FAM
+1 HUSB @I1743@
+1 WIFE @I1744@
+1 CHIL @I1742@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F576@ FAM
+1 HUSB @I1746@
+1 WIFE @I1747@
+1 CHIL @I1745@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F577@ FAM
+1 HUSB @I1749@
+1 WIFE @I1750@
+1 CHIL @I1748@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F578@ FAM
+1 HUSB @I1752@
+1 WIFE @I1753@
+1 CHIL @I1751@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F579@ FAM
+1 HUSB @I1755@
+1 WIFE @I1756@
+1 CHIL @I1754@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F580@ FAM
+1 HUSB @I1758@
+1 WIFE @I1759@
+1 CHIL @I1757@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F581@ FAM
+1 HUSB @I1761@
+1 WIFE @I1762@
+1 CHIL @I1760@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F582@ FAM
+1 HUSB @I1764@
+1 WIFE @I1765@
+1 CHIL @I1763@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F583@ FAM
+1 HUSB @I1767@
+1 WIFE @I1768@
+1 CHIL @I1766@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F584@ FAM
+1 HUSB @I1770@
+1 WIFE @I1771@
+1 CHIL @I1769@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F585@ FAM
+1 HUSB @I1773@
+1 WIFE @I1774@
+1 CHIL @I1772@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F586@ FAM
+1 HUSB @I1776@
+1 WIFE @I1777@
+1 CHIL @I1775@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F587@ FAM
+1 HUSB @I1779@
+1 WIFE @I1780@
+1 CHIL @I1778@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F588@ FAM
+1 HUSB @I1782@
+1 WIFE @I1783@
+1 CHIL @I1781@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F589@ FAM
+1 HUSB @I1785@
+1 WIFE @I1786@
+1 CHIL @I1784@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F590@ FAM
+1 HUSB @I1788@
+1 WIFE @I1789@
+1 CHIL @I1787@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F591@ FAM
+1 HUSB @I1791@
+1 WIFE @I1792@
+1 CHIL @I1790@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F592@ FAM
+1 HUSB @I1794@
+1 WIFE @I1795@
+1 CHIL @I1793@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F593@ FAM
+1 HUSB @I1797@
+1 WIFE @I1798@
+1 CHIL @I1796@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F594@ FAM
+1 HUSB @I1800@
+1 WIFE @I1801@
+1 CHIL @I1799@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F595@ FAM
+1 HUSB @I1803@
+1 WIFE @I1804@
+1 CHIL @I1802@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F596@ FAM
+1 HUSB @I1806@
+1 WIFE @I1807@
+1 CHIL @I1805@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F597@ FAM
+1 HUSB @I1809@
+1 WIFE @I1810@
+1 CHIL @I1808@
+1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
+0 @F598@ FAM
+1 HUSB @I1812@
+1 WIFE @I1813@
+1 CHIL @I1811@
 1 NOTE Casal identificado no batismo; data de casamento não indicada. Ligação às famílias da base por confirmar.
 0 @S1@ SOUR
 1 TITL PT/TT/PRQ/PSBG34/001/B1 — S8-B1-m0004-e-03
@@ -20194,5 +21986,517 @@
 2 CONT direita, assento 1; batismo 19/03/1751.
 2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
 1 NOTE Leitura normalizada dos campos essenciais: Paulo; pai Manuel Gonçalves de Matos; mãe Catarina Afonso; batismo 19/03/1751.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S596@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0181-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0181.jpg
+2 CONT esquerda, assento 1; batismo 20/04/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai José Nabais; mãe Isabel Nabais; batismo 20/04/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S597@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0181-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0181.jpg
+2 CONT esquerda, assento 2; batismo 17/04/1751.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Pedro; pai Diogo Martins Torceiro; mãe Maria Lopes; batismo 17/04/1751.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S598@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0181-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0181.jpg
+2 CONT direita, assento 1; batismo 17/04/1751.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Isabel; pai Manuel de Oliveira; mãe Ana Jorge; batismo 17/04/1751.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S599@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0181-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0181.jpg
+2 CONT direita, assento 2; batismo 20/04/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: José Inácio; pai Domingos Jorge; mãe Guiomar Nunes; batismo 20/04/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S600@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0182-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0182.jpg
+2 CONT esquerda, assento 1; batismo 09/05/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Marcos; pai Manuel Fernandes; mãe Maria Lourença; batismo 09/05/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S601@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0182-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0182.jpg
+2 CONT direita, assento 1; batismo 11/07/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Maria; pai Domingos Fernandes Claro; mãe Maria Antunes; batismo 11/07/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S602@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0182-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0182.jpg
+2 CONT direita, assento 2; batismo 30/09/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: António Afonso; pai Manuel Pereira; mãe Helena Fernandes; batismo 30/09/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S603@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0183-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0183.jpg
+2 CONT esquerda, assento 1; batismo 30/09/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai Francisco Lourenço; mãe Isabel Gonçalves; batismo 30/09/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S604@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0183-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0183.jpg
+2 CONT direita, assento 1; batismo 26/08/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Ana; pai João Fernandes; mãe Bárbara Gonçalves; batismo 26/08/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S605@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0183-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0183.jpg
+2 CONT direita, assento 2; batismo 21/08/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Custódia; pai José Galos; mãe Maria Jorge; batismo 21/08/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S606@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0184-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0184.jpg
+2 CONT esquerda, assento 1; batismo 06/09/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Bárbara; pai Manuel de Carvalho; mãe Maria João; batismo 06/09/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S607@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0184-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0184.jpg
+2 CONT direita, assento 1; batismo 27/09/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai João Alves Pequeno; mãe Maria Jorge; batismo 27/09/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S608@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0185-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0185.jpg
+2 CONT esquerda, assento 1; batismo 08/10/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai Francisco Manso; mãe Maria Gonçalves; batismo 08/10/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S609@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0185-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0185.jpg
+2 CONT direita, assento 2; batismo 20/10/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Maria; pai António Vaz Lavrador; mãe Maria Martins; batismo 20/10/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S610@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0186-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0186.jpg
+2 CONT esquerda, assento 1; batismo 11/11/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: José; pai Nicolau Martins; mãe Maria Alves; batismo 11/11/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S611@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0186-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0186.jpg
+2 CONT esquerda, assento 2; batismo 11/11/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Domingos; pai Baltasar Martins; mãe Maria Nunes; batismo 11/11/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S612@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0186-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0186.jpg
+2 CONT direita, assento 1; batismo 15/11/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Silvestre José; pai José Martins Pais; mãe Ana Nunes; batismo 15/11/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S613@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0187-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0187.jpg
+2 CONT esquerda, assento 1; batismo 05/12/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Francisco; pai Francisco Gonçalves Vigário; mãe Guiomar Martins; batismo 05/12/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S614@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0187-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0187.jpg
+2 CONT esquerda, assento 2; batismo 06/12/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Maria; pai António Lopes; mãe Ana Garcia; batismo 06/12/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S615@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0187-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0187.jpg
+2 CONT direita, assento 1; batismo 12/12/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Rosa Antónia; pai António Gonçalves; mãe Maria Martins; batismo 12/12/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S616@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0187-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0187.jpg
+2 CONT direita, assento 2; batismo 25/12/1752.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Isabel; pai Manuel Gonçalves Ambrósio; mãe Maria Martins; batismo 25/12/1752.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S617@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0188-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0188.jpg
+2 CONT direita, assento 1; batismo 03/02/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Maria; pai Domingos Gonçalves; mãe Quitéria Gonçalves; batismo 03/02/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S618@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0189-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0189.jpg
+2 CONT esquerda, assento 1; batismo 16/02/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: José; pai José Rodrigues; mãe Quitéria Jorge; batismo 16/02/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S619@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0189-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0189.jpg
+2 CONT esquerda, assento 2; batismo 17/02/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Doroteia; pai Domingos Gonçalves de Oliveira; mãe Brízida Galos; batismo 17/02/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S620@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0189-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0189.jpg
+2 CONT direita, assento 1; batismo 20/02/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: António; pai Domingos Gonçalves Lucas; mãe Maria Martins; batismo 20/02/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S621@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0190-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0190.jpg
+2 CONT esquerda, assento 1; batismo 28/02/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Maria; pai Francisco Rodrigues; mãe Maria Afonso; batismo 28/02/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S622@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0190-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0190.jpg
+2 CONT esquerda, assento 2; batismo 03/03/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Matias; pai Manuel Dias; mãe Maria Nunes; batismo 03/03/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S623@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0190-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0190.jpg
+2 CONT direita, assento 1; batismo 31/03/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai Manuel Lourenço Lavrador; mãe Rosa Luís; batismo 31/03/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S624@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0190-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0190.jpg
+2 CONT direita, assento 2; batismo 09/04/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: João; pai Manuel Gonçalves Baltum; mãe Ana Nabais; batismo 09/04/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S625@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0191-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0191.jpg
+2 CONT esquerda, assento 1; batismo 09/04/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Isabel; pai Manuel Martins; mãe Maria Fernandes; batismo 09/04/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S626@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0191-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0191.jpg
+2 CONT direita, assento 1; batismo 20/05/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Maria; pai Manuel Gomes; mãe Mariana Lopes; batismo 20/05/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S627@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0192-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0192.jpg
+2 CONT esquerda, assento 1; batismo 12/06/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: António; pai António Antunes; mãe Maria Alves; batismo 12/06/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S628@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0192-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0192.jpg
+2 CONT esquerda, assento 2; batismo 18/06/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: José; pai Sebastião Martins; mãe Isabel Rodrigues; batismo 18/06/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S629@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0193-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0193.jpg
+2 CONT esquerda, assento 1; batismo 16/07/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Isabel; pai José Robalo; mãe Isabel Gonçalves; batismo 16/07/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S630@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0193-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0193.jpg
+2 CONT esquerda, assento 2; batismo 24/07/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Doroteia; pai Manuel Mendes Gago; mãe Maria Carrilho; batismo 24/07/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S631@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0193-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0193.jpg
+2 CONT direita, assento 1; batismo 22/08/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai Manuel Martins Perdido; mãe Teresa Fernandes; batismo 22/08/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S632@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0193-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0193.jpg
+2 CONT direita, assento 2; batismo 22/08/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: José; pai Domingos Martins Manho; mãe Teresa Afonso; batismo 22/08/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S633@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0194-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0194.jpg
+2 CONT esquerda, assento 2; batismo 27/08/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai José Lourenço; mãe Maria Nunes; batismo 27/08/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S634@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0194-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0194.jpg
+2 CONT direita, assento 2; batismo 14/09/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Gabriel; pai Estevão Carrilho; mãe Isabel Afonso; batismo 14/09/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S635@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0194-d-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0194.jpg
+2 CONT direita, assento 3; batismo 20/09/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Maria; pai Domingos Martins de Guimarães; mãe Ana Martins; batismo 20/09/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S636@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0195-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0195.jpg
+2 CONT esquerda, assento 1; batismo 07/10/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Maria; pai João Luís; mãe Maria Nunes; batismo 07/10/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S637@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0195-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0195.jpg
+2 CONT esquerda, assento 2; batismo 15/10/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Vitória; pai Manuel Fernandes da Igreja; mãe Ignácia Gonçalves; batismo 15/10/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S638@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0195-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0195.jpg
+2 CONT direita, assento 1; batismo 22/10/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: José; pai João de Carvalho; mãe Catarina Lourença; batismo 22/10/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S639@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0195-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0195.jpg
+2 CONT direita, assento 2; batismo 22/10/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai José Nabais; mãe Isabel Nabais; batismo 22/10/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S640@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0196-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0196.jpg
+2 CONT esquerda, assento 1; batismo 27/10/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Gabriel; pai Manuel Mourão Vaz; mãe Catarina Gonçalves; batismo 27/10/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S641@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0196-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0196.jpg
+2 CONT esquerda, assento 2; batismo 29/10/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Paulo José; pai João Esteves Marçal; mãe Maria Jorge; batismo 29/10/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S642@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0196-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0196.jpg
+2 CONT direita, assento 1; batismo 20/11/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Domingos; pai Brás Luís; mãe Catarina Martins; batismo 20/11/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S643@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0196-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0196.jpg
+2 CONT direita, assento 2; batismo 20/11/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Ana; pai Joaquim Gonçalves; mãe Maria Nunes; batismo 20/11/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S644@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0197-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0197.jpg
+2 CONT esquerda, assento 1; batismo 09/12/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Catarina; pai Domingos Nunes do Alferes; mãe Maria Martins; batismo 09/12/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S645@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0197-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0197.jpg
+2 CONT esquerda, assento 2; batismo 15/12/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Paula; pai Manuel Nunes; mãe Luísa Nunes; batismo 15/12/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S646@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0197-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0197.jpg
+2 CONT direita, assento 1; batismo 22/12/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai Manuel Luís; mãe Rosa Gonçalves; batismo 22/12/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S647@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0197-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0197.jpg
+2 CONT direita, assento 2; batismo 29/12/1753.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai António Vaz Lavrador; mãe Maria Martins; batismo 29/12/1753.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S648@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0198-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0198.jpg
+2 CONT esquerda, assento 1; batismo 08/02/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Isabel; pai João Garcia de Carvalho; mãe Maria Afonso; batismo 08/02/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S649@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0198-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0198.jpg
+2 CONT esquerda, assento 2; batismo 01/03/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Adrião; pai Manuel Gonçalves Torceiro; mãe Maria Fernandes; batismo 01/03/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S650@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0198-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0198.jpg
+2 CONT direita, assento 1; batismo 07/04/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Lázaro; pai Manuel Gonçalves Bolão; mãe Ana Nabais; batismo 07/04/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S651@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0199-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0199.jpg
+2 CONT esquerda, assento 1; batismo 22/04/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: José; pai Manuel Garcia de Carvalho; mãe Ana Nunes; batismo 22/04/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S652@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0199-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0199.jpg
+2 CONT esquerda, assento 3; batismo 22/04/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Maria Ignácia; pai Domingos Gonçalves Lucas; mãe Maria Martins; batismo 22/04/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S653@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0199-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0199.jpg
+2 CONT direita, assento 1; batismo 24/04/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Maria; pai Sebastião Afonso; mãe Maria Gonçalves; batismo 24/04/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S654@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0199-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0199.jpg
+2 CONT direita, assento 2; batismo 29/05/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Sebastião; pai Sebastião Lopes; mãe Maria Amara; batismo 29/05/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S655@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0200-e-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0200.jpg
+2 CONT esquerda, assento 1; batismo 12/08/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: José; pai Manuel Gomes; mãe Mariana Martins; batismo 12/08/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S656@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0200-e-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0200.jpg
+2 CONT esquerda, assento 2; batismo 15/08/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Manuel; pai Manuel Lourenço Nabais; mãe Rosa Luís; batismo 15/08/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S657@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0200-e-03
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0200.jpg
+2 CONT esquerda, assento 3; batismo 26/08/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: João; pai José Lourenço; mãe Ana Lopes; batismo 26/08/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S658@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0200-d-01
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0200.jpg
+2 CONT direita, assento 1; batismo 07/09/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Ângela; pai José Nunes; mãe Maria Afonso; batismo 07/09/1754.
+1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
+0 @S659@ SOUR
+1 TITL PT/TT/PRQ/PSBG34/001/B2 — S8-B2-m0200-d-02
+1 PUBL https://digitarq.arquivos.pt/documentDetails/374f3252d6754d9fb645ae64a09116be
+1 NOTE Imagem: fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0200.jpg
+2 CONT direita, assento 2; batismo 22/09/1754.
+2 CONT Leitura dos campos essenciais, sem datas de outros eventos inferidas.
+1 NOTE Leitura normalizada dos campos essenciais: Luísa; pai José Robalo; mãe Isabel Gonçalves; batismo 22/09/1754.
 1 NOTE Leitura parcial, sem transcrição diplomática integral. Menções adicionais de avós e padrinhos na leitura anterior são provisórias e não criam relações na árvore. Não inferidos apelidos, nascimentos ou identidades entre assentos.
 0 TRLR
