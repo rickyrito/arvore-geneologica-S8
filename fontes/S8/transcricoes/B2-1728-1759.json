@@ -266,11 +266,19 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Cinco de março de 1728: Ana, filha de Domingos Jorge e Catarina Tabais (apelido da mãe por conferir). Avós paternos Domingos Jorge e Isabel Domingues; maternos Francisco Tabais e Maria Pires. Padrinhos Francisco Nogueiro, filho de Domingos Jorge, e Maria Teresa, filha de Francisco Martins; naturais e moradores do Souto.",
-      "duvidas": [
-        "Apelido da mãe Catarina: hipótese Tabais, a confirmar em ampliação; mantida pendência."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Cinco de março de 1728: Ana, filha de Domingos Jorge e Catarina Tabais (apelido da mãe por conferir). Avós paternos Domingos Jorge e Isabel Domingues; maternos Francisco Tabais e Maria Pires. Padrinhos Francisco Nogueiro, filho de Domingos Jorge, e Maria Teresa, filha de Francisco Martins; naturais e moradores do Souto.",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Domingos Jorge",
+      "mae": "Catarina Nabais",
+      "data_batismo": "05/03/1728",
+      "nota_revisao": "16/11/2026: relido o assento e ampliadas as duas ocorrências do apelido, na mãe Catarina e no avô materno Francisco. Lê-se Nabais; o primeiro traço foi anteriormente tomado por T. A grafia foi também comparada com Nabais no mesmo punho em m0004 direita. Data e filiação conferidas no corpo; avós e padrinhos não geram novas relações.",
+      "excerto": "Leitura normalizada dos campos essenciais: Ana; pai Domingos Jorge; mãe Catarina Nabais; batismo 05/03/1728.",
+      "nota": "Revisão visual dirigida do assento e dos recortes ampliados, sem OCR. Não é transcrição diplomática integral. Nenhuma data de nascimento, apelido da criança ou identidade entre assentos foi inferida."
     },
     {
       "id": "S8-B2-m0003-e-02",
@@ -281,8 +289,10 @@
       "estado": "pendente",
       "leitura_parcial": "Vinte de abril de 1728: Maria, filha de Domingos Gonçalves, com possível designação adicional ainda insegura, e Maria Correia. Segundo matrimónio dela e primeiro dele. Avós paternos Lucas Gonçalves e Isabel Antunes; restantes nomes e final danificados. Não abreviar o nome do pai para o confirmar.",
       "duvidas": [
-        "Confirmar nome completo do pai; final do assento perdido em parte."
-      ]
+        "A designação após Domingos Gonçalves parece Alferes, mas a grafia ainda não permite confirmá-la com segurança."
+      ],
+      "leitura_anterior": "Vinte de abril de 1728: Maria, filha de Domingos Gonçalves, com possível designação adicional ainda insegura, e Maria Correia. Segundo matrimónio dela e primeiro dele. Avós paternos Lucas Gonçalves e Isabel Antunes; restantes nomes e final danificados. Não abreviar o nome do pai para o confirmar.",
+      "nota_revisao": "16/11/2026: ampliadas as linhas de filiação. Maria e a mãe Maria Correia estão legíveis; a designação do pai continua insegura. Mantida a leitura pendente, sem encurtar o nome para forçar integração."
     },
     {
       "id": "S8-B2-m0003-d-01",
@@ -293,8 +303,10 @@
       "estado": "pendente",
       "leitura_parcial": "1728: Maria, filha de Manuel Mendes e Josefa Gonçalves. Abertura com correção de escrita; dia aparentemente cinco, mês perdido junto ao rasgo. Avós e padrinhos citados, mas vários nomes incompletos. Não completar data pela ordem das páginas.",
       "duvidas": [
-        "Data completa e nomes dos avós por conferir junto à lacuna."
-      ]
+        "O nome do mês está perdido no rasgo; a data completa do batismo não pode ser estabelecida."
+      ],
+      "leitura_anterior": "1728: Maria, filha de Manuel Mendes e Josefa Gonçalves. Abertura com correção de escrita; dia aparentemente cinco, mês perdido junto ao rasgo. Avós e padrinhos citados, mas vários nomes incompletos. Não completar data pela ordem das páginas.",
+      "nota_revisao": "16/11/2026: relida a abertura. Confirmam-se Maria, Manuel Mendes e Josefa Gonçalves, mas o mês foi perdido materialmente. A nota posterior de visitação não data o batismo. Avós não são requisito para confirmar, mas a falta da data essencial mantém o assento pendente."
     },
     {
       "id": "S8-B2-m0003-d-02",
@@ -325,8 +337,10 @@
       "estado": "pendente",
       "leitura_parcial": "1728: Ana, filha de António Nunes e Ana Gonçalves. Aplicação dos santos óleos; a criança fora batizada em casa por necessidade pelo pai. Abertura corrige o mês de julho para junho, dia junto ao dano. Avós paternos Sebastião Nunes e Maria Fernandes; maternos Manuel de Sousa e Isabel Gonçalves. Não atribuída a data desta cerimónia ao batismo de necessidade.",
       "duvidas": [
-        "Confirmar data do batismo original; distinguir da aplicação dos santos óleos."
-      ]
+        "Não é indicada data autónoma para o batismo em casa por necessidade; a abertura refere os santos óleos."
+      ],
+      "leitura_anterior": "1728: Ana, filha de António Nunes e Ana Gonçalves. Aplicação dos santos óleos; a criança fora batizada em casa por necessidade pelo pai. Abertura corrige o mês de julho para junho, dia junto ao dano. Avós paternos Sebastião Nunes e Maria Fernandes; maternos Manuel de Sousa e Isabel Gonçalves. Não atribuída a data desta cerimónia ao batismo de necessidade.",
+      "nota_revisao": "16/11/2026: relido todo o primeiro termo. A frase declara que Ana, filha de António Nunes e Ana Gonçalves, foi batizada em casa pelo pai por necessidade; não fornece o dia desse batismo. A correção de julho para junho pertence à cerimónia de santos óleos. Mantida pendente."
     },
     {
       "id": "S8-B2-m0004-e-02",
@@ -377,8 +391,10 @@
       "estado": "pendente",
       "leitura_parcial": "Vinte e oito de dezembro de 1728: Francisco, filho de Francisco Gonçalves e Manuela João. Abertura refere santos óleos e batismo em casa por necessidade; nome do batizante e data do batismo original exigem conferência. Avós paternos Francisco Gonçalves e Catarina Gonçalves; maternos Manuel Gomes e sua mulher, cujo nome exige leitura.",
       "duvidas": [
-        "Distinguir a data dos santos óleos da data do batismo de necessidade; conferir nomes completos."
-      ]
+        "O termo dá a data dos santos óleos, mas não a data do batismo em casa por necessidade."
+      ],
+      "leitura_anterior": "Vinte e oito de dezembro de 1728: Francisco, filho de Francisco Gonçalves e Manuela João. Abertura refere santos óleos e batismo em casa por necessidade; nome do batizante e data do batismo original exigem conferência. Avós paternos Francisco Gonçalves e Catarina Gonçalves; maternos Manuel Gomes e sua mulher, cujo nome exige leitura.",
+      "nota_revisao": "16/11/2026: relido o segundo termo. Francisco, filho de Francisco Gonçalves e Manuela João, recebe os santos óleos em 28/12/1728 após batismo em casa; a data deste não está expressa. O dano no final não autoriza completar a informação."
     },
     {
       "id": "S8-B2-m0005-e-01",
@@ -429,8 +445,10 @@
       "estado": "pendente",
       "leitura_parcial": "Vinte e oito de julho de 1729: Maria, filha de Inácio Fernandes, alfaiate, e Teresa João. Avós paternos Manuel Fernandes, alfaiate, e Isabel Nunes; maternos Sebastião Marques e Isabel João. Padrinhos Domingos Fernandes e mulher com nome ainda por conferir, apelido Marques, viúva. Ler novamente a margem e o nome da criança.",
       "duvidas": [
-        "Nome da criança no corpo parece Maria, enquanto a margem parece Ana; mantida pendência por divergência."
-      ]
+        "O corpo nomeia Maria, mas a anotação marginal lê-se Ana; permanece a divergência no nome da criança."
+      ],
+      "leitura_anterior": "Vinte e oito de julho de 1729: Maria, filha de Inácio Fernandes, alfaiate, e Teresa João. Avós paternos Manuel Fernandes, alfaiate, e Isabel Nunes; maternos Sebastião Marques e Isabel João. Padrinhos Domingos Fernandes e mulher com nome ainda por conferir, apelido Marques, viúva. Ler novamente a margem e o nome da criança.",
+      "nota_revisao": "16/11/2026: ampliadas a margem e as linhas do corpo. A divergência Ana/Maria mantém-se. A filiação Inácio Fernandes, alfaiate, e Teresa João não resolve a contradição; nenhum nome foi escolhido em silêncio."
     },
     {
       "id": "S8-B2-m0006-e-01",
@@ -438,11 +456,19 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Agosto de 1729, dia por conferir (treze/dezoito): Ana, filha de Luís Carrilho e Maria Dias. Avós paternos Luís Carrilho e Ana Gonçalves; maternos António Martins e Maria Pires. Padrinhos Domingos Gonçalves, com designação adicional por conferir, e Ana Silveira. Assinatura a pedido da madrinha por Domingos Nunes.",
-      "duvidas": [
-        "Conferir numeral do dia e nomes adicionais dos padrinhos."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Agosto de 1729, dia por conferir (treze/dezoito): Ana, filha de Luís Carrilho e Maria Dias. Avós paternos Luís Carrilho e Ana Gonçalves; maternos António Martins e Maria Pires. Padrinhos Domingos Gonçalves, com designação adicional por conferir, e Ana Silveira. Assinatura a pedido da madrinha por Domingos Nunes.",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Luís Carrilho",
+      "mae": "Maria Dias",
+      "data_batismo": "13/08/1729",
+      "nota_revisao": "16/11/2026: abertura relida na página inteira e em recorte ampliado: Aos treze dias do mês de agosto de mil e setecentos e vinte e nove. A hipótese de dezoito não é corroborada pela escrita. Filiação lida no corpo; as dúvidas sobre padrinhos não afetam os campos essenciais e não criam relações.",
+      "excerto": "Leitura normalizada dos campos essenciais: Ana; pai Luís Carrilho; mãe Maria Dias; batismo 13/08/1729.",
+      "nota": "Revisão visual dirigida do assento e dos recortes ampliados, sem OCR. Não é transcrição diplomática integral. Nenhuma data de nascimento, apelido da criança ou identidade entre assentos foi inferida."
     },
     {
       "id": "S8-B2-m0006-e-02",
@@ -473,8 +499,10 @@
       "estado": "pendente",
       "leitura_parcial": "Dezasseis de agosto de 1729: santos óleos a Manuel, filho de António Martins e Maria Jorge. Avós paternos Manuel Martins e Maria Moreninha; maternos António Jorge e Maria Fernandes. Conclusão na página direita: criança batizada em casa pela parteira, por necessidade, havendo concordância das pessoas presentes. Não confundida data dos óleos com data do batismo.",
       "duvidas": [
-        "Data do batismo de necessidade não confirmada; conferir nome da parteira."
-      ]
+        "Não consta data autónoma do batismo em casa; 16/08/1729 é a data dos santos óleos."
+      ],
+      "leitura_anterior": "Dezasseis de agosto de 1729: santos óleos a Manuel, filho de António Martins e Maria Jorge. Avós paternos Manuel Martins e Maria Moreninha; maternos António Jorge e Maria Fernandes. Conclusão na página direita: criança batizada em casa pela parteira, por necessidade, havendo concordância das pessoas presentes. Não confundida data dos óleos com data do batismo.",
+      "nota_revisao": "16/11/2026: revistos o começo em m0006 esquerda e a continuação no topo da direita. A criança já fora batizada em casa por necessidade, com concordância declarada das pessoas presentes. A continuação não acrescenta a data desse ato; mantida pendente."
     },
     {
       "id": "S8-B2-m0006-d-01",
@@ -565,8 +593,10 @@
       "estado": "pendente",
       "leitura_parcial": "Vinte e seis de setembro de 1729: Teodora, filha de Domingos Vaz, com designação adicional insegura, e Maria Nunes. Avós paternos Domingos Vaz e Maria Antunes; maternos João Martins e Isabel Nunes. Padrinhos Francisco Antunes e sua irmã Isidora Antunes, filhos de Clara Antunes.",
       "duvidas": [
-        "Conferir nome completo do pai; designação adicional não omitida para forçar confirmação."
-      ]
+        "A designação depois de Domingos Vaz continua insegura; hipótese Lamego por conferir."
+      ],
+      "leitura_anterior": "Vinte e seis de setembro de 1729: Teodora, filha de Domingos Vaz, com designação adicional insegura, e Maria Nunes. Avós paternos Domingos Vaz e Maria Antunes; maternos João Martins e Isabel Nunes. Padrinhos Francisco Antunes e sua irmã Isidora Antunes, filhos de Clara Antunes.",
+      "nota_revisao": "16/11/2026: relido o termo de Teodora, 26/09/1729. Nome da criança, data e mãe Maria Nunes estão legíveis; o complemento do nome do pai não ficou resolvido. Mantida pendente."
     },
     {
       "id": "S8-B2-m0007-e-03",
@@ -634,11 +664,19 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Dezoito de dezembro de 1729: Manuel, filho de Manuel Lopes e Maria Gago. Avós paternos João Lopes e Maria Lourença; maternos André Gago e Inês Mendes. Padrinhos Manuel Oliveira e sua irmã Teresa Teixeira, filhos de Maria Lopes.",
-      "duvidas": [
-        "Nome da mãe parece Maria Galo em vez da hipótese Gago; conferir apelido antes de confirmar."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Dezoito de dezembro de 1729: Manuel, filho de Manuel Lopes e Maria Gago. Avós paternos João Lopes e Maria Lourença; maternos André Gago e Inês Mendes. Padrinhos Manuel Oliveira e sua irmã Teresa Teixeira, filhos de Maria Lopes.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Lopes",
+      "mae": "Maria Galo",
+      "data_batismo": "18/12/1729",
+      "nota_revisao": "16/11/2026: leitura do corpo confirma Maria gallo e repete o mesmo apelido no avô materno André gallo. O traçado tem ll, sem descendente de g interior; normalizado para Galo, conservando a hipótese anterior Gago no histórico. Data, Manuel e pai Manuel Lopes conferidos no termo completo.",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Manuel Lopes; mãe Maria Galo; batismo 18/12/1729.",
+      "nota": "Revisão visual dirigida do assento e dos recortes ampliados, sem OCR. Não é transcrição diplomática integral. Nenhuma data de nascimento, apelido da criança ou identidade entre assentos foi inferida."
     },
     {
       "id": "S8-B2-m0008-e-02",
@@ -769,8 +807,10 @@
       "estado": "pendente",
       "leitura_parcial": "Cinco de fevereiro de 1730: Ana, filha de Manuel Martins Gago e Maria Lopes; primeiro matrimónio. Avós paternos João Martins Gago e Catarina Afonso; maternos João Lopes e Maria Lourença. Padrinhos Manuel Luís e Maria Gonçalves, sua mulher.",
       "duvidas": [
-        "Designação adicional do pai após Manuel Martins permanece insegura; hipótese Gago não confirmada."
-      ]
+        "O complemento após Manuel Martins e a sua repetição no avô paterno continuam graficamente inseguros; não foi confirmada a hipótese Gago."
+      ],
+      "leitura_anterior": "Cinco de fevereiro de 1730: Ana, filha de Manuel Martins Gago e Maria Lopes; primeiro matrimónio. Avós paternos João Martins Gago e Catarina Afonso; maternos João Lopes e Maria Lourença. Padrinhos Manuel Luís e Maria Gonçalves, sua mulher.",
+      "nota_revisao": "16/11/2026: revistos corpo e recorte ampliado das duas ocorrências do complemento. Confirmam-se Ana, Maria Lopes e cinco de fevereiro de 1730. Mantida pendência do nome completo do pai."
     },
     {
       "id": "S8-B2-m0010-e-01",
@@ -801,8 +841,10 @@
       "estado": "pendente",
       "leitura_parcial": "Treze de março de 1730: Maria, filha de António Martins e Maria Martins, esta com designação adicional aparentemente Manuel. Batizou por licença padre António Teixeira. Avós paternos António Martins e Maria Tabais; maternos Manuel Nunes, com designação adicional insegura, e Maria Martins. Padrinhos padre Francisco Tabais e sua irmã Ana Silveira.",
       "duvidas": [
-        "Conferir nome completo da mãe e designação adicional do avô materno."
-      ]
+        "A expressão depois de Maria Martins parece de Manuel; conferir o nome completo da mãe antes de integrar."
+      ],
+      "leitura_anterior": "Treze de março de 1730: Maria, filha de António Martins e Maria Martins, esta com designação adicional aparentemente Manuel. Batizou por licença padre António Teixeira. Avós paternos António Martins e Maria Tabais; maternos Manuel Nunes, com designação adicional insegura, e Maria Martins. Padrinhos padre Francisco Tabais e sua irmã Ana Silveira.",
+      "nota_revisao": "16/11/2026: ampliadas as linhas de filiação. A designação da mãe não pode ser omitida para forçar confirmação. As menções adicionais ao avô materno são provisórias e não criam relações."
     },
     {
       "id": "S8-B2-m0010-d-01",
@@ -933,8 +975,10 @@
       "estado": "pendente",
       "leitura_parcial": "Vinte e três de maio de 1730: Catarina, filha de João Gonçalves, com designação adicional por conferir, e Maria França. Segundo matrimónio dela. Avós paternos Francisco Gonçalves e Domingas Gonçalves; maternos Bartolomeu, com apelido por conferir, e Maria Pires. Padrinhos Manuel Rodrigues, de Casteleiro, e Catarina Afonso, do Souto.",
       "duvidas": [
-        "Confirmar designação adicional do pai e nome completo do avô materno."
-      ]
+        "O complemento após João Gonçalves parece piquino/pequeno, mas a leitura não ficou segura."
+      ],
+      "leitura_anterior": "Vinte e três de maio de 1730: Catarina, filha de João Gonçalves, com designação adicional por conferir, e Maria França. Segundo matrimónio dela. Avós paternos Francisco Gonçalves e Domingas Gonçalves; maternos Bartolomeu, com apelido por conferir, e Maria Pires. Padrinhos Manuel Rodrigues, de Casteleiro, e Catarina Afonso, do Souto.",
+      "nota_revisao": "16/11/2026: relido o termo e ampliado o nome do pai. Catarina, Maria França e a data de 23/05/1730 estão legíveis; mantida pendência do complemento do pai. A dúvida sobre o avô materno não seria, por si só, impedimento aos campos essenciais."
     },
     {
       "id": "S8-B2-m0013-e-01",
@@ -945,8 +989,10 @@
       "estado": "pendente",
       "leitura_parcial": "João, filho de Domingos Alves e mulher cujo nome se encontra emendado, aparentemente Isabel Correia Alves. Abertura: vinte e oito de agosto, ano por reconferir. Avós paternos Manuel Alves e Isabel Lopes; maternos João Alves e Maria Lopes. Padrinhos Pedro Afonso e Isabel Alves, sua mulher. Reposição por informação de batismo administrado por padre Silvério; testemunhas citadas. Data de redação aparentemente 24 de junho de 1730.",
       "duvidas": [
-        "Conferir ano do batismo e emenda do nome da mãe; não usar data da reposição como batismo."
-      ]
+        "A ampliação da abertura favorece 28/08/1717, em vez da hipótese inicial sem ano seguro; a emenda do nome completo da mãe não ficou resolvida."
+      ],
+      "leitura_anterior": "João, filho de Domingos Alves e mulher cujo nome se encontra emendado, aparentemente Isabel Correia Alves. Abertura: vinte e oito de agosto, ano por reconferir. Avós paternos Manuel Alves e Isabel Lopes; maternos João Alves e Maria Lopes. Padrinhos Pedro Afonso e Isabel Alves, sua mulher. Reposição por informação de batismo administrado por padre Silvério; testemunhas citadas. Data de redação aparentemente 24 de junho de 1730.",
+      "nota_revisao": "16/11/2026: relida a reposição completa. O ano da abertura parece dezassete e é anterior ao intervalo do catálogo; conservada esta divergência. A data final da redação não foi usada como data do batismo. O nome emendado da mãe mantém a pendência."
     },
     {
       "id": "S8-B2-m0013-e-02",
@@ -957,8 +1003,10 @@
       "estado": "pendente",
       "leitura_parcial": "Domingos, filho de Domingos Alves e Ana Alves. Vinte e oito de setembro, ano aparentemente 1729. Avós paternos Manuel Alves e Isabel Lopes; maternos João Alves e Maria Lopes. Padrinhos Pedro Afonso e Isabel Alves. Batismo por padre Silvério reposto por informação e testemunhas; redação em 24 de junho de 1730 aparentemente.",
       "duvidas": [
-        "Conferir data original e nomes completos; assento de reposição, não confundir testemunhas com padrinhos."
-      ]
+        "A abertura ampliada favorece 28/09/1719, não 1729; conferir o ano original e o nome completo da mãe na reposição."
+      ],
+      "leitura_anterior": "Domingos, filho de Domingos Alves e Ana Alves. Vinte e oito de setembro, ano aparentemente 1729. Avós paternos Manuel Alves e Isabel Lopes; maternos João Alves e Maria Lopes. Padrinhos Pedro Afonso e Isabel Alves. Batismo por padre Silvério reposto por informação e testemunhas; redação em 24 de junho de 1730 aparentemente.",
+      "nota_revisao": "16/11/2026: o grupo do ano lê-se aparentemente e dezanove. A revisão não substitui a data original pela data de redação de 1730. Continua pendente, com a hipótese inicial conservada."
     },
     {
       "id": "S8-B2-m0013-d-01",
@@ -969,8 +1017,10 @@
       "estado": "pendente",
       "leitura_parcial": "Vinte e sete de novembro, ano aparentemente 1729: Domingos, filho de Domingos Gonçalves Lareira e Maria João. Avós paternos Francisco Gonçalves e Maria Fernandes, do lugar da Freixeda; maternos António Jorge e Catarina Lopes, do Souto. Padrinhos Estêvão Tabais e sua irmã Ana Tabais. Batismo por padre Silvério, reposto por informação; redação em 29 de junho de 1730 aparentemente.",
       "duvidas": [
-        "Conferir ano original e nome completo do pai em recorte; não confundir data da redação."
-      ]
+        "A abertura ampliada lê-se 27/11/1715; o complemento do pai depois de Domingos Gonçalves ainda precisa de conferência antes de integrar uma reposição anterior ao catálogo."
+      ],
+      "leitura_anterior": "Vinte e sete de novembro, ano aparentemente 1729: Domingos, filho de Domingos Gonçalves Lareira e Maria João. Avós paternos Francisco Gonçalves e Maria Fernandes, do lugar da Freixeda; maternos António Jorge e Catarina Lopes, do Souto. Padrinhos Estêvão Tabais e sua irmã Ana Tabais. Batismo por padre Silvério, reposto por informação; redação em 29 de junho de 1730 aparentemente.",
+      "nota_revisao": "16/11/2026: a ampliação das duas primeiras linhas mostra e quinze anos. A anterior hipótese de 1729 não ficou corroborada. A filiação e a redação posterior foram relidas, mantendo o assento pendente e sem substituir o evento histórico por 1730."
     },
     {
       "id": "S8-B2-m0013-d-02",
@@ -981,8 +1031,10 @@
       "estado": "pendente",
       "leitura_parcial": "Novembro, ano aparentemente 1729: José, filho de José Gonçalves, com designação adicional insegura, e Ana Tabais. Avós paternos Francisco Gonçalves e Domingas Gonçalves; maternos Maria, com apelido por conferir, e António Tabais. Padrinhos João Luís, com designação adicional, e Isabel Domingues. Reposição de batismo administrado por padre Silvério, com testemunhas; redação de 29 de junho de 1730 aparentemente.",
       "duvidas": [
-        "Conferir numeral do dia, ano e nome completo do pai; não criar data a partir da reposição."
-      ]
+        "Conferir dia, ano e complemento do nome do pai na reposição; a nova leitura da abertura não corrobora com segurança a hipótese inicial de 1729."
+      ],
+      "leitura_anterior": "Novembro, ano aparentemente 1729: José, filho de José Gonçalves, com designação adicional insegura, e Ana Tabais. Avós paternos Francisco Gonçalves e Domingas Gonçalves; maternos Maria, com apelido por conferir, e António Tabais. Padrinhos João Luís, com designação adicional, e Isabel Domingues. Reposição de batismo administrado por padre Silvério, com testemunhas; redação de 29 de junho de 1730 aparentemente.",
+      "nota_revisao": "16/11/2026: relido o segundo termo da direita. Não ficou seguro o numeral do dia nem o ano; nenhuma data estruturada foi criada. Mantidas as hipóteses anteriores para futura revisão."
     },
     {
       "id": "S8-B2-m0014-e-01",
@@ -991,10 +1043,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Vinte e sete de maio, ano aparentemente 1729: criança cujo nome no corpo parece Teresa, divergindo da leitura marginal. Pais Domingos Gonçalves e Maria Nunes provisoriamente. Avós paternos Francisco Gonçalves e Maria Fernandes, da Freixeda; maternos Maria Nunes e Catarina Lopes provisoriamente. Batismo de necessidade pelo padre Silvério, reposto por informação e testemunhas. Redação em 30 de junho de 1730 aparentemente.",
+      "leitura_parcial": "Reposição de batismo de uma criança cujo nome no corpo se lê aparentemente Quitéria, divergindo da margem Domingos; pais Domingos Gonçalves e Maria Nunes. Abertura aparentemente 27/05/1726. O texto menciona batismo em casa por necessidade e uma redação posterior em 1730. A grafia do nome e a relação entre as cerimónias exigem nova conferência.",
       "duvidas": [
-        "Conferir nome da criança, filiação e ano; nomes sobrepostos e indicação marginal divergente."
-      ]
+        "Resolver a divergência entre a margem Domingos e o nome no corpo, agora lido como Quitéria; distinguir o batismo de necessidade e a reposição posterior."
+      ],
+      "leitura_anterior": "Vinte e sete de maio, ano aparentemente 1729: criança cujo nome no corpo parece Teresa, divergindo da leitura marginal. Pais Domingos Gonçalves e Maria Nunes provisoriamente. Avós paternos Francisco Gonçalves e Maria Fernandes, da Freixeda; maternos Maria Nunes e Catarina Lopes provisoriamente. Batismo de necessidade pelo padre Silvério, reposto por informação e testemunhas. Redação em 30 de junho de 1730 aparentemente.",
+      "nota_revisao": "16/11/2026: ampliadas abertura e filiação. A hipótese anterior Teresa não ficou corroborada; o corpo favorece Quitéria e o ano vinte e seis. Mantida pendência e conservada a leitura anterior, sem correção silenciosa nem integração de data anterior ao catálogo."
     },
     {
       "id": "S8-B2-m0014-e-02",
@@ -1005,8 +1059,10 @@
       "estado": "pendente",
       "leitura_parcial": "Trinta de janeiro de 1726 aparentemente: Maria, filha de Manuel Gonçalves, com designação adicional insegura, e Ana Tabais. Avós paternos Francisco Gonçalves e Domingas Gonçalves; maternos Maria, com apelido por conferir, e António Tabais. Batismo por padre Silvério, reposto com testemunhas; redação em julho de 1730. Data do batismo anterior à data inicial do catálogo, não corrigida pela sequência.",
       "duvidas": [
-        "Conferir ano 1726 e nome completo do pai; documentar divergência com intervalo do catálogo antes de integrar."
-      ]
+        "Confirmar o complemento após Manuel Gonçalves e a data histórica da reposição, aparentemente 30/01/1726, anterior ao catálogo."
+      ],
+      "leitura_anterior": "Trinta de janeiro de 1726 aparentemente: Maria, filha de Manuel Gonçalves, com designação adicional insegura, e Ana Tabais. Avós paternos Francisco Gonçalves e Domingas Gonçalves; maternos Maria, com apelido por conferir, e António Tabais. Batismo por padre Silvério, reposto com testemunhas; redação em julho de 1730. Data do batismo anterior à data inicial do catálogo, não corrigida pela sequência.",
+      "nota_revisao": "16/11/2026: relido o segundo termo; o complemento do pai permanece inseguro. A mãe lê-se Ana Nabais, mas não foi abreviado o nome do pai para forçar integração. Conservadas as hipóteses anteriores e a distinção entre batismo e redação."
     },
     {
       "id": "S8-B2-m0014-d-01",
@@ -1017,8 +1073,10 @@
       "estado": "pendente",
       "leitura_parcial": "Catorze de setembro de 1726 aparentemente: Inácio, filho de Francisco Gonçalves, com designação adicional aparentemente Lourenço, e Maria Nunes. Avós paternos Estêvão Gonçalves e Catarina Gonçalves; maternos Manuel Nunes e Maria Antunes. Batismo por padre Silvério reposto por informação, padrinhos e testemunhas. Redação em junho de 1730. Evento aparentemente anterior ao intervalo do catálogo.",
       "duvidas": [
-        "Conferir nome da criança, ano 1726 e nome completo do pai; não substituir ano pela data da redação."
-      ]
+        "Conferir o nome da criança e o complemento do pai; o início favorece 14/09/1726, mas não basta para confirmar o conjunto de campos essenciais."
+      ],
+      "leitura_anterior": "Catorze de setembro de 1726 aparentemente: Inácio, filho de Francisco Gonçalves, com designação adicional aparentemente Lourenço, e Maria Nunes. Avós paternos Estêvão Gonçalves e Catarina Gonçalves; maternos Manuel Nunes e Maria Antunes. Batismo por padre Silvério reposto por informação, padrinhos e testemunhas. Redação em junho de 1730. Evento aparentemente anterior ao intervalo do catálogo.",
+      "nota_revisao": "16/11/2026: revistas a abertura ampliada e a declaração de reposição. A hipótese anterior Lourenço para o complemento do pai não ficou confirmada. Mantida pendência sem atribuir a data de redação de 1730 ao batismo."
     },
     {
       "id": "S8-B2-m0014-d-02",
@@ -1029,8 +1087,10 @@
       "estado": "pendente",
       "leitura_parcial": "Cinco de novembro de 1727 aparentemente: Maria, filha de Francisco Gonçalves Andrade e Maria Nunes. Avós paternos Estêvão Gonçalves e Catarina Gonçalves; maternos Manuel Nunes e Maria Antunes. Batismo por padre Silvério reposto por informação. Padrinhos António Nunes e Isabel Luís, sua mulher. Final continua em m0015 esquerda; ano anterior ao intervalo do catálogo.",
       "duvidas": [
-        "Conferir data e nomes no assento completo, incluindo continuação; documentar divergência cronológica do catálogo."
-      ]
+        "Conferir integralmente a reposição de batismo aparentemente de 05/11/1727, anterior ao catálogo, antes de integrar os campos essenciais."
+      ],
+      "leitura_anterior": "Cinco de novembro de 1727 aparentemente: Maria, filha de Francisco Gonçalves Andrade e Maria Nunes. Avós paternos Estêvão Gonçalves e Catarina Gonçalves; maternos Manuel Nunes e Maria Antunes. Batismo por padre Silvério reposto por informação. Padrinhos António Nunes e Isabel Luís, sua mulher. Final continua em m0015 esquerda; ano anterior ao intervalo do catálogo.",
+      "nota_revisao": "16/11/2026: revisto o corpo e a continuação no topo de m0015 esquerda. Maria, Francisco Gonçalves Andrade e Maria Nunes estão legíveis; a redação posterior e o ano anterior ao catálogo foram mantidos distintos. Não foi criado evento com a data da reposição."
     },
     {
       "id": "S8-B2-m0015-e-01",
@@ -1041,8 +1101,10 @@
       "estado": "pendente",
       "leitura_parcial": "Vinte de setembro de 1714 aparentemente: António, filho de Manuel Nunes e Isabel Alves. Avós paternos Manuel Nunes e Maria Antunes; maternos Domingos Alves e Isabel Domingues. Batismo de necessidade por António Fernandes, seguido de santos óleos por padre Silvério. Reposição por informação e testemunhas, escrita em junho de 1730. Data original anterior ao intervalo do catálogo.",
       "duvidas": [
-        "Reconferir ano 1714 e distinguir datas das duas cerimónias; não usar data da reposição."
-      ]
+        "20/09/1714 está na abertura da reposição; esclarecer se data o batismo de necessidade ou a cerimónia posterior de santos óleos."
+      ],
+      "leitura_anterior": "Vinte de setembro de 1714 aparentemente: António, filho de Manuel Nunes e Isabel Alves. Avós paternos Manuel Nunes e Maria Antunes; maternos Domingos Alves e Isabel Domingues. Batismo de necessidade por António Fernandes, seguido de santos óleos por padre Silvério. Reposição por informação e testemunhas, escrita em junho de 1730. Data original anterior ao intervalo do catálogo.",
+      "nota_revisao": "16/11/2026: o ano catorze foi relido no original. O texto distingue batismo de necessidade por António Fernandes e santos óleos pelo padre Silvério; não se atribui automaticamente uma só data aos dois atos. Mantida a pendência."
     },
     {
       "id": "S8-B2-m0015-e-02",
@@ -1053,8 +1115,10 @@
       "estado": "pendente",
       "leitura_parcial": "Vinte e cinco de junho, ano aparentemente 1716: Catarina, filha de Domingos Nunes e Catarina Gonçalves. Avós paternos Domingos Nunes e Guiomar Lopes; maternos José Gonçalves e Maria Afonso. Continuação em m0015 direita: batismo por padre Silvério; padrinhos Sebastião Afonso e Maria Gonçalves. Informação reposta em junho de 1730, com testemunhas Francisco Gomes e Manuel Nunes aparentemente.",
       "duvidas": [
-        "Conferir ano original e nomes no texto completo; anterior ao intervalo do catálogo."
-      ]
+        "Conferir integralmente a reposição, cuja abertura favorece 25/06/1716, anterior ao intervalo do catálogo."
+      ],
+      "leitura_anterior": "Vinte e cinco de junho, ano aparentemente 1716: Catarina, filha de Domingos Nunes e Catarina Gonçalves. Avós paternos Domingos Nunes e Guiomar Lopes; maternos José Gonçalves e Maria Afonso. Continuação em m0015 direita: batismo por padre Silvério; padrinhos Sebastião Afonso e Maria Gonçalves. Informação reposta em junho de 1730, com testemunhas Francisco Gomes e Manuel Nunes aparentemente.",
+      "nota_revisao": "16/11/2026: revistos o começo em m0015 esquerda e a continuação na direita. A abertura parece dezasseis; não foi substituída pela data posterior de redação. Mantida pendência da reposição histórica."
     },
     {
       "id": "S8-B2-m0015-d-01",
@@ -1065,8 +1129,10 @@
       "estado": "pendente",
       "leitura_parcial": "Quinze de novembro de 1724 aparentemente: Manuel, filho de António Martins e Maria Nunes. Avós paternos António Martins e Maria Tabais; maternos Manuel Nunes, designação adicional aparentemente Virel, e Ana Martins. Batismo por padre Silvério, reposto com testemunhas em 30 de junho de 1730. Padrinhos padre Francisco Tabais e sua irmã, com nome por conferir.",
       "duvidas": [
-        "Confirmar ano original 1724 e nomes adicionais; não confundir com redação de 1730."
-      ]
+        "Conferir a reposição histórica de 15/11/1724 e os nomes adicionais antes da integração de evento anterior ao catálogo."
+      ],
+      "leitura_anterior": "Quinze de novembro de 1724 aparentemente: Manuel, filho de António Martins e Maria Nunes. Avós paternos António Martins e Maria Tabais; maternos Manuel Nunes, designação adicional aparentemente Virel, e Ana Martins. Batismo por padre Silvério, reposto com testemunhas em 30 de junho de 1730. Padrinhos padre Francisco Tabais e sua irmã, com nome por conferir.",
+      "nota_revisao": "16/11/2026: relidas abertura e declaração de reposição. Mantida a distinção entre a data histórica da cerimónia e a redação posterior em 1730; nenhuma nova data estruturada ou relação foi inferida."
     },
     {
       "id": "S8-B2-m0016-e-01",
@@ -1077,8 +1143,10 @@
       "estado": "pendente",
       "leitura_parcial": "Dezanove de abril de 1723 aparentemente: Domingos, filho de João Fernandes Pires e Catarina Fernandes. Avós paternos António Martins e Guiomar Nunes; maternos Domingos Afonso e Guiomar Luís. Menção a batismo de necessidade e santos óleos, padrinhos António Pires e sua filha Maria Martins. Cópia posterior por ordem de visitador, com data final a reconferir.",
       "duvidas": [
-        "Conferir datas do evento e da cópia, pai e distinção entre batismo e santos óleos; ano anterior ao catálogo."
-      ]
+        "A abertura refere 19/04/1723, mas o texto menciona santos óleos e cópia posterior por ordem do visitador; esclarecer a data do batismo propriamente dito."
+      ],
+      "leitura_anterior": "Dezanove de abril de 1723 aparentemente: Domingos, filho de João Fernandes Pires e Catarina Fernandes. Avós paternos António Martins e Guiomar Nunes; maternos Domingos Afonso e Guiomar Luís. Menção a batismo de necessidade e santos óleos, padrinhos António Pires e sua filha Maria Martins. Cópia posterior por ordem de visitador, com data final a reconferir.",
+      "nota_revisao": "16/11/2026: revisto o termo inteiro, incluindo o fecho de cópia posterior. A menção de santos óleos não autoriza tratar a data como batismo sem resolver a formulação do evento. Mantida a leitura pendente."
     },
     {
       "id": "S8-B2-m0016-d-01",
@@ -1086,11 +1154,19 @@
       "lado": "direita",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Dois de agosto de 1730: Francisco, filho de Manuel Martins Calvo e Ana Lopes. Batizado em casa por necessidade. Avós paternos António Martins e Ana Pula provisoriamente; maternos António Martins e Isabel Lopes. Não aparecem padrinhos neste trecho; natureza exata da declaração por conferir.",
-      "duvidas": [
-        "Conferir se a abertura data diretamente o batismo e confirmar nome completo do pai."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Dois de agosto de 1730: Francisco, filho de Manuel Martins Calvo e Ana Lopes. Batizado em casa por necessidade. Avós paternos António Martins e Ana Pula provisoriamente; maternos António Martins e Isabel Lopes. Não aparecem padrinhos neste trecho; natureza exata da declaração por conferir.",
+      "crianca": {
+        "nome": "Francisco",
+        "sexo": "M"
+      },
+      "pai": "Manuel Martins Galo",
+      "mae": "Ana Lopes",
+      "data_batismo": "02/08/1730",
+      "nota_revisao": "16/11/2026: termo completo relido e abertura ampliada. Diz diretamente que em dois de agosto de mil setecentos e trinta o sacerdote batizou em casa por necessidade Francisco, filho de Manuel Martins gallo e Ana Lopes. Não é uma mera aplicação posterior de santos óleos. O complemento gallo, anteriormente tomado por Calvo, é normalizado Galo, sem ligação automática a outras famílias.",
+      "excerto": "Leitura normalizada dos campos essenciais: Francisco; pai Manuel Martins Galo; mãe Ana Lopes; batismo 02/08/1730.",
+      "nota": "Revisão visual dirigida do assento e dos recortes ampliados, sem OCR. Não é transcrição diplomática integral. Nenhuma data de nascimento, apelido da criança ou identidade entre assentos foi inferida."
     },
     {
       "id": "S8-B2-m0016-d-02",
@@ -1161,8 +1237,10 @@
       "estado": "pendente",
       "leitura_parcial": "Vinte e nove de agosto de 1730: santos óleos a Ana, filha de Manuel Lourenço e Maria Martins. Fora batizada em casa por necessidade pela irmã da mãe, Maria, mulher de João Costa. Segundo matrimónio dela. Avós paternos Bernardo Lourenço e Domingas Segunda; maternos Gabriel Alves e Maria Antunes. Continuação em m0017 direita.",
       "duvidas": [
-        "Data do batismo de necessidade não indicada com segurança; não converter data dos óleos em data de batismo."
-      ]
+        "A data de 29/08/1730 pertence aos santos óleos; não é declarada data autónoma do batismo em casa por necessidade."
+      ],
+      "leitura_anterior": "Vinte e nove de agosto de 1730: santos óleos a Ana, filha de Manuel Lourenço e Maria Martins. Fora batizada em casa por necessidade pela irmã da mãe, Maria, mulher de João Costa. Segundo matrimónio dela. Avós paternos Bernardo Lourenço e Domingas Segunda; maternos Gabriel Alves e Maria Antunes. Continuação em m0017 direita.",
+      "nota_revisao": "16/11/2026: revistos o começo em m0017 esquerda e o fecho no alto da direita. O batismo particular foi administrado pela irmã da mãe, mulher de João Costa; não consta data desse ato. Mantida pendência, sem confundir a cerimónia com o batismo."
     },
     {
       "id": "S8-B2-m0017-d-01",
@@ -1270,11 +1348,19 @@
       "lado": "direita",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Quinze de outubro de 1730: Brites, filha de António Jorge e Catarina Tabais; primeiro matrimónio. Avós paternos Domingos Jorge e Maria João; maternos António Martins e Maria Tabais. Batizou por licença padre frei Manuel, com apelido por conferir. Padrinhos padre António Tabais e sua irmã Ana Tabais. Final em m0019 esquerda.",
-      "duvidas": [
-        "Nova leitura do nome da criança diverge de Brites: parece Antónia ou Antónida. Nomes dos pais e data aparentemente legíveis; mantida pendência do nome da criança."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Quinze de outubro de 1730: Brites, filha de António Jorge e Catarina Tabais; primeiro matrimónio. Avós paternos Domingos Jorge e Maria João; maternos António Martins e Maria Tabais. Batizou por licença padre frei Manuel, com apelido por conferir. Padrinhos padre António Tabais e sua irmã Ana Tabais. Final em m0019 esquerda.",
+      "crianca": {
+        "nome": "Antónida",
+        "sexo": "F"
+      },
+      "pai": "António Jorge",
+      "mae": "Catarina Nabais",
+      "data_batismo": "15/10/1730",
+      "nota_revisao": "16/11/2026: revistos o termo de m0018 direita, o recorte ampliado do nome e filiação e a continuação em m0019 esquerda. No corpo lê-se Antonida, conservado como Antónida, sem o converter para Antónia. Não se corrobora a hipótese inicial Brites. Data de quinze de outubro de 1730 e nomes António Jorge e Catarina Nabais conferidos; as referências a outros parentes e padrinhos permanecem apenas no histórico.",
+      "excerto": "Leitura normalizada dos campos essenciais: Antónida; pai António Jorge; mãe Catarina Nabais; batismo 15/10/1730.",
+      "nota": "Revisão visual dirigida do assento e dos recortes ampliados, sem OCR. Não é transcrição diplomática integral. Nenhuma data de nascimento, apelido da criança ou identidade entre assentos foi inferida."
     },
     {
       "id": "S8-B2-m0019-e-01",
@@ -1325,8 +1411,10 @@
       "estado": "pendente",
       "leitura_parcial": "Dezassete de dezembro de 1730: santos óleos a Maria, filha de Maria, solteira, com pai incógnito. Avós maternos Francisco Martins e Ana Pula provisoriamente. Batizada em casa por Isabel Pereira, parteira; data desse batismo não indicada seguramente. Paternidade desconhecida mantida sem nome inventado.",
       "duvidas": [
-        "Conferir data original do batismo e nome completo da mãe; pai declarado incógnito."
-      ]
+        "Falta a data do batismo em casa e a identificação completa da mãe; a paternidade é expressamente incógnita."
+      ],
+      "leitura_anterior": "Dezassete de dezembro de 1730: santos óleos a Maria, filha de Maria, solteira, com pai incógnito. Avós maternos Francisco Martins e Ana Pula provisoriamente. Batizada em casa por Isabel Pereira, parteira; data desse batismo não indicada seguramente. Paternidade desconhecida mantida sem nome inventado.",
+      "nota_revisao": "16/11/2026: relido o termo. Maria, filha de Maria solteira, recebe santos óleos em 17/12/1730; o pai é incógnito e Isabel Pereira é a parteira que batizou em casa, não a mãe. O texto não permite datar o batismo particular. Nenhum pai, avó ou nascimento foi inferido."
     },
     {
       "id": "S8-B2-m0019-d-02",
@@ -16267,7 +16355,7 @@
       "nota_revisao": "13/11/2026: campos essenciais conferidos em duas leituras visuais; histórico inicial conservado."
     }
   ],
-  "revisto_em": "2026-11-13",
+  "revisto_em": "2026-11-16",
   "notas_pagina": [
     {
       "imagem": "m0001",
@@ -20040,6 +20128,418 @@
         "S8-B2-m0251-e-01"
       ],
       "observacoes": "Mantidas leituras iniciais, correções e dúvidas; datas dos santos óleos não substituem as do batismo. Continuações identificadas por imagem sem duplicar assentos. Nenhuma nova data de nascimento explicitamente confirmada neste lote."
+    },
+    {
+      "data": "2026-11-16",
+      "limite": "Revisão dirigida das 29 leituras que estavam pendentes até m0020; o restante livro não foi revisto neste lote.",
+      "metodo": "Releitura visual dos assentos pendentes nas imagens m0003 a m0019, incluindo continuações e ampliações dos campos duvidosos, sem OCR. As aberturas, nomes e filiações promovidos foram reconferidos; não se afirma transcrição integral nem segunda revisão de todo o livro.",
+      "imagens": [
+        "m0003",
+        "m0004",
+        "m0005",
+        "m0006",
+        "m0007",
+        "m0008",
+        "m0009",
+        "m0010",
+        "m0012",
+        "m0013",
+        "m0014",
+        "m0015",
+        "m0016",
+        "m0017",
+        "m0018",
+        "m0019"
+      ],
+      "assentos_revistos": [
+        "S8-B2-m0003-e-01",
+        "S8-B2-m0003-e-02",
+        "S8-B2-m0003-d-01",
+        "S8-B2-m0004-e-01",
+        "S8-B2-m0004-d-02",
+        "S8-B2-m0005-d-02",
+        "S8-B2-m0006-e-01",
+        "S8-B2-m0006-e-03",
+        "S8-B2-m0007-e-02",
+        "S8-B2-m0008-e-01",
+        "S8-B2-m0009-d-02",
+        "S8-B2-m0010-e-02",
+        "S8-B2-m0012-e-01",
+        "S8-B2-m0013-e-01",
+        "S8-B2-m0013-e-02",
+        "S8-B2-m0013-d-01",
+        "S8-B2-m0013-d-02",
+        "S8-B2-m0014-e-01",
+        "S8-B2-m0014-e-02",
+        "S8-B2-m0014-d-01",
+        "S8-B2-m0014-d-02",
+        "S8-B2-m0015-e-01",
+        "S8-B2-m0015-e-02",
+        "S8-B2-m0015-d-01",
+        "S8-B2-m0016-e-01",
+        "S8-B2-m0016-d-01",
+        "S8-B2-m0017-e-02",
+        "S8-B2-m0019-d-01",
+        "S8-B2-m0018-d-02"
+      ],
+      "novos_confirmados": [
+        "S8-B2-m0003-e-01",
+        "S8-B2-m0006-e-01",
+        "S8-B2-m0008-e-01",
+        "S8-B2-m0016-d-01",
+        "S8-B2-m0018-d-02"
+      ],
+      "leituras_anteriores": [
+        {
+          "id": "S8-B2-m0003-e-01",
+          "imagem": "m0003",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Cinco de março de 1728: Ana, filha de Domingos Jorge e Catarina Tabais (apelido da mãe por conferir). Avós paternos Domingos Jorge e Isabel Domingues; maternos Francisco Tabais e Maria Pires. Padrinhos Francisco Nogueiro, filho de Domingos Jorge, e Maria Teresa, filha de Francisco Martins; naturais e moradores do Souto.",
+          "duvidas": [
+            "Apelido da mãe Catarina: hipótese Tabais, a confirmar em ampliação; mantida pendência."
+          ]
+        },
+        {
+          "id": "S8-B2-m0003-e-02",
+          "imagem": "m0003",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vinte de abril de 1728: Maria, filha de Domingos Gonçalves, com possível designação adicional ainda insegura, e Maria Correia. Segundo matrimónio dela e primeiro dele. Avós paternos Lucas Gonçalves e Isabel Antunes; restantes nomes e final danificados. Não abreviar o nome do pai para o confirmar.",
+          "duvidas": [
+            "Confirmar nome completo do pai; final do assento perdido em parte."
+          ]
+        },
+        {
+          "id": "S8-B2-m0003-d-01",
+          "imagem": "m0003",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "1728: Maria, filha de Manuel Mendes e Josefa Gonçalves. Abertura com correção de escrita; dia aparentemente cinco, mês perdido junto ao rasgo. Avós e padrinhos citados, mas vários nomes incompletos. Não completar data pela ordem das páginas.",
+          "duvidas": [
+            "Data completa e nomes dos avós por conferir junto à lacuna."
+          ]
+        },
+        {
+          "id": "S8-B2-m0004-e-01",
+          "imagem": "m0004",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "1728: Ana, filha de António Nunes e Ana Gonçalves. Aplicação dos santos óleos; a criança fora batizada em casa por necessidade pelo pai. Abertura corrige o mês de julho para junho, dia junto ao dano. Avós paternos Sebastião Nunes e Maria Fernandes; maternos Manuel de Sousa e Isabel Gonçalves. Não atribuída a data desta cerimónia ao batismo de necessidade.",
+          "duvidas": [
+            "Confirmar data do batismo original; distinguir da aplicação dos santos óleos."
+          ]
+        },
+        {
+          "id": "S8-B2-m0004-d-02",
+          "imagem": "m0004",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vinte e oito de dezembro de 1728: Francisco, filho de Francisco Gonçalves e Manuela João. Abertura refere santos óleos e batismo em casa por necessidade; nome do batizante e data do batismo original exigem conferência. Avós paternos Francisco Gonçalves e Catarina Gonçalves; maternos Manuel Gomes e sua mulher, cujo nome exige leitura.",
+          "duvidas": [
+            "Distinguir a data dos santos óleos da data do batismo de necessidade; conferir nomes completos."
+          ]
+        },
+        {
+          "id": "S8-B2-m0005-d-02",
+          "imagem": "m0005",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vinte e oito de julho de 1729: Maria, filha de Inácio Fernandes, alfaiate, e Teresa João. Avós paternos Manuel Fernandes, alfaiate, e Isabel Nunes; maternos Sebastião Marques e Isabel João. Padrinhos Domingos Fernandes e mulher com nome ainda por conferir, apelido Marques, viúva. Ler novamente a margem e o nome da criança.",
+          "duvidas": [
+            "Nome da criança no corpo parece Maria, enquanto a margem parece Ana; mantida pendência por divergência."
+          ]
+        },
+        {
+          "id": "S8-B2-m0006-e-01",
+          "imagem": "m0006",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Agosto de 1729, dia por conferir (treze/dezoito): Ana, filha de Luís Carrilho e Maria Dias. Avós paternos Luís Carrilho e Ana Gonçalves; maternos António Martins e Maria Pires. Padrinhos Domingos Gonçalves, com designação adicional por conferir, e Ana Silveira. Assinatura a pedido da madrinha por Domingos Nunes.",
+          "duvidas": [
+            "Conferir numeral do dia e nomes adicionais dos padrinhos."
+          ]
+        },
+        {
+          "id": "S8-B2-m0006-e-03",
+          "imagem": "m0006",
+          "lado": "esquerda",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Dezasseis de agosto de 1729: santos óleos a Manuel, filho de António Martins e Maria Jorge. Avós paternos Manuel Martins e Maria Moreninha; maternos António Jorge e Maria Fernandes. Conclusão na página direita: criança batizada em casa pela parteira, por necessidade, havendo concordância das pessoas presentes. Não confundida data dos óleos com data do batismo.",
+          "duvidas": [
+            "Data do batismo de necessidade não confirmada; conferir nome da parteira."
+          ]
+        },
+        {
+          "id": "S8-B2-m0007-e-02",
+          "imagem": "m0007",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vinte e seis de setembro de 1729: Teodora, filha de Domingos Vaz, com designação adicional insegura, e Maria Nunes. Avós paternos Domingos Vaz e Maria Antunes; maternos João Martins e Isabel Nunes. Padrinhos Francisco Antunes e sua irmã Isidora Antunes, filhos de Clara Antunes.",
+          "duvidas": [
+            "Conferir nome completo do pai; designação adicional não omitida para forçar confirmação."
+          ]
+        },
+        {
+          "id": "S8-B2-m0008-e-01",
+          "imagem": "m0008",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Dezoito de dezembro de 1729: Manuel, filho de Manuel Lopes e Maria Gago. Avós paternos João Lopes e Maria Lourença; maternos André Gago e Inês Mendes. Padrinhos Manuel Oliveira e sua irmã Teresa Teixeira, filhos de Maria Lopes.",
+          "duvidas": [
+            "Nome da mãe parece Maria Galo em vez da hipótese Gago; conferir apelido antes de confirmar."
+          ]
+        },
+        {
+          "id": "S8-B2-m0009-d-02",
+          "imagem": "m0009",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Cinco de fevereiro de 1730: Ana, filha de Manuel Martins Gago e Maria Lopes; primeiro matrimónio. Avós paternos João Martins Gago e Catarina Afonso; maternos João Lopes e Maria Lourença. Padrinhos Manuel Luís e Maria Gonçalves, sua mulher.",
+          "duvidas": [
+            "Designação adicional do pai após Manuel Martins permanece insegura; hipótese Gago não confirmada."
+          ]
+        },
+        {
+          "id": "S8-B2-m0010-e-02",
+          "imagem": "m0010",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Treze de março de 1730: Maria, filha de António Martins e Maria Martins, esta com designação adicional aparentemente Manuel. Batizou por licença padre António Teixeira. Avós paternos António Martins e Maria Tabais; maternos Manuel Nunes, com designação adicional insegura, e Maria Martins. Padrinhos padre Francisco Tabais e sua irmã Ana Silveira.",
+          "duvidas": [
+            "Conferir nome completo da mãe e designação adicional do avô materno."
+          ]
+        },
+        {
+          "id": "S8-B2-m0012-e-01",
+          "imagem": "m0012",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vinte e três de maio de 1730: Catarina, filha de João Gonçalves, com designação adicional por conferir, e Maria França. Segundo matrimónio dela. Avós paternos Francisco Gonçalves e Domingas Gonçalves; maternos Bartolomeu, com apelido por conferir, e Maria Pires. Padrinhos Manuel Rodrigues, de Casteleiro, e Catarina Afonso, do Souto.",
+          "duvidas": [
+            "Confirmar designação adicional do pai e nome completo do avô materno."
+          ]
+        },
+        {
+          "id": "S8-B2-m0013-e-01",
+          "imagem": "m0013",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "João, filho de Domingos Alves e mulher cujo nome se encontra emendado, aparentemente Isabel Correia Alves. Abertura: vinte e oito de agosto, ano por reconferir. Avós paternos Manuel Alves e Isabel Lopes; maternos João Alves e Maria Lopes. Padrinhos Pedro Afonso e Isabel Alves, sua mulher. Reposição por informação de batismo administrado por padre Silvério; testemunhas citadas. Data de redação aparentemente 24 de junho de 1730.",
+          "duvidas": [
+            "Conferir ano do batismo e emenda do nome da mãe; não usar data da reposição como batismo."
+          ]
+        },
+        {
+          "id": "S8-B2-m0013-e-02",
+          "imagem": "m0013",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Domingos, filho de Domingos Alves e Ana Alves. Vinte e oito de setembro, ano aparentemente 1729. Avós paternos Manuel Alves e Isabel Lopes; maternos João Alves e Maria Lopes. Padrinhos Pedro Afonso e Isabel Alves. Batismo por padre Silvério reposto por informação e testemunhas; redação em 24 de junho de 1730 aparentemente.",
+          "duvidas": [
+            "Conferir data original e nomes completos; assento de reposição, não confundir testemunhas com padrinhos."
+          ]
+        },
+        {
+          "id": "S8-B2-m0013-d-01",
+          "imagem": "m0013",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vinte e sete de novembro, ano aparentemente 1729: Domingos, filho de Domingos Gonçalves Lareira e Maria João. Avós paternos Francisco Gonçalves e Maria Fernandes, do lugar da Freixeda; maternos António Jorge e Catarina Lopes, do Souto. Padrinhos Estêvão Tabais e sua irmã Ana Tabais. Batismo por padre Silvério, reposto por informação; redação em 29 de junho de 1730 aparentemente.",
+          "duvidas": [
+            "Conferir ano original e nome completo do pai em recorte; não confundir data da redação."
+          ]
+        },
+        {
+          "id": "S8-B2-m0013-d-02",
+          "imagem": "m0013",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Novembro, ano aparentemente 1729: José, filho de José Gonçalves, com designação adicional insegura, e Ana Tabais. Avós paternos Francisco Gonçalves e Domingas Gonçalves; maternos Maria, com apelido por conferir, e António Tabais. Padrinhos João Luís, com designação adicional, e Isabel Domingues. Reposição de batismo administrado por padre Silvério, com testemunhas; redação de 29 de junho de 1730 aparentemente.",
+          "duvidas": [
+            "Conferir numeral do dia, ano e nome completo do pai; não criar data a partir da reposição."
+          ]
+        },
+        {
+          "id": "S8-B2-m0014-e-01",
+          "imagem": "m0014",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vinte e sete de maio, ano aparentemente 1729: criança cujo nome no corpo parece Teresa, divergindo da leitura marginal. Pais Domingos Gonçalves e Maria Nunes provisoriamente. Avós paternos Francisco Gonçalves e Maria Fernandes, da Freixeda; maternos Maria Nunes e Catarina Lopes provisoriamente. Batismo de necessidade pelo padre Silvério, reposto por informação e testemunhas. Redação em 30 de junho de 1730 aparentemente.",
+          "duvidas": [
+            "Conferir nome da criança, filiação e ano; nomes sobrepostos e indicação marginal divergente."
+          ]
+        },
+        {
+          "id": "S8-B2-m0014-e-02",
+          "imagem": "m0014",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Trinta de janeiro de 1726 aparentemente: Maria, filha de Manuel Gonçalves, com designação adicional insegura, e Ana Tabais. Avós paternos Francisco Gonçalves e Domingas Gonçalves; maternos Maria, com apelido por conferir, e António Tabais. Batismo por padre Silvério, reposto com testemunhas; redação em julho de 1730. Data do batismo anterior à data inicial do catálogo, não corrigida pela sequência.",
+          "duvidas": [
+            "Conferir ano 1726 e nome completo do pai; documentar divergência com intervalo do catálogo antes de integrar."
+          ]
+        },
+        {
+          "id": "S8-B2-m0014-d-01",
+          "imagem": "m0014",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Catorze de setembro de 1726 aparentemente: Inácio, filho de Francisco Gonçalves, com designação adicional aparentemente Lourenço, e Maria Nunes. Avós paternos Estêvão Gonçalves e Catarina Gonçalves; maternos Manuel Nunes e Maria Antunes. Batismo por padre Silvério reposto por informação, padrinhos e testemunhas. Redação em junho de 1730. Evento aparentemente anterior ao intervalo do catálogo.",
+          "duvidas": [
+            "Conferir nome da criança, ano 1726 e nome completo do pai; não substituir ano pela data da redação."
+          ]
+        },
+        {
+          "id": "S8-B2-m0014-d-02",
+          "imagem": "m0014",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Cinco de novembro de 1727 aparentemente: Maria, filha de Francisco Gonçalves Andrade e Maria Nunes. Avós paternos Estêvão Gonçalves e Catarina Gonçalves; maternos Manuel Nunes e Maria Antunes. Batismo por padre Silvério reposto por informação. Padrinhos António Nunes e Isabel Luís, sua mulher. Final continua em m0015 esquerda; ano anterior ao intervalo do catálogo.",
+          "duvidas": [
+            "Conferir data e nomes no assento completo, incluindo continuação; documentar divergência cronológica do catálogo."
+          ]
+        },
+        {
+          "id": "S8-B2-m0015-e-01",
+          "imagem": "m0015",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vinte de setembro de 1714 aparentemente: António, filho de Manuel Nunes e Isabel Alves. Avós paternos Manuel Nunes e Maria Antunes; maternos Domingos Alves e Isabel Domingues. Batismo de necessidade por António Fernandes, seguido de santos óleos por padre Silvério. Reposição por informação e testemunhas, escrita em junho de 1730. Data original anterior ao intervalo do catálogo.",
+          "duvidas": [
+            "Reconferir ano 1714 e distinguir datas das duas cerimónias; não usar data da reposição."
+          ]
+        },
+        {
+          "id": "S8-B2-m0015-e-02",
+          "imagem": "m0015",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vinte e cinco de junho, ano aparentemente 1716: Catarina, filha de Domingos Nunes e Catarina Gonçalves. Avós paternos Domingos Nunes e Guiomar Lopes; maternos José Gonçalves e Maria Afonso. Continuação em m0015 direita: batismo por padre Silvério; padrinhos Sebastião Afonso e Maria Gonçalves. Informação reposta em junho de 1730, com testemunhas Francisco Gomes e Manuel Nunes aparentemente.",
+          "duvidas": [
+            "Conferir ano original e nomes no texto completo; anterior ao intervalo do catálogo."
+          ]
+        },
+        {
+          "id": "S8-B2-m0015-d-01",
+          "imagem": "m0015",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Quinze de novembro de 1724 aparentemente: Manuel, filho de António Martins e Maria Nunes. Avós paternos António Martins e Maria Tabais; maternos Manuel Nunes, designação adicional aparentemente Virel, e Ana Martins. Batismo por padre Silvério, reposto com testemunhas em 30 de junho de 1730. Padrinhos padre Francisco Tabais e sua irmã, com nome por conferir.",
+          "duvidas": [
+            "Confirmar ano original 1724 e nomes adicionais; não confundir com redação de 1730."
+          ]
+        },
+        {
+          "id": "S8-B2-m0016-e-01",
+          "imagem": "m0016",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Dezanove de abril de 1723 aparentemente: Domingos, filho de João Fernandes Pires e Catarina Fernandes. Avós paternos António Martins e Guiomar Nunes; maternos Domingos Afonso e Guiomar Luís. Menção a batismo de necessidade e santos óleos, padrinhos António Pires e sua filha Maria Martins. Cópia posterior por ordem de visitador, com data final a reconferir.",
+          "duvidas": [
+            "Conferir datas do evento e da cópia, pai e distinção entre batismo e santos óleos; ano anterior ao catálogo."
+          ]
+        },
+        {
+          "id": "S8-B2-m0016-d-01",
+          "imagem": "m0016",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Dois de agosto de 1730: Francisco, filho de Manuel Martins Calvo e Ana Lopes. Batizado em casa por necessidade. Avós paternos António Martins e Ana Pula provisoriamente; maternos António Martins e Isabel Lopes. Não aparecem padrinhos neste trecho; natureza exata da declaração por conferir.",
+          "duvidas": [
+            "Conferir se a abertura data diretamente o batismo e confirmar nome completo do pai."
+          ]
+        },
+        {
+          "id": "S8-B2-m0017-e-02",
+          "imagem": "m0017",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vinte e nove de agosto de 1730: santos óleos a Ana, filha de Manuel Lourenço e Maria Martins. Fora batizada em casa por necessidade pela irmã da mãe, Maria, mulher de João Costa. Segundo matrimónio dela. Avós paternos Bernardo Lourenço e Domingas Segunda; maternos Gabriel Alves e Maria Antunes. Continuação em m0017 direita.",
+          "duvidas": [
+            "Data do batismo de necessidade não indicada com segurança; não converter data dos óleos em data de batismo."
+          ]
+        },
+        {
+          "id": "S8-B2-m0019-d-01",
+          "imagem": "m0019",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Dezassete de dezembro de 1730: santos óleos a Maria, filha de Maria, solteira, com pai incógnito. Avós maternos Francisco Martins e Ana Pula provisoriamente. Batizada em casa por Isabel Pereira, parteira; data desse batismo não indicada seguramente. Paternidade desconhecida mantida sem nome inventado.",
+          "duvidas": [
+            "Conferir data original do batismo e nome completo da mãe; pai declarado incógnito."
+          ]
+        },
+        {
+          "id": "S8-B2-m0018-d-02",
+          "imagem": "m0018",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Quinze de outubro de 1730: Brites, filha de António Jorge e Catarina Tabais; primeiro matrimónio. Avós paternos Domingos Jorge e Maria João; maternos António Martins e Maria Tabais. Batizou por licença padre frei Manuel, com apelido por conferir. Padrinhos padre António Tabais e sua irmã Ana Tabais. Final em m0019 esquerda.",
+          "duvidas": [
+            "Nova leitura do nome da criança diverge de Brites: parece Antónia ou Antónida. Nomes dos pais e data aparentemente legíveis; mantida pendência do nome da criança."
+          ]
+        }
+      ],
+      "observacoes": "Cinco leituras passam a confirmado. As restantes 24 conservam pendências específicas. Datas de santos óleos, batismo particular e reposição permanecem distintas. Reposições anteriores ao intervalo do catálogo continuam pendentes. As hipóteses iniciais e dúvidas originais estão preservadas nesta revisão e em leitura_anterior. Não há novas datas de nascimento nem ligações entre identidades de assentos diferentes."
     }
   ]
 }
