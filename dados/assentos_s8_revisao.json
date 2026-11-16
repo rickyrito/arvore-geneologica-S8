@@ -1,10 +1,10 @@
 {
-  "confirmados": 820,
-  "pendentes": 1075,
+  "confirmados": 872,
+  "pendentes": 1096,
   "por_tipo": {
     "batismo": {
-      "confirmados": 717,
-      "pendentes": 637
+      "confirmados": 769,
+      "pendentes": 658
     },
     "obito": {
       "confirmados": 61,
@@ -15,8 +15,8 @@
       "pendentes": 51
     }
   },
-  "novas_pessoas": 2296,
-  "novos_nucleos": 759,
+  "novas_pessoas": 2452,
+  "novos_nucleos": 811,
   "aplicados": [
     {
       "id": "S8-B1-m0004-e-03",
@@ -18993,6 +18993,1254 @@
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0251.jpg",
       "pessoa": 2293,
       "familia": 758
+    },
+    {
+      "id": "S8-B3-m0002-d-01",
+      "imagem": "m0002",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Miguel Nunes",
+      "mae": "Ana Lopes",
+      "data_batismo": "29/01/1786",
+      "leitura_anterior": "Maria, filho/a de Miguel Nunes e Ana Lopes. Batismo em 29/01/1786. Leitura adicional provisória: avós paternos Francisco Nunes e Ana Nunes, digo Maria; maternos António Lopes de Chaves e Domingas Martins. Padrinhos Domingos [...] e Catarina Garcia, todos da freguesia do Souto. A correção digo Maria consta do texto.",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai Miguel Nunes; mãe Ana Lopes; batismo 29/01/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0002.jpg",
+      "pessoa": 2296,
+      "familia": 759
+    },
+    {
+      "id": "S8-B3-m0003-d-01",
+      "imagem": "m0003",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Bartolomeu Soares",
+      "mae": "Natália Rodrigues",
+      "data_batismo": "07/03/1786",
+      "leitura_anterior": "José, filho/a de Bartolomeu Soares e Natália Rodrigues. Batismo em 07/03/1786. Pai natural de Espinhal; mãe do Souto, provisórios. Avós paternos António Gonçalves de Cr... e Maria Correia; maternos Bartolomeu Soares e Maria Josefa; padrinhos Domingos Martins Gonçalves (?) e Maria Lopes, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Bartolomeu Soares; mãe Natália Rodrigues; batismo 07/03/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0003.jpg",
+      "pessoa": 2299,
+      "familia": 760
+    },
+    {
+      "id": "S8-B3-m0003-d-02",
+      "imagem": "m0003",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Manuel Antunes",
+      "mae": "Maria Jorge",
+      "data_batismo": "15/03/1786",
+      "leitura_anterior": "José, filho/a de Manuel Antunes e Maria Jorge. Batismo em 15/03/1786. Avós paternos António Antunes e Inês Nabais; maternos Manuel Nunes Alfaiate e Maria Jorge. Padrinhos José Nunes solteiro e Bárbara Antunes solteira, final em m0004 esquerda; leituras adicionais provisórias.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Manuel Antunes; mãe Maria Jorge; batismo 15/03/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0003.jpg",
+      "pessoa": 2302,
+      "familia": 761
+    },
+    {
+      "id": "S8-B3-m0004-d-02",
+      "imagem": "m0004",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Rosália",
+        "sexo": "F"
+      },
+      "pai": "José Martins Dias",
+      "mae": "Maria Jorge",
+      "data_batismo": "27/04/1786",
+      "leitura_anterior": "Rosália, filho/a de José Martins Dias e Maria Jorge. Batismo em 27/04/1786. Filiação no seguimento m0005 esquerda. Avós paternos Estêvão Dias e Maria Antunes; maternos Domingos Jorge e Inácia Jorge (?), padrinhos Manuel Nunes e Maria [...], provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Rosália; pai José Martins Dias; mãe Maria Jorge; batismo 27/04/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0004.jpg",
+      "pessoa": 2305,
+      "familia": 762
+    },
+    {
+      "id": "S8-B3-m0005-e-01",
+      "imagem": "m0005",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "José Caetano",
+      "mae": "Maria da Conceição",
+      "data_batismo": "13/05/1786",
+      "leitura_anterior": "José, filho/a de José Caetano e Maria da Conceição. Batismo em 13/05/1786. Pai natural da freguesia de Manteigas; mãe da Aldeia da Covilhã, provisórios. Avós paternos Bartolomeu [...] e Ângela Maria; maternos Luís de Figueiredo e Maria Duarte. Padrinhos Estêvão [...] e Feliciana Esteves, naturais de [...], bispado da Guarda, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai José Caetano; mãe Maria da Conceição; batismo 13/05/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0005.jpg",
+      "pessoa": 2308,
+      "familia": 763
+    },
+    {
+      "id": "S8-B3-m0005-d-01",
+      "imagem": "m0005",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Rosa",
+        "sexo": "F"
+      },
+      "pai": "Manuel Martins",
+      "mae": "Maria Martins",
+      "data_batismo": "13/05/1786",
+      "leitura_anterior": "Rosa, filho/a de Manuel Martins e Maria Martins. Batismo em 13/05/1786. Remissão: no mesmo dia, mês e era supra. Avós paternos António Martins e Josefa Pereira; maternos Manuel Luís de Valongo e Rosa Martins. Padrinhos Manuel João Carvalho e Maria Feliciana, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Rosa; pai Manuel Martins; mãe Maria Martins; batismo 13/05/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0005.jpg",
+      "pessoa": 2311,
+      "familia": 764
+    },
+    {
+      "id": "S8-B3-m0005-d-02",
+      "imagem": "m0005",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Teresa",
+        "sexo": "F"
+      },
+      "pai": "Paulo João",
+      "mae": "Ana Francisca",
+      "data_batismo": "09/06/1786",
+      "leitura_anterior": "Teresa, filho/a de Paulo João e Ana Francisca. Batismo em 09/06/1786. Continua em m0006 esquerda: avós paternos Manuel João e Maria Antunes; maternos Manuel Fernandes de Carvalho e Helena Fernandes. Padrinhos Domingos Martins e Lúcia Dias (?), provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Teresa; pai Paulo João; mãe Ana Francisca; batismo 09/06/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0005.jpg",
+      "pessoa": 2314,
+      "familia": 765
+    },
+    {
+      "id": "S8-B3-m0006-e-01",
+      "imagem": "m0006",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Carrilho",
+      "mae": "Lúcia Gonçalves",
+      "data_batismo": "28/06/1786",
+      "leitura_anterior": "Manuel, filho/a de Manuel Carrilho e Lúcia Gonçalves. Batismo em 28/06/1786. Avós paternos Luís Carrilho e Isabel Nabais; maternos Manuel Gonçalves e Maria Afonso. Padrinhos José Carrilho e Vitória Martins, todos do Souto, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Manuel Carrilho; mãe Lúcia Gonçalves; batismo 28/06/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0006.jpg",
+      "pessoa": 2317,
+      "familia": 766
+    },
+    {
+      "id": "S8-B3-m0006-d-01",
+      "imagem": "m0006",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Maduro Nunes",
+      "mae": "Maria Dias",
+      "data_batismo": "14/07/1786",
+      "leitura_anterior": "José, filho/a de Maduro Nunes e Maria Dias. Batismo em 14/07/1786. Avós paternos Manuel Robalo e Catarina Nunes; maternos Manuel Dias e Maria Antunes. Padrinhos Manuel Garcia e Maria Lourença; todos do Souto, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Maduro Nunes; mãe Maria Dias; batismo 14/07/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0006.jpg",
+      "pessoa": 2320,
+      "familia": 767
+    },
+    {
+      "id": "S8-B3-m0007-e-01",
+      "imagem": "m0007",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Angélica",
+        "sexo": "F"
+      },
+      "pai": "Brás Gonçalves Correia",
+      "mae": "Maria Fernandes",
+      "data_batismo": "15/07/1786",
+      "leitura_anterior": "Angélica, filho/a de Brás Gonçalves Correia e Maria Fernandes. Batismo em 15/07/1786. No mesmo dia, mês e era supra, por remissão ao José de m0006 direita, cuja data parece 15/07/1786. Avós paternos Manuel Gonçalves Correia e Isabel Gonçalves; maternos José Gonçalves de Carvalho e Maria Fernandes; padrinhos Jacinto de Br... e sua irmã Angélica Bernarda, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Angélica; pai Brás Gonçalves Correia; mãe Maria Fernandes; batismo 15/07/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0007.jpg",
+      "pessoa": 2323,
+      "familia": 768
+    },
+    {
+      "id": "S8-B3-m0007-e-02",
+      "imagem": "m0007",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Manuel Gonçalves de Adriano",
+      "mae": "Isabel Martins",
+      "data_batismo": "22/07/1786",
+      "leitura_anterior": "José, filho/a de Manuel Gonçalves de Adriano e Isabel Martins. Batismo em 22/07/1786. Avós paternos Domingos Gonçalves de Adriano e Maria Joaquina Fernandes; maternos Bartolomeu Martins e Maria Nunes. Padrinhos Domingos Martins e sua sobrinha Lúcia Gonçalves, no seguimento à direita, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Manuel Gonçalves de Adriano; mãe Isabel Martins; batismo 22/07/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0007.jpg",
+      "pessoa": 2326,
+      "familia": 769
+    },
+    {
+      "id": "S8-B3-m0007-d-01",
+      "imagem": "m0007",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Manuel Gonçalves Correia",
+      "mae": "Maria Martins",
+      "data_batismo": "07/08/1786",
+      "leitura_anterior": "Ana, filho/a de Manuel Gonçalves Correia e Maria Martins. Batismo em 07/08/1786. Avós paternos Domingos Gonçalves Lucas e Maria Gonçalves; maternos Bartolomeu Martins e Maria Nunes. Padrinhos Domingos Martins do Rodo e Maria Lourença, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Ana; pai Manuel Gonçalves Correia; mãe Maria Martins; batismo 07/08/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0007.jpg",
+      "pessoa": 2329,
+      "familia": 770
+    },
+    {
+      "id": "S8-B3-m0008-e-01",
+      "imagem": "m0008",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Manuel Nunes de Alfaiate",
+      "mae": "Lúcia Lopes",
+      "data_batismo": "13/08/1786",
+      "leitura_anterior": "José, filho/a de Manuel Nunes de Alfaiate e Lúcia Lopes. Batismo em 13/08/1786. Avós paternos Manuel Nunes Alfaiate e Catarina Jorge; maternos José Luís e Luísa Lopes. Padrinhos António Gonçalves de Clara e Vitória Águas, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Manuel Nunes de Alfaiate; mãe Lúcia Lopes; batismo 13/08/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0008.jpg",
+      "pessoa": 2332,
+      "familia": 771
+    },
+    {
+      "id": "S8-B3-m0008-e-02",
+      "imagem": "m0008",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Vaz de Valongo",
+      "mae": "Francisca Pires",
+      "data_batismo": "19/08/1786",
+      "leitura_anterior": "Manuel, filho/a de Manuel Vaz de Valongo e Francisca Pires. Batismo em 19/08/1786. Pai da Quinta de Cima de Valongo, mãe do Souto; avós paternos Miguel Vaz e Maria Margarida de Valongo; maternos Manuel Fernandes e Ana Pires. Padrinhos José Martins e Maria Nunes, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Manuel Vaz de Valongo; mãe Francisca Pires; batismo 19/08/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0008.jpg",
+      "pessoa": 2335,
+      "familia": 772
+    },
+    {
+      "id": "S8-B3-m0009-e-01",
+      "imagem": "m0009",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Domingos",
+        "sexo": "M"
+      },
+      "pai": "Bartolomeu Martins",
+      "mae": "Maria Gonçalves",
+      "data_batismo": "12/09/1786",
+      "leitura_anterior": "Domingos, filho/a de Bartolomeu Martins e Maria Gonçalves. Batismo em 12/09/1786. No texto materno há Ana digo Maria Gonçalves. Avós paternos José Martins Pires e Maria Ana Nunes; maternos Pedro Gonçalves de Clara e Ana Afonso; padrinhos Domingos Fernandes e Lúcia [...], provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Domingos; pai Bartolomeu Martins; mãe Maria Gonçalves; batismo 12/09/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0009.jpg",
+      "pessoa": 2338,
+      "familia": 773
+    },
+    {
+      "id": "S8-B3-m0009-e-02",
+      "imagem": "m0009",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "José de Carvalho",
+      "mae": "Ana Martins",
+      "data_batismo": "13/09/1786",
+      "leitura_anterior": "José, filho/a de José de Carvalho e Ana Martins. Batismo em 13/09/1786. Avós paternos Manuel de Carvalho e Maria João; maternos Nicolau Martins e Maria Alves. Padrinhos Domingos Gonçalves [...] e Florência Martins, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai José de Carvalho; mãe Ana Martins; batismo 13/09/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0009.jpg",
+      "pessoa": 2341,
+      "familia": 774
+    },
+    {
+      "id": "S8-B3-m0009-d-01",
+      "imagem": "m0009",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "José Gonçalves Balão",
+      "mae": "Rosária Martins",
+      "data_batismo": "18/09/1786",
+      "leitura_anterior": "Ana, filho/a de José Gonçalves Balão e Rosária Martins. Batismo em 18/09/1786. Avós paternos Manuel Gonçalves Balão e Ana Martins; maternos Francisco Martins e Maria Martins; padrinhos Domingos Martins solteiro das Naves e Maria Gonçalves Balão solteira do Souto, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Ana; pai José Gonçalves Balão; mãe Rosária Martins; batismo 18/09/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0009.jpg",
+      "pessoa": 2344,
+      "familia": 775
+    },
+    {
+      "id": "S8-B3-m0010-e-01",
+      "imagem": "m0010",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Manuel Gonçalves",
+      "mae": "Maria Gonçalves",
+      "data_batismo": "23/09/1786",
+      "leitura_anterior": "Ana, filho/a de Manuel Gonçalves e Maria Gonçalves. Batismo em 23/09/1786. Ambos de segundo matrimónio, indicação provisória. Avós paternos Domingos Manso e Maria Gonçalves; maternos Miguel Carrilho e Maria Gonçalves; padrinhos João Gonçalves Lucas e Bárbara Gonçalves, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Ana; pai Manuel Gonçalves; mãe Maria Gonçalves; batismo 23/09/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0010.jpg",
+      "pessoa": 2347,
+      "familia": 776
+    },
+    {
+      "id": "S8-B3-m0010-e-02",
+      "imagem": "m0010",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Luísa",
+        "sexo": "F"
+      },
+      "pai": "Manuel Lopes de Clara",
+      "mae": "Teodora Gonçalves",
+      "data_batismo": "24/09/1786",
+      "leitura_anterior": "Luísa, filho/a de Manuel Lopes de Clara e Teodora Gonçalves. Batismo em 24/09/1786. Pai do Souto, mãe de Aldeia do Bispo. Avós paternos Manuel Lopes de Clara e Maria Martins; maternos Manuel Gonçalves e Maria Afonso de Aldeia do Bispo; padrinhos Bernardo Antunes e Maria Afonso, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Luísa; pai Manuel Lopes de Clara; mãe Teodora Gonçalves; batismo 24/09/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0010.jpg",
+      "pessoa": 2350,
+      "familia": 777
+    },
+    {
+      "id": "S8-B3-m0010-d-01",
+      "imagem": "m0010",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "José Manso",
+      "mae": "Brites Martins",
+      "data_batismo": "23/09/1786",
+      "leitura_anterior": "José, filho/a de José Manso e Brites Martins. Batismo em 23/09/1786. Conservar setembro escrito, embora assento posterior a 24/09. Avós paternos Manuel Manso e Catarina Gonçalves; maternos Francisco Martins e Maria Martins. Padrinhos Manuel José do Estêvão e Maria Jacinta, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai José Manso; mãe Brites Martins; batismo 23/09/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0010.jpg",
+      "pessoa": 2353,
+      "familia": 778
+    },
+    {
+      "id": "S8-B3-m0010-d-02",
+      "imagem": "m0010",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Manuel Dias",
+      "mae": "Maria Neta",
+      "data_batismo": "25/10/1786",
+      "leitura_anterior": "Ana, filho/a de Manuel Dias e Maria Neta. Batismo em 25/10/1786. Avós paternos Manuel Dias e Maria de Maras/Matos (?); maternos José Lourenço e Ana Neta. Padrinhos Maduro Nunes e Ana Dias, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Ana; pai Manuel Dias; mãe Maria Neta; batismo 25/10/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0010.jpg",
+      "pessoa": 2356,
+      "familia": 779
+    },
+    {
+      "id": "S8-B3-m0011-e-01",
+      "imagem": "m0011",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Manuel Dias",
+      "mae": "Maria Ramos",
+      "data_batismo": "26/10/1786",
+      "leitura_anterior": "José, filho/a de Manuel Dias e Maria Ramos. Batismo em 26/10/1786. Avós paternos José Vaz e Maria Gonçalves; maternos Lourenço Nunes e Ana Garcia. Padrinhos Manuel Gonçalves Lucas e Isabel Garcia, todos do Souto, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Manuel Dias; mãe Maria Ramos; batismo 26/10/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0011.jpg",
+      "pessoa": 2359,
+      "familia": 780
+    },
+    {
+      "id": "S8-B3-m0011-e-02",
+      "imagem": "m0011",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Joaquim",
+        "sexo": "M"
+      },
+      "pai": "Estêvão Gonçalves Delgado",
+      "mae": "Feliciana Antunes",
+      "data_batismo": "29/10/1786",
+      "leitura_anterior": "Joaquim, filho/a de Estêvão Gonçalves Delgado e Feliciana Antunes. Batismo em 29/10/1786. Pais naturais de Coria, bispado da Guarda, segundo hipótese visual; avós paternos Manuel Gonçalves Delgado e Maria Pires, também de Coria; maternos Manuel Antunes Ramos, de Quadrazais, e Eufrásia [...]. Padrinho padre Lourenço Martins, juntamente tocou na imagem de Nossa Senhora do Rosário; leitura adicional provisória.",
+      "excerto": "Leitura normalizada dos campos essenciais: Joaquim; pai Estêvão Gonçalves Delgado; mãe Feliciana Antunes; batismo 29/10/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0011.jpg",
+      "pessoa": 2362,
+      "familia": 781
+    },
+    {
+      "id": "S8-B3-m0011-d-01",
+      "imagem": "m0011",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Manuel Nunes",
+      "mae": "Lúcia Garcia",
+      "data_batismo": "01/11/1786",
+      "leitura_anterior": "Maria, filho/a de Manuel Nunes e Lúcia Garcia. Batismo em 01/11/1786. Avós paternos Manuel Nunes e Isabel Vaz; maternos João Garcia e Ana [...]; padrinhos Manuel Alves e Maria da Silva, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai Manuel Nunes; mãe Lúcia Garcia; batismo 01/11/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0011.jpg",
+      "pessoa": 2365,
+      "familia": 782
+    },
+    {
+      "id": "S8-B3-m0011-d-02",
+      "imagem": "m0011",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Manuel Nunes",
+      "mae": "Rita Martins",
+      "data_batismo": "17/11/1786",
+      "leitura_anterior": "José, filho/a de Manuel Nunes e Rita Martins. Batismo em 17/11/1786. Avós paternos Domingos Nunes e Maria Alves Gralha; maternos Francisco Martins e Maria Martins Segunda. Padrinhos Manuel Lopes Martins e Teodora Martins, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Manuel Nunes; mãe Rita Martins; batismo 17/11/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0011.jpg",
+      "pessoa": 2368,
+      "familia": 783
+    },
+    {
+      "id": "S8-B3-m0012-e-02",
+      "imagem": "m0012",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Pedro Garcia",
+      "mae": "Luísa Jorge",
+      "data_batismo": "20/11/1786",
+      "leitura_anterior": "Manuel, filho/a de Pedro Garcia e Luísa Jorge. Batismo em 20/11/1786. Avós paternos Estêvão Cavaco e Maria André; maternos Manuel [...] e Ana Jorge. Padrinhos doutor Manuel Martins e Isabel Garcia; todos do Souto, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Pedro Garcia; mãe Luísa Jorge; batismo 20/11/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0012.jpg",
+      "pessoa": 2371,
+      "familia": 784
+    },
+    {
+      "id": "S8-B3-m0012-d-01",
+      "imagem": "m0012",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Bárbara",
+        "sexo": "F"
+      },
+      "pai": "António Fernandes",
+      "mae": "Vitória Luís",
+      "data_batismo": "07/12/1786",
+      "leitura_anterior": "Bárbara, filho/a de António Fernandes e Vitória Luís. Batismo em 07/12/1786. Avós paternos António Fernandes de Clara e Maria Martins; maternos José Luís e Brízida Lopes. Padrinhos Manuel Nunes Alfaiate e Luísa Luís, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Bárbara; pai António Fernandes; mãe Vitória Luís; batismo 07/12/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0012.jpg",
+      "pessoa": 2374,
+      "familia": 785
+    },
+    {
+      "id": "S8-B3-m0012-d-02",
+      "imagem": "m0012",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Manuel Robalo",
+      "mae": "Maria Fernandes",
+      "data_batismo": "19/12/1786",
+      "leitura_anterior": "Maria, filho/a de Manuel Robalo e Maria Fernandes. Batismo em 19/12/1786. Avós paternos José Robalo e Ana Fernandes de Clara; maternos António Fernandes e Ana Jorge. Padrinhos José Fernandes Rufo (?) e Mariana Nunes, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai Manuel Robalo; mãe Maria Fernandes; batismo 19/12/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0012.jpg",
+      "pessoa": 2377,
+      "familia": 786
+    },
+    {
+      "id": "S8-B3-m0013-e-01",
+      "imagem": "m0013",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "José Martins de Lúcia",
+      "mae": "Lúcia Nunes",
+      "data_batismo": "23/12/1786",
+      "leitura_anterior": "José, filho/a de José Martins de Lúcia e Lúcia Nunes. Batismo em 23/12/1786. Avós paternos João Gonçalves Daniel e Lúcia Martins; maternos João Luís e Maria Nunes de Antão (?). Padrinhos João Nunes e Maria [...] com apelido por conferir; leituras adicionais provisórias.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai José Martins de Lúcia; mãe Lúcia Nunes; batismo 23/12/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0013.jpg",
+      "pessoa": 2380,
+      "familia": 787
+    },
+    {
+      "id": "S8-B3-m0013-e-02",
+      "imagem": "m0013",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Lúcia",
+        "sexo": "F"
+      },
+      "pai": "Manuel Nabais",
+      "mae": "Catarina Nunes",
+      "data_batismo": "27/12/1786",
+      "leitura_anterior": "Lúcia, filho/a de Manuel Nabais e Catarina Nunes. Batismo em 27/12/1786. Avós paternos Domingos Nabais e Maria Lourença; maternos Manuel Nunes e Ana Gonçalves. Padrinhos Manuel Gonçalves [...] e Lúcia Nunes, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Lúcia; pai Manuel Nabais; mãe Catarina Nunes; batismo 27/12/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0013.jpg",
+      "pessoa": 2383,
+      "familia": 788
+    },
+    {
+      "id": "S8-B3-m0013-d-01",
+      "imagem": "m0013",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Gabriel",
+        "sexo": "M"
+      },
+      "pai": "José Gonçalves de Matos",
+      "mae": "Catarina Lourença",
+      "data_batismo": "07/12/1786",
+      "leitura_anterior": "Gabriel, filho/a de José Gonçalves de Matos e Catarina Lourença. Batismo em 07/12/1786. Conservar dezembro escrito neste assento posterior a 27/12. Avós paternos Manuel Gonçalves de Matos e Catarina Lourença; maternos Francisco Lourenço e Isabel Gonçalves, a avó natural de Cerdeira. Padrinhos Gabriel Nunes e Ana Lourença, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Gabriel; pai José Gonçalves de Matos; mãe Catarina Lourença; batismo 07/12/1786.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0013.jpg",
+      "pessoa": 2386,
+      "familia": 789
+    },
+    {
+      "id": "S8-B3-m0014-e-01",
+      "imagem": "m0014",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Manuel Manso",
+      "mae": "Rosária Jorge",
+      "data_batismo": "21/01/1787",
+      "leitura_anterior": "José, filho/a de Manuel Manso e Rosária Jorge. Batismo em 21/01/1787. Avós paternos José Manso e Rosa Martins; maternos Francisco Gonçalves e Isabel Jorge. Padrinhos Manuel Fernandes Claro e Ana Garcia, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Manuel Manso; mãe Rosária Jorge; batismo 21/01/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0014.jpg",
+      "pessoa": 2389,
+      "familia": 790
+    },
+    {
+      "id": "S8-B3-m0014-d-01",
+      "imagem": "m0014",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Bartolomeu",
+        "sexo": "M"
+      },
+      "pai": "Nicolau Gonçalves",
+      "mae": "Ana Gonçalves",
+      "data_batismo": "04/02/1787",
+      "leitura_anterior": "Bartolomeu, filho/a de Nicolau Gonçalves e Ana Gonçalves. Batismo em 04/02/1787. Avós paternos Manuel Gonçalves de Luís e Catarina Pereira; maternos Domingos Gonçalves de Frias e Rosária Palos. Padrinhos Manuel Manso de Luís e Maria Francisca, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Bartolomeu; pai Nicolau Gonçalves; mãe Ana Gonçalves; batismo 04/02/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0014.jpg",
+      "pessoa": 2392,
+      "familia": 791
+    },
+    {
+      "id": "S8-B3-m0014-d-02",
+      "imagem": "m0014",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Domingos Dias",
+      "mae": "Lúcia Nunes",
+      "data_batismo": "07/02/1787",
+      "leitura_anterior": "Manuel, filho/a de Domingos Dias e Lúcia Nunes. Batismo em 07/02/1787. Avós paternos Domingos Dias e Maria Antunes; maternos José Luís e Maria Nunes; padrinhos Maduro Nunes e Maria Dias, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Domingos Dias; mãe Lúcia Nunes; batismo 07/02/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0014.jpg",
+      "pessoa": 2395,
+      "familia": 792
+    },
+    {
+      "id": "S8-B3-m0015-e-01",
+      "imagem": "m0015",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Paulo Martins",
+      "mae": "Luísa Nunes de Cima",
+      "data_batismo": "07/01/1787",
+      "leitura_anterior": "José, filho/a de Paulo Martins e Luísa Nunes de Cima. Batismo em 07/01/1787. Janeiro escrito após fevereiro nas imagens anteriores. Avós paternos Francisco Martins de Brízida e Maria Martins; maternos Francisco Nunes e Isabel Nabais; padrinhos António [...] e Isabel Nunes, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Paulo Martins; mãe Luísa Nunes de Cima; batismo 07/01/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0015.jpg",
+      "pessoa": 2398,
+      "familia": 793
+    },
+    {
+      "id": "S8-B3-m0015-d-02",
+      "imagem": "m0015",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "José Garcia de João",
+      "mae": "Maria Martins",
+      "data_batismo": "27/03/1787",
+      "leitura_anterior": "Manuel, filho/a de José Garcia de João e Maria Martins. Batismo em 27/03/1787. Pai natural das Casas do Sindo, freguesia de Guimarães (hipótese visual); mãe do Souto, de segundo matrimónio. Avós paternos Manuel Garcia de José e Ana Nunes; maternos João Martins dos Santos e Isabel Afonso de Quadrazais; padrinhos Manuel José Carrilho e Maria Jacinta, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai José Garcia de João; mãe Maria Martins; batismo 27/03/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0015.jpg",
+      "pessoa": 2401,
+      "familia": 794
+    },
+    {
+      "id": "S8-B3-m0016-e-02",
+      "imagem": "m0016",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Domingos João",
+      "mae": "Florência Martins",
+      "data_batismo": "17/04/1787",
+      "leitura_anterior": "Manuel, filho/a de Domingos João e Florência Martins. Batismo em 17/04/1787. Avós paternos Manuel João e Mariana Gonçalves; maternos Diogo Martins Carreiro e Maria Lopes. Padrinhos Manuel João e Ana Fernandes, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Domingos João; mãe Florência Martins; batismo 17/04/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0016.jpg",
+      "pessoa": 2404,
+      "familia": 795
+    },
+    {
+      "id": "S8-B3-m0016-d-01",
+      "imagem": "m0016",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "António",
+        "sexo": "M"
+      },
+      "pai": "António Garcia",
+      "mae": "Maria Nunes",
+      "data_batismo": "22/04/1787",
+      "leitura_anterior": "António, filho/a de António Garcia e Maria Nunes. Batismo em 22/04/1787. Avós paternos Francisco Garcia e Maria Nabais; maternos Manuel Nunes de [...] Frias e Maria Gonçalves. Padrinhos António Martins Daniel e Luísa Robala, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: António; pai António Garcia; mãe Maria Nunes; batismo 22/04/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0016.jpg",
+      "pessoa": 2407,
+      "familia": 796
+    },
+    {
+      "id": "S8-B3-m0016-d-02",
+      "imagem": "m0016",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "José Robalo",
+      "mae": "Maria Gonçalves",
+      "data_batismo": "19/05/1787",
+      "leitura_anterior": "Maria, filho/a de José Robalo e Maria Gonçalves. Batismo em 19/05/1787. Avós paternos José Robalo e Ana Mendes; maternos Francisco Fernandes Claro e Maria Gonçalves. Padrinhos António Martins Daniel e Luísa Robala, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai José Robalo; mãe Maria Gonçalves; batismo 19/05/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0016.jpg",
+      "pessoa": 2410,
+      "familia": 797
+    },
+    {
+      "id": "S8-B3-m0017-e-01",
+      "imagem": "m0017",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Manuel Luís Nabais",
+      "mae": "Maria Gonçalves",
+      "data_batismo": "11/06/1787",
+      "leitura_anterior": "José, filho/a de Manuel Luís Nabais e Maria Gonçalves. Batismo em 11/06/1787. Avós paternos Manuel Luís Nabais e Francisca Lourença; maternos José Gonçalves e Brízida Nabais. Padrinhos José Gonçalves [...] e sua irmã Lúcia, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Manuel Luís Nabais; mãe Maria Gonçalves; batismo 11/06/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0017.jpg",
+      "pessoa": 2413,
+      "familia": 798
+    },
+    {
+      "id": "S8-B3-m0017-e-02",
+      "imagem": "m0017",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Antónia",
+        "sexo": "F"
+      },
+      "pai": "António Soares",
+      "mae": "Rosária Gonçalves Correia",
+      "data_batismo": "20/06/1787",
+      "leitura_anterior": "Antónia, filho/a de António Soares e Rosária Gonçalves Correia. Batismo em 20/06/1787. Pai de Vale de [...] e mãe do Souto. Avós paternos Manuel Soares e Maria Gonçalves de Vieira; maternos Francisco Pires de Quintas de [...] e Isabel Garcia. Padrinhos Manuel Nunes [...] e Maria Martins [...], provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Antónia; pai António Soares; mãe Rosária Gonçalves Correia; batismo 20/06/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0017.jpg",
+      "pessoa": 2416,
+      "familia": 799
+    },
+    {
+      "id": "S8-B3-m0017-d-01",
+      "imagem": "m0017",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Maduro Nunes",
+      "mae": "Maria Dias",
+      "data_batismo": "17/06/1787",
+      "leitura_anterior": "Ana, filho/a de Maduro Nunes e Maria Dias. Batismo em 17/06/1787. Avós paternos Manuel Robalo e Catarina Nunes; maternos Manuel Dias e Maria Antunes; padrinhos Domingos Dias e Lúcia Nunes, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Ana; pai Maduro Nunes; mãe Maria Dias; batismo 17/06/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0017.jpg",
+      "pessoa": 2419,
+      "familia": 800
+    },
+    {
+      "id": "S8-B3-m0017-d-02",
+      "imagem": "m0017",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Vaz Brito",
+      "mae": "Isabel Gonçalves",
+      "data_batismo": "21/06/1789",
+      "leitura_anterior": "Manuel, filho/a de Manuel Vaz Brito e Isabel Gonçalves. Batismo em 21/06/1789. A abertura parece dizer mil setecentos oitenta e nove, entre assentos de 1787: conservar a leitura, não corrigir pela sequência, e conferir segunda vez o ano. Avós paternos António Vaz e Isabel Vaz Brito; maternos Luís Carrilho e Isabel Barrosa; padrinhos Manuel Garrido e Maria Rodrigues, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Manuel Vaz Brito; mãe Isabel Gonçalves; batismo 21/06/1789.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada. Ano 1789 conferido como escrito, apesar dos assentos vizinhos de 1787; não corrigido pela sequência.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0017.jpg",
+      "pessoa": 2422,
+      "familia": 801
+    },
+    {
+      "id": "S8-B3-m0018-e-01",
+      "imagem": "m0018",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Alexandre",
+        "sexo": "M"
+      },
+      "pai": "Manuel Garcia",
+      "mae": "Maria Gonçalves",
+      "data_batismo": "23/06/1787",
+      "leitura_anterior": "Alexandre, filho/a de Manuel Garcia e Maria Gonçalves. Batismo em 23/06/1787. Avós paternos João Garcia e Maria Gonçalves; maternos Francisco Lourenço e Isabel Gonçalves. Padrinhos Gabriel Nunes e Ana Lourença, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Alexandre; pai Manuel Garcia; mãe Maria Gonçalves; batismo 23/06/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0018.jpg",
+      "pessoa": 2425,
+      "familia": 802
+    },
+    {
+      "id": "S8-B3-m0018-e-02",
+      "imagem": "m0018",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Lopes de Amaral",
+      "mae": "Maria Garcia",
+      "data_batismo": "29/07/1787",
+      "leitura_anterior": "Manuel, filho/a de Manuel Lopes de Amaral e Maria Garcia. Batismo em 29/07/1787. Avós paternos Manuel Lopes de Amaral e Isabel Nunes; maternos Manuel Garcia e Maria Lourença. Padrinhos António Marques e Maria Lourença, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Manuel Lopes de Amaral; mãe Maria Garcia; batismo 29/07/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0018.jpg",
+      "pessoa": 2428,
+      "familia": 803
+    },
+    {
+      "id": "S8-B3-m0018-d-01",
+      "imagem": "m0018",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Manuel Martins",
+      "mae": "Ana Pires",
+      "data_batismo": "11/06/1787",
+      "leitura_anterior": "Maria, filho/a de Manuel Martins e Ana Pires. Batismo em 11/06/1787. Junho escrito após assentos de julho. Avós paternos Francisco Martins e Luísa Vaz; maternos Manuel Pires e Maria Jorge. Padrinhos João Martins e Ana Gonçalves, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai Manuel Martins; mãe Ana Pires; batismo 11/06/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0018.jpg",
+      "pessoa": 2431,
+      "familia": 804
+    },
+    {
+      "id": "S8-B3-m0018-d-02",
+      "imagem": "m0018",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "José Luís",
+      "mae": "Catarina Gonçalves",
+      "data_batismo": "10/08/1787",
+      "leitura_anterior": "José, filho/a de José Luís e Catarina Gonçalves. Batismo em 10/08/1787. Pai já defunto, conforme a oração da filiação. Avós paternos Brás Luís e Catarina Martins; maternos Joaquim Afonso e Maria Gonçalves. Padrinhos José Martins de Clara e Maria Nunes, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai José Luís; mãe Catarina Gonçalves; batismo 10/08/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0018.jpg",
+      "pessoa": 2434,
+      "familia": 805
+    },
+    {
+      "id": "S8-B3-m0019-e-02",
+      "imagem": "m0019",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Isabel",
+        "sexo": "F"
+      },
+      "pai": "José Dias",
+      "mae": "Maria Gonçalves",
+      "data_batismo": "22/08/1787",
+      "leitura_anterior": "Isabel, filho/a de José Dias e Maria Gonçalves. Batismo em 22/08/1787. Avós paternos Miguel Dias e Maria Nunes; maternos Domingos Gonçalves de António e Quitéria Quinteira Gonçalves. Padrinhos Vicente Nunes e Maria Dias, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Isabel; pai José Dias; mãe Maria Gonçalves; batismo 22/08/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0019.jpg",
+      "pessoa": 2437,
+      "familia": 806
+    },
+    {
+      "id": "S8-B3-m0019-d-02",
+      "imagem": "m0019",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Manuel Martins Daniel",
+      "mae": "Isabel Pires",
+      "data_batismo": "02/09/1787",
+      "leitura_anterior": "José, filho/a de Manuel Martins Daniel e Isabel Pires. Batismo em 02/09/1787. Data por remissão no mesmo dia, mês e era supra. Avós paternos Manuel Martins Daniel e Lúcia Martins; maternos José Pires de Clara e Catarina [...]. Padrinhos João Martins [...] e Ana Garcia, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Manuel Martins Daniel; mãe Isabel Pires; batismo 02/09/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0019.jpg",
+      "pessoa": 2440,
+      "familia": 807
+    },
+    {
+      "id": "S8-B3-m0020-e-01",
+      "imagem": "m0020",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Bernarda",
+        "sexo": "F"
+      },
+      "pai": "José Carrilho",
+      "mae": "Vitória Martins",
+      "data_batismo": "03/09/1787",
+      "leitura_anterior": "Bernarda, filho/a de José Carrilho e Vitória Martins. Batismo em 03/09/1787. Avós paternos Luís Carrilho e Isabel Nabais; maternos Nicolau Martins e Maria Alves. Padrinhos Manuel Carrilho e Lúcia Gonçalves Quinteira, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Bernarda; pai José Carrilho; mãe Vitória Martins; batismo 03/09/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0020.jpg",
+      "pessoa": 2443,
+      "familia": 808
+    },
+    {
+      "id": "S8-B3-m0020-e-02",
+      "imagem": "m0020",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "Domingos",
+        "sexo": "M"
+      },
+      "pai": "Jacinto Nunes",
+      "mae": "Rosária Martins",
+      "data_batismo": "14/10/1787",
+      "leitura_anterior": "Domingos, filho/a de Jacinto Nunes e Rosária Martins. Batismo em 14/10/1787. Avós paternos António Nunes e Maria Esteves; maternos Gonçalo Martins e Maria Lopes. Padrinhos Domingos João e Paula Martins, provisórios.",
+      "excerto": "Leitura normalizada dos campos essenciais: Domingos; pai Jacinto Nunes; mãe Rosária Martins; batismo 14/10/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0020.jpg",
+      "pessoa": 2446,
+      "familia": 809
+    },
+    {
+      "id": "S8-B3-m0020-d-02",
+      "imagem": "m0020",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "José Firmino Pires",
+      "mae": "Doroteia Palos",
+      "data_batismo": "14/10/1787",
+      "leitura_anterior": "José, filho/a de José Firmino Pires e Doroteia Palos. Batismo em 14/10/1787. Data por remissão no mesmo dia, mês e era supra. Avós paternos Manuel Pires da Santa (?) e Maria Jorge; maternos António Palos e Ana Pereira. Menções adicionais provisórias; oração de padrinhos não identificada na leitura inicial.",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai José Firmino Pires; mãe Doroteia Palos; batismo 14/10/1787.",
+      "nota": "Leitura parcial, sem transcrição diplomática integral. Menções adicionais na leitura anterior são provisórias e não criam relações na árvore. Não inferidos nascimentos nem identidades entre assentos.",
+      "nota_revisao": "16/11/2026: campos essenciais conferidos em duas leituras visuais; hipótese inicial conservada.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0020.jpg",
+      "pessoa": 2449,
+      "familia": 810
     }
   ],
   "por_rever": [
@@ -34588,6 +35836,300 @@
       ],
       "livro": "PT/TT/PRQ/PSBG34/001/B2",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/PT-ADLSB-PRQ-PSBG34-001-B2_m0250.jpg"
+    },
+    {
+      "id": "S8-B3-m0002-d-02",
+      "imagem": "m0002",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Maria, filho/a de Domingos Nunes Dragolouco (?) e Inês Garcia. Batismo em 16/01/1786, segundo a abertura escrita. Complemento paterno por conferir. Avós paternos Domingos Nunes e Ana Nabais; maternos João Garcia de Carvalho e Maria Antunes; padrinhos Pedro Garcia e Lúcia de Oliveira, provisórios.",
+      "duvidas": [
+        "Complemento paterno Dragolouco/Drag... não seguro."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0002.jpg"
+    },
+    {
+      "id": "S8-B3-m0003-e-01",
+      "imagem": "m0003",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Manuel (?), filho/a de António João (?) e [...] Dias. Abertura parece 28/02/1786. Página muito desvanecida, com placa erro de numeração. Nome da criança e filiação incompletamente legíveis; avós parecem Domingos Dias e Maria Nunes; padrinhos Pedro [...] e Catarina [...], provisórios.",
+      "duvidas": [
+        "Página desvanecida: nome da criança, data e filiação sem leitura segura."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0003.jpg"
+    },
+    {
+      "id": "S8-B3-m0003-e-02",
+      "imagem": "m0003",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Maria, filho/a de Manuel Lourenço Logrado (?) e Maria Alves. Batismo em 27/02/1786. Complemento paterno Logrado/Loprado a conferir. Avós paternos Manuel Lourenço Logrado e Ana Fernandes; maternos Manuel Jorge de Gasca e Maria Nabais; padrinhos José Carvalho Manco e Quitéria Catarina Martins, provisórios.",
+      "duvidas": [
+        "Complemento paterno Logrado/Loprado não seguro."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0003.jpg"
+    },
+    {
+      "id": "S8-B3-m0004-e-01",
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Luís, filho/a de António Nunes e Maria Martins. Batismo em 09/04/1786. Apelido materno está abreviado e precisa de conferência. Avós paternos Manuel Nunes e Maria Martins; maternos Francisco Martins e Maria Martins; padrinhos José António B... e Damásia Martins, provisórios.",
+      "duvidas": [
+        "Apelido materno abreviado; expansão ainda não segura."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0004.jpg"
+    },
+    {
+      "id": "S8-B3-m0004-e-02",
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Isabel, filho/a de António Martins Jofares (?) e Lúcia Robala. Batismo em 10/04/1786. Complemento paterno por conferir. Avós paternos Bento Martins e Maria Martins; maternos José Robalo e [...], continuados à direita; padrinhos José Robalo e Maria [...], provisórios.",
+      "duvidas": [
+        "Complemento paterno Jofares/Tofares não seguro."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0004.jpg"
+    },
+    {
+      "id": "S8-B3-m0004-d-01",
+      "imagem": "m0004",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Maria, filho/a de José Rodrigues dos Melões (?) e Juliana Fernandes. Batismo em 25/04/1786. Complemento paterno e abreviaturas de apelidos ainda não seguros; pai natural de freguesia do bispado da Guarda, mãe do Souto. Avós paternos António [...] e Josefa [...]; maternos Manuel Fernandes e Isabel Jorge; padrinhos Domingos Nunes e Catarina [...], provisórios.",
+      "duvidas": [
+        "Complemento paterno dos Melões/Milhões não seguro."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0004.jpg"
+    },
+    {
+      "id": "S8-B3-m0006-e-02",
+      "imagem": "m0006",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Bernardo, filho/a de António Gonçalves do Rato (?) e Joaquina Nunes. Batismo em 09/07/1786. Complemento paterno por conferir na continuação m0006 direita. Avós paternos Manuel Garcia e Ana Fernandes; maternos Joaquim Nunes e Maria Dias. Padrinhos Domingos Martins e Maria Pereira, provisórios.",
+      "duvidas": [
+        "Complemento paterno do Rato/da Rata (?) ainda por conferir."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0006.jpg"
+    },
+    {
+      "id": "S8-B3-m0006-d-02",
+      "imagem": "m0006",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "José, filho/a de Manuel Gonçalves de António e Isabel Carlicia (?). Batismo em 15/07/1786. Apelido materno Carlicia/Carícia (?) por conferir. Avós paternos Manuel Gonçalves de António e Maria Antunes; maternos José Dias e Josefa [...]. Padrinhos José [...] e sua mulher Catarina, provisórios, no seguimento m0007 esquerda.",
+      "duvidas": [
+        "Apelido materno Carlicia/Carícia (?) não seguro."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0006.jpg"
+    },
+    {
+      "id": "S8-B3-m0007-d-02",
+      "imagem": "m0007",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Antónia, filho/a de José Gonçalves de Adriano e Isabel Martins. Batismo em 13/08/1786. A margem parece Ana corrigida; no corpo lê-se Antónia. Avós paternos Manuel Gonçalves de Adriano e Maria Antunes; maternos António Martins e Josefa [...]; padrinhos Manuel Gonçalves Claro e Mariana Gonçalves, provisórios. Conferir divergência de nome.",
+      "duvidas": [
+        "Margem parece Ana emendada; no corpo parece Antónia. Manter pendente a divergência do nome da criança."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0007.jpg"
+    },
+    {
+      "id": "S8-B3-m0008-d-01",
+      "imagem": "m0008",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "João, filho/a de Manuel Lourenço e Angélica Nunes. Batismo em 03/09/1786. Avós paternos Manuel Lourenço e Rosa Luís; maternos Vicente Martins e Maria Gonçalves. Padrinhos Domingos Fernandes e Lúcia Fernandes, provisórios.",
+      "duvidas": [
+        "Nome materno parece Ângela/Angélica Nunes; distinguir a grafia antes de confirmar."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0008.jpg"
+    },
+    {
+      "id": "S8-B3-m0008-d-02",
+      "imagem": "m0008",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Bernarda, filho/a de Eusébio Monteiro e Maria Nunes Viegas. Em 10/09/1786 o cura impôs solenemente os santos óleos à Bernarda já batizada em casa por necessidade; não está indicada a data do batismo particular. Pai natural de Valde... em Espanha. Avós paternos João Monteiro e Isabel Antunes; maternos João Nunes e Maria Viegas. Madrinha Josefa das Neves. Não usar data dos óleos como batismo.",
+      "duvidas": [
+        "Só está datada a imposição dos santos óleos em 10/09/1786; data do batismo particular desconhecida."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0008.jpg"
+    },
+    {
+      "id": "S8-B3-m0009-d-02",
+      "imagem": "m0009",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Isabel, filho/a de Manuel Gonçalves de [...] e Maria Gonçalves. Batismo em 21/09/1786. Complemento paterno parece de Tom.../de António, por conferir; natural de Cal... dos Coutos, bispado [...]. Avós paternos Manuel Gonçalves e Isabel Antunes; maternos Domingos Gonçalves Lucas e Maria Martins; padrinhos Manuel Gonçalves Vicente e Isabel Garcia, provisórios.",
+      "duvidas": [
+        "Complemento paterno de Tom.../de António não seguro."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0009.jpg"
+    },
+    {
+      "id": "S8-B3-m0012-e-01",
+      "imagem": "m0012",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Manuel, filho/a de Manuel Pires e Ana Pereira. Em 17/11/1786 foram impostos os santos óleos ao Manuel que tinha sido batizado em casa por necessidade; data do batismo particular não indicada. Avós paternos Manuel Pires e Maria Manuel Martins (?); maternos António Palos e Ana Pereira; leituras adicionais provisórias.",
+      "duvidas": [
+        "Só está datada a imposição dos santos óleos em 17/11/1786; batismo particular anterior sem data."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0012.jpg"
+    },
+    {
+      "id": "S8-B3-m0013-d-02",
+      "imagem": "m0013",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "José, filho/a de José Gonçalves Nunes de Marcos e Maria Fernandes. Batismo em 15/01/1787. Nome paterno completo por conferir na segunda leitura. Avós paternos Manuel Nunes de Marcos e Isabel Vaz; maternos Manuel Antunes e Maria Fernandes. Padrinhos Manuel Gonçalves de Adriano e Isabel Nunes, provisórios.",
+      "duvidas": [
+        "Nome paterno: hipótese inicial José Gonçalves Nunes de Marcos; a abreviatura inicial no corpo pode ser Manuel. Conferir nome completo, sem escolher pela margem."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0013.jpg"
+    },
+    {
+      "id": "S8-B3-m0014-e-02",
+      "imagem": "m0014",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Ana, filho/a de Manuel Gonçalves Luciano (?) e Isabel Gonçalves. Batismo em 23/01/1787. Complemento paterno Luciano/Lucas ainda por conferir; avós paternos Domingos Gonçalves Lucas e Maria Martins; maternos Manuel Gonçalves Quinteiro e Maria Afonso. Padrinhos padre Manuel Gonçalves do Monte Margarida e Ana Luísa das Naves (?), provisórios.",
+      "duvidas": [
+        "Complemento paterno Luciano/Lucas ainda não seguro."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0014.jpg"
+    },
+    {
+      "id": "S8-B3-m0015-e-02",
+      "imagem": "m0015",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Joaquina, filho/a de Domingos Dias e Lúcia Nunes. Entrada iniciada em 23/01/1787, interrompida depois dos avós paternos Manuel Dias e Maria Antunes, seguida da nota houve engano. Não tratar como batismo válido nem estabelecer filiação automática; confirmar a natureza da anulação.",
+      "duvidas": [
+        "Redação interrompida e expressamente marcada houve engano; não tratar como batismo válido."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0015.jpg"
+    },
+    {
+      "id": "S8-B3-m0015-d-01",
+      "imagem": "m0015",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "José, filho/a de Manuel Nunes Ambrosário (?) e Luísa Martins. Batismo em 15/03/1787. Complemento paterno Ambrosário/da Ambrosaria (?) por conferir. Avós paternos Manuel Nunes e Ana Gonçalves da Ambrosaria (?); maternos Francisco Martins [...] e Maria Martins de Segunda; padrinhos Domingos Gonçalves de Matos e Isabel João, provisórios.",
+      "duvidas": [
+        "Complemento paterno Ambrosário/da Ambrosaria ainda não seguro."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0015.jpg"
+    },
+    {
+      "id": "S8-B3-m0016-e-01",
+      "imagem": "m0016",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Angélica, filho/a de [não identificado] e Luísa Sobrinha. Batismo em 28/03/1787. Filha de Luísa Sobrinha, em estado solteiro; pai não identificado na oração lida. Seguem fórmulas paterna/materna com Luís Francisco e Isabel Esteves, de Penamacor, que exigem leitura da redação completa. Padrinhos António [...] e Angélica Bernarda, provisórios. Não preencher pai por inferência.",
+      "duvidas": [
+        "Pai não identificado no assento; mãe solteira Luísa Sobrinha. Não completar a filiação por hipótese."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0016.jpg"
+    },
+    {
+      "id": "S8-B3-m0019-e-01",
+      "imagem": "m0019",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Bernarda, filho/a de Manuel Gonçalves de Marcos e Ana Nunes. Abertura parece 21/08/1784: mil setecentos oitenta e quatro, entre registos de 1787 e antes do intervalo do catálogo B3. Conferir ano; não o corrigir pela sequência. Avós paternos Marcos Gonçalves e Isabel Fernandes, de Valde...; maternos Domingos Nunes e Maria Martins Gralha, de [...]. Padrinhos Manuel Fernandes Claro e Ana Garcia, provisórios.",
+      "duvidas": [
+        "Ano lido 1784, anterior ao intervalo catalogado do livro; conservar a leitura e conferir antes de integrar."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0019.jpg"
+    },
+    {
+      "id": "S8-B3-m0019-d-01",
+      "imagem": "m0019",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Manuel, filho/a de José Lourenço Logrado (?) e Maria Nabais. Batismo em 02/09/1787. Complemento paterno Logrado/Loprado por conferir, sem uniformizar com outros assentos. Avós paternos Manuel Lourenço Logrado e Ana Fernandes; maternos Manuel Jorge de Gasca e Maria Nabais Marinha; padrinhos José Carrilho e Quitéria Nabais Miranda, provisórios.",
+      "duvidas": [
+        "Complemento paterno Logrado/Loprado ainda não seguro."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0019.jpg"
+    },
+    {
+      "id": "S8-B3-m0020-d-01",
+      "imagem": "m0020",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "pendente",
+      "leitura_parcial": "Maria, filho/a de Manuel Fernandes da Manha/Manfa (?) e Maria Martins Fernandes. Batismo em 14/10/1787. Complemento paterno por conferir. Avós paternos José da Manha/Manfa (?) e Catarina Garcia; maternos Domingos Fernandes Claro e Maria Gonçalves Lucas. Padrinhos Manuel Gonçalves de Garcia e Ana Nunes, provisórios.",
+      "duvidas": [
+        "Complemento paterno da Manfa/Man... ainda não seguro."
+      ],
+      "livro": "PT/TT/PRQ/PSBG34/001/B3",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/PT-ADLSB-PRQ-PSBG34-001-B3_m0020.jpg"
     }
   ],
   "coincidencias_nao_fundidas": [
@@ -36274,6 +37816,126 @@
     {
       "assento": "S8-B2-m0251-e-01",
       "familia_base": 5610,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0005-d-01",
+      "familia_base": 2649,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0005-d-01",
+      "familia_base": 5797,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0005-d-01",
+      "familia_base": 5801,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0005-d-01",
+      "familia_base": 6116,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0005-d-01",
+      "familia_base": 7183,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0007-d-01",
+      "familia_base": 5850,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0009-d-01",
+      "familia_base": 6340,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0010-e-01",
+      "familia_base": 5652,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0010-e-01",
+      "familia_base": 6400,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0011-d-02",
+      "familia_base": 5853,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0011-d-02",
+      "familia_base": 6379,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0012-d-02",
+      "familia_base": 6129,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0012-d-02",
+      "familia_base": 6231,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0014-d-01",
+      "familia_base": 6154,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0016-e-02",
+      "familia_base": 6535,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0016-d-01",
+      "familia_base": 6371,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0016-d-01",
+      "familia_base": 6372,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0018-e-01",
+      "familia_base": 6111,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0019-e-02",
+      "familia_base": 5795,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B3-m0020-e-01",
+      "familia_base": 6178,
       "fundido": false,
       "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
     }
@@ -38711,6 +40373,78 @@
       "lado": "esquerda",
       "nota": "Segunda leitura de Maria Teresa: após Domingos Gonçalves há complemento parecido com de Alcalá; a naturalidade seguinte parece vila de Alfaiates. A primeira hipótese Alcalá de Henares não ficou corroborada e não deve ser tratada como facto.",
       "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/registo.json"
+    },
+    {
+      "imagem": "m0001",
+      "lado": "direita",
+      "nota": "Capa/identificação: Sabugal, Souto/Soito, batismos 1786–1800, B3; sem assentos.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0002",
+      "lado": "direita",
+      "nota": "Fotografia de uma só página, numerada 26; ambas as entradas localizadas como direita, pela posição da folha no livro. Não dividir a página única em duas.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0003",
+      "lado": "esquerda",
+      "nota": "Placa erro de numeração; a numeração manuscrita da folha não é a numeração m das imagens. Datas não aparecem por ordem: 28 e 27 de fevereiro.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0004",
+      "lado": "esquerda",
+      "nota": "No topo termina o José iniciado em m0003 direita; sem nova entrada.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0004",
+      "lado": "direita",
+      "nota": "No topo continua a Isabel de m0004 esquerda; sem duplicação. Rosália continua em m0005 esquerda.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0005",
+      "lado": "esquerda",
+      "nota": "No topo conclui-se a Rosália iniciada em m0004 direita. Sem nova entrada.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0005",
+      "lado": "direita",
+      "nota": "Nota de visita em 4 de junho de 1786, entre assentos; não é novo batismo.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0006",
+      "lado": "esquerda",
+      "nota": "No topo conclui-se a Teresa de m0005 direita; Bernardo continua em m0006 direita.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0006",
+      "lado": "direita",
+      "nota": "No topo continua Bernardo de m0006 esquerda; José do fundo continua em m0007 esquerda.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0007",
+      "lado": "esquerda",
+      "nota": "No topo continua José de m0006 direita; nome materno e padrinhos ainda com dúvidas. José do fundo continua à direita.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0007",
+      "lado": "direita",
+      "nota": "No topo conclui-se José de m0007 esquerda, sem duplicação.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
+    },
+    {
+      "imagem": "m0015",
+      "lado": "esquerda",
+      "nota": "A entrada de Joaquina termina com houve engano e não foi integrada como batismo confirmado. Datas de janeiro reaparecem após fevereiro, sem reordenar nem corrigir silenciosamente.",
+      "livro": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B3/registo.json"
     }
   ]
 }
