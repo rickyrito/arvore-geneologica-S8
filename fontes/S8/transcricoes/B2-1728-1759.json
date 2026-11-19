@@ -2919,11 +2919,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Francisco, filho de Francisco Vaz (conferir) e Isabel Lourença. Foi batizado em casa por necessidade; em 26 de junho de 1734 o cura aplicou os santos óleos. A data do batismo em casa não é explicitada no excerto. Avós e padrinhos constam do texto.",
+      "leitura_parcial": "Relidos Francisco, filho de Francisco Vaz e Isabel Lourença. A oração em vinte e seis de junho de 1734 data apenas a aplicação dos santos óleos; o batismo em casa pelo cura já ocorrera.",
       "duvidas": [
-        "Não usar a data dos santos óleos como batismo; confirmar a data do batismo em casa e o nome do pai."
+        "Falta data explícita segura do batismo em casa; não usar 26/06/1734, data dos santos óleos."
       ],
-      "leitura_anterior": "Francisco, filho de António Vaz e Isabel Lourença (conferir), primeiro matrimónio. Batismo aparentemente 26 de junho de 1734. Avós paternos António Vaz e Ana Rodrigues; maternos Bernardo Vicente e Maria João. Padrinho padre Manuel Bexiga de Almeida. Nascimento não identificado."
+      "leitura_anterior": "Francisco, filho de António Vaz e Isabel Lourença (conferir), primeiro matrimónio. Batismo aparentemente 26 de junho de 1734. Avós paternos António Vaz e Ana Rodrigues; maternos Bernardo Vicente e Maria João. Padrinho padre Manuel Bexiga de Almeida. Nascimento não identificado.",
+      "nota_revisao": "19/11/2026: Relidos Francisco, filho de Francisco Vaz e Isabel Lourença. A oração em vinte e seis de junho de 1734 data apenas a aplicação dos santos óleos; o batismo em casa pelo cura já ocorrera."
     },
     {
       "id": "S8-B2-m0041-e-02",
@@ -2969,12 +2970,21 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Luís, filho de Luís Carrilho/Carvalho (apelido por conferir) e Isabel Nabais; segundo matrimónio do pai. Nascimento explícito em 27 de agosto de 1734 e batismo em 8 de setembro de 1734. A grafia do apelido paterno exige revisão.",
-      "duvidas": [
-        "Distinguir Carrilho de Carvalho na grafia do pai e do avô; não estabelecer identidade apenas pela filiação semelhante noutros assentos."
-      ],
-      "leitura_anterior": "Luís, filho de Luís, apelido a conferir, e Isabel Nabais; segundo matrimónio do pai. Datas explícitas de nascimento e batismo em agosto/setembro de 1734 por distinguir e conferir. Avós paternos Luís e Ana Gonçalves; maternos Domingos de Carvalho e Isabel Nabais."
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Luís, filho de Luís, apelido a conferir, e Isabel Nabais; segundo matrimónio do pai. Datas explícitas de nascimento e batismo em agosto/setembro de 1734 por distinguir e conferir. Avós paternos Luís e Ana Gonçalves; maternos Domingos de Carvalho e Isabel Nabais.",
+      "nota_revisao": "19/11/2026: Nome paterno Luís Carrilho conferido no corpo, na margem e na referência ao avô. Relidos Luís, Isabel Nabais, nascimento em vinte e sete de agosto de 1734 e batismo em oito de setembro do mesmo ano. Não se estabelece identidade com outros assentos.",
+      "crianca": {
+        "nome": "Luís",
+        "sexo": "M"
+      },
+      "pai": "Luís Carrilho",
+      "mae": "Isabel Nabais",
+      "data_batismo": "08/09/1734",
+      "excerto": "Leitura normalizada dos campos essenciais: Luís; pai Luís Carrilho; mãe Isabel Nabais; batismo 08/09/1734.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação.",
+      "data_nascimento": "27/08/1734",
+      "evidencia_nascimento": "O corpo do assento declara nasceu em os vinte e sete dias do mês de agosto de 1734; data conferida no original, separada do batismo de oito de setembro. Não calculada a partir do batismo."
     },
     {
       "id": "S8-B2-m0042-e-02",
@@ -3044,10 +3054,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Vitória, filha de Gregório Martins e Maria, apelido por conferir; batismo aparentemente 6 de janeiro de 1735. Continuação à direita; nascimento não identificado.",
+      "leitura_parcial": "Relidos Vitória e abertura de seis de janeiro de 1735, com continuação na página direita. A filiação paterna parece conter uma designação adicional após Gregório Martins; apelido materno também permanece inseguro.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir nome completo do pai Gregório Martins e apelido da mãe Maria no trecho desvanecido."
+      ],
+      "leitura_anterior": "Vitória, filha de Gregório Martins e Maria, apelido por conferir; batismo aparentemente 6 de janeiro de 1735. Continuação à direita; nascimento não identificado.",
+      "nota_revisao": "19/11/2026: Relidos Vitória e abertura de seis de janeiro de 1735, com continuação na página direita. A filiação paterna parece conter uma designação adicional após Gregório Martins; apelido materno também permanece inseguro."
     },
     {
       "id": "S8-B2-m0043-d-01",
@@ -3056,10 +3068,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Luísa, filha de Francisco Marques (conferir) e Maria Joana; data aparentemente fevereiro de 1735. Texto desvanecido, exigir conferência dos nomes e do dia. Nascimento não identificado.",
+      "leitura_parcial": "Relidos Luísa, Francisco Marques e Maria Joana. A abertura em fevereiro de 1735 está muito desvanecida, incluindo o numeral do dia.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Reconferir numeral do dia na abertura de fevereiro de 1735; não fixar data incompleta."
+      ],
+      "leitura_anterior": "Luísa, filha de Francisco Marques (conferir) e Maria Joana; data aparentemente fevereiro de 1735. Texto desvanecido, exigir conferência dos nomes e do dia. Nascimento não identificado.",
+      "nota_revisao": "19/11/2026: Relidos Luísa, Francisco Marques e Maria Joana. A abertura em fevereiro de 1735 está muito desvanecida, incluindo o numeral do dia."
     },
     {
       "id": "S8-B2-m0044-e-01",
@@ -3068,10 +3082,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Domingos Nabais e Maria Rodrigues (apelido adicional por conferir). Batismo aparentemente 15 de março de 1735. Avós paternos Isabel Nabais e Inês Antunes (conferir); maternos António Lourenço e Maria Lopes. Texto esbatido, nomes essenciais por conferir.",
+      "leitura_parcial": "Relidos Maria e Domingos Nabais, mas a identificação materna e a data continuam esbatidas; não se confirma integralmente a hipótese Maria Rodrigues nem quinze de março de 1735.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir nome completo da mãe e data no texto esbatido."
+      ],
+      "leitura_anterior": "Maria, filha de Domingos Nabais e Maria Rodrigues (apelido adicional por conferir). Batismo aparentemente 15 de março de 1735. Avós paternos Isabel Nabais e Inês Antunes (conferir); maternos António Lourenço e Maria Lopes. Texto esbatido, nomes essenciais por conferir.",
+      "nota_revisao": "19/11/2026: Relidos Maria e Domingos Nabais, mas a identificação materna e a data continuam esbatidas; não se confirma integralmente a hipótese Maria Rodrigues nem quinze de março de 1735."
     },
     {
       "id": "S8-B2-m0044-e-02",
@@ -3079,11 +3095,19 @@
       "lado": "esquerda",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Manuel, filho de Manuel Rodrigues Belo e Páscoa Antunes (conferir); primeiro matrimónio. Batismo aparentemente 24 de julho de 1735. Avós paternos Domingos Rodrigues e Isabel Martins; maternos Domingos Alves e Ana Antunes. Nascimento não identificado.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel, filho de Manuel Rodrigues Belo e Páscoa Antunes (conferir); primeiro matrimónio. Batismo aparentemente 24 de julho de 1735. Avós paternos Domingos Rodrigues e Isabel Martins; maternos Domingos Alves e Ana Antunes. Nascimento não identificado.",
+      "nota_revisao": "19/11/2026: Reconfirmados Manuel, filho de Manuel Rodrigues Belo e Páscoa Antunes, e a fórmula de batismo solene em vinte e quatro de julho de 1735. Nenhum nascimento inferido.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Rodrigues Belo",
+      "mae": "Páscoa Antunes",
+      "data_batismo": "24/07/1735",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Manuel Rodrigues Belo; mãe Páscoa Antunes; batismo 24/07/1735.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0044-d-01",
@@ -3092,10 +3116,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Manuel Mendes e mãe por decifrar. Batismo em junho de 1735, dia aparentemente 23; avós e filiação muito esbatidos.",
+      "leitura_parcial": "Relidos Maria e Manuel Mendes. O nome da mãe continua desvanecido e a oração da data admite vinte e três dias de junho de 1735, ainda sem segurança suficiente.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir identificação materna e dia/mês do batismo no trecho desvanecido."
+      ],
+      "leitura_anterior": "Maria, filha de Manuel Mendes e mãe por decifrar. Batismo em junho de 1735, dia aparentemente 23; avós e filiação muito esbatidos.",
+      "nota_revisao": "19/11/2026: Relidos Maria e Manuel Mendes. O nome da mãe continua desvanecido e a oração da data admite vinte e três dias de junho de 1735, ainda sem segurança suficiente."
     },
     {
       "id": "S8-B2-m0044-d-02",
@@ -3104,10 +3130,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "João, filho de António Garcia e Maria Gonçalves (conferir); primeiro matrimónio. Batismo aparentemente 27 de abril de 1735. Avós paternos Francisco Garcia e Catarina Fernandes, maternos Domingos Gonçalves e Maria João. Nascimento não identificado.",
+      "leitura_parcial": "Relidos João, filho de António Garcia e Maria Gonçalves. A oração da data mostra vinte e sete, mas o mês tem emenda e não se confirma seguramente como abril.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Resolver a emenda do mês antes de fixar a data de batismo; hipótese anterior 27/04/1735 preservada."
+      ],
+      "leitura_anterior": "João, filho de António Garcia e Maria Gonçalves (conferir); primeiro matrimónio. Batismo aparentemente 27 de abril de 1735. Avós paternos Francisco Garcia e Catarina Fernandes, maternos Domingos Gonçalves e Maria João. Nascimento não identificado.",
+      "nota_revisao": "19/11/2026: Relidos João, filho de António Garcia e Maria Gonçalves. A oração da data mostra vinte e sete, mas o mês tem emenda e não se confirma seguramente como abril."
     },
     {
       "id": "S8-B2-m0045-e-01",
@@ -3135,11 +3163,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, filho de Manuel Lopes e Isabel Marques. Nascimento explicitamente indicado em 23 de agosto de 1735. Batizado em casa por necessidade, sem data do batismo explicitada; em 6 de setembro de 1735 o cura pôs os santos óleos.",
+      "leitura_parcial": "Relidos Manuel, Manuel Lopes e Isabel Marques. Nascimento em vinte e três de agosto de 1735; o texto distingue batismo em casa por necessidade dos santos óleos em seis de setembro, sem datar expressamente o primeiro.",
       "duvidas": [
-        "Não atribuir ao batismo a data de administração dos santos óleos; conferir a data do batismo em casa antes de integrar."
+        "Falta data explícita segura do batismo em casa; 06/09/1735 refere apenas os santos óleos."
       ],
-      "leitura_anterior": "Manuel, filho de Manuel Lopes e Isabel Marques. Nascimento em agosto de 1735 e batismo em setembro de 1735, dias a conferir; avós paternos Manuel Lopes de Almeida e Ana Pedrosa, maternos João Marques e Catarina Martins."
+      "leitura_anterior": "Manuel, filho de Manuel Lopes e Isabel Marques. Nascimento em agosto de 1735 e batismo em setembro de 1735, dias a conferir; avós paternos Manuel Lopes de Almeida e Ana Pedrosa, maternos João Marques e Catarina Martins.",
+      "nota_revisao": "19/11/2026: Relidos Manuel, Manuel Lopes e Isabel Marques. Nascimento em vinte e três de agosto de 1735; o texto distingue batismo em casa por necessidade dos santos óleos em seis de setembro, sem datar expressamente o primeiro."
     },
     {
       "id": "S8-B2-m0045-d-01",
@@ -3167,10 +3196,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel, filha de Manuel Lopes e Maria Dias (conferir); batismo aparentemente 26 de agosto de 1736, segundo matrimónio do pai. Avós paternos José Gonçalves e Domingas Gonçalves; maternos Francisco Gonçalves e Ana Pereira. Continua em m0046 esquerda.",
+      "leitura_parcial": "Relida Isabel e a data de vinte e seis de agosto de 1736; continuação e fecho em m0046 esquerda. A leitura materna parece Maria Pires, divergindo de Dias, e o pai parece ter designação adicional após Manuel Lopes. Não se encurta o nome para confirmar.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir nome completo do pai Manuel Lopes e mãe Maria Pires/Dias; hipótese inicial preservada."
+      ],
+      "leitura_anterior": "Isabel, filha de Manuel Lopes e Maria Dias (conferir); batismo aparentemente 26 de agosto de 1736, segundo matrimónio do pai. Avós paternos José Gonçalves e Domingas Gonçalves; maternos Francisco Gonçalves e Ana Pereira. Continua em m0046 esquerda.",
+      "nota_revisao": "19/11/2026: Relida Isabel e a data de vinte e seis de agosto de 1736; continuação e fecho em m0046 esquerda. A leitura materna parece Maria Pires, divergindo de Dias, e o pai parece ter designação adicional após Manuel Lopes. Não se encurta o nome para confirmar."
     },
     {
       "id": "S8-B2-m0046-e-01",
@@ -3198,10 +3229,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Francisco Martins Galego e Maria Batalha (conferir); nascimento em setembro de 1735. A data do batismo e fecho continuam na página direita; conferir o apelido da mãe.",
+      "leitura_parcial": "Relida Maria, mãe Maria Batalha, e continuação em m0046 direita, com batismo em dois de setembro de 1735. A designação após Francisco Martins não se confirma como Galego; a grafia admite outra leitura.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir designação completa do pai após Francisco Martins; não fixar Galego sem segurança."
+      ],
+      "leitura_anterior": "Maria, filha de Francisco Martins Galego e Maria Batalha (conferir); nascimento em setembro de 1735. A data do batismo e fecho continuam na página direita; conferir o apelido da mãe.",
+      "nota_revisao": "19/11/2026: Relida Maria, mãe Maria Batalha, e continuação em m0046 direita, com batismo em dois de setembro de 1735. A designação após Francisco Martins não se confirma como Galego; a grafia admite outra leitura."
     },
     {
       "id": "S8-B2-m0046-d-01",
@@ -3210,10 +3243,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, filho de José Antunes e Inês Antunes (conferir); primeiro matrimónio. Batismo em setembro; ano parece vinte e cinco, por conferir contra possível trinta e cinco. Não normalizar o ano pela sequência. Avós paternos Gonçalo Antunes e Maria Fernandes, maternos Gabriel Alves e Joana Antunes.",
+      "leitura_parcial": "Na data lê-se onze de setembro e vinte e cinco, conservando a divergência de 1725 perante a ordem material. O nome da mãe parece Joana Antunes nesta releitura, não se confirmando Inês; o nome completo do pai também exige conferência.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir filiação completa e ano escrito, lido 1725, sem o substituir por 1735 pela sequência."
+      ],
+      "leitura_anterior": "José, filho de José Antunes e Inês Antunes (conferir); primeiro matrimónio. Batismo em setembro; ano parece vinte e cinco, por conferir contra possível trinta e cinco. Não normalizar o ano pela sequência. Avós paternos Gonçalo Antunes e Maria Fernandes, maternos Gabriel Alves e Joana Antunes.",
+      "nota_revisao": "19/11/2026: Na data lê-se onze de setembro e vinte e cinco, conservando a divergência de 1725 perante a ordem material. O nome da mãe parece Joana Antunes nesta releitura, não se confirmando Inês; o nome completo do pai também exige conferência."
     },
     {
       "id": "S8-B2-m0047-e-01",
@@ -3222,11 +3257,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, filho de Domingos Antunes e Ana Martins. Foi batizado em casa por necessidade, sem data explicitada; o cura pôs os santos óleos em 3 de setembro de 1735.",
+      "leitura_parcial": "Relidos Manuel, Domingos Antunes e Ana Martins. Batismo em casa por necessidade anterior aos santos óleos de três de setembro de 1735; a data do primeiro não é explicitada.",
       "duvidas": [
-        "Não confundir a data dos santos óleos com a data do batismo particular; rever a data do batismo antes de integrar."
+        "Falta data explícita do batismo em casa; 03/09/1735 data os santos óleos."
       ],
-      "leitura_anterior": "Manuel, filho de Domingos Antunes e Ana Martins; batismo aparentemente 3 de setembro de 1735. Segundo matrimónio do pai. Avós paternos Domingos Antunes e Guiomar Jorge, maternos Francisco Martins e Maria Luís."
+      "leitura_anterior": "Manuel, filho de Domingos Antunes e Ana Martins; batismo aparentemente 3 de setembro de 1735. Segundo matrimónio do pai. Avós paternos Domingos Antunes e Guiomar Jorge, maternos Francisco Martins e Maria Luís.",
+      "nota_revisao": "19/11/2026: Relidos Manuel, Domingos Antunes e Ana Martins. Batismo em casa por necessidade anterior aos santos óleos de três de setembro de 1735; a data do primeiro não é explicitada."
     },
     {
       "id": "S8-B2-m0047-e-02",
@@ -3254,11 +3290,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Francisco, filho de Francisco Antunes Sapateiro e Catarina Antunes. Foi batizado em casa por necessidade; o cura pôs os santos óleos em 10 de setembro de 1735. A data do batismo em casa não está explicitada no excerto.",
+      "leitura_parcial": "Relidos Francisco, Francisco Antunes sapateiro e Catarina Antunes. A data dez de setembro de 1735 encontra-se na oração em que o cura declara ter posto os santos óleos; não data o batismo em casa referido antes.",
       "duvidas": [
-        "Confirmar a data do batismo particular; 10 de setembro refere-se aos santos óleos e não deve gerar a data do batismo."
+        "Falta data explícita do batismo particular; não usar 10/09/1735, data dos santos óleos."
       ],
-      "leitura_anterior": "Francisco, filho de Francisco Antunes e Catarina Antunes; batismo aparentemente 10 de setembro de 1735. Avós paternos Domingos Antunes e Ana Antunes, maternos Francisco Antunes e Catarina Gonçalves. Primeiro matrimónio."
+      "leitura_anterior": "Francisco, filho de Francisco Antunes e Catarina Antunes; batismo aparentemente 10 de setembro de 1735. Avós paternos Domingos Antunes e Ana Antunes, maternos Francisco Antunes e Catarina Gonçalves. Primeiro matrimónio.",
+      "nota_revisao": "19/11/2026: Relidos Francisco, Francisco Antunes sapateiro e Catarina Antunes. A data dez de setembro de 1735 encontra-se na oração em que o cura declara ter posto os santos óleos; não data o batismo em casa referido antes."
     },
     {
       "id": "S8-B2-m0047-d-02",
@@ -3285,11 +3322,19 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Manuel Gonçalves Figueira e Ana Gonçalves (conferir); batismo aparentemente 20 de março de 1736. Primeiro matrimónio. Avós paternos Manuel da Figueira e Beatriz Lopes, maternos Domingos Gonçalves Sucino e Maria João.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria, filha de Manuel Gonçalves Figueira e Ana Gonçalves (conferir); batismo aparentemente 20 de março de 1736. Primeiro matrimónio. Avós paternos Manuel da Figueira e Beatriz Lopes, maternos Domingos Gonçalves Sucino e Maria João.",
+      "nota_revisao": "19/11/2026: No corpo lê-se Manuel da Figueira, sem se corroborar Gonçalves como parte do nome paterno neste assento. Reconfirmadas Maria, mãe Ana Gonçalves e batismo solene em vinte de março de 1736. Não se inferiu data de nascimento.",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Manuel da Figueira",
+      "mae": "Ana Gonçalves",
+      "data_batismo": "20/03/1736",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai Manuel da Figueira; mãe Ana Gonçalves; batismo 20/03/1736.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0048-e-02",
@@ -3298,10 +3343,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Sebastião Lopes e Maria Jesus; batismo aparentemente 20 de janeiro de 1736. Nome da criança parcialmente coberto por mancha. Avós paternos Sebastião Afonso e Isabel Gonçalves; maternos Francisco Martins e Maria Luís.",
+      "leitura_parcial": "Relidos Sebastião Lopes e Maria Jesus, com batismo solene em vinte de janeiro de 1736. O nome da criança está parcialmente coberto pela mancha; mantém-se a hipótese Maria sem promoção.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Confirmar nome da criança no corpo, parcialmente coberto pela mancha; hipótese Maria conservada."
+      ],
+      "leitura_anterior": "Maria, filha de Sebastião Lopes e Maria Jesus; batismo aparentemente 20 de janeiro de 1736. Nome da criança parcialmente coberto por mancha. Avós paternos Sebastião Afonso e Isabel Gonçalves; maternos Francisco Martins e Maria Luís.",
+      "nota_revisao": "19/11/2026: Relidos Sebastião Lopes e Maria Jesus, com batismo solene em vinte de janeiro de 1736. O nome da criança está parcialmente coberto pela mancha; mantém-se a hipótese Maria sem promoção."
     },
     {
       "id": "S8-B2-m0048-d-01",
@@ -3309,11 +3356,19 @@
       "lado": "direita",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Manuel, filho de António Antunes e Inês Antunes (conferir); batismo aparentemente 27 de abril de 1736. Avós paternos Miguel Antunes e Maria Afonso; maternos Francisco Carvalho e Maria Nabais. Primeiro matrimónio.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel, filho de António Antunes e Inês Antunes (conferir); batismo aparentemente 27 de abril de 1736. Avós paternos Miguel Antunes e Maria Afonso; maternos Francisco Carvalho e Maria Nabais. Primeiro matrimónio.",
+      "nota_revisao": "19/11/2026: Reconfirmados Manuel, filho de António Antunes e Inês Antunes, e batismo solene em vinte e sete de abril de 1736. A fórmula posterior de santos óleos integra o mesmo batismo solene.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "António Antunes",
+      "mae": "Inês Antunes",
+      "data_batismo": "27/04/1736",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai António Antunes; mãe Inês Antunes; batismo 27/04/1736.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0048-d-02",
@@ -3322,10 +3377,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Francisco, filho de António Martins e Maria Martins; batismo em abril de 1736, dia na continuação de m0049 esquerda. Avós paternos António Martins e Maria Nabais, maternos Manuel Lopes e Guiomar Lopes.",
+      "leitura_parcial": "Relidos Francisco, António Martins e Maria Martins, com continuação e fecho em m0049 esquerda. O numeral após vinte e na data de abril de 1736 continua pouco legível junto ao bordo inferior; não se fixa como vinte e quatro sem reconferência.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir numeral completo do dia na data de abril de 1736 junto ao bordo inferior de m0048 direita."
+      ],
+      "leitura_anterior": "Francisco, filho de António Martins e Maria Martins; batismo em abril de 1736, dia na continuação de m0049 esquerda. Avós paternos António Martins e Maria Nabais, maternos Manuel Lopes e Guiomar Lopes.",
+      "nota_revisao": "19/11/2026: Relidos Francisco, António Martins e Maria Martins, com continuação e fecho em m0049 esquerda. O numeral após vinte e na data de abril de 1736 continua pouco legível junto ao bordo inferior; não se fixa como vinte e quatro sem reconferência."
     },
     {
       "id": "S8-B2-m0049-e-01",
@@ -3334,10 +3391,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filha de José Antunes e Isabel Nabais (conferir); batismo aparentemente 28 de abril de 1736. Primeiro matrimónio. Avós e padrinhos mencionados mas ainda por rever.",
+      "leitura_parcial": "Relidos Maria e Isabel Nabais e batismo em vinte e oito de abril de 1736. O pai parece ter palavras adicionais após José Antunes; a filiação não é encurtada para confirmar.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir palavras adicionais na identificação paterna após José Antunes."
+      ],
+      "leitura_anterior": "Maria, filha de José Antunes e Isabel Nabais (conferir); batismo aparentemente 28 de abril de 1736. Primeiro matrimónio. Avós e padrinhos mencionados mas ainda por rever.",
+      "nota_revisao": "19/11/2026: Relidos Maria e Isabel Nabais e batismo em vinte e oito de abril de 1736. O pai parece ter palavras adicionais após José Antunes; a filiação não é encurtada para confirmar."
     },
     {
       "id": "S8-B2-m0049-e-02",
@@ -3346,10 +3405,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Manuel Martins e Isabel Gonçalves; batismo em maio de 1736, data na continuação à direita. Avós paternos Domingos Gonçalves e Bárbara Gonçalves; maternos Manuel Gonçalves Lopes e Domingas Gonçalves. Primeiro matrimónio.",
+      "leitura_parcial": "Relidos Maria, Manuel Martins e Isabel Gonçalves, com continuação da data e fecho em m0049 direita. O dia de maio de 1736 continua inseguro no início da página direita; não se atribuiu uma data por sequência.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir numeral do dia na continuação em m0049 direita, antes de fixar a data de maio de 1736."
+      ],
+      "leitura_anterior": "Maria, filha de Manuel Martins e Isabel Gonçalves; batismo em maio de 1736, data na continuação à direita. Avós paternos Domingos Gonçalves e Bárbara Gonçalves; maternos Manuel Gonçalves Lopes e Domingas Gonçalves. Primeiro matrimónio.",
+      "nota_revisao": "19/11/2026: Relidos Maria, Manuel Martins e Isabel Gonçalves, com continuação da data e fecho em m0049 direita. O dia de maio de 1736 continua inseguro no início da página direita; não se atribuiu uma data por sequência."
     },
     {
       "id": "S8-B2-m0049-d-01",
@@ -3358,10 +3419,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Manuel Antunes e Maria Martins de Almaraz (apelido adicional a conferir); batismo aparentemente 7 de maio de 1736. Avós paternos Manuel Antunes Armel e Guiomar Jorge; maternos João Martins Galhano e Ana Martins.",
+      "leitura_parcial": "Relidos Maria, Manuel Antunes e batismo solene em sete de maio de 1736. O final da designação materna após Maria Martins continua semelhante a Almaraz/Almarol, sem leitura segura.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir designação materna completa após Maria Martins; não fixar Almaraz apenas pela hipótese anterior."
+      ],
+      "leitura_anterior": "Maria, filha de Manuel Antunes e Maria Martins de Almaraz (apelido adicional a conferir); batismo aparentemente 7 de maio de 1736. Avós paternos Manuel Antunes Armel e Guiomar Jorge; maternos João Martins Galhano e Ana Martins.",
+      "nota_revisao": "19/11/2026: Relidos Maria, Manuel Antunes e batismo solene em sete de maio de 1736. O final da designação materna após Maria Martins continua semelhante a Almaraz/Almarol, sem leitura segura."
     },
     {
       "id": "S8-B2-m0050-e-01",
@@ -3370,10 +3433,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Joana, filha de Manuel Gonçalves Figueira e Maria Teixeira; batismo aparentemente 5 de agosto de 1736. Segundo matrimónio do pai. Avós paternos António Gonçalves e Isabel Martins, maternos Francisco Gonçalves e Ana Fernandes. Nascimento não identificado.",
+      "leitura_parcial": "Relidas Joana e Maria Teixeira, com batismo em cinco de agosto de 1736. A designação completa após Manuel Gonçalves continua pouco segura; hipótese Figueira conservada, sem a confirmar por comparação com outros assentos.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir designação completa do pai após Manuel Gonçalves, aparentemente Figueira."
+      ],
+      "leitura_anterior": "Joana, filha de Manuel Gonçalves Figueira e Maria Teixeira; batismo aparentemente 5 de agosto de 1736. Segundo matrimónio do pai. Avós paternos António Gonçalves e Isabel Martins, maternos Francisco Gonçalves e Ana Fernandes. Nascimento não identificado.",
+      "nota_revisao": "19/11/2026: Relidas Joana e Maria Teixeira, com batismo em cinco de agosto de 1736. A designação completa após Manuel Gonçalves continua pouco segura; hipótese Figueira conservada, sem a confirmar por comparação com outros assentos."
     },
     {
       "id": "S8-B2-m0050-e-02",
@@ -3382,10 +3447,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Manuel Gonçalves Moleiro (conferir) e Maria Luís. Batismo em agosto de 1736; data e fecho continuam à direita. Nascimento em julho a confirmar. Avós paternos Pedro Rodrigues e Ana Gonçalves, maternos Francisco Rodrigues e Isabel Garcia.",
+      "leitura_parcial": "Relidos Maria, Manuel Gonçalves Moleiro e Maria Luís, com abertura em cinco de agosto de 1736 e continuação em m0050 direita. A ligação do início à data do batismo e o trecho inferior relativo ao nascimento estão afetados pelo rasgo; não se estruturou nascimento.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir a ligação da fórmula de batismo à abertura de 05/08/1736 no trecho rasgado; nascimento não fixado."
+      ],
+      "leitura_anterior": "Maria, filha de Manuel Gonçalves Moleiro (conferir) e Maria Luís. Batismo em agosto de 1736; data e fecho continuam à direita. Nascimento em julho a confirmar. Avós paternos Pedro Rodrigues e Ana Gonçalves, maternos Francisco Rodrigues e Isabel Garcia.",
+      "nota_revisao": "19/11/2026: Relidos Maria, Manuel Gonçalves Moleiro e Maria Luís, com abertura em cinco de agosto de 1736 e continuação em m0050 direita. A ligação do início à data do batismo e o trecho inferior relativo ao nascimento estão afetados pelo rasgo; não se estruturou nascimento."
     },
     {
       "id": "S8-B2-m0050-d-01",
@@ -3435,11 +3502,19 @@
       "lado": "esquerda",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "João, filho de Manuel Martins Boina e Catarina Lopes; batismo aparentemente 20 de agosto de 1736. Avós paternos Domingos Martins e Catarina Lopes, maternos Gonçalo Martins e Maria Pires. Nascimento não identificado.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "João, filho de Manuel Martins Boina e Catarina Lopes; batismo aparentemente 20 de agosto de 1736. Avós paternos Domingos Martins e Catarina Lopes, maternos Gonçalo Martins e Maria Pires. Nascimento não identificado.",
+      "nota_revisao": "19/11/2026: Reconfirmados João, filho de Manuel Martins Boina e Catarina Lopes, e batismo solene em vinte de agosto de 1736. A menção aos santos óleos integra a fórmula do mesmo batismo.",
+      "crianca": {
+        "nome": "João",
+        "sexo": "M"
+      },
+      "pai": "Manuel Martins Boina",
+      "mae": "Catarina Lopes",
+      "data_batismo": "20/08/1736",
+      "excerto": "Leitura normalizada dos campos essenciais: João; pai Manuel Martins Boina; mãe Catarina Lopes; batismo 20/08/1736.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0051-d-01",
@@ -3447,11 +3522,19 @@
       "lado": "direita",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Cecília, filha de Francisco Domingos e Maria Antunes; batismo aparentemente 27 de janeiro de 1736. Avós paternos José Domingos e Ana Martins, maternos João Antunes e Catarina Antunes. Primeiro matrimónio.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Cecília, filha de Francisco Domingos e Maria Antunes; batismo aparentemente 27 de janeiro de 1736. Avós paternos José Domingos e Ana Martins, maternos João Antunes e Catarina Antunes. Primeiro matrimónio.",
+      "nota_revisao": "19/11/2026: Reconfirmadas Cecília, mãe Maria Antunes, pai Francisco Domingos e batismo solene em vinte e sete de janeiro de 1736, sem normalizar a ordem material das datas.",
+      "crianca": {
+        "nome": "Cecília",
+        "sexo": "F"
+      },
+      "pai": "Francisco Domingos",
+      "mae": "Maria Antunes",
+      "data_batismo": "27/01/1736",
+      "excerto": "Leitura normalizada dos campos essenciais: Cecília; pai Francisco Domingos; mãe Maria Antunes; batismo 27/01/1736.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0051-d-02",
@@ -3460,10 +3543,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel, filha de Manuel Antunes Sapateiro e Maria Quelhas (conferir); batismo em setembro, ano aparentemente 1735, conferir. Segundo matrimónio da mãe. Avós paternos Manuel Antunes e Maria Fernandes; maternos João Quelhas e Isabel Fernandes.",
+      "leitura_parcial": "Relidos Isabel, Manuel Antunes sapateiro e Maria Quelhas. O ano da data parece trinta e seis, divergindo da hipótese inicial trinta e cinco; o início da oração da data fica junto ao bordo e exige reconferência do mês e do dia.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Reconferir dia, mês e ano da data junto ao bordo; nova leitura do ano 1736, hipótese inicial 1735 preservada."
+      ],
+      "leitura_anterior": "Isabel, filha de Manuel Antunes Sapateiro e Maria Quelhas (conferir); batismo em setembro, ano aparentemente 1735, conferir. Segundo matrimónio da mãe. Avós paternos Manuel Antunes e Maria Fernandes; maternos João Quelhas e Isabel Fernandes.",
+      "nota_revisao": "19/11/2026: Relidos Isabel, Manuel Antunes sapateiro e Maria Quelhas. O ano da data parece trinta e seis, divergindo da hipótese inicial trinta e cinco; o início da oração da data fica junto ao bordo e exige reconferência do mês e do dia."
     },
     {
       "id": "S8-B2-m0052-e-01",
@@ -3491,10 +3576,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Francisco Antunes Carneiro e Isabel Nabais; batismo em janeiro de 1737, dia afetado pelo rasgo inferior. Avós paternos Domingos Antunes e Ana Antunes; maternos Francisco Dias e Maria Nabais. Continua à direita.",
+      "leitura_parcial": "Relidas Maria, Francisco Antunes Carneiro e Isabel Nabais, com continuação em m0052 direita. O trecho da data está perdido/esbatido junto ao rasgo inferior da página esquerda; a continuação não repete a data.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir data completa do batismo no trecho inferior danificado; não deduzir dia ou ano pela sequência."
+      ],
+      "leitura_anterior": "Maria, filha de Francisco Antunes Carneiro e Isabel Nabais; batismo em janeiro de 1737, dia afetado pelo rasgo inferior. Avós paternos Domingos Antunes e Ana Antunes; maternos Francisco Dias e Maria Nabais. Continua à direita.",
+      "nota_revisao": "19/11/2026: Relidas Maria, Francisco Antunes Carneiro e Isabel Nabais, com continuação em m0052 direita. O trecho da data está perdido/esbatido junto ao rasgo inferior da página esquerda; a continuação não repete a data."
     },
     {
       "id": "S8-B2-m0052-d-01",
@@ -3541,10 +3628,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Lúcia, filha de Domingos Jorge e Catarina Nabais; batismo aparentemente 22 de março de 1737. Final da data e fecho afetados por rasgo inferior e continuação à direita. Avós paternos Domingos Jorge e Catarina Martins, maternos Francisco Nabais e Maria Gonçalves.",
+      "leitura_parcial": "Relidas Lúcia, Domingos Jorge e Catarina Nabais e oração em vinte e dois dias de março. O final do ano está junto ao rasgo inferior; a continuação em m0053 direita contém apenas fecho/padrinhos. Mantida hipótese 1737.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Reconferir final do ano junto ao rasgo; hipótese 22/03/1737 conservada sem normalização pela sequência."
+      ],
+      "leitura_anterior": "Lúcia, filha de Domingos Jorge e Catarina Nabais; batismo aparentemente 22 de março de 1737. Final da data e fecho afetados por rasgo inferior e continuação à direita. Avós paternos Domingos Jorge e Catarina Martins, maternos Francisco Nabais e Maria Gonçalves.",
+      "nota_revisao": "19/11/2026: Relidas Lúcia, Domingos Jorge e Catarina Nabais e oração em vinte e dois dias de março. O final do ano está junto ao rasgo inferior; a continuação em m0053 direita contém apenas fecho/padrinhos. Mantida hipótese 1737."
     },
     {
       "id": "S8-B2-m0053-d-01",
@@ -3591,10 +3680,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Ana, filha de Domingos Antunes e Ana Martins; batismo em setembro de 1737, dia a conferir. Segundo matrimónio do pai; texto desvanecido e fundo da página afetado.",
+      "leitura_parcial": "Relidas Ana, Domingos Antunes e Ana Martins; a data de setembro de 1737 e o fecho estão muito desvanecidos junto ao fundo. Não se fixa o numeral do dia.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir numeral do dia e leitura integral da data no trecho desvanecido de setembro de 1737."
+      ],
+      "leitura_anterior": "Ana, filha de Domingos Antunes e Ana Martins; batismo em setembro de 1737, dia a conferir. Segundo matrimónio do pai; texto desvanecido e fundo da página afetado.",
+      "nota_revisao": "19/11/2026: Relidas Ana, Domingos Antunes e Ana Martins; a data de setembro de 1737 e o fecho estão muito desvanecidos junto ao fundo. Não se fixa o numeral do dia."
     },
     {
       "id": "S8-B2-m0055-e-01",
@@ -3603,10 +3694,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Francisco, filho de Francisco Alves Antunes e Maria Nabais; cerimónia aparentemente 24 de agosto de 1737. Conferir a fórmula de batismo/aplicação de santos óleos antes de fixar a natureza do evento. Avós paternos António Alves e Catarina Antunes; maternos Manuel Nabais e Maria Antunes. Celebra padre Francisco Borges com licença do cura.",
+      "leitura_parcial": "A fórmula diz batizei solenemente e pus os santos óleos em vinte e quatro de agosto de 1737, não apenas aplicação de óleos. Relidos Francisco e Maria Nabais; a grafia completa do pai após Francisco Alves permanece insegura, não se confirmando silenciosamente Antunes.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir nome completo do pai após Francisco Alves; natureza da cerimónia relida como batismo solene."
+      ],
+      "leitura_anterior": "Francisco, filho de Francisco Alves Antunes e Maria Nabais; cerimónia aparentemente 24 de agosto de 1737. Conferir a fórmula de batismo/aplicação de santos óleos antes de fixar a natureza do evento. Avós paternos António Alves e Catarina Antunes; maternos Manuel Nabais e Maria Antunes. Celebra padre Francisco Borges com licença do cura.",
+      "nota_revisao": "19/11/2026: A fórmula diz batizei solenemente e pus os santos óleos em vinte e quatro de agosto de 1737, não apenas aplicação de óleos. Relidos Francisco e Maria Nabais; a grafia completa do pai após Francisco Alves permanece insegura, não se confirmando silenciosamente Antunes."
     },
     {
       "id": "S8-B2-m0055-e-02",
@@ -3614,11 +3707,19 @@
       "lado": "esquerda",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria, filha de José Martins e Maria Mendes; cerimónia aparentemente 13 de agosto de 1737. Conferir a natureza do evento e a fórmula de santos óleos. Avós paternos Domingos Martins e Isabel Gonçalves; maternos António Mendes e Maria Antunes.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria, filha de José Martins e Maria Mendes; cerimónia aparentemente 13 de agosto de 1737. Conferir a natureza do evento e a fórmula de santos óleos. Avós paternos Domingos Martins e Isabel Gonçalves; maternos António Mendes e Maria Antunes.",
+      "nota_revisao": "19/11/2026: Reconfirmadas Maria, mãe Maria Mendes e pai José Martins. A fórmula batizei solenemente e pus os santos óleos data o mesmo batismo em treze de agosto, dita era, remetendo ao ano de 1737 escrito no assento anterior da mesma página.",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "José Martins",
+      "mae": "Maria Mendes",
+      "data_batismo": "13/08/1737",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai José Martins; mãe Maria Mendes; batismo 13/08/1737.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0055-d-01",
@@ -3626,11 +3727,19 @@
       "lado": "direita",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Ana, filha de Domingos Jorge e Maria Gonçalves; cerimónia aparentemente 13 de agosto de 1737, celebrada com licença por padre Francisco Borges. Confirmar fórmula do batismo e nomes; avós paternos Domingos Jorge e Catarina João, maternos Brás Gonçalves e Maria Jesus.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Ana, filha de Domingos Jorge e Maria Gonçalves; cerimónia aparentemente 13 de agosto de 1737, celebrada com licença por padre Francisco Borges. Confirmar fórmula do batismo e nomes; avós paternos Domingos Jorge e Catarina João, maternos Brás Gonçalves e Maria Jesus.",
+      "nota_revisao": "19/11/2026: Reconfirmadas Ana, filha de Domingos Jorge e Maria Gonçalves, e data explícita de treze de agosto de 1737. A fórmula batizei solenemente e pus os santos óleos refere o mesmo batismo, administrado por licença do cura.",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "Domingos Jorge",
+      "mae": "Maria Gonçalves",
+      "data_batismo": "13/08/1737",
+      "excerto": "Leitura normalizada dos campos essenciais: Ana; pai Domingos Jorge; mãe Maria Gonçalves; batismo 13/08/1737.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0055-d-02",
@@ -3638,11 +3747,19 @@
       "lado": "direita",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria, filha de André Garcia e Maria Gonçalves (conferir); cerimónia aparentemente 20 de outubro de 1737. Assento muito manchado; conferir nomes, padrinho e natureza da cerimónia.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria, filha de André Garcia e Maria Gonçalves (conferir); cerimónia aparentemente 20 de outubro de 1737. Assento muito manchado; conferir nomes, padrinho e natureza da cerimónia.",
+      "nota_revisao": "19/11/2026: Reconfirmadas Maria, filha de André Gracia e Maria Gonçalves, e batismo solene em vinte de outubro de 1737. A fórmula batizei solenemente e pus os santos óleos não descreve aqui uma cerimónia posterior a batismo particular. Grafia paterna Gracia conservada, sem a converter para Garcia.",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "André Gracia",
+      "mae": "Maria Gonçalves",
+      "data_batismo": "20/10/1737",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai André Gracia; mãe Maria Gonçalves; batismo 20/10/1737.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0056-e-01",
@@ -3650,11 +3767,19 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria, filha de João Fernandes e Catarina Vaz; cerimónia aparentemente 23 de agosto de 1737. Avós paternos João Fernandes e Maria Violante; maternos António Vaz e Catarina Lopes. Padrinho João Esteves, madrinha Maria, irmã do padrinho; conferir fórmula do batismo.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria, filha de João Fernandes e Catarina Vaz; cerimónia aparentemente 23 de agosto de 1737. Avós paternos João Fernandes e Maria Violante; maternos António Vaz e Catarina Lopes. Padrinho João Esteves, madrinha Maria, irmã do padrinho; conferir fórmula do batismo.",
+      "nota_revisao": "19/11/2026: Reconfirmadas Maria, filha de João Fernandes e Catarina Vaz, e batismo em vinte e três de agosto de 1737. O verbo batizei solenemente é explícito; santos óleos integram a mesma cerimónia.",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "João Fernandes",
+      "mae": "Catarina Vaz",
+      "data_batismo": "23/08/1737",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai João Fernandes; mãe Catarina Vaz; batismo 23/08/1737.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0056-e-02",
@@ -3663,10 +3788,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, filho de Domingos Lages e Maria Fernandes (apelidos adicionais por conferir); batismo aparentemente 6 de dezembro de 1737. Continua à direita; nomes essenciais e filiações por rever.",
+      "leitura_parcial": "Relidos Manuel, abertura de seis de dezembro de 1737 e continuação em m0056 direita. A identificação paterna contém palavras e parentesco adicionais após Domingos Lages e a identificação materna após Maria Fernandes também exige separação das designações.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir nomes completos dos pais e separar designações de parentesco no trecho desvanecido; não omitir palavras para confirmar."
+      ],
+      "leitura_anterior": "Manuel, filho de Domingos Lages e Maria Fernandes (apelidos adicionais por conferir); batismo aparentemente 6 de dezembro de 1737. Continua à direita; nomes essenciais e filiações por rever.",
+      "nota_revisao": "19/11/2026: Relidos Manuel, abertura de seis de dezembro de 1737 e continuação em m0056 direita. A identificação paterna contém palavras e parentesco adicionais após Domingos Lages e a identificação materna após Maria Fernandes também exige separação das designações."
     },
     {
       "id": "S8-B2-m0056-d-01",
@@ -3674,11 +3801,19 @@
       "lado": "direita",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Manuel, filho de João Galhano e Maria João; batismo aparentemente 27 de outubro de 1737, primeiro matrimónio. Avós paternos Francisco Galhano e Catarina, maternos Francisco João e Maria Antunes (conferir).",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel, filho de João Galhano e Maria João; batismo aparentemente 27 de outubro de 1737, primeiro matrimónio. Avós paternos Francisco Galhano e Catarina, maternos Francisco João e Maria Antunes (conferir).",
+      "nota_revisao": "19/11/2026: Reconfirmados Manuel, filho de João Galhano e Maria João, e batismo em vinte e sete de outubro de 1737. A data está na abertura e a fórmula declara o batismo e os santos óleos no mesmo evento.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "João Galhano",
+      "mae": "Maria João",
+      "data_batismo": "27/10/1737",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai João Galhano; mãe Maria João; batismo 27/10/1737.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0056-d-02",
@@ -3687,10 +3822,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, filho de Manuel Gonçalves e Maria Antunes (conferir); batismo aparentemente 6 de outubro de 1737. Avós paternos Brás Gonçalves e Joana Jesus; maternos António Afonso e Isabel Fernandes. Primeiro matrimónio.",
+      "leitura_parcial": "Relidos Manuel e data de seis de outubro de 1737. O pai contém designação adicional após Manuel Gonçalves, e a mãe parece Maria Afonso, divergindo de Antunes; ambas as identificações precisam de reconferência.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir designação paterna adicional e apelido materno, aparentemente Afonso em vez de Antunes."
+      ],
+      "leitura_anterior": "Manuel, filho de Manuel Gonçalves e Maria Antunes (conferir); batismo aparentemente 6 de outubro de 1737. Avós paternos Brás Gonçalves e Joana Jesus; maternos António Afonso e Isabel Fernandes. Primeiro matrimónio.",
+      "nota_revisao": "19/11/2026: Relidos Manuel e data de seis de outubro de 1737. O pai contém designação adicional após Manuel Gonçalves, e a mãe parece Maria Afonso, divergindo de Antunes; ambas as identificações precisam de reconferência."
     },
     {
       "id": "S8-B2-m0057-e-01",
@@ -3698,11 +3835,19 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Manuel, filho de Manuel Gonçalves e Isabel Gonçalves; batismo aparentemente 16 de março de 1738. A referência à idade da criança não é convertida em data de nascimento. Avós paternos Francisco Gonçalves Cortês e Maria Gonçalves, maternos Domingos Gonçalves e Maria Gonçalves.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel, filho de Manuel Gonçalves e Isabel Gonçalves; batismo aparentemente 16 de março de 1738. A referência à idade da criança não é convertida em data de nascimento. Avós paternos Francisco Gonçalves Cortês e Maria Gonçalves, maternos Domingos Gonçalves e Maria Gonçalves.",
+      "nota_revisao": "19/11/2026: Reconfirmados Manuel, filho de Manuel Gonçalves e Isabel Gonçalves, e batismo solene em dezasseis de março de 1738. A menção à idade não foi convertida em data de nascimento.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Gonçalves",
+      "mae": "Isabel Gonçalves",
+      "data_batismo": "16/03/1738",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Manuel Gonçalves; mãe Isabel Gonçalves; batismo 16/03/1738.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0057-e-02",
@@ -3710,11 +3855,19 @@
       "lado": "esquerda",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Domingos, filho de Manuel Afonso e Isabel Garcia; batismo aparentemente 10 de maio de 1738. Primeiro matrimónio. Continua à direita, com avós e padrinhos.",
-      "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Domingos, filho de Manuel Afonso e Isabel Garcia; batismo aparentemente 10 de maio de 1738. Primeiro matrimónio. Continua à direita, com avós e padrinhos.",
+      "nota_revisao": "19/11/2026: Reconfirmados Domingos, filho de Manuel Afonso e Isabel Garcia, e batismo em dez de maio de 1738, com filiação completada em m0057 direita. A abertura refere o ato de batizar; não se deduziu a data apenas dos santos óleos.",
+      "crianca": {
+        "nome": "Domingos",
+        "sexo": "M"
+      },
+      "pai": "Manuel Afonso",
+      "mae": "Isabel Garcia",
+      "data_batismo": "10/05/1738",
+      "excerto": "Leitura normalizada dos campos essenciais: Domingos; pai Manuel Afonso; mãe Isabel Garcia; batismo 10/05/1738.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0057-d-01",
@@ -3723,10 +3876,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Ana, filha do capitão João Martins, apelido adicional por conferir, e Maria Fernandes; batismo aparentemente 10 de maio de 1738. Primeiro matrimónio. Nome do pai contém correção no texto, exigindo conferência. Avós paternos João Martins e Ana Gonçalves, maternos António Luís e Domingas Gonçalves.",
+      "leitura_parcial": "Relidas Ana e Maria Fernandes, com data de dez de maio de 1738. Na identificação paterna a emenda entre João Martins e a designação subsequente continua insegura; não se elimina para confirmar.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Resolver emenda e identificação completa do pai, capitão João Martins, no corpo do assento."
+      ],
+      "leitura_anterior": "Ana, filha do capitão João Martins, apelido adicional por conferir, e Maria Fernandes; batismo aparentemente 10 de maio de 1738. Primeiro matrimónio. Nome do pai contém correção no texto, exigindo conferência. Avós paternos João Martins e Ana Gonçalves, maternos António Luís e Domingas Gonçalves.",
+      "nota_revisao": "19/11/2026: Relidas Ana e Maria Fernandes, com data de dez de maio de 1738. Na identificação paterna a emenda entre João Martins e a designação subsequente continua insegura; não se elimina para confirmar."
     },
     {
       "id": "S8-B2-m0058-e-01",
@@ -3734,12 +3889,19 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Francisco Doze/Doce (grafia a rever) e Teodora Nunes; batizada solenemente em 10 de maio de 1738. O nome da mãe e a data são legíveis; o apelido paterno exige nova conferência.",
-      "duvidas": [
-        "Rever a grafia do apelido paterno antes de integrar, sem a completar por semelhança com outros assentos."
-      ],
-      "leitura_anterior": "Maria, filha de Francisco Doce (conferir) e Teodora Nunes; batismo aparentemente 10 de maio de 1738. Primeiro matrimónio. Avós paternos Francisco João e Isabel Martins; maternos Domingos Nunes e Antónia Antunes."
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria, filha de Francisco Doce (conferir) e Teodora Nunes; batismo aparentemente 10 de maio de 1738. Primeiro matrimónio. Avós paternos Francisco João e Isabel Martins; maternos Domingos Nunes e Antónia Antunes.",
+      "nota_revisao": "19/11/2026: Reconfirmadas Maria, mãe Teodora Nunes e batismo solene em dez de maio de 1738. Na ampliação o apelido do pai lê-se Doze, conservado nessa grafia, sem o normalizar para Doce. Não se estabelece identidade com outros assentos.",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Francisco Doze",
+      "mae": "Teodora Nunes",
+      "data_batismo": "10/05/1738",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai Francisco Doze; mãe Teodora Nunes; batismo 10/05/1738.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0058-e-02",
@@ -3747,12 +3909,19 @@
       "lado": "esquerda",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Miguel, filho de Luís Carrilho/Carvalho (apelido a rever) e Isabel Nabais. Batismo particular em necessidade em 10 de janeiro de 1738, seguido de santos óleos; a data do batismo particular é explícita.",
-      "duvidas": [
-        "Confirmar o apelido paterno no original; a filiação semelhante à m0042 não prova identidade."
-      ],
-      "leitura_anterior": "Miguel, filho de Luís Carvalho e Isabel Nabais; batismo particular em necessidade aparentemente 10 de janeiro de 1738. A menção posterior a santos óleos não estabelece outra data de batismo. Avós paternos Luís Carvalho e Ana Gonçalves, maternos Domingos de Carvalho e Isabel Nabais."
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Miguel, filho de Luís Carvalho e Isabel Nabais; batismo particular em necessidade aparentemente 10 de janeiro de 1738. A menção posterior a santos óleos não estabelece outra data de batismo. Avós paternos Luís Carvalho e Ana Gonçalves, maternos Domingos de Carvalho e Isabel Nabais.",
+      "nota_revisao": "19/11/2026: Reconfirmados Miguel, filho de Luís Carrilho e Isabel Nabais. A abertura declara explicitamente batismo particular em necessidade em dez de janeiro de 1738; a menção posterior aos santos óleos não gera outra data de batismo. Carrilho conferido no corpo; sem fusão com a m0042.",
+      "crianca": {
+        "nome": "Miguel",
+        "sexo": "M"
+      },
+      "pai": "Luís Carrilho",
+      "mae": "Isabel Nabais",
+      "data_batismo": "10/01/1738",
+      "excerto": "Leitura normalizada dos campos essenciais: Miguel; pai Luís Carrilho; mãe Isabel Nabais; batismo 10/01/1738.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0058-d-01",
@@ -3817,12 +3986,19 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Manuel: assento tomado em 7 de novembro de 1738, relativo a batismo de 24 de setembro de 1738, realizado pelo cura antecessor. A repetição de Manuel de Carvalho e Maria João entre pais e avós precisa de revisão; a leitura inicial Isabel Lopes não se confirmou.",
-      "duvidas": [
-        "Conferir a filiação e distinguir pais de avós antes de integrar. A data da redação do assento não deve substituir a do batismo referido."
-      ],
-      "leitura_anterior": "Manuel, filho de Manuel Carvalho e Isabel Lopes; assento redigido em novembro de 1738 a partir de batismo anterior em setembro. Distinguir o dia da redação do batismo antes de integrar. Avós paternos Manuel Carvalho e Inês, maternos José João e Maria Lourença."
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel, filho de Manuel Carvalho e Isabel Lopes; assento redigido em novembro de 1738 a partir de batismo anterior em setembro. Distinguir o dia da redação do batismo antes de integrar. Avós paternos Manuel Carvalho e Inês, maternos José João e Maria Lourença.",
+      "nota_revisao": "19/11/2026: Reconfirmado Manuel. O termo redigido em sete de novembro de 1738 refere expressamente batismo em vinte e quatro de setembro de 1738 pelo cura antecessor. A emenda digo filho de Manuel de Carvalho e de sua mulher Maria João resolve a repetição: estes são os pais; os avós vêm depois. A hipótese Isabel Lopes não se corrobora.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel de Carvalho",
+      "mae": "Maria João",
+      "data_batismo": "24/09/1738",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Manuel de Carvalho; mãe Maria João; batismo 24/09/1738.",
+      "nota": "Revisão visual dirigida do original, com reconferência dos campos essenciais em ampliação, sem OCR. Não é transcrição diplomática integral. Menções adicionais de avós, padrinhos e naturalidades não criam relações. Não inferidos apelidos da criança nem identidades entre assentos. Ver nota de revisão para distinção entre cerimónias e redação."
     },
     {
       "id": "S8-B2-m0059-e-02",
@@ -3831,10 +4007,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filha de Manuel Nunes e Isabel Gonçalves (conferir); data por «mesmo dia acima». A referência pode remeter à redação ou ao batismo do assento anterior, exigindo revisão. Avós paternos José Nunes de Moure e Sebastiana Fernandes, maternos Domingos Gonçalves e Domingas Gonçalves.",
+      "leitura_parcial": "Relidas Maria, Manuel Nunes e Isabel Gonçalves. A expressão no mesmo dia acima continua ambígua entre a redação de sete de novembro e o batismo anterior de vinte e quatro de setembro mencionado em m0059-e-01. A confirmação do assento anterior não resolve esta remissão.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Resolver a que evento remete no mesmo dia acima; não escolher automaticamente a data de redação ou a do batismo anterior."
+      ],
+      "leitura_anterior": "Maria, filha de Manuel Nunes e Isabel Gonçalves (conferir); data por «mesmo dia acima». A referência pode remeter à redação ou ao batismo do assento anterior, exigindo revisão. Avós paternos José Nunes de Moure e Sebastiana Fernandes, maternos Domingos Gonçalves e Domingas Gonçalves.",
+      "nota_revisao": "19/11/2026: Relidas Maria, Manuel Nunes e Isabel Gonçalves. A expressão no mesmo dia acima continua ambígua entre a redação de sete de novembro e o batismo anterior de vinte e quatro de setembro mencionado em m0059-e-01. A confirmação do assento anterior não resolve esta remissão."
     },
     {
       "id": "S8-B2-m0059-d-01",
@@ -3882,10 +4060,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Domingos, filho de Manuel, apelido Viúva/Viana por conferir, e Joana Antunes; batismo na mesma data do assento anterior. Primeiro matrimónio; avós e nome completo do pai por rever.",
+      "leitura_parcial": "Relidos Domingos e Joana Antunes. A designação do pai após Manuel parece Viúva, mas permanece insegura. A remissão do batismo à mesma data acima aponta para dez de setembro de 1738, distinta de qualquer nascimento.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Conferir designação paterna completa após Manuel; hipótese Viúva ainda insegura."
+      ],
+      "leitura_anterior": "Domingos, filho de Manuel, apelido Viúva/Viana por conferir, e Joana Antunes; batismo na mesma data do assento anterior. Primeiro matrimónio; avós e nome completo do pai por rever.",
+      "nota_revisao": "19/11/2026: Relidos Domingos e Joana Antunes. A designação do pai após Manuel parece Viúva, mas permanece insegura. A remissão do batismo à mesma data acima aponta para dez de setembro de 1738, distinta de qualquer nascimento."
     },
     {
       "id": "S8-B2-m0060-e-01",
@@ -3913,10 +4093,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, filho de Manuel de Oliveira e Brites Gonçalves (conferir); batismo por remissão à mesma data acima. Avós paternos Manuel de Oliveira e Beatriz Lopes; maternos José Gonçalves Louceiro e Maria João. Primeiro matrimónio.",
+      "leitura_parcial": "Relidos Manuel e Manuel de Oliveira, com data por remissão à abertura de catorze de setembro de 1738. O nome materno contém emenda/rasura antes de Gonçalves, não permitindo confirmar silenciosamente Brites.",
       "duvidas": [
-        "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
-      ]
+        "Resolver emenda do nome materno antes de Gonçalves, aparentemente Brites; não omitir a rasura."
+      ],
+      "leitura_anterior": "Manuel, filho de Manuel de Oliveira e Brites Gonçalves (conferir); batismo por remissão à mesma data acima. Avós paternos Manuel de Oliveira e Beatriz Lopes; maternos José Gonçalves Louceiro e Maria João. Primeiro matrimónio.",
+      "nota_revisao": "19/11/2026: Relidos Manuel e Manuel de Oliveira, com data por remissão à abertura de catorze de setembro de 1738. O nome materno contém emenda/rasura antes de Gonçalves, não permitindo confirmar silenciosamente Brites."
     },
     {
       "id": "S8-B2-m0060-e-03",
@@ -3926,10 +4108,11 @@
       "tipo": "batismo",
       "estado": "pendente",
       "duvidas": [
-        "Conferir se o assento apenas regista os santos óleos e procurar a data do batismo antes de integrar."
+        "Falta data explícita do batismo anterior; 14/09/1738 refere os santos óleos."
       ],
       "leitura_anterior": "Manuel, filho de Sebastião Martins e Maria João; batismo por remissão à mesma data acima. Avós paternos António Martins e Ana Martins, maternos Domingos Nunes e Maria Gonçalves. Primeiro matrimónio.",
-      "leitura_parcial": "Manuel, filho de Sebastião Martins e Maria João. Por remissão a 14 de setembro de 1738, o cura declara «pus os santos óleos». O excerto não explicita a data de um batismo anterior."
+      "leitura_parcial": "Relidos Manuel, Sebastião Martins e Maria João. A fórmula pus os santos óleos, no mesmo dia acima, remete à cerimónia de 14/09/1738; não data um batismo particular anterior.",
+      "nota_revisao": "19/11/2026: Relidos Manuel, Sebastião Martins e Maria João. A fórmula pus os santos óleos, no mesmo dia acima, remete à cerimónia de 14/09/1738; não data um batismo particular anterior."
     },
     {
       "id": "S8-B2-m0060-d-01",
@@ -3939,10 +4122,11 @@
       "tipo": "batismo",
       "estado": "pendente",
       "duvidas": [
-        "Rever a fórmula da cerimónia; não converter a remissão dos santos óleos em data de batismo."
+        "Falta data explícita do batismo anterior; não converter a remissão dos santos óleos em data de batismo."
       ],
       "leitura_anterior": "Manuel, filho de João Rodrigues e Inês Nabais (conferir); batismo por remissão à mesma data da página esquerda. Avós paternos Sebastião Rodrigues e Maria Violante; maternos António Martins Malato e Catarina Lopes. Primeiro matrimónio.",
-      "leitura_parcial": "Manuel, filho de João Rodrigues e Inês Nabais. Por remissão à página esquerda, aparentemente 14 de setembro de 1738, o cura declara «pus os santos óleos»; não está explícita a data de um batismo anterior."
+      "leitura_parcial": "Relidos Manuel, João Rodrigues e Inês Nabais. A abertura no mesmo dia acima pus os santos óleos confirma que a remissão à página esquerda data os óleos, não o batismo anterior.",
+      "nota_revisao": "19/11/2026: Relidos Manuel, João Rodrigues e Inês Nabais. A abertura no mesmo dia acima pus os santos óleos confirma que a remissão à página esquerda data os óleos, não o batismo anterior."
     },
     {
       "id": "S8-B2-m0060-d-02",
@@ -20813,6 +20997,690 @@
         }
       ],
       "observacoes": "Três novos confirmados; doze mantêm dúvidas específicas. Uma data explícita de nascimento acrescentada. Histórico preservado; batismo, santos óleos e justificação distinguidos. B1, B3, B4 e confirmados anteriores preservados."
+    },
+    {
+      "data": "2026-11-19",
+      "limite": "Revisão dirigida dos 48 assentos pendentes entre m0041 e m0060 inclusive; não é revisão de todos os assentos do intervalo.",
+      "metodo": "Leitura visual das páginas necessárias e continuações, sem OCR, com recortes ampliados dos nomes, datas e fórmulas. Campos essenciais dos 16 promovidos reconferidos.",
+      "imagens": [
+        "m0041",
+        "m0042",
+        "m0043",
+        "m0044",
+        "m0045",
+        "m0046",
+        "m0047",
+        "m0048",
+        "m0049",
+        "m0050",
+        "m0051",
+        "m0052",
+        "m0053",
+        "m0054",
+        "m0055",
+        "m0056",
+        "m0057",
+        "m0058",
+        "m0059",
+        "m0060"
+      ],
+      "assentos_revistos": [
+        "S8-B2-m0041-e-01",
+        "S8-B2-m0042-e-01",
+        "S8-B2-m0043-e-02",
+        "S8-B2-m0043-d-01",
+        "S8-B2-m0044-e-01",
+        "S8-B2-m0044-e-02",
+        "S8-B2-m0044-d-01",
+        "S8-B2-m0044-d-02",
+        "S8-B2-m0045-e-02",
+        "S8-B2-m0045-d-02",
+        "S8-B2-m0046-e-02",
+        "S8-B2-m0046-d-01",
+        "S8-B2-m0047-e-01",
+        "S8-B2-m0047-d-01",
+        "S8-B2-m0048-e-01",
+        "S8-B2-m0048-e-02",
+        "S8-B2-m0048-d-01",
+        "S8-B2-m0048-d-02",
+        "S8-B2-m0049-e-01",
+        "S8-B2-m0049-e-02",
+        "S8-B2-m0049-d-01",
+        "S8-B2-m0050-e-01",
+        "S8-B2-m0050-e-02",
+        "S8-B2-m0051-e-02",
+        "S8-B2-m0051-d-01",
+        "S8-B2-m0051-d-02",
+        "S8-B2-m0052-e-02",
+        "S8-B2-m0053-e-02",
+        "S8-B2-m0054-d-02",
+        "S8-B2-m0055-e-01",
+        "S8-B2-m0055-e-02",
+        "S8-B2-m0055-d-01",
+        "S8-B2-m0055-d-02",
+        "S8-B2-m0056-e-01",
+        "S8-B2-m0056-e-02",
+        "S8-B2-m0056-d-01",
+        "S8-B2-m0056-d-02",
+        "S8-B2-m0057-e-01",
+        "S8-B2-m0057-e-02",
+        "S8-B2-m0057-d-01",
+        "S8-B2-m0058-e-01",
+        "S8-B2-m0058-e-02",
+        "S8-B2-m0059-e-01",
+        "S8-B2-m0059-e-02",
+        "S8-B2-m0059-d-03",
+        "S8-B2-m0060-e-02",
+        "S8-B2-m0060-e-03",
+        "S8-B2-m0060-d-01"
+      ],
+      "novos_confirmados": [
+        "S8-B2-m0042-e-01",
+        "S8-B2-m0044-e-02",
+        "S8-B2-m0048-e-01",
+        "S8-B2-m0048-d-01",
+        "S8-B2-m0051-e-02",
+        "S8-B2-m0051-d-01",
+        "S8-B2-m0055-e-02",
+        "S8-B2-m0055-d-01",
+        "S8-B2-m0055-d-02",
+        "S8-B2-m0056-e-01",
+        "S8-B2-m0056-d-01",
+        "S8-B2-m0057-e-01",
+        "S8-B2-m0057-e-02",
+        "S8-B2-m0058-e-01",
+        "S8-B2-m0058-e-02",
+        "S8-B2-m0059-e-01"
+      ],
+      "leituras_anteriores": [
+        {
+          "id": "S8-B2-m0041-e-01",
+          "imagem": "m0041",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Francisco, filho de Francisco Vaz (conferir) e Isabel Lourença. Foi batizado em casa por necessidade; em 26 de junho de 1734 o cura aplicou os santos óleos. A data do batismo em casa não é explicitada no excerto. Avós e padrinhos constam do texto.",
+          "duvidas": [
+            "Não usar a data dos santos óleos como batismo; confirmar a data do batismo em casa e o nome do pai."
+          ],
+          "leitura_anterior": "Francisco, filho de António Vaz e Isabel Lourença (conferir), primeiro matrimónio. Batismo aparentemente 26 de junho de 1734. Avós paternos António Vaz e Ana Rodrigues; maternos Bernardo Vicente e Maria João. Padrinho padre Manuel Bexiga de Almeida. Nascimento não identificado."
+        },
+        {
+          "id": "S8-B2-m0042-e-01",
+          "imagem": "m0042",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Luís, filho de Luís Carrilho/Carvalho (apelido por conferir) e Isabel Nabais; segundo matrimónio do pai. Nascimento explícito em 27 de agosto de 1734 e batismo em 8 de setembro de 1734. A grafia do apelido paterno exige revisão.",
+          "duvidas": [
+            "Distinguir Carrilho de Carvalho na grafia do pai e do avô; não estabelecer identidade apenas pela filiação semelhante noutros assentos."
+          ],
+          "leitura_anterior": "Luís, filho de Luís, apelido a conferir, e Isabel Nabais; segundo matrimónio do pai. Datas explícitas de nascimento e batismo em agosto/setembro de 1734 por distinguir e conferir. Avós paternos Luís e Ana Gonçalves; maternos Domingos de Carvalho e Isabel Nabais."
+        },
+        {
+          "id": "S8-B2-m0043-e-02",
+          "imagem": "m0043",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Vitória, filha de Gregório Martins e Maria, apelido por conferir; batismo aparentemente 6 de janeiro de 1735. Continuação à direita; nascimento não identificado.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0043-d-01",
+          "imagem": "m0043",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Luísa, filha de Francisco Marques (conferir) e Maria Joana; data aparentemente fevereiro de 1735. Texto desvanecido, exigir conferência dos nomes e do dia. Nascimento não identificado.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0044-e-01",
+          "imagem": "m0044",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Domingos Nabais e Maria Rodrigues (apelido adicional por conferir). Batismo aparentemente 15 de março de 1735. Avós paternos Isabel Nabais e Inês Antunes (conferir); maternos António Lourenço e Maria Lopes. Texto esbatido, nomes essenciais por conferir.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0044-e-02",
+          "imagem": "m0044",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho de Manuel Rodrigues Belo e Páscoa Antunes (conferir); primeiro matrimónio. Batismo aparentemente 24 de julho de 1735. Avós paternos Domingos Rodrigues e Isabel Martins; maternos Domingos Alves e Ana Antunes. Nascimento não identificado.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0044-d-01",
+          "imagem": "m0044",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Manuel Mendes e mãe por decifrar. Batismo em junho de 1735, dia aparentemente 23; avós e filiação muito esbatidos.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0044-d-02",
+          "imagem": "m0044",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "João, filho de António Garcia e Maria Gonçalves (conferir); primeiro matrimónio. Batismo aparentemente 27 de abril de 1735. Avós paternos Francisco Garcia e Catarina Fernandes, maternos Domingos Gonçalves e Maria João. Nascimento não identificado.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0045-e-02",
+          "imagem": "m0045",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho de Manuel Lopes e Isabel Marques. Nascimento explicitamente indicado em 23 de agosto de 1735. Batizado em casa por necessidade, sem data do batismo explicitada; em 6 de setembro de 1735 o cura pôs os santos óleos.",
+          "duvidas": [
+            "Não atribuir ao batismo a data de administração dos santos óleos; conferir a data do batismo em casa antes de integrar."
+          ],
+          "leitura_anterior": "Manuel, filho de Manuel Lopes e Isabel Marques. Nascimento em agosto de 1735 e batismo em setembro de 1735, dias a conferir; avós paternos Manuel Lopes de Almeida e Ana Pedrosa, maternos João Marques e Catarina Martins."
+        },
+        {
+          "id": "S8-B2-m0045-d-02",
+          "imagem": "m0045",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Isabel, filha de Manuel Lopes e Maria Dias (conferir); batismo aparentemente 26 de agosto de 1736, segundo matrimónio do pai. Avós paternos José Gonçalves e Domingas Gonçalves; maternos Francisco Gonçalves e Ana Pereira. Continua em m0046 esquerda.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0046-e-02",
+          "imagem": "m0046",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Francisco Martins Galego e Maria Batalha (conferir); nascimento em setembro de 1735. A data do batismo e fecho continuam na página direita; conferir o apelido da mãe.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0046-d-01",
+          "imagem": "m0046",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José, filho de José Antunes e Inês Antunes (conferir); primeiro matrimónio. Batismo em setembro; ano parece vinte e cinco, por conferir contra possível trinta e cinco. Não normalizar o ano pela sequência. Avós paternos Gonçalo Antunes e Maria Fernandes, maternos Gabriel Alves e Joana Antunes.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0047-e-01",
+          "imagem": "m0047",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho de Domingos Antunes e Ana Martins. Foi batizado em casa por necessidade, sem data explicitada; o cura pôs os santos óleos em 3 de setembro de 1735.",
+          "duvidas": [
+            "Não confundir a data dos santos óleos com a data do batismo particular; rever a data do batismo antes de integrar."
+          ],
+          "leitura_anterior": "Manuel, filho de Domingos Antunes e Ana Martins; batismo aparentemente 3 de setembro de 1735. Segundo matrimónio do pai. Avós paternos Domingos Antunes e Guiomar Jorge, maternos Francisco Martins e Maria Luís."
+        },
+        {
+          "id": "S8-B2-m0047-d-01",
+          "imagem": "m0047",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Francisco, filho de Francisco Antunes Sapateiro e Catarina Antunes. Foi batizado em casa por necessidade; o cura pôs os santos óleos em 10 de setembro de 1735. A data do batismo em casa não está explicitada no excerto.",
+          "duvidas": [
+            "Confirmar a data do batismo particular; 10 de setembro refere-se aos santos óleos e não deve gerar a data do batismo."
+          ],
+          "leitura_anterior": "Francisco, filho de Francisco Antunes e Catarina Antunes; batismo aparentemente 10 de setembro de 1735. Avós paternos Domingos Antunes e Ana Antunes, maternos Francisco Antunes e Catarina Gonçalves. Primeiro matrimónio."
+        },
+        {
+          "id": "S8-B2-m0048-e-01",
+          "imagem": "m0048",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Manuel Gonçalves Figueira e Ana Gonçalves (conferir); batismo aparentemente 20 de março de 1736. Primeiro matrimónio. Avós paternos Manuel da Figueira e Beatriz Lopes, maternos Domingos Gonçalves Sucino e Maria João.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0048-e-02",
+          "imagem": "m0048",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Sebastião Lopes e Maria Jesus; batismo aparentemente 20 de janeiro de 1736. Nome da criança parcialmente coberto por mancha. Avós paternos Sebastião Afonso e Isabel Gonçalves; maternos Francisco Martins e Maria Luís.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0048-d-01",
+          "imagem": "m0048",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho de António Antunes e Inês Antunes (conferir); batismo aparentemente 27 de abril de 1736. Avós paternos Miguel Antunes e Maria Afonso; maternos Francisco Carvalho e Maria Nabais. Primeiro matrimónio.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0048-d-02",
+          "imagem": "m0048",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Francisco, filho de António Martins e Maria Martins; batismo em abril de 1736, dia na continuação de m0049 esquerda. Avós paternos António Martins e Maria Nabais, maternos Manuel Lopes e Guiomar Lopes.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0049-e-01",
+          "imagem": "m0049",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de José Antunes e Isabel Nabais (conferir); batismo aparentemente 28 de abril de 1736. Primeiro matrimónio. Avós e padrinhos mencionados mas ainda por rever.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0049-e-02",
+          "imagem": "m0049",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Manuel Martins e Isabel Gonçalves; batismo em maio de 1736, data na continuação à direita. Avós paternos Domingos Gonçalves e Bárbara Gonçalves; maternos Manuel Gonçalves Lopes e Domingas Gonçalves. Primeiro matrimónio.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0049-d-01",
+          "imagem": "m0049",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Manuel Antunes e Maria Martins de Almaraz (apelido adicional a conferir); batismo aparentemente 7 de maio de 1736. Avós paternos Manuel Antunes Armel e Guiomar Jorge; maternos João Martins Galhano e Ana Martins.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0050-e-01",
+          "imagem": "m0050",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Joana, filha de Manuel Gonçalves Figueira e Maria Teixeira; batismo aparentemente 5 de agosto de 1736. Segundo matrimónio do pai. Avós paternos António Gonçalves e Isabel Martins, maternos Francisco Gonçalves e Ana Fernandes. Nascimento não identificado.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0050-e-02",
+          "imagem": "m0050",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Manuel Gonçalves Moleiro (conferir) e Maria Luís. Batismo em agosto de 1736; data e fecho continuam à direita. Nascimento em julho a confirmar. Avós paternos Pedro Rodrigues e Ana Gonçalves, maternos Francisco Rodrigues e Isabel Garcia.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0051-e-02",
+          "imagem": "m0051",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "João, filho de Manuel Martins Boina e Catarina Lopes; batismo aparentemente 20 de agosto de 1736. Avós paternos Domingos Martins e Catarina Lopes, maternos Gonçalo Martins e Maria Pires. Nascimento não identificado.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0051-d-01",
+          "imagem": "m0051",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Cecília, filha de Francisco Domingos e Maria Antunes; batismo aparentemente 27 de janeiro de 1736. Avós paternos José Domingos e Ana Martins, maternos João Antunes e Catarina Antunes. Primeiro matrimónio.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0051-d-02",
+          "imagem": "m0051",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Isabel, filha de Manuel Antunes Sapateiro e Maria Quelhas (conferir); batismo em setembro, ano aparentemente 1735, conferir. Segundo matrimónio da mãe. Avós paternos Manuel Antunes e Maria Fernandes; maternos João Quelhas e Isabel Fernandes.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0052-e-02",
+          "imagem": "m0052",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Francisco Antunes Carneiro e Isabel Nabais; batismo em janeiro de 1737, dia afetado pelo rasgo inferior. Avós paternos Domingos Antunes e Ana Antunes; maternos Francisco Dias e Maria Nabais. Continua à direita.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0053-e-02",
+          "imagem": "m0053",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Lúcia, filha de Domingos Jorge e Catarina Nabais; batismo aparentemente 22 de março de 1737. Final da data e fecho afetados por rasgo inferior e continuação à direita. Avós paternos Domingos Jorge e Catarina Martins, maternos Francisco Nabais e Maria Gonçalves.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0054-d-02",
+          "imagem": "m0054",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Ana, filha de Domingos Antunes e Ana Martins; batismo em setembro de 1737, dia a conferir. Segundo matrimónio do pai; texto desvanecido e fundo da página afetado.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0055-e-01",
+          "imagem": "m0055",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Francisco, filho de Francisco Alves Antunes e Maria Nabais; cerimónia aparentemente 24 de agosto de 1737. Conferir a fórmula de batismo/aplicação de santos óleos antes de fixar a natureza do evento. Avós paternos António Alves e Catarina Antunes; maternos Manuel Nabais e Maria Antunes. Celebra padre Francisco Borges com licença do cura.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0055-e-02",
+          "imagem": "m0055",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de José Martins e Maria Mendes; cerimónia aparentemente 13 de agosto de 1737. Conferir a natureza do evento e a fórmula de santos óleos. Avós paternos Domingos Martins e Isabel Gonçalves; maternos António Mendes e Maria Antunes.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0055-d-01",
+          "imagem": "m0055",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Ana, filha de Domingos Jorge e Maria Gonçalves; cerimónia aparentemente 13 de agosto de 1737, celebrada com licença por padre Francisco Borges. Confirmar fórmula do batismo e nomes; avós paternos Domingos Jorge e Catarina João, maternos Brás Gonçalves e Maria Jesus.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0055-d-02",
+          "imagem": "m0055",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de André Garcia e Maria Gonçalves (conferir); cerimónia aparentemente 20 de outubro de 1737. Assento muito manchado; conferir nomes, padrinho e natureza da cerimónia.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0056-e-01",
+          "imagem": "m0056",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de João Fernandes e Catarina Vaz; cerimónia aparentemente 23 de agosto de 1737. Avós paternos João Fernandes e Maria Violante; maternos António Vaz e Catarina Lopes. Padrinho João Esteves, madrinha Maria, irmã do padrinho; conferir fórmula do batismo.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0056-e-02",
+          "imagem": "m0056",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho de Domingos Lages e Maria Fernandes (apelidos adicionais por conferir); batismo aparentemente 6 de dezembro de 1737. Continua à direita; nomes essenciais e filiações por rever.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0056-d-01",
+          "imagem": "m0056",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho de João Galhano e Maria João; batismo aparentemente 27 de outubro de 1737, primeiro matrimónio. Avós paternos Francisco Galhano e Catarina, maternos Francisco João e Maria Antunes (conferir).",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0056-d-02",
+          "imagem": "m0056",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho de Manuel Gonçalves e Maria Antunes (conferir); batismo aparentemente 6 de outubro de 1737. Avós paternos Brás Gonçalves e Joana Jesus; maternos António Afonso e Isabel Fernandes. Primeiro matrimónio.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0057-e-01",
+          "imagem": "m0057",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho de Manuel Gonçalves e Isabel Gonçalves; batismo aparentemente 16 de março de 1738. A referência à idade da criança não é convertida em data de nascimento. Avós paternos Francisco Gonçalves Cortês e Maria Gonçalves, maternos Domingos Gonçalves e Maria Gonçalves.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0057-e-02",
+          "imagem": "m0057",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Domingos, filho de Manuel Afonso e Isabel Garcia; batismo aparentemente 10 de maio de 1738. Primeiro matrimónio. Continua à direita, com avós e padrinhos.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0057-d-01",
+          "imagem": "m0057",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Ana, filha do capitão João Martins, apelido adicional por conferir, e Maria Fernandes; batismo aparentemente 10 de maio de 1738. Primeiro matrimónio. Nome do pai contém correção no texto, exigindo conferência. Avós paternos João Martins e Ana Gonçalves, maternos António Luís e Domingas Gonçalves.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0058-e-01",
+          "imagem": "m0058",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Francisco Doze/Doce (grafia a rever) e Teodora Nunes; batizada solenemente em 10 de maio de 1738. O nome da mãe e a data são legíveis; o apelido paterno exige nova conferência.",
+          "duvidas": [
+            "Rever a grafia do apelido paterno antes de integrar, sem a completar por semelhança com outros assentos."
+          ],
+          "leitura_anterior": "Maria, filha de Francisco Doce (conferir) e Teodora Nunes; batismo aparentemente 10 de maio de 1738. Primeiro matrimónio. Avós paternos Francisco João e Isabel Martins; maternos Domingos Nunes e Antónia Antunes."
+        },
+        {
+          "id": "S8-B2-m0058-e-02",
+          "imagem": "m0058",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Miguel, filho de Luís Carrilho/Carvalho (apelido a rever) e Isabel Nabais. Batismo particular em necessidade em 10 de janeiro de 1738, seguido de santos óleos; a data do batismo particular é explícita.",
+          "duvidas": [
+            "Confirmar o apelido paterno no original; a filiação semelhante à m0042 não prova identidade."
+          ],
+          "leitura_anterior": "Miguel, filho de Luís Carvalho e Isabel Nabais; batismo particular em necessidade aparentemente 10 de janeiro de 1738. A menção posterior a santos óleos não estabelece outra data de batismo. Avós paternos Luís Carvalho e Ana Gonçalves, maternos Domingos de Carvalho e Isabel Nabais."
+        },
+        {
+          "id": "S8-B2-m0059-e-01",
+          "imagem": "m0059",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel: assento tomado em 7 de novembro de 1738, relativo a batismo de 24 de setembro de 1738, realizado pelo cura antecessor. A repetição de Manuel de Carvalho e Maria João entre pais e avós precisa de revisão; a leitura inicial Isabel Lopes não se confirmou.",
+          "duvidas": [
+            "Conferir a filiação e distinguir pais de avós antes de integrar. A data da redação do assento não deve substituir a do batismo referido."
+          ],
+          "leitura_anterior": "Manuel, filho de Manuel Carvalho e Isabel Lopes; assento redigido em novembro de 1738 a partir de batismo anterior em setembro. Distinguir o dia da redação do batismo antes de integrar. Avós paternos Manuel Carvalho e Inês, maternos José João e Maria Lourença."
+        },
+        {
+          "id": "S8-B2-m0059-e-02",
+          "imagem": "m0059",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filha de Manuel Nunes e Isabel Gonçalves (conferir); data por «mesmo dia acima». A referência pode remeter à redação ou ao batismo do assento anterior, exigindo revisão. Avós paternos José Nunes de Moure e Sebastiana Fernandes, maternos Domingos Gonçalves e Domingas Gonçalves.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0059-d-03",
+          "imagem": "m0059",
+          "lado": "direita",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Domingos, filho de Manuel, apelido Viúva/Viana por conferir, e Joana Antunes; batismo na mesma data do assento anterior. Primeiro matrimónio; avós e nome completo do pai por rever.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0060-e-02",
+          "imagem": "m0060",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho de Manuel de Oliveira e Brites Gonçalves (conferir); batismo por remissão à mesma data acima. Avós paternos Manuel de Oliveira e Beatriz Lopes; maternos José Gonçalves Louceiro e Maria João. Primeiro matrimónio.",
+          "duvidas": [
+            "Conferir os campos essenciais e as datas no original antes de integrar; leituras de avós, padrinhos e naturalidades não criam relações."
+          ]
+        },
+        {
+          "id": "S8-B2-m0060-e-03",
+          "imagem": "m0060",
+          "lado": "esquerda",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "duvidas": [
+            "Conferir se o assento apenas regista os santos óleos e procurar a data do batismo antes de integrar."
+          ],
+          "leitura_anterior": "Manuel, filho de Sebastião Martins e Maria João; batismo por remissão à mesma data acima. Avós paternos António Martins e Ana Martins, maternos Domingos Nunes e Maria Gonçalves. Primeiro matrimónio.",
+          "leitura_parcial": "Manuel, filho de Sebastião Martins e Maria João. Por remissão a 14 de setembro de 1738, o cura declara «pus os santos óleos». O excerto não explicita a data de um batismo anterior."
+        },
+        {
+          "id": "S8-B2-m0060-d-01",
+          "imagem": "m0060",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "duvidas": [
+            "Rever a fórmula da cerimónia; não converter a remissão dos santos óleos em data de batismo."
+          ],
+          "leitura_anterior": "Manuel, filho de João Rodrigues e Inês Nabais (conferir); batismo por remissão à mesma data da página esquerda. Avós paternos Sebastião Rodrigues e Maria Violante; maternos António Martins Malato e Catarina Lopes. Primeiro matrimónio.",
+          "leitura_parcial": "Manuel, filho de João Rodrigues e Inês Nabais. Por remissão à página esquerda, aparentemente 14 de setembro de 1738, o cura declara «pus os santos óleos»; não está explícita a data de um batismo anterior."
+        }
+      ],
+      "observacoes": "16 novos confirmados e 32 ainda pendentes, com dúvidas específicas. Uma data explícita de nascimento acrescentada (m0042-e-01). Santos óleos, batismo particular, batismo solene e redação posterior distinguidos; datas e nomes divergentes permanecem no histórico. Não estabelecidas identidades entre assentos. B1, B3, B4, base e confirmados anteriores preservados."
     }
   ]
 }
