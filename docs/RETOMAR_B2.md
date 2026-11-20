@@ -1,20 +1,20 @@
-# Retomar a revisão do B2 na m0061
+# Retomar a revisão do B2 na m0081
 
-Resumo de 19/11/2026. Continuar a revisão visual dos assentos pendentes do B2 a partir de m0061, por lotes de cerca de 20 imagens. Atualizar as transcrições e a aplicação; validar, fazer commit e push no final do lote. Comunicar em português, com respostas curtas.
+Resumo de 20/11/2026. Continuar a revisão visual dos assentos pendentes do B2 a partir de m0081, por lotes de cerca de 20 imagens. Atualizar as transcrições e a aplicação; validar, fazer commit e push no final do lote. Comunicar em português, com respostas curtas.
 
 ## Caminhos
 
 - Trabalhar em `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`.
-- Ler JPEGs em `/Users/ricardorito/dev/arvore-geneologica-S8/fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/`. Padrão: `PT-ADLSB-PRQ-PSBG34-001-B2_m0061.jpg`.
+- Ler JPEGs em `/Users/ricardorito/dev/arvore-geneologica-S8/fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B2/`. Padrão: `PT-ADLSB-PRQ-PSBG34-001-B2_m0081.jpg`.
 - Editar `fontes/S8/transcricoes/B2-1728-1759.json` na cópia leve. O repositório grande serve apenas para consultar imagens.
 
 ## Estado confirmado
 
-Base deste lote: `df88a97` (main). Leitura inicial das 251 imagens do B2 concluída: 930 entradas, agora 626 confirmadas e 304 pendentes. Revisões dirigidas: até m0020, 29 revistos (5 promovidos); m0021–m0040, 15 revistos (3 promovidos); m0041–m0060, 48 revistos (16 promovidos e 32 ainda pendentes). Histórico completo em `revisoes`; base, B1, B3, B4 e confirmados anteriores preservados. Consultar o commit deste lote pela mensagem «Revê 48 pendentes do B2 entre m0041 e m0060».
+Base deste lote: `50d3a51` (main). B2: 930 entradas, 640 confirmadas e 290 pendentes; mantêm-se 39 datas explícitas de nascimento. Leitura inicial das 251 imagens concluída. Revisões dirigidas: até m0020, 29 revistos (5 promovidos); m0021–m0040, 15 revistos (3 promovidos); m0041–m0060, 48 revistos (16 promovidos); m0061–m0080, 60 revistos (14 promovidos e 46 ainda pendentes). Histórico completo em `revisoes`; base, B1, B3, B4 e os 626 confirmados anteriores preservados. Consultar o commit deste lote pela mensagem «Revê 60 pendentes do B2 entre m0061 e m0080».
 
-Próximo: `S8-B2-m0061-e-01`. Continuar pelos pendentes de m0061–m0080. Não repetir os pendentes dos lotes anteriores sem nova evidência. O B2 tem 39 datas explícitas de nascimento estruturadas; neste lote acrescentou-se Luís em m0042-e-01 (27/08/1734; batismo 08/09/1734). Carrilho confirmado visualmente em m0042 e m0058 sem ligar identidades. Em m0059-e-01, a emenda «digo filho de» distingue os pais Manuel de Carvalho e Maria João dos avós; batismo 24/09/1738, redação 07/11/1738. A remissão ambígua de m0059-e-02 continua pendente. m0060-e-03 e m0060-d-01 registam santos óleos sem data explícita segura do batismo anterior.
+Próximo: `S8-B2-m0081-e-01`. Continuar pelos pendentes de m0081–m0100. Não repetir os lotes anteriores sem nova evidência. Neste lote, a ampliação confirmou Isabel Fernandes como mãe de Domingos (m0064-d-02), substituindo a hipótese Lourença. A reposição de Maria (m0075-d-03) refere batismo em 24/01/1734 pelo padre Francisco Barrela e redação em 12/04/1741. Em m0071-e-03, Ana é filha de Manuel Pires e Josefa Martins, batismo por remissão de 07/08/1740. Em m0074-d-02, Catarina é filha de Domingos Nabais e Maria Pinto, batismo por remissão de 10/03/1741. As fórmulas «solenemente batizei e pus os santos óleos» foram distinguidas dos óleos posteriores a batismo em casa, cuja data continua pendente quando não explícita. Divergências de nomes e anos permanecem no histórico; sem ligações de identidade nem nascimentos inferidos.
 
-Neste lote: 16 confirmados; 32 pendentes com dúvidas específicas. Menções a santos óleos dentro da fórmula «batizei solenemente e pus os santos óleos» não foram confundidas com cerimónias posteriores a batismo particular. Nomes adicionais, emendas e anos divergentes conservam-se no histórico. Validações concluídas sem erros: gerador, --check, 11 testes, design e diff. Publicação pelo GitHub Pages pode demorar no checkout do repositório grande (cerca de 20 GB); acompanhar a execução antes de verificar uma ficha nova.
+Validação do lote: gerador, --check, 11 testes, design e diff. Publicação pelo GitHub Pages pode demorar no checkout do repositório grande (cerca de 20 GB); acompanhar a execução antes de verificar uma ficha nova.
 
 ## Leitura e poupança de contexto
 
