@@ -729,10 +729,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "[nome por fixar], filho/a de [pai por fixar] e [mãe por fixar]. Fragmento inicial manchado e mutilado, com fecho do cura; parece um assento de 1803, início e campos essenciais por fixar. Não deduzidos nomes de avós nem padrinhos.",
+      "leitura_parcial": "Página única consultada integralmente; fragmentos com fechos e assinaturas, sem início e campos essenciais recuperáveis com segurança. Manchas, perda de suporte e escrita sobreposta.",
       "duvidas": [
-        "Fragmento inicial mutilado e manchado; nome, filiação e data não fixados."
-      ]
+        "Não fixar nome, filiação nem data a partir dos fragmentos; identificação do assento ainda por resolver."
+      ],
+      "leitura_anterior": "[nome por fixar], filho/a de [pai por fixar] e [mãe por fixar]. Fragmento inicial manchado e mutilado, com fecho do cura; parece um assento de 1803, início e campos essenciais por fixar. Não deduzidos nomes de avós nem padrinhos.",
+      "nota_revisao": "21/11/2026: Página única consultada integralmente; fragmentos com fechos e assinaturas, sem início e campos essenciais recuperáveis com segurança. Manchas, perda de suporte e escrita sobreposta."
     },
     {
       "id": "S8-B4-m0002-e-02",
@@ -781,10 +783,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de Manuel [...] Gonçalves e [ilegível]. Data inicial aparentemente 30/07/1803; rasgo remove parte esquerda do começo. Padrinho legível como Gaspar Fernandes, restantes menções provisórias.",
+      "leitura_parcial": "Maria; abertura com trinta de julho de 1803, parcialmente perdida no rasgo. Lê-se Manuel e Gonçalves na zona paterna; falta parte da filiação. Consultada também a página direita.",
       "duvidas": [
-        "Rasgo no começo e manchas impedem fixar a filiação e conferir a data."
-      ]
+        "Rasgo e perda de texto impedem fixar a filiação completa; não completar pelos avós."
+      ],
+      "leitura_anterior": "Maria, filho/a de Manuel [...] Gonçalves e [ilegível]. Data inicial aparentemente 30/07/1803; rasgo remove parte esquerda do começo. Padrinho legível como Gaspar Fernandes, restantes menções provisórias.",
+      "nota_revisao": "21/11/2026: Maria; abertura com trinta de julho de 1803, parcialmente perdida no rasgo. Lê-se Manuel e Gonçalves na zona paterna; falta parte da filiação. Consultada também a página direita."
     },
     {
       "id": "S8-B4-m0003-e-02",
@@ -913,10 +917,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de Manuel Esteves André e Maria Gonçalves. Batismo em 04/02/1804. Conferir filiação. Avós paternos Luís Martins e Maria Gonçalves, maternos Manuel Carvalho e [...] Fernandes; leitura provisória.",
+      "leitura_parcial": "Maria, batismo de quatro de fevereiro de 1804; pai Manuel com complemento André, leitura Esteves/Gonçalves ainda insegura. Mãe Maria Gonçalves na continuação da página direita.",
       "duvidas": [
-        "Conferir nome do pai: Esteves André ou Gonçalves André; manchas sobre a filiação."
-      ]
+        "Composição do nome paterno não suficientemente segura; conservar hipóteses anteriores."
+      ],
+      "leitura_anterior": "Maria, filho/a de Manuel Esteves André e Maria Gonçalves. Batismo em 04/02/1804. Conferir filiação. Avós paternos Luís Martins e Maria Gonçalves, maternos Manuel Carvalho e [...] Fernandes; leitura provisória.",
+      "nota_revisao": "21/11/2026: Maria, batismo de quatro de fevereiro de 1804; pai Manuel com complemento André, leitura Esteves/Gonçalves ainda insegura. Mãe Maria Gonçalves na continuação da página direita."
     },
     {
       "id": "S8-B4-m0004-d-01",
@@ -945,10 +951,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, filho/a de Manuel Lourenço Pires e Maria [...]. Batismo em 23/02/1804. Nome do pai e da mãe difíceis de fixar. Avó paterna Antónia Pereira, maternos João Garcia e Isabel Nunes, provisório. Padrinhos Paulo Luís e Maria Garcia, provisório.",
+      "leitura_parcial": "José, vinte e três de fevereiro de 1804; pai Manuel Lourenço Pires, mãe Maria com complemento de leitura insegura.",
       "duvidas": [
-        "Nome completo da mãe não fixado; conferir filiação completa."
-      ]
+        "Nome materno ainda por fixar; não completar pela ascendência."
+      ],
+      "leitura_anterior": "José, filho/a de Manuel Lourenço Pires e Maria [...]. Batismo em 23/02/1804. Nome do pai e da mãe difíceis de fixar. Avó paterna Antónia Pereira, maternos João Garcia e Isabel Nunes, provisório. Padrinhos Paulo Luís e Maria Garcia, provisório.",
+      "nota_revisao": "21/11/2026: José, vinte e três de fevereiro de 1804; pai Manuel Lourenço Pires, mãe Maria com complemento de leitura insegura."
     },
     {
       "id": "S8-B4-m0004-d-03",
@@ -977,10 +985,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Luísa, filho/a de Manuel Martins e Francisca Lopes. Batismo em 19/03/1804. Mãe natural de Pousafoles, leitura provisória. Avós paternos José [...] e Maria [...]; maternos Domingos Ribeiro e Maria [...], provisório. Padrinhos Sebastião de Carvalho e Isabel Pereira, provisório.",
+      "leitura_parcial": "Luísa, dezanove de março de 1804; Manuel Martins com complemento difícil de separar, Francisca Lopes. Texto parental atravessado por vincos.",
       "duvidas": [
-        "Conferir eventual complemento no nome do pai Manuel Martins e o nome da mãe."
-      ]
+        "Nome paterno completo por resolver; Francisca Lopes não resolve a outra lacuna."
+      ],
+      "leitura_anterior": "Luísa, filho/a de Manuel Martins e Francisca Lopes. Batismo em 19/03/1804. Mãe natural de Pousafoles, leitura provisória. Avós paternos José [...] e Maria [...]; maternos Domingos Ribeiro e Maria [...], provisório. Padrinhos Sebastião de Carvalho e Isabel Pereira, provisório.",
+      "nota_revisao": "21/11/2026: Luísa, dezanove de março de 1804; Manuel Martins com complemento difícil de separar, Francisca Lopes. Texto parental atravessado por vincos."
     },
     {
       "id": "S8-B4-m0005-e-02",
@@ -1009,10 +1019,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, filho/a de José Nunes Esteves e Maria [...]. Batismo em 21/03/1804. Campos parentais afetados por manchas, nome da mãe não fixado. Avós paternos Manuel Lourenço e Luísa Gonçalves; maternos Domingos Jorge e Maria [...], leitura provisória.",
+      "leitura_parcial": "José, vinte e um de março de 1804; pai José Nunes Esteves; nome materno Maria com complemento afetado pelo selo e manchas.",
       "duvidas": [
-        "Nome completo da mãe ainda por fixar."
-      ]
+        "Nome materno não fixado com segurança."
+      ],
+      "leitura_anterior": "José, filho/a de José Nunes Esteves e Maria [...]. Batismo em 21/03/1804. Campos parentais afetados por manchas, nome da mãe não fixado. Avós paternos Manuel Lourenço e Luísa Gonçalves; maternos Domingos Jorge e Maria [...], leitura provisória.",
+      "nota_revisao": "21/11/2026: José, vinte e um de março de 1804; pai José Nunes Esteves; nome materno Maria com complemento afetado pelo selo e manchas."
     },
     {
       "id": "S8-B4-m0005-d-02",
@@ -1020,11 +1032,19 @@
       "lado": "direita",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Domingos, filho/a de Manuel Martins Lopes e Angélica Martins. Batismo em 14/04/1804. De Vila Boa; avós paternos Manuel Esteves e Isabel Nunes, maternos Domingos Martins e Maria [...], leitura provisória. Padrinhos Sebastião Rodrigues Martins Dias e Luísa Jorge, provisório.",
-      "duvidas": [
-        "Dia da data inicial ambíguo entre quatro e catorze; conferir no original."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Domingos, filho/a de Manuel Martins Lopes e Angélica Martins. Batismo em 14/04/1804. De Vila Boa; avós paternos Manuel Esteves e Isabel Nunes, maternos Domingos Martins e Maria [...], leitura provisória. Padrinhos Sebastião Rodrigues Martins Dias e Luísa Jorge, provisório.",
+      "nota_revisao": "21/11/2026: Domingos, filho de Manuel Martins Lopes e Angélica Martins, de Vila Boa; o corpo escreve aos quatro dias do mês de abril de 1804. Reconferência ampliada corrige a hipótese anterior catorze. Batizado pelo padre José Cristóvão, segundo a fórmula inicial.",
+      "crianca": {
+        "nome": "Domingos",
+        "sexo": "M"
+      },
+      "pai": "Manuel Martins Lopes",
+      "mae": "Angélica Martins",
+      "data_batismo": "04/04/1804",
+      "excerto": "Leitura normalizada dos campos essenciais: Domingos; pai Manuel Martins Lopes; mãe Angélica Martins; batismo 04/04/1804.",
+      "nota": "Revisão visual dirigida do original, com reconferência ampliada dos campos essenciais, sem OCR. Não é transcrição diplomática integral. Sem apelidos inferidos para a criança nem ligações de identidade. 21/11/2026: Domingos, filho de Manuel Martins Lopes e Angélica Martins, de Vila Boa; o corpo escreve aos quatro dias do mês de abril de 1804. Reconferência ampliada corrige a hipótese anterior catorze. Batizado pelo padre José Cristóvão, segundo a fórmula inicial."
     },
     {
       "id": "S8-B4-m0005-d-03",
@@ -1154,10 +1174,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de Domingos Gonçalves e Maria Gonçalves. Batismo em 19/07/1804. Avós paternos Manuel Garcia e Maria Lourença; maternos José Dias e Maria Gonçalves, leitura provisória. Padrinhos Francisco Martins e Isabel Gonçalves, naturais de Aldeia, provisório.",
+      "leitura_parcial": "Maria, dezanove de julho de 1804, Domingos Gonçalves e Maria Gonçalves; mancha cobre a zona entre nome e apelido do pai.",
       "duvidas": [
-        "Conferir eventual complemento Garrido no nome do pai, parcialmente encoberto."
-      ]
+        "Complemento paterno e extensão da lacuna por resolver; não acrescentar Garrido pelo contexto."
+      ],
+      "leitura_anterior": "Maria, filho/a de Domingos Gonçalves e Maria Gonçalves. Batismo em 19/07/1804. Avós paternos Manuel Garcia e Maria Lourença; maternos José Dias e Maria Gonçalves, leitura provisória. Padrinhos Francisco Martins e Isabel Gonçalves, naturais de Aldeia, provisório.",
+      "nota_revisao": "21/11/2026: Maria, dezanove de julho de 1804, Domingos Gonçalves e Maria Gonçalves; mancha cobre a zona entre nome e apelido do pai."
     },
     {
       "id": "S8-B4-m0007-e-02",
@@ -1325,11 +1347,19 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Manuel, filho/a de Sebastião Costa [Pires?] e Luísa Gonçalves. Batismo em 25/09/1804. Conferir nome completo do pai. Avós paternos Sebastião Costa Pires e Luísa Gonçalves; maternos José [...] e Maria [...], leitura provisória. Data fora da ordem anterior, mantida.",
-      "duvidas": [
-        "Complemento do pai ainda inseguro: Sebastião Costa Pires ou outra composição."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel, filho/a de Sebastião Costa [Pires?] e Luísa Gonçalves. Batismo em 25/09/1804. Conferir nome completo do pai. Avós paternos Sebastião Costa Pires e Luísa Gonçalves; maternos José [...] e Maria [...], leitura provisória. Data fora da ordem anterior, mantida.",
+      "nota_revisao": "21/11/2026: Manuel, vinte e cinco de setembro de 1804; filho legítimo de Sebastião Costa Pires e Luísa Gonçalves. Data escrita no corpo, apesar da sequência.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Sebastião Costa Pires",
+      "mae": "Luísa Gonçalves",
+      "data_batismo": "25/09/1804",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Sebastião Costa Pires; mãe Luísa Gonçalves; batismo 25/09/1804.",
+      "nota": "Revisão visual dirigida do original, com reconferência ampliada dos campos essenciais, sem OCR. Não é transcrição diplomática integral. Sem apelidos inferidos para a criança nem ligações de identidade. 21/11/2026: Manuel, vinte e cinco de setembro de 1804; filho legítimo de Sebastião Costa Pires e Luísa Gonçalves. Data escrita no corpo, apesar da sequência."
     },
     {
       "id": "S8-B4-m0010-e-02",
@@ -1518,10 +1548,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, filho/a de Manuel Esteves Luís Gonçalves e Maria Martins Cardosa. Batismo em 06/01/1805. Conferir composição dos nomes dos pais. Avós paternos José Martins Juncal e Maria Gonçalves; maternos José Gonçalves e Maria Nabais, provisório. Padrinhos João Nunes e Catarina Garcia, provisório.",
+      "leitura_parcial": "Manuel, seis de janeiro de 1805; Maria Martins Cardosa e pai com sequência Manuel Esteves Luís Gonçalves, cuja composição e ligação ao lugar ainda exigem esclarecimento.",
       "duvidas": [
-        "Conferir a composição do nome do pai: Manuel Esteves Luís Gonçalves; não é seguro fixar a sequência completa."
-      ]
+        "Não fixar a composição paterna apenas pela sequência gráfica ou pelos avós."
+      ],
+      "leitura_anterior": "Manuel, filho/a de Manuel Esteves Luís Gonçalves e Maria Martins Cardosa. Batismo em 06/01/1805. Conferir composição dos nomes dos pais. Avós paternos José Martins Juncal e Maria Gonçalves; maternos José Gonçalves e Maria Nabais, provisório. Padrinhos João Nunes e Catarina Garcia, provisório.",
+      "nota_revisao": "21/11/2026: Manuel, seis de janeiro de 1805; Maria Martins Cardosa e pai com sequência Manuel Esteves Luís Gonçalves, cuja composição e ligação ao lugar ainda exigem esclarecimento."
     },
     {
       "id": "S8-B4-m0012-d-01",
@@ -1549,11 +1581,19 @@
       "lado": "direita",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de Manuel Martins e Maria Martins [complemento por fixar]. Batismo em 20/01/1805. Avós paternos Augusto Luís Gonçalves e Francisca Martins Marvão; maternos Manuel Martins e Maria Martins Tejunta, leitura provisória. Padrinhos Manuel Martins Marvão e sua filha Maria, provisório.",
-      "duvidas": [
-        "Complemento do nome da mãe ainda incerto."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria, filho/a de Manuel Martins e Maria Martins [complemento por fixar]. Batismo em 20/01/1805. Avós paternos Augusto Luís Gonçalves e Francisca Martins Marvão; maternos Manuel Martins e Maria Martins Tejunta, leitura provisória. Padrinhos Manuel Martins Marvão e sua filha Maria, provisório.",
+      "nota_revisao": "21/11/2026: Maria, vinte de janeiro de 1805; filha legítima de Manuel Martins Antunes e Maria Martins Garrida.",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Manuel Martins Antunes",
+      "mae": "Maria Martins Garrida",
+      "data_batismo": "20/01/1805",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai Manuel Martins Antunes; mãe Maria Martins Garrida; batismo 20/01/1805.",
+      "nota": "Revisão visual dirigida do original, com reconferência ampliada dos campos essenciais, sem OCR. Não é transcrição diplomática integral. Sem apelidos inferidos para a criança nem ligações de identidade. 21/11/2026: Maria, vinte de janeiro de 1805; filha legítima de Manuel Martins Antunes e Maria Martins Garrida."
     },
     {
       "id": "S8-B4-m0013-e-01",
@@ -1622,10 +1662,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, filho/a de José Martins Lobão e Francisca Gonçalves. Data inicial 09/02, ano a conferir entre 1805 e 1806; conservar dúvida sem inferir pela sequência. Avós paternos Francisco Gonçalves Pimpão e Catarina Nunes; maternos Domingos Gonçalves Lourenço e Maria Pires, provisório.",
+      "leitura_parcial": "José, nove de fevereiro; José Martins Lobão e Francisca Gonçalves. Ano escrito na abertura continua a admitir leitura divergente de 1805/1806; margem e sequência não bastam para resolver.",
       "duvidas": [
-        "Ano escrito não seguro (1805 ou 1806); não deduzido pela posição no livro."
-      ]
+        "Ano do corpo por fixar; não harmonizar com a sequência do livro."
+      ],
+      "leitura_anterior": "José, filho/a de José Martins Lobão e Francisca Gonçalves. Data inicial 09/02, ano a conferir entre 1805 e 1806; conservar dúvida sem inferir pela sequência. Avós paternos Francisco Gonçalves Pimpão e Catarina Nunes; maternos Domingos Gonçalves Lourenço e Maria Pires, provisório.",
+      "nota_revisao": "21/11/2026: José, nove de fevereiro; José Martins Lobão e Francisca Gonçalves. Ano escrito na abertura continua a admitir leitura divergente de 1805/1806; margem e sequência não bastam para resolver."
     },
     {
       "id": "S8-B4-m0014-e-01",
@@ -1714,10 +1756,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de Sebastião Gonçalves [...] e Maria das Neves. Imposição dos santos óleos em 22/04/1805 por Manuel Martins; batismo anterior não datado com segurança. Avós paternos Manuel Luís Cardo e [...]; maternos José Gonçalves [...] e Catarina [...], provisório.",
+      "leitura_parcial": "Maria; vinte e dois de abril de 1805 é administração dos santos óleos, após batismo de necessidade pelo padre referido. Sebastião Gonçalves e Maria das Neves.",
       "duvidas": [
-        "Só está segura a data dos santos óleos (22/04/1805); data do batismo anterior e complemento paterno incertos."
-      ]
+        "Sem data segura do batismo particular; não usar os óleos como data de batismo."
+      ],
+      "leitura_anterior": "Maria, filho/a de Sebastião Gonçalves [...] e Maria das Neves. Imposição dos santos óleos em 22/04/1805 por Manuel Martins; batismo anterior não datado com segurança. Avós paternos Manuel Luís Cardo e [...]; maternos José Gonçalves [...] e Catarina [...], provisório.",
+      "nota_revisao": "21/11/2026: Maria; vinte e dois de abril de 1805 é administração dos santos óleos, após batismo de necessidade pelo padre referido. Sebastião Gonçalves e Maria das Neves."
     },
     {
       "id": "S8-B4-m0015-e-02",
@@ -1726,10 +1770,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel, filho/a de João Gonçalves Quaresma e Maria Luísa. Imposição dos santos óleos no mesmo dia, 22/04/1805; não tomar esta data por batismo. Avós paternos Sebastião Gonçalves e Maria Gonçalves Quaresma; maternos Manuel Luís e Catarina Martins, provisório. Padrinhos Bernardo Gonçalves Quaresma e Ana Gonçalves, provisório.",
+      "leitura_parcial": "Isabel; no mesmo dia, mês e ano, óleo após batismo de necessidade. João Gonçalves Quaresma e Maria Luísa. Remissão consultada no assento anterior de vinte e dois de abril de 1805.",
       "duvidas": [
-        "Data de 22/04/1805 refere os santos óleos; data do batismo anterior não confirmada."
-      ]
+        "Data do batismo particular não recuperada; óleos não substituem batismo."
+      ],
+      "leitura_anterior": "Isabel, filho/a de João Gonçalves Quaresma e Maria Luísa. Imposição dos santos óleos no mesmo dia, 22/04/1805; não tomar esta data por batismo. Avós paternos Sebastião Gonçalves e Maria Gonçalves Quaresma; maternos Manuel Luís e Catarina Martins, provisório. Padrinhos Bernardo Gonçalves Quaresma e Ana Gonçalves, provisório.",
+      "nota_revisao": "21/11/2026: Isabel; no mesmo dia, mês e ano, óleo após batismo de necessidade. João Gonçalves Quaresma e Maria Luísa. Remissão consultada no assento anterior de vinte e dois de abril de 1805."
     },
     {
       "id": "S8-B4-m0015-e-03",
@@ -1738,10 +1784,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de Manuel Martins Laginha e [...] Maria. Batismo em 18/05/1805. Conferir o primeiro nome materno, talvez Brízida. Avós paternos Francisco Martins Juncal e Maria Martins; maternos Manuel Martins Caçador e Maria [...], provisório. Padrinhos Manuel [...] e Maria Ramos, provisório.",
+      "leitura_parcial": "Maria, dezoito de maio de 1805; Manuel Martins com complemento Laginha/Lagarto ainda inseguro e Brízida Maria, leitura materna melhorada.",
       "duvidas": [
-        "Nome materno não resolvido em duas leituras; não integrar hipótese [...] Maria."
-      ]
+        "Complemento paterno ainda por fixar, sem completar pelos avós."
+      ],
+      "leitura_anterior": "Maria, filho/a de Manuel Martins Laginha e [...] Maria. Batismo em 18/05/1805. Conferir o primeiro nome materno, talvez Brízida. Avós paternos Francisco Martins Juncal e Maria Martins; maternos Manuel Martins Caçador e Maria [...], provisório. Padrinhos Manuel [...] e Maria Ramos, provisório.",
+      "nota_revisao": "21/11/2026: Maria, dezoito de maio de 1805; Manuel Martins com complemento Laginha/Lagarto ainda inseguro e Brízida Maria, leitura materna melhorada."
     },
     {
       "id": "S8-B4-m0015-d-01",
@@ -1749,11 +1797,19 @@
       "lado": "direita",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de António Martins Fernandes e [...] Lourença. Batismo em 19/05/1805. Nome materno a conferir. Avós paternos Manuel Martins Fernandes e Isabel Martins; maternos Domingos Jorge e Maria Lourença, provisório. Padrinhos Brás Nunes e Maria Martins Cardo, provisório.",
-      "duvidas": [
-        "Primeiro nome da mãe, seguido de Lourença, não resolvido com segurança."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria, filho/a de António Martins Fernandes e [...] Lourença. Batismo em 19/05/1805. Nome materno a conferir. Avós paternos Manuel Martins Fernandes e Isabel Martins; maternos Domingos Jorge e Maria Lourença, provisório. Padrinhos Brás Nunes e Maria Martins Cardo, provisório.",
+      "nota_revisao": "21/11/2026: Maria, dezanove de maio de 1805; António Martins Fernandes e Rosa Lourença.",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "António Martins Fernandes",
+      "mae": "Rosa Lourença",
+      "data_batismo": "19/05/1805",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai António Martins Fernandes; mãe Rosa Lourença; batismo 19/05/1805.",
+      "nota": "Revisão visual dirigida do original, com reconferência ampliada dos campos essenciais, sem OCR. Não é transcrição diplomática integral. Sem apelidos inferidos para a criança nem ligações de identidade. 21/11/2026: Maria, dezanove de maio de 1805; António Martins Fernandes e Rosa Lourença."
     },
     {
       "id": "S8-B4-m0015-d-02",
@@ -1781,11 +1837,19 @@
       "lado": "esquerda",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Ana, filho/a de José Esteves [...] e Ana Dias. Batismo em 02/08/1805. Conferir complemento paterno, talvez Nunes. Avós paternos Lourenço Nunes e Ana Esteves; maternos Manuel Dias e Maria Antunes, provisório. Padrinhos Alberto Nunes e Maria Antunes, provisório.",
-      "duvidas": [
-        "Complemento do nome paterno após José Esteves não resolvido."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Ana, filho/a de José Esteves [...] e Ana Dias. Batismo em 02/08/1805. Conferir complemento paterno, talvez Nunes. Avós paternos Lourenço Nunes e Ana Esteves; maternos Manuel Dias e Maria Antunes, provisório. Padrinhos Alberto Nunes e Maria Antunes, provisório.",
+      "nota_revisao": "21/11/2026: Ana, dois de agosto de 1805; filha legítima de José Esteves Nunes e Ana Dias.",
+      "crianca": {
+        "nome": "Ana",
+        "sexo": "F"
+      },
+      "pai": "José Esteves Nunes",
+      "mae": "Ana Dias",
+      "data_batismo": "02/08/1805",
+      "excerto": "Leitura normalizada dos campos essenciais: Ana; pai José Esteves Nunes; mãe Ana Dias; batismo 02/08/1805.",
+      "nota": "Revisão visual dirigida do original, com reconferência ampliada dos campos essenciais, sem OCR. Não é transcrição diplomática integral. Sem apelidos inferidos para a criança nem ligações de identidade. 21/11/2026: Ana, dois de agosto de 1805; filha legítima de José Esteves Nunes e Ana Dias."
     },
     {
       "id": "S8-B4-m0016-e-02",
@@ -1834,10 +1898,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de [não declarado] e Isabel Gonçalves. Batismo por remissão ao mesmo dia do assento anterior, 07/08/1805. Mãe solteira, pai não declarado; não criar um pai fictício. Avós maternos Francisco Esteves e Constança Gonçalves, provisório.",
+      "leitura_parcial": "Maria, no mesmo dia, mês e ano: sete de agosto de 1805, conferido no assento imediatamente anterior. Filha de Isabel Gonçalves solteira, sem pai declarado. Avô Francisco Esteves não convertido em pai.",
       "duvidas": [
-        "Pai não declarado; conserva-se a filiação materna e a remissão à data de 07/08/1805, sem criar casal fictício."
-      ]
+        "Pai não declarado. Manter pendente na integração atual, que exige ambos os nomes parentais, sem inventar filiação nem alterar o modelo neste lote."
+      ],
+      "leitura_anterior": "Maria, filho/a de [não declarado] e Isabel Gonçalves. Batismo por remissão ao mesmo dia do assento anterior, 07/08/1805. Mãe solteira, pai não declarado; não criar um pai fictício. Avós maternos Francisco Esteves e Constança Gonçalves, provisório.",
+      "nota_revisao": "21/11/2026: Maria, no mesmo dia, mês e ano: sete de agosto de 1805, conferido no assento imediatamente anterior. Filha de Isabel Gonçalves solteira, sem pai declarado. Avô Francisco Esteves não convertido em pai."
     },
     {
       "id": "S8-B4-m0017-e-01",
@@ -1926,10 +1992,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel, filho/a de José Gonçalves [...] e Maria Rodrigues. Batismo em 14/12/1805. Conferir complemento paterno em zona desvanecida. Avós paternos José Gonçalves e Maria Nabais; maternos José Rodrigues e Luísa Pereira, provisório. Padrinhos José Martins [...] e Isabel Gonçalves, provisório.",
+      "leitura_parcial": "Isabel, catorze de dezembro de 1805; José Gonçalves e Maria Rodrigues. Escrita esbatida na zona paterna impede assegurar a ausência de complemento.",
       "duvidas": [
-        "Complemento do nome paterno não confirmado na fotografia desvanecida."
-      ]
+        "Nome paterno completo ainda por resolver."
+      ],
+      "leitura_anterior": "Isabel, filho/a de José Gonçalves [...] e Maria Rodrigues. Batismo em 14/12/1805. Conferir complemento paterno em zona desvanecida. Avós paternos José Gonçalves e Maria Nabais; maternos José Rodrigues e Luísa Pereira, provisório. Padrinhos José Martins [...] e Isabel Gonçalves, provisório.",
+      "nota_revisao": "21/11/2026: Isabel, catorze de dezembro de 1805; José Gonçalves e Maria Rodrigues. Escrita esbatida na zona paterna impede assegurar a ausência de complemento."
     },
     {
       "id": "S8-B4-m0018-e-02",
@@ -1938,10 +2006,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "João, filho/a de João Gonçalves e Maria Nunes. Batismo em 21/12/1805. Conferir nome materno e manchas na data. Avós paternos Caetano Gonçalves e Maria Martins; maternos João Gonçalves Dias e Isabel Rodrigues, provisório. Padrinhos Manuel Gonçalves e Maria Lourença, provisório.",
+      "leitura_parcial": "João, vinte e um de dezembro de 1805, leitura da abertura dificultada por manchas; João Gonçalves e Maria Nunes, esta última leitura ainda insegura.",
       "duvidas": [
-        "Nome materno e parte da data afetados por manchas; manter hipóteses por conferir."
-      ]
+        "Nome materno e confirmação integral da data por resolver."
+      ],
+      "leitura_anterior": "João, filho/a de João Gonçalves e Maria Nunes. Batismo em 21/12/1805. Conferir nome materno e manchas na data. Avós paternos Caetano Gonçalves e Maria Martins; maternos João Gonçalves Dias e Isabel Rodrigues, provisório. Padrinhos Manuel Gonçalves e Maria Lourença, provisório.",
+      "nota_revisao": "21/11/2026: João, vinte e um de dezembro de 1805, leitura da abertura dificultada por manchas; João Gonçalves e Maria Nunes, esta última leitura ainda insegura."
     },
     {
       "id": "S8-B4-m0018-d-01",
@@ -1950,10 +2020,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel, filho/a de Manuel Antunes Nabais e Maria Martins. Data por remissão: no mesmo dia, mês e ano do assento anterior (21/12/1805 a conferir). Avós paternos Manuel Antunes Nabais e Maria Nunes; maternos José Martins [...] e Maria Martins, provisório. Padrinhos Bernardo Nunes e Manuel [...], provisório.",
+      "leitura_parcial": "Isabel, filha de Manuel Antunes Nabais e Maria Martins. No mesmo dia, mês e ano remete ao assento de João na página esquerda, provisoriamente vinte e um de dezembro de 1805.",
       "duvidas": [
-        "Data depende da remissão ao assento anterior, cuja data completa permanece em dúvida."
-      ]
+        "Data depende de abertura manchada do assento anterior; conservar pendente até reconferência segura."
+      ],
+      "leitura_anterior": "Isabel, filho/a de Manuel Antunes Nabais e Maria Martins. Data por remissão: no mesmo dia, mês e ano do assento anterior (21/12/1805 a conferir). Avós paternos Manuel Antunes Nabais e Maria Nunes; maternos José Martins [...] e Maria Martins, provisório. Padrinhos Bernardo Nunes e Manuel [...], provisório.",
+      "nota_revisao": "21/11/2026: Isabel, filha de Manuel Antunes Nabais e Maria Martins. No mesmo dia, mês e ano remete ao assento de João na página esquerda, provisoriamente vinte e um de dezembro de 1805."
     },
     {
       "id": "S8-B4-m0018-d-02",
@@ -2043,11 +2115,19 @@
       "lado": "direita",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de Domingos [...] Viegas e Catarina Martins. Batismo em 17/01/1806. Conferir complemento do pai e dia. Avós paternos Manuel [...] e [...]; maternos Francisco Gonçalves e Maria Martins [...], provisório. Padrinhos Sebastião [...] e Luísa Pereira, provisório.",
-      "duvidas": [
-        "Complemento paterno entre Domingos e Viegas não resolvido com segurança."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria, filho/a de Domingos [...] Viegas e Catarina Martins. Batismo em 17/01/1806. Conferir complemento do pai e dia. Avós paternos Manuel [...] e [...]; maternos Francisco Gonçalves e Maria Martins [...], provisório. Padrinhos Sebastião [...] e Luísa Pereira, provisório.",
+      "nota_revisao": "21/11/2026: Maria, dezassete de janeiro de 1806; Domingos Pereira e Catarina Martins. O corpo não sustenta a hipótese anterior Viegas para o pai.",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Domingos Pereira",
+      "mae": "Catarina Martins",
+      "data_batismo": "17/01/1806",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai Domingos Pereira; mãe Catarina Martins; batismo 17/01/1806.",
+      "nota": "Revisão visual dirigida do original, com reconferência ampliada dos campos essenciais, sem OCR. Não é transcrição diplomática integral. Sem apelidos inferidos para a criança nem ligações de identidade. 21/11/2026: Maria, dezassete de janeiro de 1806; Domingos Pereira e Catarina Martins. O corpo não sustenta a hipótese anterior Viegas para o pai."
     },
     {
       "id": "S8-B4-m0020-e-01",
@@ -2178,10 +2258,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de António Gonçalves [...] e Isabel Nunes. Batismo em 04/04/1806. Conferir complemento paterno, talvez Cardo. Avós paternos António Gonçalves e Brízida Nabais; maternos Manuel Dias e Maria Gonçalves, provisório. Padrinhos Manuel Dias e Maria Gonçalves, provisório.",
+      "leitura_parcial": "Maria, quatro de abril de 1806; António Gonçalves, complemento Cardo ainda afetado por sobreposição, e Isabel Nunes.",
       "duvidas": [
-        "Complemento do nome paterno não confirmado."
-      ]
+        "Composição paterna ainda insegura; não completar pelo avô."
+      ],
+      "leitura_anterior": "Maria, filho/a de António Gonçalves [...] e Isabel Nunes. Batismo em 04/04/1806. Conferir complemento paterno, talvez Cardo. Avós paternos António Gonçalves e Brízida Nabais; maternos Manuel Dias e Maria Gonçalves, provisório. Padrinhos Manuel Dias e Maria Gonçalves, provisório.",
+      "nota_revisao": "21/11/2026: Maria, quatro de abril de 1806; António Gonçalves, complemento Cardo ainda afetado por sobreposição, e Isabel Nunes."
     },
     {
       "id": "S8-B4-m0021-d-01",
@@ -2190,10 +2272,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Rosa, filho/a de Gabriel Nunes e Catarina Lopes Martins. Batismo em 23/03/1806. Conferir nome completo materno. Avós paternos Gabriel Nunes e Ana Luísa; maternos José Martins Fernandes e Brízida Gonçalves, provisório. Padrinhos Manuel Brás e Isabel Martins Dias, provisório.",
+      "leitura_parcial": "Rosa, vinte e três de março de 1806; Gabriel Nunes e Catarina com sequência Nabais/Martins de difícil separação na filiação.",
       "duvidas": [
-        "Nome completo da mãe incerto; possível Catarina Nabais Martins em lugar de Catarina Lopes Martins."
-      ]
+        "Nome materno completo não fixado; hipótese anterior Lopes preservada no histórico."
+      ],
+      "leitura_anterior": "Rosa, filho/a de Gabriel Nunes e Catarina Lopes Martins. Batismo em 23/03/1806. Conferir nome completo materno. Avós paternos Gabriel Nunes e Ana Luísa; maternos José Martins Fernandes e Brízida Gonçalves, provisório. Padrinhos Manuel Brás e Isabel Martins Dias, provisório.",
+      "nota_revisao": "21/11/2026: Rosa, vinte e três de março de 1806; Gabriel Nunes e Catarina com sequência Nabais/Martins de difícil separação na filiação."
     },
     {
       "id": "S8-B4-m0021-d-02",
@@ -2322,10 +2406,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Luísa, filho/a de Manuel Brás e Maria Martins Nogueira. Batismo em 07/07/1806. Conferir complemento materno. Avós paternos Manuel Brás e Maria Martins; maternos Brás Martins e Maria Fernandes, provisório. Padrinhos António Gonçalves e Francisca Maria Baptista, provisório.",
+      "leitura_parcial": "Luísa, sete de junho de 1806, melhor leitura do mês, antes julho. Manuel Brás e Maria Martins, possível complemento Nogueira, na zona manchada.",
       "duvidas": [
-        "Complemento materno após Maria Martins não confirmado; mês também requer nova leitura."
-      ]
+        "Nome materno completo por resolver; mês melhorado sem promover o conjunto."
+      ],
+      "leitura_anterior": "Luísa, filho/a de Manuel Brás e Maria Martins Nogueira. Batismo em 07/07/1806. Conferir complemento materno. Avós paternos Manuel Brás e Maria Martins; maternos Brás Martins e Maria Fernandes, provisório. Padrinhos António Gonçalves e Francisca Maria Baptista, provisório.",
+      "nota_revisao": "21/11/2026: Luísa, sete de junho de 1806, melhor leitura do mês, antes julho. Manuel Brás e Maria Martins, possível complemento Nogueira, na zona manchada."
     },
     {
       "id": "S8-B4-m0023-d-01",
@@ -2554,11 +2640,19 @@
       "lado": "esquerda",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Bárbara, filho/a de José Rodrigues e Maria Nunes. Batismo em 14/11/1806. Conferir nome da mãe. Avós paternos José Rodrigues e Maria Fernandes, naturais de [...]; maternos Manuel Rodrigues Cambra e Maria Gonçalves, provisório. Padrinhos João Rodrigues Cambra e Maria Gonçalves, provisório.",
-      "duvidas": [
-        "Apelido materno não resolvido: hipótese Maria Nunes não confirmada pela segunda leitura."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Bárbara, filho/a de José Rodrigues e Maria Nunes. Batismo em 14/11/1806. Conferir nome da mãe. Avós paternos José Rodrigues e Maria Fernandes, naturais de [...]; maternos Manuel Rodrigues Cambra e Maria Gonçalves, provisório. Padrinhos João Rodrigues Cambra e Maria Gonçalves, provisório.",
+      "nota_revisao": "21/11/2026: Bárbara, catorze de novembro de 1806; José Rodrigues e Maria Nunes.",
+      "crianca": {
+        "nome": "Bárbara",
+        "sexo": "F"
+      },
+      "pai": "José Rodrigues",
+      "mae": "Maria Nunes",
+      "data_batismo": "14/11/1806",
+      "excerto": "Leitura normalizada dos campos essenciais: Bárbara; pai José Rodrigues; mãe Maria Nunes; batismo 14/11/1806.",
+      "nota": "Revisão visual dirigida do original, com reconferência ampliada dos campos essenciais, sem OCR. Não é transcrição diplomática integral. Sem apelidos inferidos para a criança nem ligações de identidade. 21/11/2026: Bárbara, catorze de novembro de 1806; José Rodrigues e Maria Nunes."
     },
     {
       "id": "S8-B4-m0026-d-01",
@@ -2687,10 +2781,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de [não declarado] e [não declarada]. No mesmo dia: 29/01/1807, batizada sub conditione; criança exposta encontrada à porta de Manuel Jorge e de sua mulher Luísa Martins. O texto refere idade aparente de dois ou três dias, sem data de nascimento calculada. Continuação na m0028 esquerda: padrinhos Brás [...] e Maria [...], naturais desta freguesia, provisório. Não atribuir aos acolhedores a filiação.",
+      "leitura_parcial": "Maria, vinte e nove de janeiro de 1807; relato de exposta à porta de Manuel Jorge e Luísa Martins, com batismo sob condição e continuação no alto de m0028-e. O casal da porta não é filiação.",
       "duvidas": [
-        "Criança exposta: pais não declarados. Não criar filiação a partir dos acolhedores; conservar batismo sub conditione por remissão a 29/01/1807."
-      ]
+        "Redação da administração e filiação desconhecida exigem conservar pendente; não transformar acolhedores em pais."
+      ],
+      "leitura_anterior": "Maria, filho/a de [não declarado] e [não declarada]. No mesmo dia: 29/01/1807, batizada sub conditione; criança exposta encontrada à porta de Manuel Jorge e de sua mulher Luísa Martins. O texto refere idade aparente de dois ou três dias, sem data de nascimento calculada. Continuação na m0028 esquerda: padrinhos Brás [...] e Maria [...], naturais desta freguesia, provisório. Não atribuir aos acolhedores a filiação.",
+      "nota_revisao": "21/11/2026: Maria, vinte e nove de janeiro de 1807; relato de exposta à porta de Manuel Jorge e Luísa Martins, com batismo sob condição e continuação no alto de m0028-e. O casal da porta não é filiação."
     },
     {
       "id": "S8-B4-m0028-e-01",
@@ -2719,10 +2815,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de Paulo [...] e Maria Ramos. Batismo em 15/02/1807. Conferir complemento paterno. Avós paternos Domingos Brás e Maria Gonçalves; maternos António Pereira e Josefa [...], provisório. Padrinhos António José Luís e Maria Gonçalves, provisório.",
+      "leitura_parcial": "Maria, quinze de fevereiro de 1807; pai Paulo, complemento Dias/Pires ainda inseguro, mãe Maria Ramos.",
       "duvidas": [
-        "Complemento do nome paterno após Paulo não confirmado."
-      ]
+        "Nome paterno completo por resolver; não inferir pelos avós."
+      ],
+      "leitura_anterior": "Maria, filho/a de Paulo [...] e Maria Ramos. Batismo em 15/02/1807. Conferir complemento paterno. Avós paternos Domingos Brás e Maria Gonçalves; maternos António Pereira e Josefa [...], provisório. Padrinhos António José Luís e Maria Gonçalves, provisório.",
+      "nota_revisao": "21/11/2026: Maria, quinze de fevereiro de 1807; pai Paulo, complemento Dias/Pires ainda inseguro, mãe Maria Ramos."
     },
     {
       "id": "S8-B4-m0028-d-01",
@@ -2894,10 +2992,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Joana, filho/a de Manuel Lourenço Legado e Bárbara Nabais. Dia 17, mês a conferir entre junho e julho de 1807. Avós paternos Manuel Lourenço Legado e Ana Fernandes; maternos Manuel Martins Caçador e Joana Nabais, provisório. Padrinhos Domingos [...] e Catarina Gonçalves, provisório.",
+      "leitura_parcial": "Joana, dezassete de junho/julho de 1807; Manuel Lourenço Legado e Bárbara Nabais. Mês cruza selo e escrita sobreposta.",
       "duvidas": [
-        "Mês do batismo de dia 17 não confirmado entre junho e julho de 1807."
-      ]
+        "Mês ainda por fixar; não escolher pela sequência."
+      ],
+      "leitura_anterior": "Joana, filho/a de Manuel Lourenço Legado e Bárbara Nabais. Dia 17, mês a conferir entre junho e julho de 1807. Avós paternos Manuel Lourenço Legado e Ana Fernandes; maternos Manuel Martins Caçador e Joana Nabais, provisório. Padrinhos Domingos [...] e Catarina Gonçalves, provisório.",
+      "nota_revisao": "21/11/2026: Joana, dezassete de junho/julho de 1807; Manuel Lourenço Legado e Bárbara Nabais. Mês cruza selo e escrita sobreposta."
     },
     {
       "id": "S8-B4-m0030-e-02",
@@ -2906,10 +3006,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de João Rodrigues Cambra e Maria Nunes. Batismo em 20/08/1807. Conferir mês escrito. Continua no topo da direita: avós paternos João Rodrigues Cambra e Maria Nunes; maternos Francisco [...] e Maria Gonçalves, provisório. Madrinha Maria José, filha de Manuel Martins [...], provisório.",
+      "leitura_parcial": "Maria, vinte de agosto de 1807, leitura provisória; João Rodrigues Cambra e Maria Nunes. Continuação no alto de m0030-d. Tinta sobreposta atravessa data e filiação.",
       "duvidas": [
-        "Mês do batismo de dia 20 não confirmado; a hipótese inicial agosto não ficou segura na segunda leitura."
-      ]
+        "Data e filiação completas ainda sem segurança suficiente."
+      ],
+      "leitura_anterior": "Maria, filho/a de João Rodrigues Cambra e Maria Nunes. Batismo em 20/08/1807. Conferir mês escrito. Continua no topo da direita: avós paternos João Rodrigues Cambra e Maria Nunes; maternos Francisco [...] e Maria Gonçalves, provisório. Madrinha Maria José, filha de Manuel Martins [...], provisório.",
+      "nota_revisao": "21/11/2026: Maria, vinte de agosto de 1807, leitura provisória; João Rodrigues Cambra e Maria Nunes. Continuação no alto de m0030-d. Tinta sobreposta atravessa data e filiação."
     },
     {
       "id": "S8-B4-m0030-d-01",
@@ -2958,10 +3060,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de Manuel Lopes e Maria Lopes. Batismo em 30/07/1807. Avós paternos Manuel [...] e Maria [...]; maternos Manuel Lopes e Maria [...], provisório. Padrinhos José [...] e Maria [...], provisório. Assento muito manchado.",
+      "leitura_parcial": "Maria, trinta/trinta e um de julho de 1807; Manuel Lopes e Maria Lopes, zona muito manchada.",
       "duvidas": [
-        "Dia do batismo não resolvido entre 30 e 31 de julho; manchas extensas na redação."
-      ]
+        "Dia e filiação precisam de reconferência mais segura; não completar pela sequência."
+      ],
+      "leitura_anterior": "Maria, filho/a de Manuel Lopes e Maria Lopes. Batismo em 30/07/1807. Avós paternos Manuel [...] e Maria [...]; maternos Manuel Lopes e Maria [...], provisório. Padrinhos José [...] e Maria [...], provisório. Assento muito manchado.",
+      "nota_revisao": "21/11/2026: Maria, trinta/trinta e um de julho de 1807; Manuel Lopes e Maria Lopes, zona muito manchada."
     },
     {
       "id": "S8-B4-m0031-e-02",
@@ -2970,10 +3074,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Luísa ou Lúcia, filho/a de Manuel Gonçalves e Maria Gonçalves. Batismo em 02/08/1807, nome da criança a resolver. Avós paternos Manuel Nunes e Maria Gonçalves; maternos Sebastião Nunes e Maria Gonçalves, provisório. Padrinhos Domingos [...] e Maria [...], provisório.",
+      "leitura_parcial": "Nome feminino emendado na margem e difícil no corpo, Luísa/Lúcia; dois de agosto de 1807; Manuel Gonçalves e Maria Gonçalves. Fecho na página direita consultado.",
       "duvidas": [
-        "Nome da criança não resolvido com segurança entre Lúcia e Luísa."
-      ]
+        "Nome da criança e campos parentais atravessados por manchas; manter variantes no histórico."
+      ],
+      "leitura_anterior": "Luísa ou Lúcia, filho/a de Manuel Gonçalves e Maria Gonçalves. Batismo em 02/08/1807, nome da criança a resolver. Avós paternos Manuel Nunes e Maria Gonçalves; maternos Sebastião Nunes e Maria Gonçalves, provisório. Padrinhos Domingos [...] e Maria [...], provisório.",
+      "nota_revisao": "21/11/2026: Nome feminino emendado na margem e difícil no corpo, Luísa/Lúcia; dois de agosto de 1807; Manuel Gonçalves e Maria Gonçalves. Fecho na página direita consultado."
     },
     {
       "id": "S8-B4-m0031-d-01",
@@ -2982,10 +3088,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de José Rodrigues e Maria Brás. Batismo em 10/08/1807. Conferir nome materno. Avós paternos José Rodrigues e Maria [...]; maternos Domingos [...] e Maria [...], provisório. Madrinha Rosa Nunes, filha de José [...], provisório.",
+      "leitura_parcial": "Maria, dez de agosto de 1807; José Rodrigues e mãe com nome esbatido antes de Brás, Maria/Catarina ainda incerto.",
       "duvidas": [
-        "Primeiro nome da mãe não confirmado; a segunda leitura sugere Catarina Brás em lugar de Maria Brás."
-      ]
+        "Nome materno ainda não fixado; avós não resolvem a lacuna."
+      ],
+      "leitura_anterior": "Maria, filho/a de José Rodrigues e Maria Brás. Batismo em 10/08/1807. Conferir nome materno. Avós paternos José Rodrigues e Maria [...]; maternos Domingos [...] e Maria [...], provisório. Madrinha Rosa Nunes, filha de José [...], provisório.",
+      "nota_revisao": "21/11/2026: Maria, dez de agosto de 1807; José Rodrigues e mãe com nome esbatido antes de Brás, Maria/Catarina ainda incerto."
     },
     {
       "id": "S8-B4-m0031-d-02",
@@ -3034,10 +3142,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, filho/a de José Gonçalves [...] e [...] Viegas. Batismo em 26/09/1807. Complemento paterno e primeiro nome materno afetados por manchas. Avós paternos [...] e [...]; maternos Manuel [...] e Maria [...], provisório. O termo termina no topo da página direita.",
+      "leitura_parcial": "Manuel, vinte e seis de setembro de 1807; José Gonçalves, complemento possível, e mãe com apelido Viegas. Continuação consultada na página direita.",
       "duvidas": [
-        "Complemento paterno e primeiro nome materno não resolvidos sob manchas."
-      ]
+        "Nome materno e composição paterna afetados por manchas e sobreposição."
+      ],
+      "leitura_anterior": "Manuel, filho/a de José Gonçalves [...] e [...] Viegas. Batismo em 26/09/1807. Complemento paterno e primeiro nome materno afetados por manchas. Avós paternos [...] e [...]; maternos Manuel [...] e Maria [...], provisório. O termo termina no topo da página direita.",
+      "nota_revisao": "21/11/2026: Manuel, vinte e seis de setembro de 1807; José Gonçalves, complemento possível, e mãe com apelido Viegas. Continuação consultada na página direita."
     },
     {
       "id": "S8-B4-m0032-d-01",
@@ -3046,10 +3156,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de António [...] Cardo e Isabel Gonçalves. Batismo em 22/09/1807. Complemento paterno a conferir. Avós paternos [...] e [...]; maternos Joaquim Gonçalves e Josefa [...], provisório. Madrinha [...] Gonçalves, provisório.",
+      "leitura_parcial": "Maria, vinte e dois de setembro de 1807; António com complemento Cardo e Isabel Gonçalves, ainda sob escrita transpassada.",
       "duvidas": [
-        "Nome completo do pai, terminado em Cardo, não confirmado."
-      ]
+        "Nome paterno completo e leitura segura da filiação por resolver."
+      ],
+      "leitura_anterior": "Maria, filho/a de António [...] Cardo e Isabel Gonçalves. Batismo em 22/09/1807. Complemento paterno a conferir. Avós paternos [...] e [...]; maternos Joaquim Gonçalves e Josefa [...], provisório. Madrinha [...] Gonçalves, provisório.",
+      "nota_revisao": "21/11/2026: Maria, vinte e dois de setembro de 1807; António com complemento Cardo e Isabel Gonçalves, ainda sob escrita transpassada."
     },
     {
       "id": "S8-B4-m0032-d-02",
@@ -3098,10 +3210,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, filho/a de José Gonçalves e Isabel [...]. Batismo em 20/10/1807. Conferir apelido materno, talvez Nunes. Avós paternos Manuel João e Luísa Gonçalves; maternos Miguel Lopes e Luísa de [...], provisório. Padrinhos Manuel Gonçalves Luís e Isabel Garcia, provisório.",
+      "leitura_parcial": "Maria, vinte de outubro de 1807; José Gonçalves e Isabel Nunes, nomes em zona muito manchada.",
       "duvidas": [
-        "Apelido materno não confirmado em duas leituras."
-      ]
+        "Filiação não inteiramente segura; não promover por concordância com a leitura anterior."
+      ],
+      "leitura_anterior": "Maria, filho/a de José Gonçalves e Isabel [...]. Batismo em 20/10/1807. Conferir apelido materno, talvez Nunes. Avós paternos Manuel João e Luísa Gonçalves; maternos Miguel Lopes e Luísa de [...], provisório. Padrinhos Manuel Gonçalves Luís e Isabel Garcia, provisório.",
+      "nota_revisao": "21/11/2026: Maria, vinte de outubro de 1807; José Gonçalves e Isabel Nunes, nomes em zona muito manchada."
     },
     {
       "id": "S8-B4-m0033-d-01",
@@ -3110,10 +3224,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Luísa, filho/a de [não declarado] e Isabel Nunes. No mesmo dia, mês e ano do anterior, 20/10/1807. Mãe solteira, natural de [...], exposta na roda de [...], filha de António Gonçalves e de Josefa [...], provisório. A condição de exposta parece referir a mãe; referente a conferir. Padrinhos Manuel [...] e Luísa Gonçalves, provisório.",
+      "leitura_parcial": "Luísa, no mesmo dia, mês e ano, vinte de outubro de 1807, remissão consultada; Isabel Nunes, possível complemento Lopes, solteira, com referência a exposta de ligação sintática insegura.",
       "duvidas": [
-        "Pai não declarado. A menção de exposta parece respeitar à mãe, mas o referente continua a exigir revisão; não criar filiação paterna."
-      ]
+        "Nome materno completo e alcance de exposta por esclarecer. Pai não declarado; não criar pai fictício."
+      ],
+      "leitura_anterior": "Luísa, filho/a de [não declarado] e Isabel Nunes. No mesmo dia, mês e ano do anterior, 20/10/1807. Mãe solteira, natural de [...], exposta na roda de [...], filha de António Gonçalves e de Josefa [...], provisório. A condição de exposta parece referir a mãe; referente a conferir. Padrinhos Manuel [...] e Luísa Gonçalves, provisório.",
+      "nota_revisao": "21/11/2026: Luísa, no mesmo dia, mês e ano, vinte de outubro de 1807, remissão consultada; Isabel Nunes, possível complemento Lopes, solteira, com referência a exposta de ligação sintática insegura."
     },
     {
       "id": "S8-B4-m0033-d-02",
@@ -3122,10 +3238,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, filho/a de Manuel Martins [...] e Catarina Gonçalves. Batismo em 28/10/1807. Complemento paterno a conferir. Avós paternos Manuel Martins e Maria Nunes; maternos José Martins e Ana Gonçalves, provisório. Padrinhos Manuel [...] e Maria Antunes, provisório.",
+      "leitura_parcial": "José, vinte e oito de outubro de 1807; Manuel Martins, complemento sob mancha, e Catarina Gonçalves.",
       "duvidas": [
-        "Complemento paterno após Manuel Martins não resolvido."
-      ]
+        "Nome paterno completo por resolver; não completar pelos avós."
+      ],
+      "leitura_anterior": "José, filho/a de Manuel Martins [...] e Catarina Gonçalves. Batismo em 28/10/1807. Complemento paterno a conferir. Avós paternos Manuel Martins e Maria Nunes; maternos José Martins e Ana Gonçalves, provisório. Padrinhos Manuel [...] e Maria Antunes, provisório.",
+      "nota_revisao": "21/11/2026: José, vinte e oito de outubro de 1807; Manuel Martins, complemento sob mancha, e Catarina Gonçalves."
     },
     {
       "id": "S8-B4-m0033-d-03",
@@ -3154,10 +3272,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, filho/a de António Nunes e Maria Gonçalves. Batismo em 12/12/1807. Avós paternos Manuel Nunes e Isabel Dias; maternos Domingos Gonçalves e Luísa Nunes, provisório. Padrinhos Francisco [...] e Maria [...], provisório. Nome e data afetados por manchas.",
+      "leitura_parcial": "Manuel, doze de dezembro de 1807; António Nunes e Maria, complemento com aparência Lourença, ainda inseguro sob sobreposição; hipótese anterior Gonçalves preservada.",
       "duvidas": [
-        "Nome da criança sob mancha não confirmado com segurança; a hipótese Manuel exige nova leitura."
-      ]
+        "Nome materno completo e leitura essencial ainda insuficientes."
+      ],
+      "leitura_anterior": "Manuel, filho/a de António Nunes e Maria Gonçalves. Batismo em 12/12/1807. Avós paternos Manuel Nunes e Isabel Dias; maternos Domingos Gonçalves e Luísa Nunes, provisório. Padrinhos Francisco [...] e Maria [...], provisório. Nome e data afetados por manchas.",
+      "nota_revisao": "21/11/2026: Manuel, doze de dezembro de 1807; António Nunes e Maria, complemento com aparência Lourença, ainda inseguro sob sobreposição; hipótese anterior Gonçalves preservada."
     },
     {
       "id": "S8-B4-m0034-e-02",
@@ -3186,10 +3306,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Luísa, filho/a de José Antunes e Maria [...]. Batismo em 09/01/1808. Conferir apelido materno, talvez Dias. Avós paternos António [...] e Maria [...]; maternos Domingos [...] e Brízida [...], provisório. Padrinhos Domingos Brás e Maria Dias, provisório.",
+      "leitura_parcial": "Luísa, nove de janeiro de 1808; José Antunes e Maria Dias, nome materno esbatido.",
       "duvidas": [
-        "Apelido materno após Maria não confirmado."
-      ]
+        "Filiação materna requer leitura mais segura antes da promoção."
+      ],
+      "leitura_anterior": "Luísa, filho/a de José Antunes e Maria [...]. Batismo em 09/01/1808. Conferir apelido materno, talvez Dias. Avós paternos António [...] e Maria [...]; maternos Domingos [...] e Brízida [...], provisório. Padrinhos Domingos Brás e Maria Dias, provisório.",
+      "nota_revisao": "21/11/2026: Luísa, nove de janeiro de 1808; José Antunes e Maria Dias, nome materno esbatido."
     },
     {
       "id": "S8-B4-m0034-d-02",
@@ -3218,10 +3340,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, filho/a de Manuel Luís Martins [...] e Joana Nabais. Batismo em 18/01/1808. Conferir nome completo paterno. Avós paternos Francisco Martins Juncal e Maria Martins; maternos Manuel Martins Caçador e Maria Nabais, provisório. Padrinhos Manuel Nunes e Maria José, provisório.",
+      "leitura_parcial": "Manuel, dezoito de janeiro de 1808; pai Manuel Luís Martins com possível complemento Legado e Joana Nabais.",
       "duvidas": [
-        "Nome completo paterno após Manuel Luís Martins não resolvido."
-      ]
+        "Composição paterna ainda por fixar; não acrescentar complemento pelos avós."
+      ],
+      "leitura_anterior": "Manuel, filho/a de Manuel Luís Martins [...] e Joana Nabais. Batismo em 18/01/1808. Conferir nome completo paterno. Avós paternos Francisco Martins Juncal e Maria Martins; maternos Manuel Martins Caçador e Maria Nabais, provisório. Padrinhos Manuel Nunes e Maria José, provisório.",
+      "nota_revisao": "21/11/2026: Manuel, dezoito de janeiro de 1808; pai Manuel Luís Martins com possível complemento Legado e Joana Nabais."
     },
     {
       "id": "S8-B4-m0035-e-02",
@@ -3230,10 +3354,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Josefa, filho/a de Alexandre Nunes e Maria Gonçalves. No mesmo dia, mês e ano acima, 18/01/1808. Pai desta freguesia; mãe natural de [...]. Avós paternos Manuel João Martins [...] e Maria Gonçalves; maternos Manuel Lopes e Luísa Gonçalves, provisório. Padrinhos Manuel [...] e Maria Martins, provisório.",
+      "leitura_parcial": "Assento no mesmo dia, mês e ano, dezoito de janeiro de 1808; Alexandre Nunes e Maria Gonçalves. Nome feminino da criança sob borrão e rasura; leitura admite Alexandra, além das hipóteses anteriores Josefa/Joana.",
       "duvidas": [
-        "Nome da criança não confirmado; segunda leitura sugere Joana em lugar de Josefa, mantendo a dúvida."
-      ]
+        "Nome da criança não fixado com segurança; preservar variantes, sem escolher pela margem."
+      ],
+      "leitura_anterior": "Josefa, filho/a de Alexandre Nunes e Maria Gonçalves. No mesmo dia, mês e ano acima, 18/01/1808. Pai desta freguesia; mãe natural de [...]. Avós paternos Manuel João Martins [...] e Maria Gonçalves; maternos Manuel Lopes e Luísa Gonçalves, provisório. Padrinhos Manuel [...] e Maria Martins, provisório.",
+      "nota_revisao": "21/11/2026: Assento no mesmo dia, mês e ano, dezoito de janeiro de 1808; Alexandre Nunes e Maria Gonçalves. Nome feminino da criança sob borrão e rasura; leitura admite Alexandra, além das hipóteses anteriores Josefa/Joana."
     },
     {
       "id": "S8-B4-m0035-d-01",
@@ -3362,10 +3488,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Ana, filho/a de [não indicado na redação interrompida] e Catarina Carvalho. Redação interrompida, marcada com sinal na margem, de 27/02/1808: começa Ana, filha de Catarina Carvalho, solteira. Não há assinatura própria; não integrar nem presumir identidade com o termo seguinte.",
+      "leitura_parcial": "Ana, vinte e sete de fevereiro de 1808; redação interrompida após filha ilegítima e nome materno parcialmente afetado por borrão, antes lido Catarina Carvalho. Assento seguinte de Ana, separado, consultado na página direita.",
       "duvidas": [
-        "Redação interrompida, sem fecho ou assinatura, de Ana, filha natural de Catarina Carvalho; pai não declarado. Não fundir com o termo seguinte de Ana, que tem outra filiação."
-      ]
+        "Redação interrompida e nome materno ainda inseguro; não fundir automaticamente com a Ana seguinte nem integrar este fragmento."
+      ],
+      "leitura_anterior": "Ana, filho/a de [não indicado na redação interrompida] e Catarina Carvalho. Redação interrompida, marcada com sinal na margem, de 27/02/1808: começa Ana, filha de Catarina Carvalho, solteira. Não há assinatura própria; não integrar nem presumir identidade com o termo seguinte.",
+      "nota_revisao": "21/11/2026: Ana, vinte e sete de fevereiro de 1808; redação interrompida após filha ilegítima e nome materno parcialmente afetado por borrão, antes lido Catarina Carvalho. Assento seguinte de Ana, separado, consultado na página direita."
     },
     {
       "id": "S8-B4-m0037-e-02",
@@ -9441,6 +9569,610 @@
         "S8-B4-m0100-d-02"
       ],
       "observacoes": "Continuações e fotografias repetidas não duplicadas. Datas conservadas como escritas. Nomes encobertos e eventos sem data segura ficam pendentes. Menções adicionais provisórias preservadas sem relações inferidas."
+    },
+    {
+      "data": "2026-11-21",
+      "limite": "Primeiros 43 pendentes do B4, até m0037-e-01 inclusive; continuações necessárias consultadas.",
+      "metodo": "Leitura visual do original e continuações, sem OCR; campos essenciais dos promovidos reconferidos em ampliação.",
+      "imagens": [
+        "m0002",
+        "m0003",
+        "m0004",
+        "m0005",
+        "m0007",
+        "m0010",
+        "m0012",
+        "m0013",
+        "m0015",
+        "m0016",
+        "m0018",
+        "m0019",
+        "m0021",
+        "m0023",
+        "m0026",
+        "m0027",
+        "m0028",
+        "m0030",
+        "m0031",
+        "m0032",
+        "m0033",
+        "m0034",
+        "m0035",
+        "m0037"
+      ],
+      "assentos_revistos": [
+        "S8-B4-m0002-e-01",
+        "S8-B4-m0003-e-01",
+        "S8-B4-m0004-e-03",
+        "S8-B4-m0004-d-02",
+        "S8-B4-m0005-e-01",
+        "S8-B4-m0005-d-01",
+        "S8-B4-m0005-d-02",
+        "S8-B4-m0007-e-01",
+        "S8-B4-m0010-e-01",
+        "S8-B4-m0012-e-02",
+        "S8-B4-m0012-d-02",
+        "S8-B4-m0013-d-02",
+        "S8-B4-m0015-e-01",
+        "S8-B4-m0015-e-02",
+        "S8-B4-m0015-e-03",
+        "S8-B4-m0015-d-01",
+        "S8-B4-m0016-e-01",
+        "S8-B4-m0016-d-02",
+        "S8-B4-m0018-e-01",
+        "S8-B4-m0018-e-02",
+        "S8-B4-m0018-d-01",
+        "S8-B4-m0019-d-02",
+        "S8-B4-m0021-e-03",
+        "S8-B4-m0021-d-01",
+        "S8-B4-m0023-e-02",
+        "S8-B4-m0026-e-02",
+        "S8-B4-m0027-d-03",
+        "S8-B4-m0028-e-02",
+        "S8-B4-m0030-e-01",
+        "S8-B4-m0030-e-02",
+        "S8-B4-m0031-e-01",
+        "S8-B4-m0031-e-02",
+        "S8-B4-m0031-d-01",
+        "S8-B4-m0032-e-02",
+        "S8-B4-m0032-d-01",
+        "S8-B4-m0033-e-02",
+        "S8-B4-m0033-d-01",
+        "S8-B4-m0033-d-02",
+        "S8-B4-m0034-e-01",
+        "S8-B4-m0034-d-01",
+        "S8-B4-m0035-e-01",
+        "S8-B4-m0035-e-02",
+        "S8-B4-m0037-e-01"
+      ],
+      "novos_confirmados": [
+        "S8-B4-m0005-d-02",
+        "S8-B4-m0010-e-01",
+        "S8-B4-m0012-d-02",
+        "S8-B4-m0015-d-01",
+        "S8-B4-m0016-e-01",
+        "S8-B4-m0019-d-02",
+        "S8-B4-m0026-e-02"
+      ],
+      "leituras_anteriores": [
+        {
+          "id": "S8-B4-m0002-e-01",
+          "imagem": "m0002",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "[nome por fixar], filho/a de [pai por fixar] e [mãe por fixar]. Fragmento inicial manchado e mutilado, com fecho do cura; parece um assento de 1803, início e campos essenciais por fixar. Não deduzidos nomes de avós nem padrinhos.",
+          "duvidas": [
+            "Fragmento inicial mutilado e manchado; nome, filiação e data não fixados."
+          ]
+        },
+        {
+          "id": "S8-B4-m0003-e-01",
+          "imagem": "m0003",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de Manuel [...] Gonçalves e [ilegível]. Data inicial aparentemente 30/07/1803; rasgo remove parte esquerda do começo. Padrinho legível como Gaspar Fernandes, restantes menções provisórias.",
+          "duvidas": [
+            "Rasgo no começo e manchas impedem fixar a filiação e conferir a data."
+          ]
+        },
+        {
+          "id": "S8-B4-m0004-e-03",
+          "imagem": "m0004",
+          "lado": "esquerda",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de Manuel Esteves André e Maria Gonçalves. Batismo em 04/02/1804. Conferir filiação. Avós paternos Luís Martins e Maria Gonçalves, maternos Manuel Carvalho e [...] Fernandes; leitura provisória.",
+          "duvidas": [
+            "Conferir nome do pai: Esteves André ou Gonçalves André; manchas sobre a filiação."
+          ]
+        },
+        {
+          "id": "S8-B4-m0004-d-02",
+          "imagem": "m0004",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José, filho/a de Manuel Lourenço Pires e Maria [...]. Batismo em 23/02/1804. Nome do pai e da mãe difíceis de fixar. Avó paterna Antónia Pereira, maternos João Garcia e Isabel Nunes, provisório. Padrinhos Paulo Luís e Maria Garcia, provisório.",
+          "duvidas": [
+            "Nome completo da mãe não fixado; conferir filiação completa."
+          ]
+        },
+        {
+          "id": "S8-B4-m0005-e-01",
+          "imagem": "m0005",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Luísa, filho/a de Manuel Martins e Francisca Lopes. Batismo em 19/03/1804. Mãe natural de Pousafoles, leitura provisória. Avós paternos José [...] e Maria [...]; maternos Domingos Ribeiro e Maria [...], provisório. Padrinhos Sebastião de Carvalho e Isabel Pereira, provisório.",
+          "duvidas": [
+            "Conferir eventual complemento no nome do pai Manuel Martins e o nome da mãe."
+          ]
+        },
+        {
+          "id": "S8-B4-m0005-d-01",
+          "imagem": "m0005",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José, filho/a de José Nunes Esteves e Maria [...]. Batismo em 21/03/1804. Campos parentais afetados por manchas, nome da mãe não fixado. Avós paternos Manuel Lourenço e Luísa Gonçalves; maternos Domingos Jorge e Maria [...], leitura provisória.",
+          "duvidas": [
+            "Nome completo da mãe ainda por fixar."
+          ]
+        },
+        {
+          "id": "S8-B4-m0005-d-02",
+          "imagem": "m0005",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Domingos, filho/a de Manuel Martins Lopes e Angélica Martins. Batismo em 14/04/1804. De Vila Boa; avós paternos Manuel Esteves e Isabel Nunes, maternos Domingos Martins e Maria [...], leitura provisória. Padrinhos Sebastião Rodrigues Martins Dias e Luísa Jorge, provisório.",
+          "duvidas": [
+            "Dia da data inicial ambíguo entre quatro e catorze; conferir no original."
+          ]
+        },
+        {
+          "id": "S8-B4-m0007-e-01",
+          "imagem": "m0007",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de Domingos Gonçalves e Maria Gonçalves. Batismo em 19/07/1804. Avós paternos Manuel Garcia e Maria Lourença; maternos José Dias e Maria Gonçalves, leitura provisória. Padrinhos Francisco Martins e Isabel Gonçalves, naturais de Aldeia, provisório.",
+          "duvidas": [
+            "Conferir eventual complemento Garrido no nome do pai, parcialmente encoberto."
+          ]
+        },
+        {
+          "id": "S8-B4-m0010-e-01",
+          "imagem": "m0010",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho/a de Sebastião Costa [Pires?] e Luísa Gonçalves. Batismo em 25/09/1804. Conferir nome completo do pai. Avós paternos Sebastião Costa Pires e Luísa Gonçalves; maternos José [...] e Maria [...], leitura provisória. Data fora da ordem anterior, mantida.",
+          "duvidas": [
+            "Complemento do pai ainda inseguro: Sebastião Costa Pires ou outra composição."
+          ]
+        },
+        {
+          "id": "S8-B4-m0012-e-02",
+          "imagem": "m0012",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho/a de Manuel Esteves Luís Gonçalves e Maria Martins Cardosa. Batismo em 06/01/1805. Conferir composição dos nomes dos pais. Avós paternos José Martins Juncal e Maria Gonçalves; maternos José Gonçalves e Maria Nabais, provisório. Padrinhos João Nunes e Catarina Garcia, provisório.",
+          "duvidas": [
+            "Conferir a composição do nome do pai: Manuel Esteves Luís Gonçalves; não é seguro fixar a sequência completa."
+          ]
+        },
+        {
+          "id": "S8-B4-m0012-d-02",
+          "imagem": "m0012",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de Manuel Martins e Maria Martins [complemento por fixar]. Batismo em 20/01/1805. Avós paternos Augusto Luís Gonçalves e Francisca Martins Marvão; maternos Manuel Martins e Maria Martins Tejunta, leitura provisória. Padrinhos Manuel Martins Marvão e sua filha Maria, provisório.",
+          "duvidas": [
+            "Complemento do nome da mãe ainda incerto."
+          ]
+        },
+        {
+          "id": "S8-B4-m0013-d-02",
+          "imagem": "m0013",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José, filho/a de José Martins Lobão e Francisca Gonçalves. Data inicial 09/02, ano a conferir entre 1805 e 1806; conservar dúvida sem inferir pela sequência. Avós paternos Francisco Gonçalves Pimpão e Catarina Nunes; maternos Domingos Gonçalves Lourenço e Maria Pires, provisório.",
+          "duvidas": [
+            "Ano escrito não seguro (1805 ou 1806); não deduzido pela posição no livro."
+          ]
+        },
+        {
+          "id": "S8-B4-m0015-e-01",
+          "imagem": "m0015",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de Sebastião Gonçalves [...] e Maria das Neves. Imposição dos santos óleos em 22/04/1805 por Manuel Martins; batismo anterior não datado com segurança. Avós paternos Manuel Luís Cardo e [...]; maternos José Gonçalves [...] e Catarina [...], provisório.",
+          "duvidas": [
+            "Só está segura a data dos santos óleos (22/04/1805); data do batismo anterior e complemento paterno incertos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0015-e-02",
+          "imagem": "m0015",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Isabel, filho/a de João Gonçalves Quaresma e Maria Luísa. Imposição dos santos óleos no mesmo dia, 22/04/1805; não tomar esta data por batismo. Avós paternos Sebastião Gonçalves e Maria Gonçalves Quaresma; maternos Manuel Luís e Catarina Martins, provisório. Padrinhos Bernardo Gonçalves Quaresma e Ana Gonçalves, provisório.",
+          "duvidas": [
+            "Data de 22/04/1805 refere os santos óleos; data do batismo anterior não confirmada."
+          ]
+        },
+        {
+          "id": "S8-B4-m0015-e-03",
+          "imagem": "m0015",
+          "lado": "esquerda",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de Manuel Martins Laginha e [...] Maria. Batismo em 18/05/1805. Conferir o primeiro nome materno, talvez Brízida. Avós paternos Francisco Martins Juncal e Maria Martins; maternos Manuel Martins Caçador e Maria [...], provisório. Padrinhos Manuel [...] e Maria Ramos, provisório.",
+          "duvidas": [
+            "Nome materno não resolvido em duas leituras; não integrar hipótese [...] Maria."
+          ]
+        },
+        {
+          "id": "S8-B4-m0015-d-01",
+          "imagem": "m0015",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de António Martins Fernandes e [...] Lourença. Batismo em 19/05/1805. Nome materno a conferir. Avós paternos Manuel Martins Fernandes e Isabel Martins; maternos Domingos Jorge e Maria Lourença, provisório. Padrinhos Brás Nunes e Maria Martins Cardo, provisório.",
+          "duvidas": [
+            "Primeiro nome da mãe, seguido de Lourença, não resolvido com segurança."
+          ]
+        },
+        {
+          "id": "S8-B4-m0016-e-01",
+          "imagem": "m0016",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Ana, filho/a de José Esteves [...] e Ana Dias. Batismo em 02/08/1805. Conferir complemento paterno, talvez Nunes. Avós paternos Lourenço Nunes e Ana Esteves; maternos Manuel Dias e Maria Antunes, provisório. Padrinhos Alberto Nunes e Maria Antunes, provisório.",
+          "duvidas": [
+            "Complemento do nome paterno após José Esteves não resolvido."
+          ]
+        },
+        {
+          "id": "S8-B4-m0016-d-02",
+          "imagem": "m0016",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de [não declarado] e Isabel Gonçalves. Batismo por remissão ao mesmo dia do assento anterior, 07/08/1805. Mãe solteira, pai não declarado; não criar um pai fictício. Avós maternos Francisco Esteves e Constança Gonçalves, provisório.",
+          "duvidas": [
+            "Pai não declarado; conserva-se a filiação materna e a remissão à data de 07/08/1805, sem criar casal fictício."
+          ]
+        },
+        {
+          "id": "S8-B4-m0018-e-01",
+          "imagem": "m0018",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Isabel, filho/a de José Gonçalves [...] e Maria Rodrigues. Batismo em 14/12/1805. Conferir complemento paterno em zona desvanecida. Avós paternos José Gonçalves e Maria Nabais; maternos José Rodrigues e Luísa Pereira, provisório. Padrinhos José Martins [...] e Isabel Gonçalves, provisório.",
+          "duvidas": [
+            "Complemento do nome paterno não confirmado na fotografia desvanecida."
+          ]
+        },
+        {
+          "id": "S8-B4-m0018-e-02",
+          "imagem": "m0018",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "João, filho/a de João Gonçalves e Maria Nunes. Batismo em 21/12/1805. Conferir nome materno e manchas na data. Avós paternos Caetano Gonçalves e Maria Martins; maternos João Gonçalves Dias e Isabel Rodrigues, provisório. Padrinhos Manuel Gonçalves e Maria Lourença, provisório.",
+          "duvidas": [
+            "Nome materno e parte da data afetados por manchas; manter hipóteses por conferir."
+          ]
+        },
+        {
+          "id": "S8-B4-m0018-d-01",
+          "imagem": "m0018",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Isabel, filho/a de Manuel Antunes Nabais e Maria Martins. Data por remissão: no mesmo dia, mês e ano do assento anterior (21/12/1805 a conferir). Avós paternos Manuel Antunes Nabais e Maria Nunes; maternos José Martins [...] e Maria Martins, provisório. Padrinhos Bernardo Nunes e Manuel [...], provisório.",
+          "duvidas": [
+            "Data depende da remissão ao assento anterior, cuja data completa permanece em dúvida."
+          ]
+        },
+        {
+          "id": "S8-B4-m0019-d-02",
+          "imagem": "m0019",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de Domingos [...] Viegas e Catarina Martins. Batismo em 17/01/1806. Conferir complemento do pai e dia. Avós paternos Manuel [...] e [...]; maternos Francisco Gonçalves e Maria Martins [...], provisório. Padrinhos Sebastião [...] e Luísa Pereira, provisório.",
+          "duvidas": [
+            "Complemento paterno entre Domingos e Viegas não resolvido com segurança."
+          ]
+        },
+        {
+          "id": "S8-B4-m0021-e-03",
+          "imagem": "m0021",
+          "lado": "esquerda",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de António Gonçalves [...] e Isabel Nunes. Batismo em 04/04/1806. Conferir complemento paterno, talvez Cardo. Avós paternos António Gonçalves e Brízida Nabais; maternos Manuel Dias e Maria Gonçalves, provisório. Padrinhos Manuel Dias e Maria Gonçalves, provisório.",
+          "duvidas": [
+            "Complemento do nome paterno não confirmado."
+          ]
+        },
+        {
+          "id": "S8-B4-m0021-d-01",
+          "imagem": "m0021",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Rosa, filho/a de Gabriel Nunes e Catarina Lopes Martins. Batismo em 23/03/1806. Conferir nome completo materno. Avós paternos Gabriel Nunes e Ana Luísa; maternos José Martins Fernandes e Brízida Gonçalves, provisório. Padrinhos Manuel Brás e Isabel Martins Dias, provisório.",
+          "duvidas": [
+            "Nome completo da mãe incerto; possível Catarina Nabais Martins em lugar de Catarina Lopes Martins."
+          ]
+        },
+        {
+          "id": "S8-B4-m0023-e-02",
+          "imagem": "m0023",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Luísa, filho/a de Manuel Brás e Maria Martins Nogueira. Batismo em 07/07/1806. Conferir complemento materno. Avós paternos Manuel Brás e Maria Martins; maternos Brás Martins e Maria Fernandes, provisório. Padrinhos António Gonçalves e Francisca Maria Baptista, provisório.",
+          "duvidas": [
+            "Complemento materno após Maria Martins não confirmado; mês também requer nova leitura."
+          ]
+        },
+        {
+          "id": "S8-B4-m0026-e-02",
+          "imagem": "m0026",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Bárbara, filho/a de José Rodrigues e Maria Nunes. Batismo em 14/11/1806. Conferir nome da mãe. Avós paternos José Rodrigues e Maria Fernandes, naturais de [...]; maternos Manuel Rodrigues Cambra e Maria Gonçalves, provisório. Padrinhos João Rodrigues Cambra e Maria Gonçalves, provisório.",
+          "duvidas": [
+            "Apelido materno não resolvido: hipótese Maria Nunes não confirmada pela segunda leitura."
+          ]
+        },
+        {
+          "id": "S8-B4-m0027-d-03",
+          "imagem": "m0027",
+          "lado": "direita",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de [não declarado] e [não declarada]. No mesmo dia: 29/01/1807, batizada sub conditione; criança exposta encontrada à porta de Manuel Jorge e de sua mulher Luísa Martins. O texto refere idade aparente de dois ou três dias, sem data de nascimento calculada. Continuação na m0028 esquerda: padrinhos Brás [...] e Maria [...], naturais desta freguesia, provisório. Não atribuir aos acolhedores a filiação.",
+          "duvidas": [
+            "Criança exposta: pais não declarados. Não criar filiação a partir dos acolhedores; conservar batismo sub conditione por remissão a 29/01/1807."
+          ]
+        },
+        {
+          "id": "S8-B4-m0028-e-02",
+          "imagem": "m0028",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de Paulo [...] e Maria Ramos. Batismo em 15/02/1807. Conferir complemento paterno. Avós paternos Domingos Brás e Maria Gonçalves; maternos António Pereira e Josefa [...], provisório. Padrinhos António José Luís e Maria Gonçalves, provisório.",
+          "duvidas": [
+            "Complemento do nome paterno após Paulo não confirmado."
+          ]
+        },
+        {
+          "id": "S8-B4-m0030-e-01",
+          "imagem": "m0030",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Joana, filho/a de Manuel Lourenço Legado e Bárbara Nabais. Dia 17, mês a conferir entre junho e julho de 1807. Avós paternos Manuel Lourenço Legado e Ana Fernandes; maternos Manuel Martins Caçador e Joana Nabais, provisório. Padrinhos Domingos [...] e Catarina Gonçalves, provisório.",
+          "duvidas": [
+            "Mês do batismo de dia 17 não confirmado entre junho e julho de 1807."
+          ]
+        },
+        {
+          "id": "S8-B4-m0030-e-02",
+          "imagem": "m0030",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de João Rodrigues Cambra e Maria Nunes. Batismo em 20/08/1807. Conferir mês escrito. Continua no topo da direita: avós paternos João Rodrigues Cambra e Maria Nunes; maternos Francisco [...] e Maria Gonçalves, provisório. Madrinha Maria José, filha de Manuel Martins [...], provisório.",
+          "duvidas": [
+            "Mês do batismo de dia 20 não confirmado; a hipótese inicial agosto não ficou segura na segunda leitura."
+          ]
+        },
+        {
+          "id": "S8-B4-m0031-e-01",
+          "imagem": "m0031",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de Manuel Lopes e Maria Lopes. Batismo em 30/07/1807. Avós paternos Manuel [...] e Maria [...]; maternos Manuel Lopes e Maria [...], provisório. Padrinhos José [...] e Maria [...], provisório. Assento muito manchado.",
+          "duvidas": [
+            "Dia do batismo não resolvido entre 30 e 31 de julho; manchas extensas na redação."
+          ]
+        },
+        {
+          "id": "S8-B4-m0031-e-02",
+          "imagem": "m0031",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Luísa ou Lúcia, filho/a de Manuel Gonçalves e Maria Gonçalves. Batismo em 02/08/1807, nome da criança a resolver. Avós paternos Manuel Nunes e Maria Gonçalves; maternos Sebastião Nunes e Maria Gonçalves, provisório. Padrinhos Domingos [...] e Maria [...], provisório.",
+          "duvidas": [
+            "Nome da criança não resolvido com segurança entre Lúcia e Luísa."
+          ]
+        },
+        {
+          "id": "S8-B4-m0031-d-01",
+          "imagem": "m0031",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de José Rodrigues e Maria Brás. Batismo em 10/08/1807. Conferir nome materno. Avós paternos José Rodrigues e Maria [...]; maternos Domingos [...] e Maria [...], provisório. Madrinha Rosa Nunes, filha de José [...], provisório.",
+          "duvidas": [
+            "Primeiro nome da mãe não confirmado; a segunda leitura sugere Catarina Brás em lugar de Maria Brás."
+          ]
+        },
+        {
+          "id": "S8-B4-m0032-e-02",
+          "imagem": "m0032",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho/a de José Gonçalves [...] e [...] Viegas. Batismo em 26/09/1807. Complemento paterno e primeiro nome materno afetados por manchas. Avós paternos [...] e [...]; maternos Manuel [...] e Maria [...], provisório. O termo termina no topo da página direita.",
+          "duvidas": [
+            "Complemento paterno e primeiro nome materno não resolvidos sob manchas."
+          ]
+        },
+        {
+          "id": "S8-B4-m0032-d-01",
+          "imagem": "m0032",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de António [...] Cardo e Isabel Gonçalves. Batismo em 22/09/1807. Complemento paterno a conferir. Avós paternos [...] e [...]; maternos Joaquim Gonçalves e Josefa [...], provisório. Madrinha [...] Gonçalves, provisório.",
+          "duvidas": [
+            "Nome completo do pai, terminado em Cardo, não confirmado."
+          ]
+        },
+        {
+          "id": "S8-B4-m0033-e-02",
+          "imagem": "m0033",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, filho/a de José Gonçalves e Isabel [...]. Batismo em 20/10/1807. Conferir apelido materno, talvez Nunes. Avós paternos Manuel João e Luísa Gonçalves; maternos Miguel Lopes e Luísa de [...], provisório. Padrinhos Manuel Gonçalves Luís e Isabel Garcia, provisório.",
+          "duvidas": [
+            "Apelido materno não confirmado em duas leituras."
+          ]
+        },
+        {
+          "id": "S8-B4-m0033-d-01",
+          "imagem": "m0033",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Luísa, filho/a de [não declarado] e Isabel Nunes. No mesmo dia, mês e ano do anterior, 20/10/1807. Mãe solteira, natural de [...], exposta na roda de [...], filha de António Gonçalves e de Josefa [...], provisório. A condição de exposta parece referir a mãe; referente a conferir. Padrinhos Manuel [...] e Luísa Gonçalves, provisório.",
+          "duvidas": [
+            "Pai não declarado. A menção de exposta parece respeitar à mãe, mas o referente continua a exigir revisão; não criar filiação paterna."
+          ]
+        },
+        {
+          "id": "S8-B4-m0033-d-02",
+          "imagem": "m0033",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José, filho/a de Manuel Martins [...] e Catarina Gonçalves. Batismo em 28/10/1807. Complemento paterno a conferir. Avós paternos Manuel Martins e Maria Nunes; maternos José Martins e Ana Gonçalves, provisório. Padrinhos Manuel [...] e Maria Antunes, provisório.",
+          "duvidas": [
+            "Complemento paterno após Manuel Martins não resolvido."
+          ]
+        },
+        {
+          "id": "S8-B4-m0034-e-01",
+          "imagem": "m0034",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho/a de António Nunes e Maria Gonçalves. Batismo em 12/12/1807. Avós paternos Manuel Nunes e Isabel Dias; maternos Domingos Gonçalves e Luísa Nunes, provisório. Padrinhos Francisco [...] e Maria [...], provisório. Nome e data afetados por manchas.",
+          "duvidas": [
+            "Nome da criança sob mancha não confirmado com segurança; a hipótese Manuel exige nova leitura."
+          ]
+        },
+        {
+          "id": "S8-B4-m0034-d-01",
+          "imagem": "m0034",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Luísa, filho/a de José Antunes e Maria [...]. Batismo em 09/01/1808. Conferir apelido materno, talvez Dias. Avós paternos António [...] e Maria [...]; maternos Domingos [...] e Brízida [...], provisório. Padrinhos Domingos Brás e Maria Dias, provisório.",
+          "duvidas": [
+            "Apelido materno após Maria não confirmado."
+          ]
+        },
+        {
+          "id": "S8-B4-m0035-e-01",
+          "imagem": "m0035",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, filho/a de Manuel Luís Martins [...] e Joana Nabais. Batismo em 18/01/1808. Conferir nome completo paterno. Avós paternos Francisco Martins Juncal e Maria Martins; maternos Manuel Martins Caçador e Maria Nabais, provisório. Padrinhos Manuel Nunes e Maria José, provisório.",
+          "duvidas": [
+            "Nome completo paterno após Manuel Luís Martins não resolvido."
+          ]
+        },
+        {
+          "id": "S8-B4-m0035-e-02",
+          "imagem": "m0035",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Josefa, filho/a de Alexandre Nunes e Maria Gonçalves. No mesmo dia, mês e ano acima, 18/01/1808. Pai desta freguesia; mãe natural de [...]. Avós paternos Manuel João Martins [...] e Maria Gonçalves; maternos Manuel Lopes e Luísa Gonçalves, provisório. Padrinhos Manuel [...] e Maria Martins, provisório.",
+          "duvidas": [
+            "Nome da criança não confirmado; segunda leitura sugere Joana em lugar de Josefa, mantendo a dúvida."
+          ]
+        },
+        {
+          "id": "S8-B4-m0037-e-01",
+          "imagem": "m0037",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Ana, filho/a de [não indicado na redação interrompida] e Catarina Carvalho. Redação interrompida, marcada com sinal na margem, de 27/02/1808: começa Ana, filha de Catarina Carvalho, solteira. Não há assinatura própria; não integrar nem presumir identidade com o termo seguinte.",
+          "duvidas": [
+            "Redação interrompida, sem fecho ou assinatura, de Ana, filha natural de Catarina Carvalho; pai não declarado. Não fundir com o termo seguinte de Ana, que tem outra filiação."
+          ]
+        }
+      ],
+      "observacoes": "7 novos confirmados e 36 mantidos pendentes. Sem novas datas de nascimento nem ligações de identidade. Confirmados anteriores preservados. Notas individuais registam divergências, emendas, lacunas e distinções entre batismo e óleos."
     }
   ],
   "imagens_duplicadas": [
@@ -9450,5 +10182,5 @@
       "motivo": "Mesma abertura e mesmos cinco assentos; repetição fotográfica visualmente conferida."
     }
   ],
-  "revisto_em": "2026-11-17"
+  "revisto_em": "2026-11-21"
 }
