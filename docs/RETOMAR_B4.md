@@ -1,14 +1,25 @@
-# Retomar a leitura inicial do B4 na m0125
+# Retomar a leitura inicial do B4 na m0144
 
-Resumo de 22/11/2026. Comunicar em português e poupar contexto. Continuar a **leitura inicial a partir de m0125**. O topo esquerdo conclui Maria de `m0124-d-03`, já consultado como continuação, ainda pendente e sem nova entrada. Inventariar os novos termos seguintes. A revisão dirigida dos pendentes inventariados até m0100 está concluída; não repetir sem nova evidência.
+Resumo de 22/11/2026. Comunicar em português e poupar contexto. Continuar a **leitura inicial a partir de m0144**. O topo esquerdo conclui José de `m0143-d-03`, já consultado como continuação, sem nova entrada. Inventariar os novos termos seguintes. A revisão dirigida dos pendentes inventariados até m0100 está concluída; não repetir sem nova evidência.
 
 ## Estado
 
-Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base deste lote: `fbc2869`; localizar o commit pela mensagem «Lê 104 novos assentos do B4 até m0124».
+Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base deste lote: `56c69e1`; localizar o commit pela mensagem «Lê 103 novos assentos do B4 até m0143».
 
-B4: m0001–m0124 inventariadas, 552 entradas, 400 confirmadas e 152 pendentes. Lote de 22/11/2026: 104 novos assentos em m0103–m0124, 74 confirmados após reconferência ampliada e 30 pendentes. Sem novas datas de nascimento ou ligações de identidade. As 448 entradas anteriores ficaram intactas, assim como B1, B2, B3 e base. B3: 453 entradas, 368 confirmadas e 85 pendentes. Dados da aplicação: versão 52.
+B4: m0001–m0143 inventariadas, 655 entradas, 469 confirmadas e 186 pendentes. Lote de 22/11/2026: 103 novos assentos em m0125–m0143, 69 confirmados após reconferência ampliada e 34 pendentes. Sem novas datas de nascimento ou ligações de identidade. As 552 entradas anteriores ficaram intactas, assim como B1, B2, B3 e base. B3: 453 entradas, 368 confirmadas e 85 pendentes. Dados da aplicação: versão 53.
 
-Conjunto B1+B2+B3+B4: 2900 entradas, 1655 confirmadas e 1245 pendentes; 4801 pessoas e 1594 núcleos no suplemento. Base: 22 207 pessoas e 9253 famílias; aplicação: 27 008 pessoas e 10 847 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`. A m0125-e foi consultada apenas como continuação; os seus novos termos ainda não foram inventariados.
+Conjunto B1+B2+B3+B4: 3003 entradas, 1724 confirmadas e 1279 pendentes; 5008 pessoas e 1663 núcleos no suplemento. Base: 22 207 pessoas e 9253 famílias; aplicação: 27 215 pessoas e 10 916 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`. A m0144-e foi consultada apenas como continuação; os seus novos termos ainda não foram inventariados.
+
+## Cuidados do lote m0125–m0143
+
+- Óleos sem data segura do batismo particular ficam pendentes, incluindo m0143-d-01 Maria (18/12/1820) e d-02 Manuel (12/01/1821), corrigindo a primeira leitura. No Manuel, nascimento dia primeiro do mês não permite datar automaticamente o batismo em necessidade; nascimento só provisório. m0126-e-01 Domingos é batismo sob condição em 04/09/1818 depois de dúvida sobre batismo em casa, distinto dos óleos.
+- Pendentes por nomes: m0130-d-02 José, Manuel Manso/Matos [?] e Maria Nunes; abertura corrige explicitamente 19/02 para 02/03/1819. m0132-d-02 Luísa, José Luís Júlio/Julião [?]; m0133-e-01 Maria, Manuel Gonçalves de Antam/Antão/Antas [?]. Não escolher pelos avós ou truncar os nomes.
+- Termos conjuntos: m0133-d-02 gémeas Luísa/Maria, 24/11/1819 (corrige primeira hipótese 27); m0136-e-01 Maria/José, 04/09/1795. Não dividir artificialmente ou integrar só uma criança.
+- Certidões antigas pendentes: m0127-e-01 Bárbara (óleos 30/05/1793); m0132-e-04 Luís (27/04/1797), d-03 Manuel (31/07/1790); m0133-d-03 Isabel (27/11/1796); m0134-d-03 Júlio/Júlia [?] (19/12/1791, continuação m0135-e admite Manuel Martinho, antes Martins); m0136-e-02 Isabel (17/06/1799); m0137-e-01 Manuel (24/05/1795); m0138-e-01 Bernardo (20/02/1786, mandado 1795, redação 13/03/1820), d-01 Bernardo (24/11/1775, redação 23/03/1820); m0139-e-02 Inácio (03/11/1787), d-01 José Rodrigues (28/06/1796), d-02 João Jorge (25/02/1771); m0140-d-04 José (14/10/1793); m0142-d-02 Manuel Gonçalves (15/12/1792). Datas das cópias/mandados não são datas dos eventos; não alterar o catálogo silenciosamente.
+- m0131-d e m0132: os termos correntes dizem mil e oito centos e dezanove, 1819, reconferido no corpo; não confundir com as certidões antigas intercaladas.
+- m0136-d-03 Belizanda [?], primeira hipótese Bárbara; filiação insegura após continuação m0137-e. m0137-d-02 mãe Lucita/Lúcia Carrilha [?] ainda insegura. m0141-d-01/02 complementos maternos inseguros. Guardar hipóteses; não promover pela plausibilidade.
+- Félix José m0137-d-01 normaliza Felis José do corpo, Manuel Lourenço/Paula Nunes, 13/02/1820. José do Nascimento m0135-e-01 (30/12/1819) e Maria Inácia m0135-d-01 (12/01/1820) são nomes compostos explícitos.
+- m0132–m0137: páginas manchadas; m0138–m0143: tinta transpassada. m0143-d-03 José, 14/01/1821, José Nunes Alfaiate/Bárbara Dias; continuação m0144-e consultada apenas para fechar o termo. Retomar os novos termos da m0144.
 
 ## Cuidados do lote m0103–m0124
 
