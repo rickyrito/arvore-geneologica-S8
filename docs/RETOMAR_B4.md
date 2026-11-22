@@ -1,14 +1,23 @@
-# Retomar a leitura inicial do B4 na m0103
+# Retomar a leitura inicial do B4 na m0125
 
-Resumo de 22/11/2026. Comunicar em português e poupar contexto. Continuar a **leitura inicial a partir de m0103**. O topo esquerdo conclui Maria de `m0102-d-02`, já consultado e sem nova entrada. Inventariar os novos termos seguintes. Revisão dirigida de todos os pendentes inventariados até m0100 concluída; não repetir sem nova evidência.
+Resumo de 22/11/2026. Comunicar em português e poupar contexto. Continuar a **leitura inicial a partir de m0125**. O topo esquerdo conclui Maria de `m0124-d-03`, já consultado como continuação, ainda pendente e sem nova entrada. Inventariar os novos termos seguintes. A revisão dirigida dos pendentes inventariados até m0100 está concluída; não repetir sem nova evidência.
 
 ## Estado
 
-Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote: `99e6380`; procurar o commit pela mensagem «Revê 92 pendentes do B4 e inventaria oito assentos».
+Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base deste lote: `fbc2869`; localizar o commit pela mensagem «Lê 104 novos assentos do B4 até m0124».
 
-B4: m0001–m0102 inventariadas, 448 entradas, 326 confirmadas e 122 pendentes. Lote de 21–22/11/2026: 92 pendentes de m0040-e-01 a m0099-d-01 revistos, oito promovidos e 84 mantidos pendentes; mais oito novos assentos em m0101–m0102, seis confirmados e dois pendentes. Total: 100 assentos trabalhados, 14 confirmações. Sem novas datas de nascimento nem ligações de identidade. B1, B2, B3, base e confirmados anteriores preservados. B3: 453 entradas, 368 confirmadas e 85 pendentes. Dados da aplicação: versão 51.
+B4: m0001–m0124 inventariadas, 552 entradas, 400 confirmadas e 152 pendentes. Lote de 22/11/2026: 104 novos assentos em m0103–m0124, 74 confirmados após reconferência ampliada e 30 pendentes. Sem novas datas de nascimento ou ligações de identidade. As 448 entradas anteriores ficaram intactas, assim como B1, B2, B3 e base. B3: 453 entradas, 368 confirmadas e 85 pendentes. Dados da aplicação: versão 52.
 
-Conjunto B1+B2+B3+B4: 2796 entradas, 1581 confirmadas, 1215 pendentes; 4579 pessoas e 1520 núcleos no suplemento. Histórico integral dos 92 objetos anteriores em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`; os oito novos têm identificadores separados na mesma revisão. As imagens m0103–m0105 não foram inventariadas neste lote: m0103-e apenas consultada como continuação.
+Conjunto B1+B2+B3+B4: 2900 entradas, 1655 confirmadas e 1245 pendentes; 4801 pessoas e 1594 núcleos no suplemento. Base: 22 207 pessoas e 9253 famílias; aplicação: 27 008 pessoas e 10 847 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`. A m0125-e foi consultada apenas como continuação; os seus novos termos ainda não foram inventariados.
+
+## Cuidados do lote m0103–m0124
+
+- m0103-d-01 Manuel: 10/04/1816 data os óleos, não o batismo em casa; corrigida a primeira hipótese e mantido pendente. O mesmo cuidado aplica-se aos outros termos de óleos.
+- Certidões antigas pendentes: m0103-d-02 Manuel Nunes (25/03/1793); m0110-e-01 Manuel (04/08/1789); e-02 Maria (28/08/1785); d-01 Manuel (10/06/1787); d-02 Luísa (08/12/1795, corrigindo 1816 da primeira hipótese, apesar da margem fim do ano de 1816); m0111-d-01 Manuel Martins Dias (27/11/1784). Data da visita/cópia de 1814 não é data do evento; não alterar catálogo silenciosamente.
+- m0114-d-02 Maria Lopes: outubro de 1775 pouco mais ou menos, sem dia; batismo em casa, igreja apenas óleos. Manuel Lopes/Catarina Nunes, corrigindo hipótese paterna Lourenço; pendente.
+- Nomes pendentes: m0107-e-02 José Carvalho Quintelo/Quintello [?], não Quintão; m0109-d-02 Paulo Gonçalves com complemento repartido entre linhas, não truncar; m0110-d-03 Teresa Carrilha/Carvalha [?], não decidir pelo avô. m0124-e-01 tem emenda marginal por resolver. m0124-d-03 Maria mantém data/filiação inseguras após consultar m0125-e; não completar pelos avós.
+- Correções confirmadas em ampliação: m0112-e-02 Isabel, José Fernandes Escudeiro/Maria Pires Robalha (05/04/1817), antes Martins; m0112-d-02 Leonor, José Martins/Luísa Jorge (13/04/1817), Alfaiates é naturalidade e não apelido; m0118-d-01 Manuel, Manuel Luís da Galena/Maria Dias (11/11/1817), corrigindo Lúcia e recuperando complemento paterno; m0120-e-03 Isabel, Luís Marques/Quitéria Gonçalves, 02/02/1818, abertura aos dous dias e não vinte. m0117-d-02 conserva Metildes, grafia do corpo.
+- m0109: placa de erro de numeração; conservar IDs das imagens do arquivo. m0110–m0118: tinta transpassada; m0119: páginas manchadas. m0120-e-01 nota viveu quatro meses sem calcular óbito. Pai incógnito não cria pai/casal fictício.
 
 ## Método
 
