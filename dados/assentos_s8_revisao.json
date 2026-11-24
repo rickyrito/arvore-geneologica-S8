@@ -1,10 +1,10 @@
 {
-  "confirmados": 1829,
-  "pendentes": 2369,
+  "confirmados": 1858,
+  "pendentes": 2340,
   "por_tipo": {
     "batismo": {
-      "confirmados": 1726,
-      "pendentes": 1931
+      "confirmados": 1755,
+      "pendentes": 1902
     },
     "obito": {
       "confirmados": 61,
@@ -15,8 +15,8 @@
       "pendentes": 51
     }
   },
-  "novas_pessoas": 5323,
-  "novos_nucleos": 1768,
+  "novas_pessoas": 5410,
+  "novos_nucleos": 1797,
   "aplicados": [
     {
       "id": "S8-B1-m0004-e-03",
@@ -40721,6 +40721,30 @@
       "familia": 1662
     },
     {
+      "id": "S8-B4-m0144-e-01",
+      "imagem": "m0144",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Isabel, catorze de janeiro de 1821; José Fernandes Rêlo [?] e Bárbara Garcia. Filiação no corpo desvanecida.",
+      "crianca": {
+        "nome": "Isabel",
+        "sexo": "F"
+      },
+      "pai": "José Fernandes Relo",
+      "mae": "Bárbara Garcia",
+      "data_batismo": "14/01/1821",
+      "excerto": "Leitura normalizada dos campos essenciais: Isabel; pai José Fernandes Relo; mãe Bárbara Garcia; batismo 14/01/1821.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Nome paterno Relo lido no corpo e na margem; sem completar apelido pelos avós. Segundo matrimónio por parte do pai explicitado na redação.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Nome paterno Relo lido no corpo e na margem; sem completar apelido pelos avós. Segundo matrimónio por parte do pai explicitado na redação.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0144.jpg",
+      "pessoa": 5008,
+      "familia": 1663
+    },
+    {
       "id": "S8-B4-m0144-e-02",
       "imagem": "m0144",
       "lado": "esquerda",
@@ -40741,8 +40765,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais. Ampliação confirma Garrido no nome paterno, corrigindo Garcia da primeira hipótese.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0144.jpg",
-      "pessoa": 5008,
-      "familia": 1663
+      "pessoa": 5011,
+      "familia": 1664
     },
     {
       "id": "S8-B4-m0144-d-01",
@@ -40765,8 +40789,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0144.jpg",
-      "pessoa": 5011,
-      "familia": 1664
+      "pessoa": 5014,
+      "familia": 1665
     },
     {
       "id": "S8-B4-m0145-e-02",
@@ -40789,8 +40813,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0145.jpg",
-      "pessoa": 5014,
-      "familia": 1665
+      "pessoa": 5017,
+      "familia": 1666
     },
     {
       "id": "S8-B4-m0145-d-01",
@@ -40813,8 +40837,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0145.jpg",
-      "pessoa": 5017,
-      "familia": 1666
+      "pessoa": 5020,
+      "familia": 1667
     },
     {
       "id": "S8-B4-m0145-d-02",
@@ -40837,8 +40861,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0145.jpg",
-      "pessoa": 5020,
-      "familia": 1667
+      "pessoa": 5023,
+      "familia": 1668
     },
     {
       "id": "S8-B4-m0146-e-03",
@@ -40861,8 +40885,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0146.jpg",
-      "pessoa": 5023,
-      "familia": 1668
+      "pessoa": 5026,
+      "familia": 1669
+    },
+    {
+      "id": "S8-B4-m0146-d-01",
+      "imagem": "m0146",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Isabel, oito de abril de 1821; Domingos Pereira Correia e Maria Nunes. Emenda no corpo dos matrimónios, não completar composição paterna pela margem.",
+      "crianca": {
+        "nome": "Isabel",
+        "sexo": "F"
+      },
+      "pai": "Domingos Pereira Correia",
+      "mae": "Maria Nunes",
+      "data_batismo": "08/04/1821",
+      "excerto": "Leitura normalizada dos campos essenciais: Isabel; pai Domingos Pereira Correia; mãe Maria Nunes; batismo 08/04/1821.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Emenda explicita primeiro matrimónio da mãe e segundo do pai; a redação dos matrimónios não altera a filiação lida no corpo.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Emenda explicita primeiro matrimónio da mãe e segundo do pai; a redação dos matrimónios não altera a filiação lida no corpo.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0146.jpg",
+      "pessoa": 5029,
+      "familia": 1670
     },
     {
       "id": "S8-B4-m0146-d-02",
@@ -40885,8 +40933,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0146.jpg",
-      "pessoa": 5026,
-      "familia": 1669
+      "pessoa": 5032,
+      "familia": 1671
     },
     {
       "id": "S8-B4-m0147-e-02",
@@ -40909,8 +40957,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0147.jpg",
-      "pessoa": 5029,
-      "familia": 1670
+      "pessoa": 5035,
+      "familia": 1672
+    },
+    {
+      "id": "S8-B4-m0147-e-03",
+      "imagem": "m0147",
+      "lado": "esquerda",
+      "ordem": 3,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria Ramos, quinze de abril de 1821; Manuel Francisco Martinho e Maria Catarina. Corpo/continuação tinta transpassada, filiação a reconferir.",
+      "crianca": {
+        "nome": "Maria Ramos",
+        "sexo": "F"
+      },
+      "pai": "Manuel Francisco Martinho",
+      "mae": "Maria Catarina",
+      "data_batismo": "15/04/1821",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria Ramos; pai Manuel Francisco Martinho; mãe Maria Catarina; batismo 15/04/1821.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Nome composto Maria Ramos explícito no corpo e margem; filiação conferida no topo da página direita, sem usar os avós para a completar.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Nome composto Maria Ramos explícito no corpo e margem; filiação conferida no topo da página direita, sem usar os avós para a completar.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0147.jpg",
+      "pessoa": 5038,
+      "familia": 1673
     },
     {
       "id": "S8-B4-m0147-d-01",
@@ -40933,8 +41005,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0147.jpg",
-      "pessoa": 5032,
-      "familia": 1671
+      "pessoa": 5041,
+      "familia": 1674
     },
     {
       "id": "S8-B4-m0147-d-02",
@@ -40957,8 +41029,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0147.jpg",
-      "pessoa": 5035,
-      "familia": 1672
+      "pessoa": 5044,
+      "familia": 1675
+    },
+    {
+      "id": "S8-B4-m0147-d-03",
+      "imagem": "m0147",
+      "lado": "direita",
+      "ordem": 3,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "José, vinte e sete de maio de 1821; Miguel Fernandes e Ana Esteves; continuação m0148-e consultada, nome materno a reconferir.",
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Miguel Fernandes",
+      "mae": "Ana Esteves",
+      "data_batismo": "27/05/1821",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Miguel Fernandes; mãe Ana Esteves; batismo 27/05/1821.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Abertura no fundo da direita e filiação na continuação m0148 esquerda reconferidas; sem converter naturalidades em apelidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Abertura no fundo da direita e filiação na continuação m0148 esquerda reconferidas; sem converter naturalidades em apelidos.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0147.jpg",
+      "pessoa": 5047,
+      "familia": 1676
     },
     {
       "id": "S8-B4-m0148-e-01",
@@ -40981,8 +41077,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0148.jpg",
-      "pessoa": 5038,
-      "familia": 1673
+      "pessoa": 5050,
+      "familia": 1677
     },
     {
       "id": "S8-B4-m0148-e-03",
@@ -41005,8 +41101,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0148.jpg",
-      "pessoa": 5041,
-      "familia": 1674
+      "pessoa": 5053,
+      "familia": 1678
+    },
+    {
+      "id": "S8-B4-m0148-d-01",
+      "imagem": "m0148",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Domingos, dezassete de junho de 1821; Manuel Nunes [complemento?] e Ana Fernandes. Composição paterna insegura.",
+      "crianca": {
+        "nome": "Domingos",
+        "sexo": "M"
+      },
+      "pai": "Manuel Nunes Queimado",
+      "mae": "Ana Fernandes",
+      "data_batismo": "17/06/1821",
+      "excerto": "Leitura normalizada dos campos essenciais: Domingos; pai Manuel Nunes Queimado; mãe Ana Fernandes; batismo 17/06/1821.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Recuperado complemento Queimado no corpo e margem; hipótese inicial Manuel Nunes incompleta.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Recuperado complemento Queimado no corpo e margem; hipótese inicial Manuel Nunes incompleta.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0148.jpg",
+      "pessoa": 5056,
+      "familia": 1679
     },
     {
       "id": "S8-B4-m0148-d-02",
@@ -41029,8 +41149,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0148.jpg",
-      "pessoa": 5044,
-      "familia": 1675
+      "pessoa": 5059,
+      "familia": 1680
+    },
+    {
+      "id": "S8-B4-m0148-d-03",
+      "imagem": "m0148",
+      "lado": "direita",
+      "ordem": 3,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel, seis de agosto de 1821; Manuel Nunes de [complemento?] e Maria Ramos. Continuação m0149-e; tinta transpassada.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Nunes da Mata",
+      "mae": "Maria Ramos",
+      "data_batismo": "06/08/1821",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Manuel Nunes da Mata; mãe Maria Ramos; batismo 06/08/1821.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Filiação reconferida entre o fundo da direita e continuação m0149 esquerda; complemento paterno da Mata explícito, sem o deduzir dos avós.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Filiação reconferida entre o fundo da direita e continuação m0149 esquerda; complemento paterno da Mata explícito, sem o deduzir dos avós.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0148.jpg",
+      "pessoa": 5062,
+      "familia": 1681
     },
     {
       "id": "S8-B4-m0149-e-01",
@@ -41053,8 +41197,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0149.jpg",
-      "pessoa": 5047,
-      "familia": 1676
+      "pessoa": 5065,
+      "familia": 1682
     },
     {
       "id": "S8-B4-m0149-e-03",
@@ -41077,8 +41221,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0149.jpg",
-      "pessoa": 5050,
-      "familia": 1677
+      "pessoa": 5068,
+      "familia": 1683
+    },
+    {
+      "id": "S8-B4-m0149-d-01",
+      "imagem": "m0149",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel, vinte e três de setembro de 1821; José Jorge e Isabel Esteves. Campo paterno/complemento encoberto pelo selo, reconferir.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "José Jorge",
+      "mae": "Isabel Esteves",
+      "data_batismo": "23/09/1821",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai José Jorge; mãe Isabel Esteves; batismo 23/09/1821.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Filiação reconferida no corpo junto ao selo e na margem; não acrescentado complemento paterno encoberto ou inferido.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Filiação reconferida no corpo junto ao selo e na margem; não acrescentado complemento paterno encoberto ou inferido.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0149.jpg",
+      "pessoa": 5071,
+      "familia": 1684
     },
     {
       "id": "S8-B4-m0149-d-02",
@@ -41101,8 +41269,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0149.jpg",
-      "pessoa": 5053,
-      "familia": 1678
+      "pessoa": 5074,
+      "familia": 1685
     },
     {
       "id": "S8-B4-m0149-d-03",
@@ -41125,8 +41293,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0149.jpg",
-      "pessoa": 5056,
-      "familia": 1679
+      "pessoa": 5077,
+      "familia": 1686
+    },
+    {
+      "id": "S8-B4-m0149-d-04",
+      "imagem": "m0149",
+      "lado": "direita",
+      "ordem": 4,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Luísa, dois de outubro de 1821; Manuel Vaz e Ana Dias. Matrimónio descrito contraiu/diferente cronologia; nomes essenciais a reconferir em ampliação.",
+      "crianca": {
+        "nome": "Luísa",
+        "sexo": "F"
+      },
+      "pai": "Manuel Vaz",
+      "mae": "Ana Dias",
+      "data_batismo": "02/10/1821",
+      "excerto": "Leitura normalizada dos campos essenciais: Luísa; pai Manuel Vaz; mãe Ana Dias; batismo 02/10/1821.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Campos essenciais lidos no corpo; a redação sobre matrimónio contraído depois fica provisória, sem inferir data de casamento nem legitimidade.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Campos essenciais lidos no corpo; a redação sobre matrimónio contraído depois fica provisória, sem inferir data de casamento nem legitimidade.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0149.jpg",
+      "pessoa": 5080,
+      "familia": 1687
     },
     {
       "id": "S8-B4-m0150-e-01",
@@ -41149,8 +41341,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0150.jpg",
-      "pessoa": 5059,
-      "familia": 1680
+      "pessoa": 5083,
+      "familia": 1688
     },
     {
       "id": "S8-B4-m0150-d-01",
@@ -41173,8 +41365,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0150.jpg",
-      "pessoa": 5062,
-      "familia": 1681
+      "pessoa": 5086,
+      "familia": 1689
     },
     {
       "id": "S8-B4-m0150-d-02",
@@ -41197,8 +41389,56 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0150.jpg",
-      "pessoa": 5065,
-      "familia": 1682
+      "pessoa": 5089,
+      "familia": 1690
+    },
+    {
+      "id": "S8-B4-m0150-d-03",
+      "imagem": "m0150",
+      "lado": "direita",
+      "ordem": 3,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel, dezoito de dezembro de 1821; Manuel Garcia e Maria Rabela. Nome paterno pode conter complemento, reconferir.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "Manuel Garcia",
+      "mae": "Maria Rabela",
+      "data_batismo": "18/12/1821",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai Manuel Garcia; mãe Maria Rabela; batismo 18/12/1821.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Ampliação da filiação no corpo não mostra complemento adicional no nome paterno; não usar nomes dos avós para o prolongar.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Ampliação da filiação no corpo não mostra complemento adicional no nome paterno; não usar nomes dos avós para o prolongar.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0150.jpg",
+      "pessoa": 5092,
+      "familia": 1691
+    },
+    {
+      "id": "S8-B4-m0151-e-01",
+      "imagem": "m0151",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "José, vinte e três de dezembro de 1821; José Alves, natural Alfaiates, e Luísa Jorge. Nome materno e remissão a idade paterna a reconferir.",
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "José Alves",
+      "mae": "Luísa Jorge",
+      "data_batismo": "23/12/1821",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai José Alves; mãe Luísa Jorge; batismo 23/12/1821.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Alfaiates é naturalidade do pai; remissão sobre primeiro/segundo matrimónio não altera os nomes essenciais.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Alfaiates é naturalidade do pai; remissão sobre primeiro/segundo matrimónio não altera os nomes essenciais.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg",
+      "pessoa": 5095,
+      "familia": 1692
     },
     {
       "id": "S8-B4-m0151-e-02",
@@ -41221,8 +41461,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg",
-      "pessoa": 5068,
-      "familia": 1683
+      "pessoa": 5098,
+      "familia": 1693
     },
     {
       "id": "S8-B4-m0151-e-03",
@@ -41245,8 +41485,80 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg",
-      "pessoa": 5071,
-      "familia": 1684
+      "pessoa": 5101,
+      "familia": 1694
+    },
+    {
+      "id": "S8-B4-m0151-d-02",
+      "imagem": "m0151",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Francisca, trinta de janeiro de 1822; Domingos Martins e Maria Pires, pai natural Rendo; filiação materna a reconferir.",
+      "crianca": {
+        "nome": "Francisca",
+        "sexo": "F"
+      },
+      "pai": "Domingos Martins",
+      "mae": "Maria Pires",
+      "data_batismo": "30/01/1822",
+      "excerto": "Leitura normalizada dos campos essenciais: Francisca; pai Domingos Martins; mãe Maria Pires; batismo 30/01/1822.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Filiação materna reconferida no corpo; Rendo permanece naturalidade e não complemento do pai.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Filiação materna reconferida no corpo; Rendo permanece naturalidade e não complemento do pai.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg",
+      "pessoa": 5104,
+      "familia": 1695
+    },
+    {
+      "id": "S8-B4-m0151-d-03",
+      "imagem": "m0151",
+      "lado": "direita",
+      "ordem": 3,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Ana Maria, doze de janeiro de 1822; Domingos Nunes e Francisca Martins, esta natural da vila de Espinho. Primeira leitura visual.",
+      "crianca": {
+        "nome": "Ana Maria",
+        "sexo": "F"
+      },
+      "pai": "Domingos Nunes",
+      "mae": "Francisca Martins",
+      "data_batismo": "12/01/1822",
+      "excerto": "Leitura normalizada dos campos essenciais: Ana Maria; pai Domingos Nunes; mãe Francisca Martins; batismo 12/01/1822.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Nome composto e data fora da sequência visualmente reconferidos; não corrigir janeiro pela ordem dos termos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Nome composto e data fora da sequência visualmente reconferidos; não corrigir janeiro pela ordem dos termos.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg",
+      "pessoa": 5107,
+      "familia": 1696
+    },
+    {
+      "id": "S8-B4-m0151-d-04",
+      "imagem": "m0151",
+      "lado": "direita",
+      "ordem": 4,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Nicolau, treze de janeiro de 1822; José Lopes e Isabel Lourença; continuação m0152-e consultada. Nome materno a reconferir.",
+      "crianca": {
+        "nome": "Nicolau",
+        "sexo": "M"
+      },
+      "pai": "José Lopes",
+      "mae": "Isabel Lourença",
+      "data_batismo": "13/01/1822",
+      "excerto": "Leitura normalizada dos campos essenciais: Nicolau; pai José Lopes; mãe Isabel Lourença; batismo 13/01/1822.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Abertura no fundo da direita e filiação na continuação m0152 esquerda reconferidas; nomes maternos não completados pelos avós.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Abertura no fundo da direita e filiação na continuação m0152 esquerda reconferidas; nomes maternos não completados pelos avós.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg",
+      "pessoa": 5110,
+      "familia": 1697
     },
     {
       "id": "S8-B4-m0152-d-01",
@@ -41269,8 +41581,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0152.jpg",
-      "pessoa": 5074,
-      "familia": 1685
+      "pessoa": 5113,
+      "familia": 1698
+    },
+    {
+      "id": "S8-B4-m0152-d-03",
+      "imagem": "m0152",
+      "lado": "direita",
+      "ordem": 3,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Joaquim, vinte de fevereiro de 1822; Manuel Garcia e Maria Pires. Pai natural Alfaiates; composição e naturalidade a reconferir.",
+      "crianca": {
+        "nome": "Joaquim",
+        "sexo": "M"
+      },
+      "pai": "Manuel Garcia",
+      "mae": "Maria Pires",
+      "data_batismo": "20/02/1822",
+      "excerto": "Leitura normalizada dos campos essenciais: Joaquim; pai Manuel Garcia; mãe Maria Pires; batismo 20/02/1822.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Naturalidade paterna Alfaiates não é complemento do nome; o segundo matrimónio refere-se expressamente à mãe Maria Pires.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Naturalidade paterna Alfaiates não é complemento do nome; o segundo matrimónio refere-se expressamente à mãe Maria Pires.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0152.jpg",
+      "pessoa": 5116,
+      "familia": 1699
     },
     {
       "id": "S8-B4-m0152-d-04",
@@ -41293,8 +41629,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0152.jpg",
-      "pessoa": 5077,
-      "familia": 1686
+      "pessoa": 5119,
+      "familia": 1700
     },
     {
       "id": "S8-B4-m0153-e-01",
@@ -41317,8 +41653,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0153.jpg",
-      "pessoa": 5080,
-      "familia": 1687
+      "pessoa": 5122,
+      "familia": 1701
     },
     {
       "id": "S8-B4-m0153-e-03",
@@ -41341,8 +41677,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais. Ampliação confirma Angella/Ângela no nome materno, corrigindo Ana da primeira hipótese.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0153.jpg",
-      "pessoa": 5083,
-      "familia": 1688
+      "pessoa": 5125,
+      "familia": 1702
     },
     {
       "id": "S8-B4-m0153-d-02",
@@ -41365,8 +41701,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0153.jpg",
-      "pessoa": 5086,
-      "familia": 1689
+      "pessoa": 5128,
+      "familia": 1703
     },
     {
       "id": "S8-B4-m0155-d-02",
@@ -41389,8 +41725,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0155.jpg",
-      "pessoa": 5089,
-      "familia": 1690
+      "pessoa": 5131,
+      "familia": 1704
     },
     {
       "id": "S8-B4-m0156-e-01",
@@ -41413,8 +41749,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0156.jpg",
-      "pessoa": 5092,
-      "familia": 1691
+      "pessoa": 5134,
+      "familia": 1705
     },
     {
       "id": "S8-B4-m0156-e-02",
@@ -41437,8 +41773,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0156.jpg",
-      "pessoa": 5095,
-      "familia": 1692
+      "pessoa": 5137,
+      "familia": 1706
     },
     {
       "id": "S8-B4-m0156-d-02",
@@ -41461,8 +41797,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0156.jpg",
-      "pessoa": 5098,
-      "familia": 1693
+      "pessoa": 5140,
+      "familia": 1707
     },
     {
       "id": "S8-B4-m0156-d-03",
@@ -41485,8 +41821,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0156.jpg",
-      "pessoa": 5101,
-      "familia": 1694
+      "pessoa": 5143,
+      "familia": 1708
+    },
+    {
+      "id": "S8-B4-m0157-d-02",
+      "imagem": "m0157",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria, três de julho de 1822; Manuel Carvalho e Luísa Martins. Manchas sobre a filiação, reconferir.",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Manuel Carvalho",
+      "mae": "Luísa Martins",
+      "data_batismo": "03/07/1822",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai Manuel Carvalho; mãe Luísa Martins; batismo 03/07/1822.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0157.jpg",
+      "pessoa": 5146,
+      "familia": 1709
     },
     {
       "id": "S8-B4-m0158-e-01",
@@ -41509,8 +41869,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0158.jpg",
-      "pessoa": 5104,
-      "familia": 1695
+      "pessoa": 5149,
+      "familia": 1710
     },
     {
       "id": "S8-B4-m0158-e-02",
@@ -41533,8 +41893,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0158.jpg",
-      "pessoa": 5107,
-      "familia": 1696
+      "pessoa": 5152,
+      "familia": 1711
+    },
+    {
+      "id": "S8-B4-m0158-e-03",
+      "imagem": "m0158",
+      "lado": "esquerda",
+      "ordem": 3,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Bento, dois de setembro de 1822; José Robalo e Isabel Gonçalves [complemento?]. Continuação m0158-d consultada; filiação na zona manchada.",
+      "crianca": {
+        "nome": "Bento",
+        "sexo": "M"
+      },
+      "pai": "José Robalo",
+      "mae": "Isabel Gonçalves",
+      "data_batismo": "02/09/1822",
+      "excerto": "Leitura normalizada dos campos essenciais: Bento; pai José Robalo; mãe Isabel Gonçalves; batismo 02/09/1822.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Continuação em m0158-d: avós e fecho do termo; sem complemento adicional seguro no nome materno.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Continuação em m0158-d: avós e fecho do termo; sem complemento adicional seguro no nome materno.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0158.jpg",
+      "pessoa": 5155,
+      "familia": 1712
     },
     {
       "id": "S8-B4-m0158-d-03",
@@ -41557,8 +41941,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0158.jpg",
-      "pessoa": 5110,
-      "familia": 1697
+      "pessoa": 5158,
+      "familia": 1713
     },
     {
       "id": "S8-B4-m0159-e-03",
@@ -41581,8 +41965,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0159.jpg",
-      "pessoa": 5113,
-      "familia": 1698
+      "pessoa": 5161,
+      "familia": 1714
+    },
+    {
+      "id": "S8-B4-m0159-d-02",
+      "imagem": "m0159",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "José, vinte e quatro de setembro de 1822; Manuel Dias Antão e Josefa Lopes. Data aparentemente repetida; reconferir abertura e filiação.",
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Manuel Dias Antão",
+      "mae": "Josefa Lopes",
+      "data_batismo": "24/09/1822",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Manuel Dias Antão; mãe Josefa Lopes; batismo 24/09/1822.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0159.jpg",
+      "pessoa": 5164,
+      "familia": 1715
     },
     {
       "id": "S8-B4-m0160-e-04",
@@ -41605,8 +42013,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0160.jpg",
-      "pessoa": 5116,
-      "familia": 1699
+      "pessoa": 5167,
+      "familia": 1716
     },
     {
       "id": "S8-B4-m0160-d-01",
@@ -41629,8 +42037,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0160.jpg",
-      "pessoa": 5119,
-      "familia": 1700
+      "pessoa": 5170,
+      "familia": 1717
     },
     {
       "id": "S8-B4-m0161-e-01",
@@ -41653,8 +42061,80 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0161.jpg",
-      "pessoa": 5122,
-      "familia": 1701
+      "pessoa": 5173,
+      "familia": 1718
+    },
+    {
+      "id": "S8-B4-m0161-e-03",
+      "imagem": "m0161",
+      "lado": "esquerda",
+      "ordem": 3,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Manuel, vinte e quatro de novembro de 1822; José Carvalho e Maria Gonçalves. Naturalidades não são apelidos; continuação m0161-d.",
+      "crianca": {
+        "nome": "Manuel",
+        "sexo": "M"
+      },
+      "pai": "José Carvalho",
+      "mae": "Maria Gonçalves",
+      "data_batismo": "24/11/1822",
+      "excerto": "Leitura normalizada dos campos essenciais: Manuel; pai José Carvalho; mãe Maria Gonçalves; batismo 24/11/1822.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Continuação em m0161-d com padrinhos e fecho; filiação lida no corpo.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Continuação em m0161-d com padrinhos e fecho; filiação lida no corpo.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0161.jpg",
+      "pessoa": 5176,
+      "familia": 1719
+    },
+    {
+      "id": "S8-B4-m0161-d-01",
+      "imagem": "m0161",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "José, vinte e dois de novembro de 1822; Luís Gonçalves Loureiro e Luísa Nunes. Nome paterno junto à mancha a reconferir.",
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Luís Gonçalves Loureiro",
+      "mae": "Luísa Nunes",
+      "data_batismo": "22/11/1822",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Luís Gonçalves Loureiro; mãe Luísa Nunes; batismo 22/11/1822.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0161.jpg",
+      "pessoa": 5179,
+      "familia": 1720
+    },
+    {
+      "id": "S8-B4-m0161-d-02",
+      "imagem": "m0161",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "José; batismo 01/12/1822; José Nunes de Matos e Maria Rabela. ",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Ambos os nomes parentais completos no corpo; Rabela surge na ascendência, sem o atribuir à mãe.",
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "José Nunes de Matos",
+      "mae": "Maria Nunes de Matos",
+      "data_batismo": "01/12/1822",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai José Nunes de Matos; mãe Maria Nunes de Matos; batismo 01/12/1822.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Ambos os nomes parentais completos no corpo; Rabela surge na ascendência, sem o atribuir à mãe.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0161.jpg",
+      "pessoa": 5182,
+      "familia": 1721
     },
     {
       "id": "S8-B4-m0161-d-03",
@@ -41677,8 +42157,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais. Abertura ampliada lê quinze de dezembro, corrigindo quatro da primeira hipótese.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0161.jpg",
-      "pessoa": 5125,
-      "familia": 1702
+      "pessoa": 5185,
+      "familia": 1722
     },
     {
       "id": "S8-B4-m0162-e-01",
@@ -41701,8 +42181,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0162.jpg",
-      "pessoa": 5128,
-      "familia": 1703
+      "pessoa": 5188,
+      "familia": 1723
     },
     {
       "id": "S8-B4-m0162-e-03",
@@ -41725,8 +42205,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0162.jpg",
-      "pessoa": 5131,
-      "familia": 1704
+      "pessoa": 5191,
+      "familia": 1724
     },
     {
       "id": "S8-B4-m0162-d-02",
@@ -41749,8 +42229,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0162.jpg",
-      "pessoa": 5134,
-      "familia": 1705
+      "pessoa": 5194,
+      "familia": 1725
     },
     {
       "id": "S8-B4-m0162-d-03",
@@ -41773,8 +42253,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0162.jpg",
-      "pessoa": 5137,
-      "familia": 1706
+      "pessoa": 5197,
+      "familia": 1726
     },
     {
       "id": "S8-B4-m0163-e-01",
@@ -41797,8 +42277,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0163.jpg",
-      "pessoa": 5140,
-      "familia": 1707
+      "pessoa": 5200,
+      "familia": 1727
     },
     {
       "id": "S8-B4-m0163-d-01",
@@ -41821,8 +42301,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0163.jpg",
-      "pessoa": 5143,
-      "familia": 1708
+      "pessoa": 5203,
+      "familia": 1728
     },
     {
       "id": "S8-B4-m0164-e-01",
@@ -41845,8 +42325,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0164.jpg",
-      "pessoa": 5146,
-      "familia": 1709
+      "pessoa": 5206,
+      "familia": 1729
     },
     {
       "id": "S8-B4-m0164-e-03",
@@ -41869,8 +42349,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0164.jpg",
-      "pessoa": 5149,
-      "familia": 1710
+      "pessoa": 5209,
+      "familia": 1730
     },
     {
       "id": "S8-B4-m0164-d-03",
@@ -41893,8 +42373,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0164.jpg",
-      "pessoa": 5152,
-      "familia": 1711
+      "pessoa": 5212,
+      "familia": 1731
     },
     {
       "id": "S8-B4-m0165-e-01",
@@ -41917,8 +42397,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0165.jpg",
-      "pessoa": 5155,
-      "familia": 1712
+      "pessoa": 5215,
+      "familia": 1732
     },
     {
       "id": "S8-B4-m0165-d-01",
@@ -41941,8 +42421,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0165.jpg",
-      "pessoa": 5158,
-      "familia": 1713
+      "pessoa": 5218,
+      "familia": 1733
     },
     {
       "id": "S8-B4-m0165-d-02",
@@ -41965,8 +42445,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0165.jpg",
-      "pessoa": 5161,
-      "familia": 1714
+      "pessoa": 5221,
+      "familia": 1734
     },
     {
       "id": "S8-B4-m0165-d-03",
@@ -41989,8 +42469,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0165.jpg",
-      "pessoa": 5164,
-      "familia": 1715
+      "pessoa": 5224,
+      "familia": 1735
     },
     {
       "id": "S8-B4-m0166-e-01",
@@ -42013,8 +42493,32 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0166.jpg",
-      "pessoa": 5167,
-      "familia": 1716
+      "pessoa": 5227,
+      "familia": 1736
+    },
+    {
+      "id": "S8-B4-m0166-e-02",
+      "imagem": "m0166",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "José, vinte de maio de 1823; Domingos Correia e Maria Nunes. Mãe do segundo matrimónio; texto refere tutela e matrimónios, por reconferir.",
+      "crianca": {
+        "nome": "José",
+        "sexo": "M"
+      },
+      "pai": "Domingos Correia",
+      "mae": "Maria Nunes",
+      "data_batismo": "20/05/1823",
+      "excerto": "Leitura normalizada dos campos essenciais: José; pai Domingos Correia; mãe Maria Nunes; batismo 20/05/1823.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Texto refere segundo matrimónio por parte do pai e primeiro por parte da mãe; conservar a redação sem deduzir identidades ou tutela.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Texto refere segundo matrimónio por parte do pai e primeiro por parte da mãe; conservar a redação sem deduzir identidades ou tutela.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0166.jpg",
+      "pessoa": 5230,
+      "familia": 1737
     },
     {
       "id": "S8-B4-m0166-d-01",
@@ -42037,8 +42541,200 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0166.jpg",
-      "pessoa": 5170,
-      "familia": 1717
+      "pessoa": 5233,
+      "familia": 1738
+    },
+    {
+      "id": "S8-B4-m0168-e-01",
+      "imagem": "m0168",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Isabel, cinco de maio de 1819; Francisco Martins Viegas e Angélica Nunes. Menções provisórias.",
+      "crianca": {
+        "nome": "Isabel",
+        "sexo": "F"
+      },
+      "pai": "Francisco Martins Viegas",
+      "mae": "Angélica Nunes",
+      "data_batismo": "05/05/1819",
+      "excerto": "Leitura normalizada dos campos essenciais: Isabel; pai Francisco Martins Viegas; mãe Angélica Nunes; batismo 05/05/1819.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0168.jpg",
+      "pessoa": 5236,
+      "familia": 1739
+    },
+    {
+      "id": "S8-B4-m0168-d-01",
+      "imagem": "m0168",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "João, quinze de maio de 1819; José Lopes e Isabel Lourença [?].",
+      "crianca": {
+        "nome": "João",
+        "sexo": "M"
+      },
+      "pai": "José Lopes",
+      "mae": "Isabel Lourença",
+      "data_batismo": "15/05/1819",
+      "excerto": "Leitura normalizada dos campos essenciais: João; pai José Lopes; mãe Isabel Lourença; batismo 15/05/1819.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0168.jpg",
+      "pessoa": 5239,
+      "familia": 1740
+    },
+    {
+      "id": "S8-B4-m0168-d-02",
+      "imagem": "m0168",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Luísa, quinze de maio de 1819; António Martins da Costa e Quitéria Garcia. Menções provisórias.",
+      "crianca": {
+        "nome": "Luísa",
+        "sexo": "F"
+      },
+      "pai": "António Martins da Costa",
+      "mae": "Quitéria Garcia",
+      "data_batismo": "15/05/1819",
+      "excerto": "Leitura normalizada dos campos essenciais: Luísa; pai António Martins da Costa; mãe Quitéria Garcia; batismo 15/05/1819.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0168.jpg",
+      "pessoa": 5242,
+      "familia": 1741
+    },
+    {
+      "id": "S8-B4-m0169-e-01",
+      "imagem": "m0169",
+      "lado": "esquerda",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Catarina, vinte e nove de maio de 1819; Francisco Jorge Barrozo e Isabel Carrilha. Menções provisórias.",
+      "crianca": {
+        "nome": "Catarina",
+        "sexo": "F"
+      },
+      "pai": "Francisco Jorge Barrozo",
+      "mae": "Isabel Carrilha",
+      "data_batismo": "29/05/1819",
+      "excerto": "Leitura normalizada dos campos essenciais: Catarina; pai Francisco Jorge Barrozo; mãe Isabel Carrilha; batismo 29/05/1819.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0169.jpg",
+      "pessoa": 5245,
+      "familia": 1742
+    },
+    {
+      "id": "S8-B4-m0169-e-03",
+      "imagem": "m0169",
+      "lado": "esquerda",
+      "ordem": 3,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Domingos, dezanove de junho de 1819; Manuel Lourenço e Bárbara Garcia; continua na direita.",
+      "crianca": {
+        "nome": "Domingos",
+        "sexo": "M"
+      },
+      "pai": "Manuel Lourenço",
+      "mae": "Bárbara Garcia",
+      "data_batismo": "19/06/1819",
+      "excerto": "Leitura normalizada dos campos essenciais: Domingos; pai Manuel Lourenço; mãe Bárbara Garcia; batismo 19/06/1819.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Continuação m0169-d com naturalidade, padrinhos e fecho; não confundir com termo de óleos seguinte.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Continuação m0169-d com naturalidade, padrinhos e fecho; não confundir com termo de óleos seguinte.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0169.jpg",
+      "pessoa": 5248,
+      "familia": 1743
+    },
+    {
+      "id": "S8-B4-m0170-d-01",
+      "imagem": "m0170",
+      "lado": "direita",
+      "ordem": 1,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria Helena, treze de agosto de 1819; Manuel Robalo e Leonarda Rodrigues.",
+      "crianca": {
+        "nome": "Maria Helena",
+        "sexo": "F"
+      },
+      "pai": "Manuel Robalo",
+      "mae": "Leonarda Rodrigues",
+      "data_batismo": "13/08/1819",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria Helena; pai Manuel Robalo; mãe Leonarda Rodrigues; batismo 13/08/1819.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0170.jpg",
+      "pessoa": 5251,
+      "familia": 1744
+    },
+    {
+      "id": "S8-B4-m0171-e-02",
+      "imagem": "m0171",
+      "lado": "esquerda",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Lídia, dezasseis de setembro de 1819; Manuel Fernandes Carrilho e Isabel Joaquina Gonçalves.",
+      "crianca": {
+        "nome": "Lídia",
+        "sexo": "F"
+      },
+      "pai": "Manuel Fernandes Carrilho",
+      "mae": "Isabel Joaquina Gonçalves",
+      "data_batismo": "16/09/1819",
+      "excerto": "Leitura normalizada dos campos essenciais: Lídia; pai Manuel Fernandes Carrilho; mãe Isabel Joaquina Gonçalves; batismo 16/09/1819.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0171.jpg",
+      "pessoa": 5254,
+      "familia": 1745
+    },
+    {
+      "id": "S8-B4-m0171-d-02",
+      "imagem": "m0171",
+      "lado": "direita",
+      "ordem": 2,
+      "tipo": "batismo",
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Maria, três de julho de 1823; Manuel João e Rita Pires.",
+      "crianca": {
+        "nome": "Maria",
+        "sexo": "F"
+      },
+      "pai": "Manuel João",
+      "mae": "Rita Pires",
+      "data_batismo": "03/07/1823",
+      "excerto": "Leitura normalizada dos campos essenciais: Maria; pai Manuel João; mãe Rita Pires; batismo 03/07/1823.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos.",
+      "nota_revisao": "24/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico.",
+      "livro": "PT/TT/PRQ/PSBG34/001/B4",
+      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0171.jpg",
+      "pessoa": 5257,
+      "familia": 1746
     },
     {
       "id": "S8-B4-m0172-d-02",
@@ -42061,8 +42757,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0172.jpg",
-      "pessoa": 5173,
-      "familia": 1718
+      "pessoa": 5260,
+      "familia": 1747
     },
     {
       "id": "S8-B4-m0173-d-02",
@@ -42085,8 +42781,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0173.jpg",
-      "pessoa": 5176,
-      "familia": 1719
+      "pessoa": 5263,
+      "familia": 1748
     },
     {
       "id": "S8-B4-m0174-d-02",
@@ -42109,8 +42805,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0174.jpg",
-      "pessoa": 5179,
-      "familia": 1720
+      "pessoa": 5266,
+      "familia": 1749
     },
     {
       "id": "S8-B4-m0175-e-03",
@@ -42133,8 +42829,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais. Nome materno corrigido de Isabel Marques para Isabel Mansa após ampliação.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0175.jpg",
-      "pessoa": 5182,
-      "familia": 1721
+      "pessoa": 5269,
+      "familia": 1750
     },
     {
       "id": "S8-B4-m0178-e-01",
@@ -42157,8 +42853,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0178.jpg",
-      "pessoa": 5185,
-      "familia": 1722
+      "pessoa": 5272,
+      "familia": 1751
     },
     {
       "id": "S8-B4-m0179-e-01",
@@ -42181,8 +42877,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0179.jpg",
-      "pessoa": 5188,
-      "familia": 1723
+      "pessoa": 5275,
+      "familia": 1752
     },
     {
       "id": "S8-B4-m0180-e-01",
@@ -42205,8 +42901,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0180.jpg",
-      "pessoa": 5191,
-      "familia": 1724
+      "pessoa": 5278,
+      "familia": 1753
     },
     {
       "id": "S8-B4-m0180-d-02",
@@ -42229,8 +42925,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0180.jpg",
-      "pessoa": 5194,
-      "familia": 1725
+      "pessoa": 5281,
+      "familia": 1754
     },
     {
       "id": "S8-B4-m0181-e-01",
@@ -42253,8 +42949,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0181.jpg",
-      "pessoa": 5197,
-      "familia": 1726
+      "pessoa": 5284,
+      "familia": 1755
     },
     {
       "id": "S8-B4-m0181-e-02",
@@ -42277,8 +42973,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0181.jpg",
-      "pessoa": 5200,
-      "familia": 1727
+      "pessoa": 5287,
+      "familia": 1756
     },
     {
       "id": "S8-B4-m0183-e-01",
@@ -42301,8 +42997,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0183.jpg",
-      "pessoa": 5203,
-      "familia": 1728
+      "pessoa": 5290,
+      "familia": 1757
     },
     {
       "id": "S8-B4-m0183-d-02",
@@ -42325,8 +43021,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0183.jpg",
-      "pessoa": 5206,
-      "familia": 1729
+      "pessoa": 5293,
+      "familia": 1758
     },
     {
       "id": "S8-B4-m0184-e-02",
@@ -42349,8 +43045,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0184.jpg",
-      "pessoa": 5209,
-      "familia": 1730
+      "pessoa": 5296,
+      "familia": 1759
     },
     {
       "id": "S8-B4-m0187-e-01",
@@ -42373,8 +43069,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0187.jpg",
-      "pessoa": 5212,
-      "familia": 1731
+      "pessoa": 5299,
+      "familia": 1760
     },
     {
       "id": "S8-B4-m0187-d-02",
@@ -42397,8 +43093,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0187.jpg",
-      "pessoa": 5215,
-      "familia": 1732
+      "pessoa": 5302,
+      "familia": 1761
     },
     {
       "id": "S8-B4-m0188-e-02",
@@ -42421,8 +43117,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0188.jpg",
-      "pessoa": 5218,
-      "familia": 1733
+      "pessoa": 5305,
+      "familia": 1762
     },
     {
       "id": "S8-B4-m0188-d-02",
@@ -42445,8 +43141,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0188.jpg",
-      "pessoa": 5221,
-      "familia": 1734
+      "pessoa": 5308,
+      "familia": 1763
     },
     {
       "id": "S8-B4-m0190-e-01",
@@ -42469,8 +43165,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0190.jpg",
-      "pessoa": 5224,
-      "familia": 1735
+      "pessoa": 5311,
+      "familia": 1764
     },
     {
       "id": "S8-B4-m0190-d-01",
@@ -42493,8 +43189,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0190.jpg",
-      "pessoa": 5227,
-      "familia": 1736
+      "pessoa": 5314,
+      "familia": 1765
     },
     {
       "id": "S8-B4-m0190-d-03",
@@ -42517,8 +43213,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0190.jpg",
-      "pessoa": 5230,
-      "familia": 1737
+      "pessoa": 5317,
+      "familia": 1766
     },
     {
       "id": "S8-B4-m0191-e-01",
@@ -42541,8 +43237,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0191.jpg",
-      "pessoa": 5233,
-      "familia": 1738
+      "pessoa": 5320,
+      "familia": 1767
     },
     {
       "id": "S8-B4-m0191-e-03",
@@ -42565,8 +43261,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0191.jpg",
-      "pessoa": 5236,
-      "familia": 1739
+      "pessoa": 5323,
+      "familia": 1768
     },
     {
       "id": "S8-B4-m0198-d-02",
@@ -42589,8 +43285,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0198.jpg",
-      "pessoa": 5239,
-      "familia": 1740
+      "pessoa": 5326,
+      "familia": 1769
     },
     {
       "id": "S8-B4-m0200-e-02",
@@ -42613,8 +43309,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0200.jpg",
-      "pessoa": 5242,
-      "familia": 1741
+      "pessoa": 5329,
+      "familia": 1770
     },
     {
       "id": "S8-B4-m0200-d-01",
@@ -42637,8 +43333,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0200.jpg",
-      "pessoa": 5245,
-      "familia": 1742
+      "pessoa": 5332,
+      "familia": 1771
     },
     {
       "id": "S8-B4-m0201-e-01",
@@ -42661,8 +43357,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0201.jpg",
-      "pessoa": 5248,
-      "familia": 1743
+      "pessoa": 5335,
+      "familia": 1772
     },
     {
       "id": "S8-B4-m0202-e-01",
@@ -42685,8 +43381,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0202.jpg",
-      "pessoa": 5251,
-      "familia": 1744
+      "pessoa": 5338,
+      "familia": 1773
     },
     {
       "id": "S8-B4-m0202-e-02",
@@ -42709,8 +43405,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0202.jpg",
-      "pessoa": 5254,
-      "familia": 1745
+      "pessoa": 5341,
+      "familia": 1774
     },
     {
       "id": "S8-B4-m0202-d-03",
@@ -42733,8 +43429,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0202.jpg",
-      "pessoa": 5257,
-      "familia": 1746
+      "pessoa": 5344,
+      "familia": 1775
     },
     {
       "id": "S8-B4-m0203-e-01",
@@ -42757,8 +43453,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0203.jpg",
-      "pessoa": 5260,
-      "familia": 1747
+      "pessoa": 5347,
+      "familia": 1776
     },
     {
       "id": "S8-B4-m0203-d-01",
@@ -42781,8 +43477,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0203.jpg",
-      "pessoa": 5263,
-      "familia": 1748
+      "pessoa": 5350,
+      "familia": 1777
     },
     {
       "id": "S8-B4-m0206-d-01",
@@ -42805,8 +43501,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0206.jpg",
-      "pessoa": 5266,
-      "familia": 1749
+      "pessoa": 5353,
+      "familia": 1778
     },
     {
       "id": "S8-B4-m0207-e-02",
@@ -42829,8 +43525,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0207.jpg",
-      "pessoa": 5269,
-      "familia": 1750
+      "pessoa": 5356,
+      "familia": 1779
     },
     {
       "id": "S8-B4-m0208-d-03",
@@ -42853,8 +43549,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0208.jpg",
-      "pessoa": 5272,
-      "familia": 1751
+      "pessoa": 5359,
+      "familia": 1780
     },
     {
       "id": "S8-B4-m0210-e-01",
@@ -42877,8 +43573,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0210.jpg",
-      "pessoa": 5275,
-      "familia": 1752
+      "pessoa": 5362,
+      "familia": 1781
     },
     {
       "id": "S8-B4-m0211-e-01",
@@ -42901,8 +43597,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0211.jpg",
-      "pessoa": 5278,
-      "familia": 1753
+      "pessoa": 5365,
+      "familia": 1782
     },
     {
       "id": "S8-B4-m0212-e-02",
@@ -42925,8 +43621,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0212.jpg",
-      "pessoa": 5281,
-      "familia": 1754
+      "pessoa": 5368,
+      "familia": 1783
     },
     {
       "id": "S8-B4-m0213-d-01",
@@ -42949,8 +43645,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0213.jpg",
-      "pessoa": 5284,
-      "familia": 1755
+      "pessoa": 5371,
+      "familia": 1784
     },
     {
       "id": "S8-B4-m0214-e-01",
@@ -42973,8 +43669,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0214.jpg",
-      "pessoa": 5287,
-      "familia": 1756
+      "pessoa": 5374,
+      "familia": 1785
     },
     {
       "id": "S8-B4-m0214-d-01",
@@ -42997,8 +43693,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0214.jpg",
-      "pessoa": 5290,
-      "familia": 1757
+      "pessoa": 5377,
+      "familia": 1786
     },
     {
       "id": "S8-B4-m0218-e-02",
@@ -43021,8 +43717,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0218.jpg",
-      "pessoa": 5293,
-      "familia": 1758
+      "pessoa": 5380,
+      "familia": 1787
     },
     {
       "id": "S8-B4-m0221-d-02",
@@ -43045,8 +43741,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0221.jpg",
-      "pessoa": 5296,
-      "familia": 1759
+      "pessoa": 5383,
+      "familia": 1788
     },
     {
       "id": "S8-B4-m0222-e-01",
@@ -43069,8 +43765,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0222.jpg",
-      "pessoa": 5299,
-      "familia": 1760
+      "pessoa": 5386,
+      "familia": 1789
     },
     {
       "id": "S8-B4-m0228-e-03",
@@ -43093,8 +43789,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0228.jpg",
-      "pessoa": 5302,
-      "familia": 1761
+      "pessoa": 5389,
+      "familia": 1790
     },
     {
       "id": "S8-B4-m0237-d-01",
@@ -43117,8 +43813,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0237.jpg",
-      "pessoa": 5305,
-      "familia": 1762
+      "pessoa": 5392,
+      "familia": 1791
     },
     {
       "id": "S8-B4-m0238-e-01",
@@ -43141,8 +43837,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0238.jpg",
-      "pessoa": 5308,
-      "familia": 1763
+      "pessoa": 5395,
+      "familia": 1792
     },
     {
       "id": "S8-B4-m0238-e-03",
@@ -43165,8 +43861,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0238.jpg",
-      "pessoa": 5311,
-      "familia": 1764
+      "pessoa": 5398,
+      "familia": 1793
     },
     {
       "id": "S8-B4-m0238-d-02",
@@ -43189,8 +43885,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0238.jpg",
-      "pessoa": 5314,
-      "familia": 1765
+      "pessoa": 5401,
+      "familia": 1794
     },
     {
       "id": "S8-B4-m0241-d-01",
@@ -43213,8 +43909,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0241.jpg",
-      "pessoa": 5317,
-      "familia": 1766
+      "pessoa": 5404,
+      "familia": 1795
     },
     {
       "id": "S8-B4-m0241-d-02",
@@ -43237,8 +43933,8 @@
       "nota_revisao": "23/11/2026: campos essenciais conferidos em duas leituras visuais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0241.jpg",
-      "pessoa": 5320,
-      "familia": 1767
+      "pessoa": 5407,
+      "familia": 1796
     }
   ],
   "por_rever": [
@@ -62576,20 +63272,6 @@
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0143.jpg"
     },
     {
-      "id": "S8-B4-m0144-e-01",
-      "imagem": "m0144",
-      "lado": "esquerda",
-      "ordem": 1,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Isabel, catorze de janeiro de 1821; José Fernandes Rêlo [?] e Bárbara Garcia. Filiação no corpo desvanecida.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0144.jpg"
-    },
-    {
       "id": "S8-B4-m0144-d-02",
       "imagem": "m0144",
       "lado": "direita",
@@ -62624,10 +63306,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Filipe, vinte e seis de fevereiro de 1821; José Martins Rucim [?] e Luísa Nunes. Complemento paterno inseguro.",
+      "leitura_parcial": "Filipe; batismo 26/02/1821; José Martins Rucim [?] e Luísa Nunes. Complemento do pai continua sobreposto e pouco seguro no corpo.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Ampliação não resolve o complemento paterno; manter Rucim como hipótese, sem truncar o nome em José Martins."
       ],
+      "leitura_anterior": "Filipe, vinte e seis de fevereiro de 1821; José Martins Rucim [?] e Luísa Nunes. Complemento paterno inseguro.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Ampliação não resolve o complemento paterno; manter Rucim como hipótese, sem truncar o nome em José Martins.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0145.jpg"
     },
@@ -62638,10 +63322,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, certidão antiga: quinze de fevereiro de 1796; Bernardo Garcia e Bárbara Marques, continua à direita.",
+      "leitura_parcial": "José; reposição redigida em março de 1821, batismo indicado em 15/02/1796; Bernardo Garcia e Bárbara Marques. Continuação na direita.",
       "duvidas": [
-        "Batismo anterior ao intervalo catalogado; distinguir certidão de 1821 do evento."
+        "Evento anterior ao intervalo catalogado; manter pendente, distinguir a reposição de 1821 do batismo de 1796."
       ],
+      "leitura_anterior": "José, certidão antiga: quinze de fevereiro de 1796; Bernardo Garcia e Bárbara Marques, continua à direita.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Evento anterior ao intervalo catalogado; manter pendente, distinguir a reposição de 1821 do batismo de 1796.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0145.jpg"
     },
@@ -62652,10 +63338,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "João Gonçalves Lucas, catorze de junho de 1741; Domingos Gonçalves Lucas e Maria Martins; transcrito em abril de 1821.",
+      "leitura_parcial": "João Gonçalves Lucas; batismo 14/06/1741; Domingos Gonçalves Lucas e Maria Martins. Termo copiado e assinado em 02/04/1821 por obrigação de suprir os livros.",
       "duvidas": [
-        "Certidão antiga anterior ao intervalo catalogado; não datar pelo ano da cópia."
+        "Batismo de 1741 anterior ao intervalo catalogado; a cópia de 1821 não data o evento."
       ],
+      "leitura_anterior": "João Gonçalves Lucas, catorze de junho de 1741; Domingos Gonçalves Lucas e Maria Martins; transcrito em abril de 1821.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Batismo de 1741 anterior ao intervalo catalogado; a cópia de 1821 não data o evento.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0146.jpg"
     },
@@ -62666,24 +63354,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Bárbara Carrilha, oito de maio de 1735; Miguel Carrilho e Maria Gonçalves; redação dois de abril de 1821.",
+      "leitura_parcial": "Bárbara Carrilha; batismo 08/05/1765 [?], lê-se sessenta e cinco, corrigindo 1735 da hipótese inicial; Miguel Carrilho e Maria Gonçalves. Reposição assinada em 02/04/1821.",
       "duvidas": [
-        "Certidão antiga; ano e composição reconferir; não usar 1821 como batismo."
+        "Certidão anterior ao catálogo; reconferir a nova leitura do ano 1765, sem assumir 1735 nem o ano da cópia."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0146.jpg"
-    },
-    {
-      "id": "S8-B4-m0146-d-01",
-      "imagem": "m0146",
-      "lado": "direita",
-      "ordem": 1,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Isabel, oito de abril de 1821; Domingos Pereira Correia e Maria Nunes. Emenda no corpo dos matrimónios, não completar composição paterna pela margem.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
+      "leitura_anterior": "Bárbara Carrilha, oito de maio de 1735; Miguel Carrilho e Maria Gonçalves; redação dois de abril de 1821.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Certidão anterior ao catálogo; reconferir a nova leitura do ano 1765, sem assumir 1735 nem o ano da cópia.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0146.jpg"
     },
@@ -62694,10 +63370,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, nove de abril de 1821; pais incógnitos. Continuação m0147-e: padrinhos Manuel Gonçalves Lucas e Inês Bárbara Gonçalves, sem criar filiação.",
+      "leitura_parcial": "Maria; batismo 09/04/1821; pais incógnitos. Continuação m0147 esquerda reconfirma a fórmula e os padrinhos Manuel Gonçalves Lucas e Inês Bárbara Gonçalves.",
       "duvidas": [
-        "Pais incógnitos, não criar casal fictício; integração atual exige filiação."
+        "Filiação não declarada; padrinhos não são pais e o modelo atual exige ambos os pais para integração."
       ],
+      "leitura_anterior": "Maria, nove de abril de 1821; pais incógnitos. Continuação m0147-e: padrinhos Manuel Gonçalves Lucas e Inês Bárbara Gonçalves, sem criar filiação.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Filiação não declarada; padrinhos não são pais e o modelo atual exige ambos os pais para integração.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0146.jpg"
     },
@@ -62708,38 +63386,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José Baltazar, nove de abril de 1821; José de Oliveira e Antónia Angustas [?] Santos, esta natural do Cadaval. Apelido materno inseguro.",
+      "leitura_parcial": "José Baltazar; batismo 09/04/1821; José de Oliveira e Antónia Angustias/Angústias [de/dos?] Santos, natural do Cadaval.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Ampliação permite a hipótese Angustias em vez de Angustas, mas a composição materna completa ainda não é segura; não normalizar pela plausibilidade."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0147.jpg"
-    },
-    {
-      "id": "S8-B4-m0147-e-03",
-      "imagem": "m0147",
-      "lado": "esquerda",
-      "ordem": 3,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria Ramos, quinze de abril de 1821; Manuel Francisco Martinho e Maria Catarina. Corpo/continuação tinta transpassada, filiação a reconferir.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0147.jpg"
-    },
-    {
-      "id": "S8-B4-m0147-d-03",
-      "imagem": "m0147",
-      "lado": "direita",
-      "ordem": 3,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "José, vinte e sete de maio de 1821; Miguel Fernandes e Ana Esteves; continuação m0148-e consultada, nome materno a reconferir.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
+      "leitura_anterior": "José Baltazar, nove de abril de 1821; José de Oliveira e Antónia Angustas [?] Santos, esta natural do Cadaval. Apelido materno inseguro.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Ampliação permite a hipótese Angustias em vez de Angustas, mas a composição materna completa ainda não é segura; não normalizar pela plausibilidade.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0147.jpg"
     },
@@ -62750,38 +63402,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, nove de junho de 1821; José Sobraino [?] e Maria Nunes. Complemento paterno inseguro.",
+      "leitura_parcial": "Manuel; batismo 09/06/1821; José Sobrino/Sobraino [?] e Maria Nunes.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Complemento paterno continua inseguro entre corpo transpassado e margem; não confirmar José Sobraino pela hipótese inicial nem truncar em José."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0148.jpg"
-    },
-    {
-      "id": "S8-B4-m0148-d-01",
-      "imagem": "m0148",
-      "lado": "direita",
-      "ordem": 1,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Domingos, dezassete de junho de 1821; Manuel Nunes [complemento?] e Ana Fernandes. Composição paterna insegura.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0148.jpg"
-    },
-    {
-      "id": "S8-B4-m0148-d-03",
-      "imagem": "m0148",
-      "lado": "direita",
-      "ordem": 3,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Manuel, seis de agosto de 1821; Manuel Nunes de [complemento?] e Maria Ramos. Continuação m0149-e; tinta transpassada.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
+      "leitura_anterior": "Manuel, nove de junho de 1821; José Sobraino [?] e Maria Nunes. Complemento paterno inseguro.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Complemento paterno continua inseguro entre corpo transpassado e margem; não confirmar José Sobraino pela hipótese inicial nem truncar em José.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0148.jpg"
     },
@@ -62792,38 +63418,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, nove de setembro de 1821; António Maria da Pousinha [?] e Quitéria Nunes; pai natural da freguesia da Freixiosa. Nome paterno inseguro.",
+      "leitura_parcial": "José; batismo 09/09/1821; António Maria da Pousinha [?] e Quitéria Nunes; o pai é indicado como natural da Freixiosa.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Composição paterna permanece insegura no corpo transpassado; não transformar a naturalidade Freixiosa em apelido nem confirmar Pousinha só pela margem."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0149.jpg"
-    },
-    {
-      "id": "S8-B4-m0149-d-01",
-      "imagem": "m0149",
-      "lado": "direita",
-      "ordem": 1,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Manuel, vinte e três de setembro de 1821; José Jorge e Isabel Esteves. Campo paterno/complemento encoberto pelo selo, reconferir.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0149.jpg"
-    },
-    {
-      "id": "S8-B4-m0149-d-04",
-      "imagem": "m0149",
-      "lado": "direita",
-      "ordem": 4,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Luísa, dois de outubro de 1821; Manuel Vaz e Ana Dias. Matrimónio descrito contraiu/diferente cronologia; nomes essenciais a reconferir em ampliação.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
+      "leitura_anterior": "José, nove de setembro de 1821; António Maria da Pousinha [?] e Quitéria Nunes; pai natural da freguesia da Freixiosa. Nome paterno inseguro.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Composição paterna permanece insegura no corpo transpassado; não transformar a naturalidade Freixiosa em apelido nem confirmar Pousinha só pela margem.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0149.jpg"
     },
@@ -62834,10 +63434,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, quatro de dezembro de 1821; António Nunes e Maria Dias Melranda [?]. Complemento materno inseguro.",
+      "leitura_parcial": "José; batismo 04/12/1821; António Nunes e Maria Dias Melranda [?]. O pai está descrito como da freguesia; a mãe natural de Rendo.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Complemento materno não resolvido pela ampliação; não truncar Maria Dias nem escolher Melranda pela hipótese inicial."
       ],
+      "leitura_anterior": "José, quatro de dezembro de 1821; António Nunes e Maria Dias Melranda [?]. Complemento materno inseguro.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Complemento materno não resolvido pela ampliação; não truncar Maria Dias nem escolher Melranda pela hipótese inicial.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0150.jpg"
     },
@@ -62848,40 +63450,14 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Emília, quatro de dezembro de 1821; Tibúrcio de António [?] e Joaquina Gonçalves Martelo. Composição paterna insegura.",
+      "leitura_parcial": "Emília; batismo 04/12/1821; Tibúrcio de António [?] e Joaquina Gonçalves Martelo.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Nome paterno com discordância de leitura entre margem e corpo transpassado; conservar hipótese, não confirmar a composição insegura."
       ],
+      "leitura_anterior": "Emília, quatro de dezembro de 1821; Tibúrcio de António [?] e Joaquina Gonçalves Martelo. Composição paterna insegura.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nome paterno com discordância de leitura entre margem e corpo transpassado; conservar hipótese, não confirmar a composição insegura.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0150.jpg"
-    },
-    {
-      "id": "S8-B4-m0150-d-03",
-      "imagem": "m0150",
-      "lado": "direita",
-      "ordem": 3,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Manuel, dezoito de dezembro de 1821; Manuel Garcia e Maria Rabela. Nome paterno pode conter complemento, reconferir.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0150.jpg"
-    },
-    {
-      "id": "S8-B4-m0151-e-01",
-      "imagem": "m0151",
-      "lado": "esquerda",
-      "ordem": 1,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "José, vinte e três de dezembro de 1821; José Alves, natural Alfaiates, e Luísa Jorge. Nome materno e remissão a idade paterna a reconferir.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg"
     },
     {
       "id": "S8-B4-m0151-d-01",
@@ -62890,54 +63466,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "João, dezassete de janeiro de 1822; Manuel Martins da Igreja e Ana Martins da Corja/Igreja [?].",
+      "leitura_parcial": "João; batismo 17/01/1822; Manuel Martins da Igreja e Ana Martins da Corja/Corga [?].",
       "duvidas": [
-        "Ampliação deixa inseguro o complemento materno; não fixar da Igreja da primeira hipótese."
+        "Complemento materno ainda inseguro no corpo; a nova ampliação não autoriza fixar da Igreja nem escolher Corja/Corga."
       ],
       "leitura_anterior": "João; batismo 17/01/1822; Manuel Martins da Igreja e Ana Martins da Igreja. ",
-      "nota_revisao": "23/11/2026: reconferência visual em ampliação; mantido pendente. Ampliação deixa inseguro o complemento materno; não fixar da Igreja da primeira hipótese. ",
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg"
-    },
-    {
-      "id": "S8-B4-m0151-d-02",
-      "imagem": "m0151",
-      "lado": "direita",
-      "ordem": 2,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Francisca, trinta de janeiro de 1822; Domingos Martins e Maria Pires, pai natural Rendo; filiação materna a reconferir.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg"
-    },
-    {
-      "id": "S8-B4-m0151-d-03",
-      "imagem": "m0151",
-      "lado": "direita",
-      "ordem": 3,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Ana Maria, doze de janeiro de 1822; Domingos Nunes e Francisca Martins, esta natural da vila de Espinho. Primeira leitura visual.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg"
-    },
-    {
-      "id": "S8-B4-m0151-d-04",
-      "imagem": "m0151",
-      "lado": "direita",
-      "ordem": 4,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Nicolau, treze de janeiro de 1822; José Lopes e Isabel Lourença; continuação m0152-e consultada. Nome materno a reconferir.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Complemento materno ainda inseguro no corpo; a nova ampliação não autoriza fixar da Igreja nem escolher Corja/Corga.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0151.jpg"
     },
@@ -62948,10 +63482,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Ana Luísa, dezanove de janeiro de 1822; Manuel Rijo [?] e Bárbara Garcia. Acrescento posterior Margarida, de Manuel Lourenço e Bárbara Garcia; alcance da emenda inseguro.",
+      "leitura_parcial": "Ana Luísa, com acrescento referente a Margarida; abertura admite 11/01/1822 [?], antes lida 19/01/1822. Manuel Rijo [?] e Bárbara Garcia; acrescento refere Manuel Lourenço e Bárbara Garcia.",
       "duvidas": [
-        "Resolver emenda/nome da criança e filiação, sem criar segundo assento por simples acrescento."
+        "Alcance da emenda permanece sem solução: criança, pai e dia ainda inseguros. Não criar segundo assento pelo acrescento nem fixar 19 da primeira hipótese."
       ],
+      "leitura_anterior": "Ana Luísa, dezanove de janeiro de 1822; Manuel Rijo [?] e Bárbara Garcia. Acrescento posterior Margarida, de Manuel Lourenço e Bárbara Garcia; alcance da emenda inseguro.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Alcance da emenda permanece sem solução: criança, pai e dia ainda inseguros. Não criar segundo assento pelo acrescento nem fixar 19 da primeira hipótese.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0152.jpg"
     },
@@ -62962,12 +63498,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Cândida/Câncila [?], sete de fevereiro de 1822; José Antunes Lara e Maria Robalha.",
+      "leitura_parcial": "Câncila/Cândida [?]; batismo 07/02/1822; José Antunes Lara e Maria Robalha.",
       "duvidas": [
-        "Grafia infantil insegura em ampliação; não escolher Cândida da primeira hipótese."
+        "Grafia da criança continua insegura na ampliação; não normalizar para Cândida pela frequência do nome."
       ],
       "leitura_anterior": "Cândida; batismo 07/02/1822; José Antunes Lara e Maria Robalha. ",
-      "nota_revisao": "23/11/2026: reconferência visual em ampliação; mantido pendente. Grafia infantil insegura em ampliação; não escolher Cândida da primeira hipótese. ",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Grafia da criança continua insegura na ampliação; não normalizar para Cândida pela frequência do nome.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0152.jpg"
     },
@@ -62978,24 +63514,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, vinte e oito de fevereiro de 1822, santos óleos; Bernardo Gomes e Maria de Jesus. Nascido treze do mesmo mês, batizado em necessidade sem data autónoma segura.",
+      "leitura_parcial": "José; aplicação dos santos óleos em fevereiro de 1822, abertura admite dia vinte [?], antes lida 28; Bernardo Gomes e Maria de Jesus. Nascido a treze do mês e já batizado em necessidade.",
       "duvidas": [
-        "Sem data segura do batismo particular; óleos não são o evento anterior."
+        "Ampliação não recupera data autónoma segura do batismo particular; nem o nascimento nem a data dos óleos devem ser integrados como esse batismo. Dia dos óleos também por resolver."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0152.jpg"
-    },
-    {
-      "id": "S8-B4-m0152-d-03",
-      "imagem": "m0152",
-      "lado": "direita",
-      "ordem": 3,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Joaquim, vinte de fevereiro de 1822; Manuel Garcia e Maria Pires. Pai natural Alfaiates; composição e naturalidade a reconferir.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
+      "leitura_anterior": "José, vinte e oito de fevereiro de 1822, santos óleos; Bernardo Gomes e Maria de Jesus. Nascido treze do mesmo mês, batizado em necessidade sem data autónoma segura.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Ampliação não recupera data autónoma segura do batismo particular; nem o nascimento nem a data dos óleos devem ser integrados como esse batismo. Dia dos óleos também por resolver.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0152.jpg"
     },
@@ -63006,12 +63530,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Ana, seis de março de 1822; Manuel Lopes/Rijo Velho [?] e Luísa Martins.",
+      "leitura_parcial": "Ana; abertura seis de março, hipótese de 1822 por reconferir; Manuel Lopes/Rijo Velho [?] e Luísa Martins.",
       "duvidas": [
-        "Ampliação põe em dúvida Rijo da primeira leitura; composição paterna insegura."
+        "Nova ampliação mantém inseguro o nome paterno, incluindo o complemento Velho, e a forma escrita do ano; não fixar Rijo da primeira hipótese nem datar pela sequência."
       ],
       "leitura_anterior": "Ana; batismo 06/03/1822; Manuel Rijo Velho e Luísa Martins. ",
-      "nota_revisao": "23/11/2026: reconferência visual em ampliação; mantido pendente. Ampliação põe em dúvida Rijo da primeira leitura; composição paterna insegura. ",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nova ampliação mantém inseguro o nome paterno, incluindo o complemento Velho, e a forma escrita do ano; não fixar Rijo da primeira hipótese nem datar pela sequência.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0153.jpg"
     },
@@ -63022,12 +63546,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, dezassete de março de 1822; Manuel Soares de Guitão Gonçalves [?] e Vitória Gonçalves.",
+      "leitura_parcial": "José; abertura anteriormente lida 17/03/1822; Manuel Soares de Guitão Gonçalves [?] e Vitória Gonçalves. Corpo atravessado por manchas e tinta de verso.",
       "duvidas": [
-        "Nome paterno mais extenso que Manuel Nunes da primeira hipótese; composição por resolver, não truncar."
+        "Nova ampliação não resolve a composição paterna completa nem a emenda sobreposta; manter pendente e preservar a hipótese anterior, sem voltar ao nome truncado Manuel Nunes."
       ],
       "leitura_anterior": "José; batismo 17/03/1822; Manuel Nunes e Vitória Gonçalves. ",
-      "nota_revisao": "23/11/2026: reconferência visual em ampliação; mantido pendente. Nome paterno mais extenso que Manuel Nunes da primeira hipótese; composição por resolver, não truncar. ",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nova ampliação não resolve a composição paterna completa nem a emenda sobreposta; manter pendente e preservar a hipótese anterior, sem voltar ao nome truncado Manuel Nunes.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0153.jpg"
     },
@@ -63038,10 +63562,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "João, vinte e quatro de março de 1822; Manuel Nunes Carvalho [?] e Isabel Nunes. Tinta transpassada no nome paterno.",
+      "leitura_parcial": "João; batismo 24/03/1822; Manuel Nunes Carvalho [?] e Isabel Nunes.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Composição paterna ainda encoberta pela mancha no início da página; não consolidar Carvalho só pela hipótese inicial."
       ],
+      "leitura_anterior": "João, vinte e quatro de março de 1822; Manuel Nunes Carvalho [?] e Isabel Nunes. Tinta transpassada no nome paterno.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Composição paterna ainda encoberta pela mancha no início da página; não consolidar Carvalho só pela hipótese inicial.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0154.jpg"
     },
@@ -63052,10 +63578,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "João Jorge, certidão antiga, vinte e um de dezembro, ano mil setecentos e setenta e [um/sete?]; Domingos Vaz e Maria Lourença. Cópia 29/03/1822.",
+      "leitura_parcial": "João Jorge; certidão antiga, vinte e um de dezembro de mil setecentos e setenta e [um/sete?]; Domingos Vaz e Maria Lourença. Redação 29/03/1822.",
       "duvidas": [
-        "Certidão antiga; ano e filiação precisam de ampliação, não datar pela cópia."
+        "Ano do batismo continua inseguro na ampliação e é anterior ao intervalo catalogado; distinguir evento, mandado e cópia de 1822."
       ],
+      "leitura_anterior": "João Jorge, certidão antiga, vinte e um de dezembro, ano mil setecentos e setenta e [um/sete?]; Domingos Vaz e Maria Lourença. Cópia 29/03/1822.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Ano do batismo continua inseguro na ampliação e é anterior ao intervalo catalogado; distinguir evento, mandado e cópia de 1822.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0154.jpg"
     },
@@ -63066,10 +63594,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, certidão antiga com margem 1776; José Pereira e Ana Nunes. Corpo deteriorado, dia e mês inseguros; redação em março de 1822.",
+      "leitura_parcial": "José; certidão antiga com indicação de agosto de 1776, dia não seguro; José Pereira e Ana Nunes. Redação 25/03/1822.",
       "duvidas": [
-        "Certidão antiga anterior ao catálogo; data essencial insegura na zona deteriorada."
+        "Dia do evento não recuperado com segurança na zona deteriorada; evento anterior ao catálogo, sem usar março de 1822 como batismo."
       ],
+      "leitura_anterior": "José, certidão antiga com margem 1776; José Pereira e Ana Nunes. Corpo deteriorado, dia e mês inseguros; redação em março de 1822.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Dia do evento não recuperado com segurança na zona deteriorada; evento anterior ao catálogo, sem usar março de 1822 como batismo.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0154.jpg"
     },
@@ -63080,10 +63610,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Brás Robalo, certidão antiga de 1777; José Robalo e Teresa Martins [?]. Dia/mês e nome materno inseguros; continuação m0155-e.",
+      "leitura_parcial": "Brás Robalo; certidão de batismo de 1777; José Robalo e Teresa Martins [?]. Termo prossegue na m0155 esquerda.",
       "duvidas": [
-        "Certidão antiga e campos essenciais inseguros; não usar data da redação."
+        "Ampliação da abertura e continuação mantém inseguros dia/mês e nome materno, além de ser evento anterior ao catálogo."
       ],
+      "leitura_anterior": "Brás Robalo, certidão antiga de 1777; José Robalo e Teresa Martins [?]. Dia/mês e nome materno inseguros; continuação m0155-e.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Ampliação da abertura e continuação mantém inseguros dia/mês e nome materno, além de ser evento anterior ao catálogo.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0154.jpg"
     },
@@ -63094,10 +63626,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, nove de abril de 1822; Manuel [António?] de Matos e Maria Fernandes Almeida [?]. Zona muito manchada, nomes essenciais inseguros.",
+      "leitura_parcial": "Maria; batismo 09/04/1822; Manuel António de Matos [?] e Maria Fernandes Almeida [?].",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Nova ampliação favorece António e Almeida, mas manchas e cruzamentos ainda impedem assegurar ambos os nomes completos; não confirmar por plausibilidade."
       ],
+      "leitura_anterior": "Maria, nove de abril de 1822; Manuel [António?] de Matos e Maria Fernandes Almeida [?]. Zona muito manchada, nomes essenciais inseguros.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nova ampliação favorece António e Almeida, mas manchas e cruzamentos ainda impedem assegurar ambos os nomes completos; não confirmar por plausibilidade.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0155.jpg"
     },
@@ -63108,10 +63642,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Domingos Garcia, dezanove de dezembro de 1793; José Garcia do Rio e Maria Martins; certidão redigida em 1822, fecho deteriorado.",
+      "leitura_parcial": "Domingos Garcia; batismo referido em 19/12/1793; José Garcia do Rio e Maria Martins. Termo reposto em março de 1822 com continuação na direita.",
       "duvidas": [
-        "Certidão anterior ao intervalo catalogado; campos/data precisam reconferência."
+        "Batismo anterior ao intervalo catalogado; manter data do evento separada da cópia, sem promover pela data de 1822."
       ],
+      "leitura_anterior": "Domingos Garcia, dezanove de dezembro de 1793; José Garcia do Rio e Maria Martins; certidão redigida em 1822, fecho deteriorado.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Batismo anterior ao intervalo catalogado; manter data do evento separada da cópia, sem promover pela data de 1822.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0155.jpg"
     },
@@ -63122,10 +63658,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria Beatriz, vinte e um de abril de 1822; António Nunes e Maria Fernandes. Nome paterno com possível complemento encoberto pela emenda, reconferir.",
+      "leitura_parcial": "Maria Beatriz; batismo 21/04/1822; António Nunes [complemento?] e Maria Fernandes.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Emenda atravessa o nome paterno no corpo; margem não resolve se há complemento. Não confirmar nome truncado nem completar pelos avós."
       ],
+      "leitura_anterior": "Maria Beatriz, vinte e um de abril de 1822; António Nunes e Maria Fernandes. Nome paterno com possível complemento encoberto pela emenda, reconferir.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Emenda atravessa o nome paterno no corpo; margem não resolve se há complemento. Não confirmar nome truncado nem completar pelos avós.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0155.jpg"
     },
@@ -63136,10 +63674,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, cinco de maio de 1822; Luís Gonçalves Garrido e Maria Sá [?]. Nome materno inseguro.",
+      "leitura_parcial": "José; batismo 05/05/1822; Luís Gonçalves Garrido e Maria Sá/Saleto [?].",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Nome materno parece mais extenso do que Sá na ampliação; composição permanece insegura, sem truncar para confirmar."
       ],
+      "leitura_anterior": "José, cinco de maio de 1822; Luís Gonçalves Garrido e Maria Sá [?]. Nome materno inseguro.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nome materno parece mais extenso do que Sá na ampliação; composição permanece insegura, sem truncar para confirmar.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0155.jpg"
     },
@@ -63150,10 +63690,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Ana, vinte e sete de maio de 1822; António Garcia e Isabel Martins [Rabela?].",
+      "leitura_parcial": "Ana; batismo 27/05/1822; António Garcia e Isabel Martins [Rabelha/Rabela?].",
       "duvidas": [
-        "Complemento materno marginal inseguro; não consolidar Rabela da primeira hipótese."
+        "Complemento materno marginal e sua relação com o nome no corpo ainda por esclarecer; não atribuir à mãe o apelido da avó por dedução."
       ],
+      "leitura_anterior": "Ana, vinte e sete de maio de 1822; António Garcia e Isabel Martins [Rabela?].",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Complemento materno marginal e sua relação com o nome no corpo ainda por esclarecer; não atribuir à mãe o apelido da avó por dedução.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0156.jpg"
     },
@@ -63164,10 +63706,12 @@
       "ordem": 4,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Luís, vinte e sete de maio de 1822, santos óleos após batismo em casa por Manuel Gabriel; Manuel Gonçalves Antão e Isabel Luís.",
+      "leitura_parcial": "Luís; aplicação dos santos óleos 27/05/1822, após batismo em necessidade por Manuel Gabriel; Manuel Gonçalves Antão e Isabel Luís.",
       "duvidas": [
-        "Óleos sem data segura do batismo particular anterior."
+        "A ampliação reconfirma cerimónia posterior, mas não fornece data segura do batismo particular; nascimento e óleos não substituem essa data."
       ],
+      "leitura_anterior": "Luís, vinte e sete de maio de 1822, santos óleos após batismo em casa por Manuel Gabriel; Manuel Gonçalves Antão e Isabel Luís.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. A ampliação reconfirma cerimónia posterior, mas não fornece data segura do batismo particular; nascimento e óleos não substituem essa data.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0156.jpg"
     },
@@ -63178,10 +63722,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "António, nove de junho de 1822; António Nunes de Marcos/Matos [?] e Maria Gonçalves.",
+      "leitura_parcial": "António; 9/6/1822; António Nunes de Matos/Marcos e Maria Gonçalves.",
       "duvidas": [
-        "Ampliação não resolve Marcos/Matos no nome paterno; preservar as alternativas."
+        "O complemento paterno continua a admitir Matos/Marcos; não o resolver pela margem."
       ],
+      "leitura_anterior": "António, nove de junho de 1822; António Nunes de Marcos/Matos [?] e Maria Gonçalves.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. O complemento paterno continua a admitir Matos/Marcos; não o resolver pela margem.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0156.jpg"
     },
@@ -63192,10 +63738,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Paulino Gonçalves, vinte e quatro de junho de 1784; Baltazar Gonçalves e Maria Nunes Gonçalves, batizado pelo padre Bernardo Hipólito; certidão de junho de 1822.",
+      "leitura_parcial": "Paulino Gonçalves; nascido em junho de 1784; Baltazar Gonçalves e Maria Nunes Gonçalves; cópia de 24/6/1822.",
       "duvidas": [
-        "Certidão anterior ao intervalo catalogado, separar evento de redação."
+        "O dia 24 pertence à cópia de 1822; o texto refere nascimento em junho de 1784 e batismo anterior sem dia seguro. Não fixar 24/6/1784 como batismo."
       ],
+      "leitura_anterior": "Paulino Gonçalves, vinte e quatro de junho de 1784; Baltazar Gonçalves e Maria Nunes Gonçalves, batizado pelo padre Bernardo Hipólito; certidão de junho de 1822.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. O dia 24 pertence à cópia de 1822; o texto refere nascimento em junho de 1784 e batismo anterior sem dia seguro. Não fixar 24/6/1784 como batismo.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0157.jpg"
     },
@@ -63206,10 +63754,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel Nunes, um de abril de 1778; Gabriel Nunes e Ana Lourença; certidão de junho de 1822.",
+      "leitura_parcial": "Manuel Nunes; nascido em 1/4/1778; Gabriel Nunes e Ana Lourença; cópia de 24/6/1822.",
       "duvidas": [
-        "Certidão anterior ao intervalo catalogado, separar evento de redação."
+        "A data antiga aparece ligada ao nascimento; falta data própria inequívoca do batismo na cópia."
       ],
+      "leitura_anterior": "Manuel Nunes, um de abril de 1778; Gabriel Nunes e Ana Lourença; certidão de junho de 1822.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. A data antiga aparece ligada ao nascimento; falta data própria inequívoca do batismo na cópia.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0157.jpg"
     },
@@ -63220,24 +63770,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Feliciana [?], trinta de junho de 1822; Manuel Nunes e Luísa/Maria Nunes [?]. Mancha forte no nome infantil e mãe.",
+      "leitura_parcial": "Feliciana?; 30/6/1822; Manuel Nunes e Luísa/Maria Nunes.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Manchas atravessam o nome e a filiação materna; manter alternativas."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0157.jpg"
-    },
-    {
-      "id": "S8-B4-m0157-d-02",
-      "imagem": "m0157",
-      "lado": "direita",
-      "ordem": 2,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria, três de julho de 1822; Manuel Carvalho e Luísa Martins. Manchas sobre a filiação, reconferir.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
+      "leitura_anterior": "Feliciana [?], trinta de junho de 1822; Manuel Nunes e Luísa/Maria Nunes [?]. Mancha forte no nome infantil e mãe.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Manchas atravessam o nome e a filiação materna; manter alternativas.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0157.jpg"
     },
@@ -63248,26 +63786,14 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria [?], vinte e seis de julho de 1822; Manuel de Matos e Ana Martins Garrida; criança e emendas maternas inseguras.",
+      "leitura_parcial": "Maria?; 26/7/1822; Manuel de Matos e Ana Martins Garrida?",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "O nome da criança apresenta rasura; complemento materno comprimido e atravessado por tinta."
       ],
+      "leitura_anterior": "Maria [?], vinte e seis de julho de 1822; Manuel de Matos e Ana Martins Garrida; criança e emendas maternas inseguras.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. O nome da criança apresenta rasura; complemento materno comprimido e atravessado por tinta.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0157.jpg"
-    },
-    {
-      "id": "S8-B4-m0158-e-03",
-      "imagem": "m0158",
-      "lado": "esquerda",
-      "ordem": 3,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Bento, dois de setembro de 1822; José Robalo e Isabel Gonçalves [complemento?]. Continuação m0158-d consultada; filiação na zona manchada.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0158.jpg"
     },
     {
       "id": "S8-B4-m0158-d-01",
@@ -63276,10 +63802,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Ana, dois de outubro de 1822; José Nunes e Luísa Nunes. Filiação na zona manchada; reconferir.",
+      "leitura_parcial": "Ana; 2/10/1822; José Nunes e Luísa Nunes.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Manchas atravessam os nomes parentais e a sequência da filiação; releitura não basta para integração segura."
       ],
+      "leitura_anterior": "Ana, dois de outubro de 1822; José Nunes e Luísa Nunes. Filiação na zona manchada; reconferir.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Manchas atravessam os nomes parentais e a sequência da filiação; releitura não basta para integração segura.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0158.jpg"
     },
@@ -63290,10 +63818,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "António, nove de dezembro de 1793; Pedro de Matos e Maria Lucas Martins. Certidão copiada em 1822.",
+      "leitura_parcial": "António; 9/12/1793; Pedro de Matos e Maria Lucas Martins; cópia em 1822.",
       "duvidas": [
-        "Certidão antiga anterior ao intervalo catalogado; separar cópia e evento."
+        "Batismo antigo fora do período catalogado; conservar a cópia sem integração automática."
       ],
+      "leitura_anterior": "António, nove de dezembro de 1793; Pedro de Matos e Maria Lucas Martins. Certidão copiada em 1822.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Batismo antigo fora do período catalogado; conservar a cópia sem integração automática.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0158.jpg"
     },
@@ -63304,10 +63834,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, catorze de novembro de 1822; Manuel António Pereira [?] e Maria Rodrigues. Nome paterno e emenda no termo inseguros.",
+      "leitura_parcial": "Manuel; 14/11/1822; Manuel António Pereira? e Maria Rodrigues.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Complemento paterno continua a exigir confronto; não converter a leitura provável em nome confirmado."
       ],
+      "leitura_anterior": "Manuel, catorze de novembro de 1822; Manuel António Pereira [?] e Maria Rodrigues. Nome paterno e emenda no termo inseguros.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Complemento paterno continua a exigir confronto; não converter a leitura provável em nome confirmado.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0159.jpg"
     },
@@ -63318,10 +63850,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, vinte e dois de novembro de 1822; Manuel de Oliveira e Rita de Luísa [?]. Nome materno inseguro.",
+      "leitura_parcial": "Manuel; dia 22 de setembro/novembro de 1822?; Manuel de Oliveira e Rita de Luísa?.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Mês na abertura e nome materno ainda ambíguos; não seguir a ordem cronológica como prova."
       ],
+      "leitura_anterior": "Manuel, vinte e dois de novembro de 1822; Manuel de Oliveira e Rita de Luísa [?]. Nome materno inseguro.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Mês na abertura e nome materno ainda ambíguos; não seguir a ordem cronológica como prova.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0159.jpg"
     },
@@ -63332,24 +63866,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Pedro, vinte e quatro de setembro de 1822; Manuel Martins e Maria Quitéria Martins [?]. Nome materno/complementos inseguros.",
+      "leitura_parcial": "Pedro; 24/9/1822; Manuel Martins e Maria Quitéria Martins?.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Nome materno atravessado por tinta e escrita sobreposta; complemento não seguro."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0159.jpg"
-    },
-    {
-      "id": "S8-B4-m0159-d-02",
-      "imagem": "m0159",
-      "lado": "direita",
-      "ordem": 2,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "José, vinte e quatro de setembro de 1822; Manuel Dias Antão e Josefa Lopes. Data aparentemente repetida; reconferir abertura e filiação.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
+      "leitura_anterior": "Pedro, vinte e quatro de setembro de 1822; Manuel Martins e Maria Quitéria Martins [?]. Nome materno/complementos inseguros.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nome materno atravessado por tinta e escrita sobreposta; complemento não seguro.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0159.jpg"
     },
@@ -63360,10 +63882,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Alberto [?], vinte e quatro de setembro de 1822 [?]; Manuel Martins de António e Maria Nunes [?]. Data e campos essenciais inseguros na mancha.",
+      "leitura_parcial": "Alberto?; 24/9/1822?; Manuel Martins de António? e Maria Nunes?.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Manchas e sobreposição afetam nome, data e filiação; manter em leitura parcial."
       ],
+      "leitura_anterior": "Alberto [?], vinte e quatro de setembro de 1822 [?]; Manuel Martins de António e Maria Nunes [?]. Data e campos essenciais inseguros na mancha.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Manchas e sobreposição afetam nome, data e filiação; manter em leitura parcial.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0159.jpg"
     },
@@ -63374,10 +63898,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, dezanove de outubro de 1822, santos óleos após batismo em necessidade; José Robalo e Quitéria Nunes de Matos. Tinta transpassada.",
+      "leitura_parcial": "Manuel; óleos em 19/10/1822; José Robalo e Quitéria Nunes de Matos.",
       "duvidas": [
-        "Falta data segura do batismo particular anterior aos óleos."
+        "Batizado antes em casa, sem dia próprio explícito; 19 de outubro é o termo de óleos."
       ],
+      "leitura_anterior": "Manuel, dezanove de outubro de 1822, santos óleos após batismo em necessidade; José Robalo e Quitéria Nunes de Matos. Tinta transpassada.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Batizado antes em casa, sem dia próprio explícito; 19 de outubro é o termo de óleos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0160.jpg"
     },
@@ -63388,10 +63914,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Ana, dezanove de outubro de 1822; José Fernandes Russo [?] e Bárbara Gonçalves. Complemento paterno inseguro.",
+      "leitura_parcial": "Ana; 19/10/1822; José Fernandes Russo/Ruso? e Bárbara Gonçalves.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Complemento paterno mantém grafia duvidosa; não normalizar sem confirmação."
       ],
+      "leitura_anterior": "Ana, dezanove de outubro de 1822; José Fernandes Russo [?] e Bárbara Gonçalves. Complemento paterno inseguro.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Complemento paterno mantém grafia duvidosa; não normalizar sem confirmação.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0160.jpg"
     },
@@ -63402,10 +63930,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Quitéria, vinte e quatro de outubro de 1822; José Luís e Luísa Rodrigues do Rio [?]. Complemento materno e data a reconferir.",
+      "leitura_parcial": "Quitéria; 24/10/1822; José Luís e Luísa Rodrigues do Rio?.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Mancha e sobreposição junto do complemento materno impedem fixação segura."
       ],
+      "leitura_anterior": "Quitéria, vinte e quatro de outubro de 1822; José Luís e Luísa Rodrigues do Rio [?]. Complemento materno e data a reconferir.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Mancha e sobreposição junto do complemento materno impedem fixação segura.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0160.jpg"
     },
@@ -63416,10 +63946,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, dezassete de novembro de 1822; Manuel Vaz e Ana Dias; acrescento primeiro apelido Robalo, alcance infantil/materno inseguro.",
+      "leitura_parcial": "Maria; 17/11/1822; Manuel Vaz e Ana Dias; adição marginal «primeiro apelido Robalo».",
       "duvidas": [
-        "Resolver acrescento e composição, sem inferir apelido infantil."
+        "Adição marginal carece de atribuição inequívoca; não transferir automaticamente Robalo para um dos pais."
       ],
+      "leitura_anterior": "Maria, dezassete de novembro de 1822; Manuel Vaz e Ana Dias; acrescento primeiro apelido Robalo, alcance infantil/materno inseguro.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Adição marginal carece de atribuição inequívoca; não transferir automaticamente Robalo para um dos pais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0160.jpg"
     },
@@ -63430,12 +63962,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, dezanove de novembro de 1822; Domingos/Joaquim Martins Gonçalo/Gonçalves [?] e Maria Nunes.",
+      "leitura_parcial": "Maria; 19/11/1822; Domingos Martins Gonçalo/Gonçalves? e Maria Nunes.",
       "duvidas": [
-        "Ampliação põe em dúvida Joaquim Martins Gonçalves da primeira leitura; nome paterno por resolver."
+        "A ampliação favorece Domingos em vez de Joaquim, mas o complemento paterno ainda exige confronto."
       ],
       "leitura_anterior": "Maria; batismo 19/11/1822; Joaquim Martins Gonçalves e Maria Nunes. Filiação na continuação m0161-e.",
-      "nota_revisao": "23/11/2026: reconferência visual em ampliação; mantido pendente. Ampliação põe em dúvida Joaquim Martins Gonçalves da primeira leitura; nome paterno por resolver. ",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. A ampliação favorece Domingos em vez de Joaquim, mas o complemento paterno ainda exige confronto.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0160.jpg"
     },
@@ -63446,54 +63978,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Domingos Nunes, vinte e nove de novembro de 1784; António Nunes e Maria Gonçalves; cópia por obrigação de suprir livros destruídos.",
+      "leitura_parcial": "Domingos Nunes; 29/11/1784; António Nunes e Maria Gonçalves; reposição em 1822.",
       "duvidas": [
-        "Certidão antiga anterior ao intervalo catalogado; não datar pela cópia."
+        "Evento de 1784 anterior ao catálogo; conservar separação entre evento e reposição."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0161.jpg"
-    },
-    {
-      "id": "S8-B4-m0161-e-03",
-      "imagem": "m0161",
-      "lado": "esquerda",
-      "ordem": 3,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Manuel, vinte e quatro de novembro de 1822; José Carvalho e Maria Gonçalves. Naturalidades não são apelidos; continuação m0161-d.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0161.jpg"
-    },
-    {
-      "id": "S8-B4-m0161-d-01",
-      "imagem": "m0161",
-      "lado": "direita",
-      "ordem": 1,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "José, vinte e dois de novembro de 1822; Luís Gonçalves Loureiro e Luísa Nunes. Nome paterno junto à mancha a reconferir.",
-      "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0161.jpg"
-    },
-    {
-      "id": "S8-B4-m0161-d-02",
-      "imagem": "m0161",
-      "lado": "direita",
-      "ordem": 2,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "José, primeiro de dezembro de 1822; José Nunes de Matos e Maria Nunes de Matos/Rabela [?].",
-      "duvidas": [
-        "Ampliação não sustenta Rabela da primeira hipótese; composição materna insegura."
-      ],
-      "leitura_anterior": "José; batismo 01/12/1822; José Nunes de Matos e Maria Rabela. ",
-      "nota_revisao": "23/11/2026: reconferência visual em ampliação; mantido pendente. Ampliação não sustenta Rabela da primeira hipótese; composição materna insegura. ",
+      "leitura_anterior": "Domingos Nunes, vinte e nove de novembro de 1784; António Nunes e Maria Gonçalves; cópia por obrigação de suprir livros destruídos.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Evento de 1784 anterior ao catálogo; conservar separação entre evento e reposição.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0161.jpg"
     },
@@ -63504,10 +63994,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "António, primeiro de janeiro de 1823, santos óleos após batismo em casa por morte iminente; Mateus Dias e Isabel Nunes.",
+      "leitura_parcial": "António; óleos em 1/1/1823; Mateus Dias e Isabel Nunes; batismo em necessidade pelo pai.",
       "duvidas": [
-        "Falta data segura do batismo particular anterior aos óleos."
+        "Não consta dia próprio do batismo particular; não converter data dos óleos em batismo."
       ],
+      "leitura_anterior": "António, primeiro de janeiro de 1823, santos óleos após batismo em casa por morte iminente; Mateus Dias e Isabel Nunes.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Não consta dia próprio do batismo particular; não converter data dos óleos em batismo.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0162.jpg"
     },
@@ -63518,10 +64010,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Ana, cinco de janeiro de 1823; Francisco Garcia e Maria Abansa/Mansa [?]. Nome materno inseguro, não decidir pelo avô Manuel Manso.",
+      "leitura_parcial": "Ana; 5/1/1823; Francisco Garcia e Maria Abansa/Mansa?.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Nome materno mantém leitura insegura; não usar Manuel Manso, avô materno, para o completar."
       ],
+      "leitura_anterior": "Ana, cinco de janeiro de 1823; Francisco Garcia e Maria Abansa/Mansa [?]. Nome materno inseguro, não decidir pelo avô Manuel Manso.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nome materno mantém leitura insegura; não usar Manuel Manso, avô materno, para o completar.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0162.jpg"
     },
@@ -63532,10 +64026,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria Luís, vinte e seis de maio de 1795; António Luís e Lúcia Martins; cópia em janeiro de 1823.",
+      "leitura_parcial": "Maria Luís; batismo referido em 26/5/1795; António Luís e Lúcia Martins; cópia de janeiro de 1823.",
       "duvidas": [
-        "Certidão antiga anterior ao intervalo catalogado; separar evento/cópia."
+        "Batismo anterior ao intervalo do catálogo; a data da cópia não é a data do evento."
       ],
+      "leitura_anterior": "Maria Luís, vinte e seis de maio de 1795; António Luís e Lúcia Martins; cópia em janeiro de 1823.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Batismo anterior ao intervalo do catálogo; a data da cópia não é a data do evento.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0163.jpg"
     },
@@ -63546,10 +64042,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, abertura três de novembro de 1822 corrigida para dois de fevereiro de 1823; António Nunes e Ana Martins. Continuação direita consultada.",
+      "leitura_parcial": "Maria; abertura de novembro de 1822 emendada para 2/2/1823; António Nunes e Ana Martins; continuação na direita.",
       "duvidas": [
-        "Emenda cronológica explícita e campos essenciais a reconferir em ampliação."
+        "Data corrigida exige nova conferência da redação completa; conservar ambas as camadas da emenda sem integrar pela cronologia."
       ],
+      "leitura_anterior": "Maria, abertura três de novembro de 1822 corrigida para dois de fevereiro de 1823; António Nunes e Ana Martins. Continuação direita consultada.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Data corrigida exige nova conferência da redação completa; conservar ambas as camadas da emenda sem integrar pela cronologia.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0163.jpg"
     },
@@ -63560,10 +64058,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria Pecadora, oito de outubro de 1797; António Nunes Pecoeiro [?] e Maria Martins Pecadora. Termo por mandado após falta no livro antigo, continua m0164-e.",
+      "leitura_parcial": "Maria Pecadora; 8/10/1797; António Nunes Pecoeiro? e Maria Martins Pecadora; continuação m0164-e.",
       "duvidas": [
-        "Certidão antiga; nome paterno e complemento infantil precisam de reconferência, não datar pelo mandado de 1823."
+        "Complemento paterno pouco seguro e evento anterior ao catálogo; continuação contém padrinhos e fecho."
       ],
+      "leitura_anterior": "Maria Pecadora, oito de outubro de 1797; António Nunes Pecoeiro [?] e Maria Martins Pecadora. Termo por mandado após falta no livro antigo, continua m0164-e.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Complemento paterno pouco seguro e evento anterior ao catálogo; continuação contém padrinhos e fecho.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0163.jpg"
     },
@@ -63574,10 +64074,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, cinco de março de 1823; Domingos Luís e Maria Lourença. Mancha sobre nomes; reconferir.",
+      "leitura_parcial": "José; 5/3/1823; Domingos Luís e Maria Lourença.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+        "Mancha atravessa o núcleo do termo e parte da filiação; não confirmar apenas pela margem legível."
       ],
+      "leitura_anterior": "José, cinco de março de 1823; Domingos Luís e Maria Lourença. Mancha sobre nomes; reconferir.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Mancha atravessa o núcleo do termo e parte da filiação; não confirmar apenas pela margem legível.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0164.jpg"
     },
@@ -63588,10 +64090,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria Joaquina, oito de dezembro de 1785; José Garcia e Maria Rodrigues; certidão copiada em março de 1823.",
+      "leitura_parcial": "Maria Joaquina; 8/12/1785; José Garcia e Maria Rodrigues; reposição de março de 1823.",
       "duvidas": [
-        "Certidão anterior ao intervalo catalogado; não usar data da cópia."
+        "Evento anterior ao catálogo; conservar data do batismo de 1785 separada da reposição."
       ],
+      "leitura_anterior": "Maria Joaquina, oito de dezembro de 1785; José Garcia e Maria Rodrigues; certidão copiada em março de 1823.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Evento anterior ao catálogo; conservar data do batismo de 1785 separada da reposição.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0164.jpg"
     },
@@ -63602,12 +64106,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Luísa, vinte e dois/vinte e nove de março de 1823 [?]; Manuel Gomes e Maria Martins Formela.",
+      "leitura_parcial": "Luísa; abertura parece 22/3/1823, antes lida 22/29; Manuel Gomes e Maria Martins Fornicela/Formela?.",
       "duvidas": [
-        "Dia da abertura inseguro em ampliação: vinte e dois/vinte e nove; não fixar a primeira hipótese."
+        "Ampliação favorece vinte e dois, mas o complemento materno permanece inseguro; não fixar nome truncado."
       ],
       "leitura_anterior": "Luísa; batismo 29/03/1823; Manuel Gomes e Maria Martins Formela. ",
-      "nota_revisao": "23/11/2026: reconferência visual em ampliação; mantido pendente. Dia da abertura inseguro em ampliação: vinte e dois/vinte e nove; não fixar a primeira hipótese. ",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Ampliação favorece vinte e dois, mas o complemento materno permanece inseguro; não fixar nome truncado.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0164.jpg"
     },
@@ -63618,26 +64122,14 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel Nunes, catorze de junho de 1771; José Nunes de Marços e Maria Fernandes; certidão por mandado de visita de 1814, redigida em maio de 1823.",
+      "leitura_parcial": "Isabel Nunes; 14/6/1771; José Nunes de Marços e Maria Fernandes; mandado de 1814 e reposição em 1823.",
       "duvidas": [
-        "Certidão antiga anterior ao intervalo catalogado; separar mandado, redação e evento."
+        "Batismo anterior ao catálogo; não confundir mandado ou reposição com evento antigo; conferir complemento Marços na continuação."
       ],
+      "leitura_anterior": "Isabel Nunes, catorze de junho de 1771; José Nunes de Marços e Maria Fernandes; certidão por mandado de visita de 1814, redigida em maio de 1823.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Batismo anterior ao catálogo; não confundir mandado ou reposição com evento antigo; conferir complemento Marços na continuação.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0165.jpg"
-    },
-    {
-      "id": "S8-B4-m0166-e-02",
-      "imagem": "m0166",
-      "lado": "esquerda",
-      "ordem": 2,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "José, vinte de maio de 1823; Domingos Correia e Maria Nunes. Mãe do segundo matrimónio; texto refere tutela e matrimónios, por reconferir.",
-      "duvidas": [
-        "Composição e contexto familiar exigem reconferência; não interpretar a tutela como filiação adicional."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0166.jpg"
     },
     {
       "id": "S8-B4-m0166-e-03",
@@ -63646,10 +64138,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Boaventura [?], vinte e sete de maio de 1823; Paulino Robalo e Maria Gonçalves [?]. Continua na direita. Menções provisórias.",
+      "leitura_parcial": "Boaventura [segundo nome?]; 27/5/1823; Paulino Robalo e Maria Gonçalves; continuação m0166-d.",
       "duvidas": [
-        "Nome infantil e filiação inseguros no fundo da página."
+        "A ampliação sugere nome composto na abertura, para além de Boaventura; não confirmar truncando o nome."
       ],
+      "leitura_anterior": "Boaventura [?], vinte e sete de maio de 1823; Paulino Robalo e Maria Gonçalves [?]. Continua na direita. Menções provisórias.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. A ampliação sugere nome composto na abertura, para além de Boaventura; não confirmar truncando o nome.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0166.jpg"
     },
@@ -63660,10 +64154,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Fragmento superior de termo anterior: nome infantil e abertura ausentes; menções a avós e padrinhos. Página única central, deteriorada, com erro de numeração.",
+      "leitura_parcial": "Fragmento final de assento, com avós e assinatura, sem abertura nem criança recuperável.",
       "duvidas": [
-        "Fragmento sem campos essenciais e sem ligação segura à página anterior; não criar pessoa nem duplicar um termo presumido."
+        "Imagem de página única com erro de numeração; falta a abertura. Não ligar por contiguidade ao termo de m0166."
       ],
+      "leitura_anterior": "Fragmento superior de termo anterior: nome infantil e abertura ausentes; menções a avós e padrinhos. Página única central, deteriorada, com erro de numeração.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Imagem de página única com erro de numeração; falta a abertura. Não ligar por contiguidade ao termo de m0166.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0167.jpg"
     },
@@ -63674,10 +64170,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Joaquim Frutídio [?], dezanove de abril de 1819; Joaquim Fernandes Monteiro e Rosa Joaquina Lourenço [?]. Folha isolada com erro de numeração.",
+      "leitura_parcial": "Joaquim Frutídio/Fructivo?; 19/4/1819; Joaquim Fernandes Monteiro e Rosa Joaquina Lourença?.",
       "duvidas": [
-        "Grafias infantis e maternas inseguras; verificar eventual repetição do evento nas folhas anteriores antes de integrar."
+        "Dobra corta extremidade de linhas e mantém inseguro nome composto e nome materno; folha regressa a 1819, sem deduzir duplicação."
       ],
+      "leitura_anterior": "Joaquim Frutídio [?], dezanove de abril de 1819; Joaquim Fernandes Monteiro e Rosa Joaquina Lourenço [?]. Folha isolada com erro de numeração.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Dobra corta extremidade de linhas e mantém inseguro nome composto e nome materno; folha regressa a 1819, sem deduzir duplicação.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0167.jpg"
     },
@@ -63688,10 +64186,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Bento, dezanove de abril de 1819; Domingos Nunes Meirinho e Maria do Amaral Vaz [?].",
+      "leitura_parcial": "Bento; 19/4/1819; Domingos Nunes Meirinho e Maria de Amaral Vaz?.",
       "duvidas": [
-        "Margem direita deteriorada; filiação e eventual repetição do evento por resolver."
+        "Nome materno atravessado por dobra junto da margem; conferir grafia e composição antes de integrar; não fundir pela coincidência de data."
       ],
+      "leitura_anterior": "Bento, dezanove de abril de 1819; Domingos Nunes Meirinho e Maria do Amaral Vaz [?].",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nome materno atravessado por dobra junto da margem; conferir grafia e composição antes de integrar; não fundir pela coincidência de data.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0167.jpg"
     },
@@ -63702,26 +64202,14 @@
       "ordem": 4,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Francisca, dezanove de abril de 1819; Manuel Martins e Rufina Martins [?]. Continua na m0168-e.",
+      "leitura_parcial": "Francisca; 19/4/1819; Manuel Martins e Rufina Martins?; prossegue em m0168-e.",
       "duvidas": [
-        "Filiação insegura em folha isolada com erro de numeração; verificar eventual repetição antes de integrar."
+        "Nome materno junto da dobra e filiação continuam a exigir confronto da abertura e continuação; sem fusões de identidade."
       ],
+      "leitura_anterior": "Francisca, dezanove de abril de 1819; Manuel Martins e Rufina Martins [?]. Continua na m0168-e.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nome materno junto da dobra e filiação continuam a exigir confronto da abertura e continuação; sem fusões de identidade.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0167.jpg"
-    },
-    {
-      "id": "S8-B4-m0168-e-01",
-      "imagem": "m0168",
-      "lado": "esquerda",
-      "ordem": 1,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Isabel, cinco de maio de 1819; Francisco Martins Viegas e Angélica Nunes. Menções provisórias.",
-      "duvidas": [
-        "Folhas com erro de numeração e regresso a 1819; verificar eventual repetição de assento previamente inventariado."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0168.jpg"
     },
     {
       "id": "S8-B4-m0168-e-02",
@@ -63730,38 +64218,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Lídia, sete de maio de 1819; Manuel Pereira e Maria Luís. Menções provisórias.",
+      "leitura_parcial": "Lídia/Loda?; 7/5/1819; Manuel Pereira e Maria Luís.",
       "duvidas": [
-        "Verificar eventual repetição nas folhas de 1819; não duplicar automaticamente o evento."
+        "Grafia do nome próprio ainda admite leitura alternativa na abertura; não decidir pela margem danificada."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0168.jpg"
-    },
-    {
-      "id": "S8-B4-m0168-d-01",
-      "imagem": "m0168",
-      "lado": "direita",
-      "ordem": 1,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "João, quinze de maio de 1819; José Lopes e Isabel Lourença [?].",
-      "duvidas": [
-        "Grafia materna e eventual repetição de assento por resolver."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0168.jpg"
-    },
-    {
-      "id": "S8-B4-m0168-d-02",
-      "imagem": "m0168",
-      "lado": "direita",
-      "ordem": 2,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Luísa, quinze de maio de 1819; António Martins da Costa e Quitéria Garcia. Menções provisórias.",
-      "duvidas": [
-        "Verificar eventual repetição do evento nas folhas anteriores de 1819."
-      ],
+      "leitura_anterior": "Lídia, sete de maio de 1819; Manuel Pereira e Maria Luís. Menções provisórias.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Grafia do nome próprio ainda admite leitura alternativa na abertura; não decidir pela margem danificada.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0168.jpg"
     },
@@ -63772,26 +64234,14 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, quinze de maio de 1819; José Robalo e Sabatina/Sabastina Vaz [?].",
+      "leitura_parcial": "Maria; 15/5/1819; José Robalo e Sabastina/Sebastina Vaz?.",
       "duvidas": [
-        "Nome materno inseguro e possível repetição; não normalizar pela plausibilidade."
+        "Nome materno continua com grafia e composição inseguras; não o normalizar para forma corrente."
       ],
+      "leitura_anterior": "Maria, quinze de maio de 1819; José Robalo e Sabatina/Sabastina Vaz [?].",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nome materno continua com grafia e composição inseguras; não o normalizar para forma corrente.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0168.jpg"
-    },
-    {
-      "id": "S8-B4-m0169-e-01",
-      "imagem": "m0169",
-      "lado": "esquerda",
-      "ordem": 1,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Catarina, vinte e nove de maio de 1819; Francisco Jorge Barrozo e Isabel Carrilha. Menções provisórias.",
-      "duvidas": [
-        "Verificar eventual repetição do evento nas folhas de 1819 com numeração irregular."
-      ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0169.jpg"
     },
     {
       "id": "S8-B4-m0169-e-02",
@@ -63800,24 +64250,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, vinte e nove de maio de 1819; pai incógnito e Maria Antunes solteira; avós paternos incógnitos. Menções provisórias.",
+      "leitura_parcial": "Maria; 29/5/1819; pai incógnito e Maria Antunes, solteira.",
       "duvidas": [
-        "Verificar eventual repetição do evento; não inventar pai nem casal parental."
+        "Pai explicitamente incógnito, sem nome a recuperar; manter termo parcial sem criar um pai nominal ou o deduzir dos padrinhos."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0169.jpg"
-    },
-    {
-      "id": "S8-B4-m0169-e-03",
-      "imagem": "m0169",
-      "lado": "esquerda",
-      "ordem": 3,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Domingos, dezanove de junho de 1819; Manuel Lourenço e Bárbara Garcia; continua na direita.",
-      "duvidas": [
-        "Verificar eventual repetição do evento nas folhas anteriores de 1819."
-      ],
+      "leitura_anterior": "Maria, vinte e nove de maio de 1819; pai incógnito e Maria Antunes solteira; avós paternos incógnitos. Menções provisórias.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Pai explicitamente incógnito, sem nome a recuperar; manter termo parcial sem criar um pai nominal ou o deduzir dos padrinhos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0169.jpg"
     },
@@ -63828,10 +64266,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Ana, oito de julho de 1819, administração de santos óleos após batismo em casa a vinte e cinco de junho do mesmo ano [?]; Manuel Garcia e Maria Rabelha [?].",
+      "leitura_parcial": "Ana; óleos em 8/7/1819 após batismo particular em 25 de junho?; Manuel Garcia e Maria Rabelha/Rabela?.",
       "duvidas": [
-        "Data do batismo particular e grafia materna inseguras; possível repetição de evento de 1819."
+        "Data do batismo anterior e grafia materna permanecem inseguras; oito de julho refere-se aos óleos."
       ],
+      "leitura_anterior": "Ana, oito de julho de 1819, administração de santos óleos após batismo em casa a vinte e cinco de junho do mesmo ano [?]; Manuel Garcia e Maria Rabelha [?].",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Data do batismo anterior e grafia materna permanecem inseguras; oito de julho refere-se aos óleos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0169.jpg"
     },
@@ -63842,10 +64282,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "João, quatro de julho de 1819, santos óleos após batismo em necessidade a vinte e quatro de junho [?]; António Nunes e Luísa Martins Pires [?].",
+      "leitura_parcial": "João; óleos em 4/7/1819, após batismo particular em 24 de junho?; António Nunes e Luísa Martins Pires?.",
       "duvidas": [
-        "Distinguir óleos do batismo particular; filiação e eventual repetição por verificar."
+        "Dia do batismo anterior e complemento materno atravessados por tinta/dobra; não usar data de óleos."
       ],
+      "leitura_anterior": "João, quatro de julho de 1819, santos óleos após batismo em necessidade a vinte e quatro de junho [?]; António Nunes e Luísa Martins Pires [?].",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Dia do batismo anterior e complemento materno atravessados por tinta/dobra; não usar data de óleos.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0169.jpg"
     },
@@ -63856,10 +64298,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Lúcia, doze de julho de 1819, santos óleos; António Antunes e Lúcia Fernandes; menciona nascimento a quatro do mesmo mês. Continuação m0170-e consultada; data do batismo particular não recuperada.",
+      "leitura_parcial": "Lúcia; óleos em 12/7/1819; António Antunes e Lúcia Fernandes; continuação m0170-e.",
       "duvidas": [
-        "Óleos distintos do batismo particular; verificar possível repetição de evento de 1819."
+        "O dia quatro está ligado ao nascimento; a abertura não assegura dia próprio do batismo em necessidade."
       ],
+      "leitura_anterior": "Lúcia, doze de julho de 1819, santos óleos; António Antunes e Lúcia Fernandes; menciona nascimento a quatro do mesmo mês. Continuação m0170-e consultada; data do batismo particular não recuperada.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. O dia quatro está ligado ao nascimento; a abertura não assegura dia próprio do batismo em necessidade.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0169.jpg"
     },
@@ -63870,10 +64314,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel [?], catorze de julho de 1819; Domingos Dias Antunes [?] e Maria Dias [?].",
+      "leitura_parcial": "Isabel?; 14/7/1819; Domingos Dias Antunes? e Maria Dias?.",
       "duvidas": [
-        "Manchas impedem campos essenciais; numeração irregular e possível repetição por verificar."
+        "Manchas densas atravessam nome e filiação; ampliação não permite fixar campos essenciais."
       ],
+      "leitura_anterior": "Isabel [?], catorze de julho de 1819; Domingos Dias Antunes [?] e Maria Dias [?].",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Manchas densas atravessam nome e filiação; ampliação não permite fixar campos essenciais.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0170.jpg"
     },
@@ -63884,10 +64330,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Domingos, doze de agosto de 1819; Domingos Garcia e Maria Dias [?].",
+      "leitura_parcial": "Domingos; 12/8/1819; Domingos Garcia e Maria Dias?.",
       "duvidas": [
-        "Nome materno e possível repetição por resolver."
+        "Nome materno atravessado por mancha; conservar hipótese sem confirmar pelo nome da avó."
       ],
+      "leitura_anterior": "Domingos, doze de agosto de 1819; Domingos Garcia e Maria Dias [?].",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nome materno atravessado por mancha; conservar hipótese sem confirmar pelo nome da avó.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0170.jpg"
     },
@@ -63898,24 +64346,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, doze de agosto de 1819; José Nunes e Maria Nunes. Continua na direita.",
+      "leitura_parcial": "Maria; 12/8/1819; José Nunes e Maria Nunes; continuação m0170-d.",
       "duvidas": [
-        "Verificar repetição de evento em folhas deslocadas; campos ainda sem reconferência."
+        "A continuação refere Paulo Nunes Fagão e Maria Joaquina como avós; abertura e ligação dos complementos mantêm interferência de tinta. Não transferir apelidos dos avós."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0170.jpg"
-    },
-    {
-      "id": "S8-B4-m0170-d-01",
-      "imagem": "m0170",
-      "lado": "direita",
-      "ordem": 1,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria Helena, treze de agosto de 1819; Manuel Robalo e Leonarda Rodrigues.",
-      "duvidas": [
-        "Verificar possível repetição de evento de 1819 em folhas com numeração irregular."
-      ],
+      "leitura_anterior": "Maria, doze de agosto de 1819; José Nunes e Maria Nunes. Continua na direita.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. A continuação refere Paulo Nunes Fagão e Maria Joaquina como avós; abertura e ligação dos complementos mantêm interferência de tinta. Não transferir apelidos dos avós.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0170.jpg"
     },
@@ -63926,10 +64362,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, dezasseis de agosto de 1819; Manuel Nunes Fagão [?] e Isabel Alves Guinéla [?].",
+      "leitura_parcial": "José; 16/8/1819; Manuel Nunes Fagão? e Isabel Alves Guinéla?.",
       "duvidas": [
-        "Apelidos parentais inseguros; não completar por avós nem normalizar pela plausibilidade."
+        "Os complementos parentais continuam graficamente inseguros; não fixar por comparação com avós ou termo vizinho."
       ],
+      "leitura_anterior": "José, dezasseis de agosto de 1819; Manuel Nunes Fagão [?] e Isabel Alves Guinéla [?].",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Os complementos parentais continuam graficamente inseguros; não fixar por comparação com avós ou termo vizinho.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0170.jpg"
     },
@@ -63940,10 +64378,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel, vinte de agosto de 1819; Paulo Gonçalves Martelo e Luísa Dias. Continuação na m0171-e consultada.",
+      "leitura_parcial": "Criança antes lida Isabel; continuação m0171-e parece dizer Matilde/Mathilde; 20/8/1819; Paulo Gonçalves Martelo e Luísa Dias.",
       "duvidas": [
-        "Nome materno e possível repetição do evento exigem reconferência."
+        "Divergência do nome da criança entre leitura anterior e continuação; conferir abertura deteriorada antes de integrar, sem escolher Isabel por repetição."
       ],
+      "leitura_anterior": "Isabel, vinte de agosto de 1819; Paulo Gonçalves Martelo e Luísa Dias. Continuação na m0171-e consultada.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Divergência do nome da criança entre leitura anterior e continuação; conferir abertura deteriorada antes de integrar, sem escolher Isabel por repetição.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0170.jpg"
     },
@@ -63954,24 +64394,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, vinte e um de agosto de 1819; Manuel Nunes de Cristo e Ana Rabalha [?].",
+      "leitura_parcial": "Maria; 21/8/1819; Manuel Nunes de Cristo e Ana Rabalha/Robalha?.",
       "duvidas": [
-        "Grafias parentais inseguras e possível repetição do evento por verificar."
+        "Nome materno mantém grafia incerta no corpo; não resolver pelas variantes da ascendência."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0171.jpg"
-    },
-    {
-      "id": "S8-B4-m0171-e-02",
-      "imagem": "m0171",
-      "lado": "esquerda",
-      "ordem": 2,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Lídia, dezasseis de setembro de 1819; Manuel Fernandes Carrilho e Isabel Joaquina Gonçalves.",
-      "duvidas": [
-        "Composições parentais e possível repetição do evento por verificar."
-      ],
+      "leitura_anterior": "Maria, vinte e um de agosto de 1819; Manuel Nunes de Cristo e Ana Rabalha [?].",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Nome materno mantém grafia incerta no corpo; não resolver pelas variantes da ascendência.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0171.jpg"
     },
@@ -63982,10 +64410,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Bartolomeu, vinte e um de setembro de 1819; Bernardo Antunes e Bárbara Nunes [?]. Continua na direita apenas se ligação confirmada.",
+      "leitura_parcial": "Abertura de 21/9/1819 antes lida Bartolomeu; corpo parece António; Bernardo Antunes e Bárbara Nunes?.",
       "duvidas": [
-        "Fundo deteriorado e descontinuidade na folha seguinte; filiação por resolver."
+        "Divergência no nome da criança e final da filiação; abertura cortada. Não ligar ao fragmento seguinte, que apresenta outra filiação."
       ],
+      "leitura_anterior": "Bartolomeu, vinte e um de setembro de 1819; Bernardo Antunes e Bárbara Nunes [?]. Continua na direita apenas se ligação confirmada.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Divergência no nome da criança e final da filiação; abertura cortada. Não ligar ao fragmento seguinte, que apresenta outra filiação.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0171.jpg"
     },
@@ -63996,24 +64426,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Fragmento superior de José, António Gonçalves Pires e Isabel Robalo Martins [?]; abertura ausente nesta página.",
+      "leitura_parcial": "Fragmento final; José António Gonçalves Pires? e Isabel Robalo; sem abertura, nome e data seguros.",
       "duvidas": [
-        "Fragmento sem data autónoma; não ligar automaticamente ao Bartolomeu da esquerda ou duplicar um evento presumido."
+        "Topo com selo e lacuna; manter separado de m0171-e-03, cuja filiação diverge; não inventar continuidade."
       ],
-      "livro": "PT/TT/PRQ/PSBG34/001/B4",
-      "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0171.jpg"
-    },
-    {
-      "id": "S8-B4-m0171-d-02",
-      "imagem": "m0171",
-      "lado": "direita",
-      "ordem": 2,
-      "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Maria, três de julho de 1823; Manuel João e Rita Pires.",
-      "duvidas": [
-        "Reconferir filiação e ano em página de sequência irregular."
-      ],
+      "leitura_anterior": "Fragmento superior de José, António Gonçalves Pires e Isabel Robalo Martins [?]; abertura ausente nesta página.",
+      "nota_revisao": "24/11/2026: revisão visual dirigida em ampliação, sem OCR; mantido pendente. Topo com selo e lacuna; manter separado de m0171-e-03, cuja filiação diverge; não inventar continuidade.",
       "livro": "PT/TT/PRQ/PSBG34/001/B4",
       "ficheiro_imagem": "fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0171.jpg"
     },
@@ -81358,8 +81776,32 @@
       "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
     },
     {
+      "assento": "S8-B4-m0151-e-01",
+      "familia_base": 6408,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
       "assento": "S8-B4-m0151-e-03",
       "familia_base": 1249,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B4-m0151-d-02",
+      "familia_base": 5300,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B4-m0151-d-03",
+      "familia_base": 6428,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B4-m0151-d-04",
+      "familia_base": 6361,
       "fundido": false,
       "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
     },
@@ -81390,6 +81832,12 @@
     {
       "assento": "S8-B4-m0156-d-03",
       "familia_base": 6821,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B4-m0157-d-02",
+      "familia_base": 6415,
       "fundido": false,
       "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
     },
@@ -81474,6 +81922,36 @@
     {
       "assento": "S8-B4-m0166-e-01",
       "familia_base": 8824,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B4-m0168-d-01",
+      "familia_base": 6361,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B4-m0169-e-03",
+      "familia_base": 6421,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B4-m0170-d-01",
+      "familia_base": 1267,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B4-m0171-d-02",
+      "familia_base": 6521,
+      "fundido": false,
+      "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
+    },
+    {
+      "assento": "S8-B4-m0171-d-02",
+      "familia_base": 6871,
       "fundido": false,
       "motivo": "Só coincidência dos nomes do casal; identidade não demonstrada."
     },

@@ -1,14 +1,24 @@
-# Retomar a revisão dos pendentes do B4 na m0144-e-01
+# Retomar a revisão dos pendentes do B4 na m0171-d-03
 
-Resumo de 23/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta**. Não procurar m0374. Próxima tarefa: revisão dirigida dos novos pendentes, começando por `S8-B4-m0144-e-01` (Isabel). A revisão dirigida anterior até m0100 já terminou; os pendentes posteriores continuam disponíveis, sem necessidade de repetir confirmados.
+Resumo de 24/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta**. Não procurar m0374. Próxima tarefa: revisão dirigida dos novos pendentes, começando por `S8-B4-m0171-d-03` (Maria). A revisão dirigida anterior até m0100 já terminou; os pendentes posteriores continuam disponíveis, sem necessidade de repetir confirmados.
 
 ## Estado
 
-Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote: `55bcb05`; localizar o commit pela mensagem «Conclui leitura inicial do B4 até m0373».
+Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base desta revisão: `b733f7b`; localizar o commit pela mensagem «Revê 100 pendentes do B4 até m0171-d-02».
 
-B4: 373 imagens examinadas, 1850 entradas, 574 confirmadas e 1276 pendentes. Lote m0144–m0373: 1195 novas entradas, 105 confirmadas após duas leituras visuais incluindo ampliação e 1090 pendentes. Os restantes termos receberam leitura inicial, não segunda leitura integral: muitos ainda necessitam de reconferência ampliada. Confirmação não é quota. As 655 entradas anteriores ficaram intactas, tal como B1, B2, B3 e base. Sem novos nascimentos ou ligações de identidade. Dados da aplicação: versão 54.
+B4: 373 imagens examinadas, 1850 entradas, 603 confirmadas e 1247 pendentes. Em 24/11/2026 foram revistos 100 pendentes de m0144-e-01 a m0171-d-02: 29 promovidos e 71 mantidos pendentes após leitura visual ampliada. Os 574 confirmados anteriores e as 1750 entradas fora do lote ficaram intactos. Não se criaram novas entradas, nascimentos ou ligações de identidade. Confirmação não é quota. Dados da aplicação: versão 55. Retomar m0171-d-03; não repetir os confirmados nem tratar os 71 ainda duvidosos como resolvidos.
 
-B1+B2+B3+B4: 4198 entradas, 1829 confirmadas e 2369 pendentes; suplemento com 5323 pessoas e 1768 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 27 530 pessoas e 11 021 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+B1+B2+B3+B4: 4198 entradas, 1858 confirmadas e 2340 pendentes; suplemento com 5410 pessoas e 1797 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 27 617 pessoas e 11 050 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+
+## Revisão dirigida m0144-e-01–m0171-d-02
+
+- Histórico completo dos 100 alvos em `revisoes[-1].assentos_anteriores`, além das primeiras hipóteses nos objetos. IDs, ordem e inventário preservados; 29 promoções, 71 pendentes com dúvidas específicas.
+- Nomes recuperados: m0144-e-01 José Fernandes Relo, sem acento inferido; m0148-d-01 Manuel Nunes Queimado; m0148-d-03 Manuel Nunes da Mata. Não atribuir apelidos dos avós aos pais.
+- m0157-e-01 Paulino: junho de 1784 refere nascimento; 24/06/1822 é data da cópia, não batismo em 24/06/1784. m0157-e-02 Manuel Nunes: 01/04/1778 ligado ao nascimento, sem dia próprio seguro do batismo. Ambos pendentes, tal como as outras cópias anteriores ao catálogo.
+- m0146-e-02 Bárbara Carrilha: ampliação favorece 1765 em vez de 1735, ainda provisório. m0152-e-01 emendas de nome/data e filiação acrescentada sem alcance seguro; m0160-d-02 adição «primeiro apelido Robalo» sem atribuição inequívoca; não promover.
+- Óleos continuam separados do batismo particular: m0156-e-04, m0160-e-01, m0162-e-02 e m0169-d-01/02/03 sem data segura do batismo anterior. Datas de nascimento não a substituem.
+- m0167 página única, com fragmento inicial sem abertura. m0167–m0171 contêm termos de 1819 fora da sequência; mantidos sem corrigir anos ou fundir identidades. m0169-e-02 Maria, pai explicitamente incógnito/Maria Antunes solteira: pendente, modelo exige ambos os pais, sem pai fictício.
+- m0170-d-03: continuação em m0171-e parece dizer Matilde/Mathilde, antes Isabel; manter divergência por resolver. m0171-e-03: corpo parece António, antes Bartolomeu; não ligar ao fragmento m0171-d-01 de filiação diferente. Próximo alvo m0171-d-03 Maria está fora dos 100 revistos.
 
 ## Cuidados do lote m0144–m0373
 
@@ -44,7 +54,7 @@ B1+B2+B3+B4: 4198 entradas, 1829 confirmadas e 2369 pendentes; suplemento com 53
 
 ## Método
 
-Continuar a leitura inicial e consultar as continuações necessárias nos JPEGs do repositório grande, só de consulta: `/Users/ricardorito/dev/arvore-geneologica-S8/fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0040.jpg`. Atenção ao prefixo PT-TT no B4, diferente do PT-ADLSB no B3. Leitura visual sem OCR. Ampliar e reconferir campos essenciais antes de confirmar. Não completar nomes ou datas pelos avós, margens ou sequência; não inferir identidades ou apelidos das crianças. Só confirmados entram na aplicação. Preservar hipóteses e dúvidas anteriores.
+Continuar a revisão dirigida dos pendentes e consultar as continuações necessárias nos JPEGs do repositório grande, só de consulta: `/Users/ricardorito/dev/arvore-geneologica-S8/fontes/S8/RegistosDeNascimentos/PT-TT-PRQ-PSBG34-001-B4/PT-TT-PRQ-PSBG34-001-B4_m0040.jpg`. Atenção ao prefixo PT-TT no B4, diferente do PT-ADLSB no B3. Leitura visual sem OCR. Ampliar e reconferir campos essenciais antes de confirmar. Não completar nomes ou datas pelos avós, margens ou sequência; não inferir identidades ou apelidos das crianças. Só confirmados entram na aplicação. Preservar hipóteses e dúvidas anteriores.
 
 ## Cuidados deste lote
 
