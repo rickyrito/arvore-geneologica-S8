@@ -1,14 +1,26 @@
-# Retomar a leitura inicial do B4 na m0144
+# Retomar a revisão dos pendentes do B4 na m0144-e-01
 
-Resumo de 22/11/2026. Comunicar em português e poupar contexto. Continuar a **leitura inicial a partir de m0144**. O topo esquerdo conclui José de `m0143-d-03`, já consultado como continuação, sem nova entrada. Inventariar os novos termos seguintes. A revisão dirigida dos pendentes inventariados até m0100 está concluída; não repetir sem nova evidência.
+Resumo de 23/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta**. Não procurar m0374. Próxima tarefa: revisão dirigida dos novos pendentes, começando por `S8-B4-m0144-e-01` (Isabel). A revisão dirigida anterior até m0100 já terminou; os pendentes posteriores continuam disponíveis, sem necessidade de repetir confirmados.
 
 ## Estado
 
-Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base deste lote: `56c69e1`; localizar o commit pela mensagem «Lê 103 novos assentos do B4 até m0143».
+Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote: `55bcb05`; localizar o commit pela mensagem «Conclui leitura inicial do B4 até m0373».
 
-B4: m0001–m0143 inventariadas, 655 entradas, 469 confirmadas e 186 pendentes. Lote de 22/11/2026: 103 novos assentos em m0125–m0143, 69 confirmados após reconferência ampliada e 34 pendentes. Sem novas datas de nascimento ou ligações de identidade. As 552 entradas anteriores ficaram intactas, assim como B1, B2, B3 e base. B3: 453 entradas, 368 confirmadas e 85 pendentes. Dados da aplicação: versão 53.
+B4: 373 imagens examinadas, 1850 entradas, 574 confirmadas e 1276 pendentes. Lote m0144–m0373: 1195 novas entradas, 105 confirmadas após duas leituras visuais incluindo ampliação e 1090 pendentes. Os restantes termos receberam leitura inicial, não segunda leitura integral: muitos ainda necessitam de reconferência ampliada. Confirmação não é quota. As 655 entradas anteriores ficaram intactas, tal como B1, B2, B3 e base. Sem novos nascimentos ou ligações de identidade. Dados da aplicação: versão 54.
 
-Conjunto B1+B2+B3+B4: 3003 entradas, 1724 confirmadas e 1279 pendentes; 5008 pessoas e 1663 núcleos no suplemento. Base: 22 207 pessoas e 9253 famílias; aplicação: 27 215 pessoas e 10 916 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`. A m0144-e foi consultada apenas como continuação; os seus novos termos ainda não foram inventariados.
+B1+B2+B3+B4: 4198 entradas, 1829 confirmadas e 2369 pendentes; suplemento com 5323 pessoas e 1768 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 27 530 pessoas e 11 021 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+
+## Cuidados do lote m0144–m0373
+
+- Não duplicar continuações: m0144 começa por fechar José m0143-d-03. m0167 e m0373 são páginas únicas; lado esquerda é apenas localização técnica. m0313 repete m0312; m0358 repete m0357 (placa Correção). m0281 direita em branco.
+- Último termo, Paulo m0373-e-02, abre aplicação dos óleos por remissão a 20/04/1847; filiação e fecho não aparecem antes do fim da pasta. Não completar. O último trecho visível chega a 1847, apesar do intervalo 1803–1854 do catálogo, que foi preservado.
+- Batismos domésticos e aplicação posterior dos óleos são distintos; nascimentos não permitem datar automaticamente o batismo. Gémeas m0262-e-02/03 Isabel/Luísa e m0266-e-03/04 Maria/Ana conservadas pendentes; m0368-d-01/02 Ana/Manuel são gémeos no mesmo termo de óleos. Não promover uma criança isoladamente quando o termo conjunto estiver inseguro.
+- m0167–m0170 têm termos de 1819 fora da sequência; não corrigir o ano para a ordem vizinha nem fundir com assentos anteriores. Cópias antigas intercaladas, nomeadamente m0201-d-01, m0242, m0245-e-01, m0246-d-02, m0251-e-02/03, m0266-d-01, m0295-d-01, m0299-e-03/d-01, m0300-e-01, m0310-e-02 e m0324-d-01, ficam pendentes; não usar data da cópia como evento nem mudar catálogo silenciosamente.
+- m0299-d-01 Bernardo tem redação rejeitada e reescrita do mesmo evento. m0350-e-03 José tem termo riscado e reescrito na direita com nome Isabel/José emendado: uma ocorrência, ainda pendente. m0301-d-02 e m0330-d-02 parecem repetir Maria do Nascimento, mesmos pais e data; nenhuma identidade ou segunda criança integrada.
+- m0308-e-03 e m0327-e-02 são aberturas abandonadas, sem campos suficientes. Não ligá-las ao termo seguinte. m0287-e-01 tem espaços não preenchidos; m0318-d-01 está sem fecho. m0332-d-01 João foi batizado em casa e morreu antes dos óleos; conservar a distinção.
+- Emendas e divergências permanecem pendentes: m0277-d-01 Prudência/Isabel; m0281-e-03 José com nota que manda substituir por Jorge; m0340-d-02 Joaquim/Manuel; m0372-e-01 nome muito emendado. Anos divergentes no corpo em m0185, m0187, m0192, m0193, m0274-e-02, m0284-e-02, m0291-e-01, m0319-e-02, m0322-d-01 e m0328-e-02: não resolver pela sequência.
+- Correções confirmadas em ampliação: m0144-e-02 Joaquina, pai Manuel Gonçalves Garrido; m0153-e-03 José António, mãe Ângela Nunes; m0161-d-03 Maria de Jesus, 15/12/1822; m0175-e-03 Manuel, mãe Isabel Mansa. Primeiras hipóteses preservadas. Campos essenciais confirmados não legitimam menções adicionais provisórias.
+- m0238-e-02 Isabel: ampliação revela complemento paterno João Luís de Guimarães [?], omitido na primeira hipótese. Mantido pendente, sem nome truncado confirmado. Também m0202-d-02 e m0233-d-02 mantêm complementos paternos inseguros; m0213-e-03 mantém complemento materno Concha [?].
 
 ## Cuidados do lote m0125–m0143
 
