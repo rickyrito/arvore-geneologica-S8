@@ -1,24 +1,35 @@
-# Retomar a revisão dos pendentes do B4 na m0171-d-03
+# Retomar a revisão dos pendentes do B4 na m0243-e-02
 
-Resumo de 24/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta**. Não procurar m0374. Próxima tarefa: revisão dirigida dos novos pendentes, começando por `S8-B4-m0171-d-03` (Maria). A revisão dirigida anterior até m0100 já terminou; os pendentes posteriores continuam disponíveis, sem necessidade de repetir confirmados.
+Resumo de 25/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta**. Não procurar m0374. Próxima tarefa: revisão dirigida dos novos pendentes, começando por `S8-B4-m0243-e-02` (Rita). A revisão dirigida anterior até m0100 já terminou; os pendentes posteriores continuam disponíveis, sem necessidade de repetir confirmados.
 
 ## Estado
 
-Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base desta revisão: `b733f7b`; localizar o commit pela mensagem «Revê 100 pendentes do B4 até m0171-d-02».
+Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base desta revisão: `00ef842`; localizar o commit pela mensagem «Revê 300 pendentes do B4 até m0243-e-01».
 
-B4: 373 imagens examinadas, 1850 entradas, 603 confirmadas e 1247 pendentes. Em 24/11/2026 foram revistos 100 pendentes de m0144-e-01 a m0171-d-02: 29 promovidos e 71 mantidos pendentes após leitura visual ampliada. Os 574 confirmados anteriores e as 1750 entradas fora do lote ficaram intactos. Não se criaram novas entradas, nascimentos ou ligações de identidade. Confirmação não é quota. Dados da aplicação: versão 55. Retomar m0171-d-03; não repetir os confirmados nem tratar os 71 ainda duvidosos como resolvidos.
+B4: 373 imagens examinadas, 1850 entradas, 723 confirmadas e 1127 pendentes. Em 25/11/2026 foram revistos 300 pendentes de m0171-d-03 a m0243-e-01: 120 promovidos e 180 mantidos pendentes após leitura visual ampliada. Os 603 confirmados anteriores e as 1550 entradas fora do lote ficaram intactos. Não se criaram novas entradas, nascimentos ou ligações de identidade. Confirmação não é quota. Dados da aplicação: versão 56. Retomar m0243-e-02; não repetir confirmados nem tratar os 180 ainda duvidosos como resolvidos.
 
-B1+B2+B3+B4: 4198 entradas, 1858 confirmadas e 2340 pendentes; suplemento com 5410 pessoas e 1797 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 27 617 pessoas e 11 050 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+B1+B2+B3+B4: 4198 entradas, 1978 confirmadas e 2220 pendentes; suplemento com 5770 pessoas e 1917 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 27 977 pessoas e 11 170 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+
+## Revisão dirigida m0171-d-03–m0243-e-01
+
+- Histórico completo dos 300 alvos em `revisoes[-1].assentos_anteriores`, além das primeiras hipóteses em `leitura_anterior`; IDs, ordem e inventário preservados. 120 promoções, 180 pendentes com leitura atualizada e dúvidas por campo.
+- Correções confirmadas: m0171-d-03 Maria, 03/07/1823; m0172-e-02 mãe Francisca Lourença; m0174-e-02 mãe Francisca Gonçalves; m0177-d-04 Luísa, 08/05/1824, «dezoito digo oito»; m0183-e-02 mãe Maria Nunes por emenda explícita. m0204-e-03 mãe Bárbara Nunes, d-02 pai Gabriel Vaz. m0209-e-02 Luísa, filha, 24/04/1824, apesar da inserção em 1827; d-03 José, 07/06/1827, não dezembro.
+- Outras correções fechadas: m0213-e-03 mãe Maria Fernanda Concha; m0214-d-02 mãe Isabel Nunes; m0215-e-02 pai Manuel Gonçalves de Matos; m0223-e-01 batismo 12/08/1828; m0226-e-01 pai Manuel Garcia; m0229-e-01 pai Manuel Nunes de Ambrósio; m0230-e-02 batismo 17/03/1829, e-03 24/03/1829, d-03 pai Manuel Gonçalves de Ambrósio; m0231-d-01 pai Manuel Martins da Escolástica; m0233-d-03 Maria, 28/06/1829, António Robalo/Maria do Amaral. As razões e hipóteses completas estão nos objetos e no histórico, sem repetir a transcrição aqui.
+- Anos divergentes corpo/margem entre m0185 e m0197 continuam pendentes: várias aberturas dizem 1826 onde a primeira leitura/margem apontava 1825. Não resolver pela ordem cronológica. m0243-e-01 Ana: redação do ano por extenso parece 1739 e diverge da sequência de 1830; nascimento e batismo separados, não validar automaticamente o ano.
+- Certidões antigas intercaladas continuam pendentes quando anteriores ao catálogo ou sem data absoluta segura: m0195–m0203, m0208, m0210, m0212, m0217–m0218, m0220-d-02, m0229-d-01, m0232, m0234-d-01, m0237-e-02, m0239-e-01 e m0242. Festas móveis, intervalos relativos e datas de cópia não fornecem uma data exata inferida. Em m0232-e o corpo identifica Manuel Martins Gonçalves, divergindo da primeira hipótese Isabel em m0231-d-02: rever a ligação antes de promover, sem duplicar.
+- Pendentes por nomes/emendas: m0171-d-04 Quitéria Garcia/Nunes; m0178-d-01 Arménia/Armerinda e pais; m0179-d-03 emenda da filiação; m0199-d-02 composição materna; m0203-d-03 dia treze/quinze; m0204-d-03 dia vinte e hum/24; m0206 campos sob tinta; m0213-d-02 António Sucara [?]; m0221-d-01 emenda paterna; m0225-e-01 Luísa/Lúcia Jorge e complemento, d-02 complemento paterno; m0231-e-01 José António Arménio [?]; m0233-d-02 da Fonseca/Proença; m0235-d-02 Mendes/Marques; m0238-e-02 João Luís de Guimarães [?], d-01 dia e complemento paterno. Não truncar para promover.
+- Óleos sem dia próprio seguro do batismo doméstico ficam pendentes, incluindo m0206-d-02, m0207-e-03/d-01, m0210-d-02/03, m0211-e-02, m0213-e-02, m0235-e-03, m0240-e-01 e m0241-e-02. Batismo doméstico explicitamente datado de m0237-e-01 confirmado, sem nascimento inferido. Muitas aberturas correntes dizem «batizei solenemente e pus os Santos Óleos», permitindo distinguir o batismo da simples administração posterior.
+- Filiações incógnitas/alegadas não foram preenchidas: m0201-e-02, m0206-d-02, m0218-d-02, m0224-d-01, m0226-e-02 e m0227-e-01. O modelo atual exige os dois pais nomeados; não criar pais fictícios ou promover alegações a identidade confirmada.
 
 ## Revisão dirigida m0144-e-01–m0171-d-02
 
-- Histórico completo dos 100 alvos em `revisoes[-1].assentos_anteriores`, além das primeiras hipóteses nos objetos. IDs, ordem e inventário preservados; 29 promoções, 71 pendentes com dúvidas específicas.
+- Histórico completo dos 100 alvos na revisão de 24/11/2026, em `assentos_anteriores`, além das primeiras hipóteses nos objetos. IDs, ordem e inventário preservados; 29 promoções, 71 pendentes com dúvidas específicas.
 - Nomes recuperados: m0144-e-01 José Fernandes Relo, sem acento inferido; m0148-d-01 Manuel Nunes Queimado; m0148-d-03 Manuel Nunes da Mata. Não atribuir apelidos dos avós aos pais.
 - m0157-e-01 Paulino: junho de 1784 refere nascimento; 24/06/1822 é data da cópia, não batismo em 24/06/1784. m0157-e-02 Manuel Nunes: 01/04/1778 ligado ao nascimento, sem dia próprio seguro do batismo. Ambos pendentes, tal como as outras cópias anteriores ao catálogo.
 - m0146-e-02 Bárbara Carrilha: ampliação favorece 1765 em vez de 1735, ainda provisório. m0152-e-01 emendas de nome/data e filiação acrescentada sem alcance seguro; m0160-d-02 adição «primeiro apelido Robalo» sem atribuição inequívoca; não promover.
 - Óleos continuam separados do batismo particular: m0156-e-04, m0160-e-01, m0162-e-02 e m0169-d-01/02/03 sem data segura do batismo anterior. Datas de nascimento não a substituem.
 - m0167 página única, com fragmento inicial sem abertura. m0167–m0171 contêm termos de 1819 fora da sequência; mantidos sem corrigir anos ou fundir identidades. m0169-e-02 Maria, pai explicitamente incógnito/Maria Antunes solteira: pendente, modelo exige ambos os pais, sem pai fictício.
-- m0170-d-03: continuação em m0171-e parece dizer Matilde/Mathilde, antes Isabel; manter divergência por resolver. m0171-e-03: corpo parece António, antes Bartolomeu; não ligar ao fragmento m0171-d-01 de filiação diferente. Próximo alvo m0171-d-03 Maria está fora dos 100 revistos.
+- m0170-d-03: continuação em m0171-e parece dizer Matilde/Mathilde, antes Isabel; manter divergência por resolver. m0171-e-03: corpo parece António, antes Bartolomeu; não ligar ao fragmento m0171-d-01 de filiação diferente. O alvo m0171-d-03 Maria ficou fora dos 100 desse lote e foi revisto no lote seguinte.
 
 ## Cuidados do lote m0144–m0373
 
@@ -30,7 +41,7 @@ B1+B2+B3+B4: 4198 entradas, 1858 confirmadas e 2340 pendentes; suplemento com 54
 - m0308-e-03 e m0327-e-02 são aberturas abandonadas, sem campos suficientes. Não ligá-las ao termo seguinte. m0287-e-01 tem espaços não preenchidos; m0318-d-01 está sem fecho. m0332-d-01 João foi batizado em casa e morreu antes dos óleos; conservar a distinção.
 - Emendas e divergências permanecem pendentes: m0277-d-01 Prudência/Isabel; m0281-e-03 José com nota que manda substituir por Jorge; m0340-d-02 Joaquim/Manuel; m0372-e-01 nome muito emendado. Anos divergentes no corpo em m0185, m0187, m0192, m0193, m0274-e-02, m0284-e-02, m0291-e-01, m0319-e-02, m0322-d-01 e m0328-e-02: não resolver pela sequência.
 - Correções confirmadas em ampliação: m0144-e-02 Joaquina, pai Manuel Gonçalves Garrido; m0153-e-03 José António, mãe Ângela Nunes; m0161-d-03 Maria de Jesus, 15/12/1822; m0175-e-03 Manuel, mãe Isabel Mansa. Primeiras hipóteses preservadas. Campos essenciais confirmados não legitimam menções adicionais provisórias.
-- m0238-e-02 Isabel: ampliação revela complemento paterno João Luís de Guimarães [?], omitido na primeira hipótese. Mantido pendente, sem nome truncado confirmado. Também m0202-d-02 e m0233-d-02 mantêm complementos paternos inseguros; m0213-e-03 mantém complemento materno Concha [?].
+- m0238-e-02 Isabel: ampliação revela complemento paterno João Luís de Guimarães [?], omitido na primeira hipótese. Mantido pendente, sem nome truncado confirmado. m0233-d-02 mantém complemento paterno inseguro; m0202-d-02 e m0213-e-03 foram confirmados na revisão de 25/11/2026.
 
 ## Cuidados do lote m0125–m0143
 
