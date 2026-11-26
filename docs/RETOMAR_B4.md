@@ -1,14 +1,24 @@
-# Retomar a revisão dos pendentes do B4 na m0294-d-03
+# Retomar a revisão dos pendentes do B4 na m0317-e-01
 
-Resumo de 25/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta**. Não procurar m0374. Próxima tarefa: revisão dirigida dos novos pendentes, começando por `S8-B4-m0294-d-03`. A revisão dirigida anterior até m0100 já terminou; os pendentes posteriores continuam disponíveis, sem necessidade de repetir confirmados.
+Resumo de 26/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta**. Não procurar m0374. Próxima tarefa: revisão dirigida dos pendentes, começando por `S8-B4-m0317-e-01`. Todos os 268 pendentes de m0317 ao fim estão por rever pela primeira vez em ampliação; não repetir confirmados.
 
 ## Estado
 
-Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote agora concluído: `3a92558`; localizar o novo commit pela mensagem «Revê 300 pendentes do B4 até m0294-d-02».
+Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote agora concluído: `ab8aa00`; localizar o novo commit pela mensagem «Revê 120 pendentes do B4 até m0316-d-03».
 
-B4: 373 imagens examinadas, 1850 entradas, 953 confirmadas e 897 pendentes. Em 25/11/2026 foram revistos 300 pendentes de m0243-e-02 a m0294-d-02: 230 promovidos e 70 mantidos pendentes após leitura visual ampliada. Os 723 confirmados anteriores e as 1550 entradas fora do lote ficaram intactos. Não se criaram novas entradas, nascimentos ou ligações de identidade. Confirmação não é quota. Dados da aplicação: versão 57. Retomar m0294-d-03; não repetir confirmados nem tratar os 70 ainda duvidosos como resolvidos. Restam 388 pendentes por percorrer a partir desse ponto na ordem do inventário.
+B4: 373 imagens examinadas, 1850 entradas, 1035 confirmadas e 815 pendentes. Em 26/11/2026 foram revistos 120 pendentes de m0294-d-03 a m0316-d-03: 82 promovidos e 38 mantidos pendentes após leitura visual ampliada. Os 953 confirmados anteriores e as 1730 entradas fora do lote ficaram intactos. Não se criaram novas entradas, nascimentos ou ligações de identidade. Confirmação não é quota. Dados da aplicação: versão 58. Retomar m0317-e-01; não tratar os 38 ainda duvidosos como resolvidos.
 
-B1+B2+B3+B4: 4198 entradas, 2208 confirmadas e 1990 pendentes; suplemento com 6460 pessoas e 2147 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 28 667 pessoas e 11 400 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+B1+B2+B3+B4: 4198 entradas, 2290 confirmadas e 1908 pendentes; suplemento com 6706 pessoas e 2229 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 28 913 pessoas e 11 482 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+
+## Revisão dirigida m0294-d-03–m0316-d-03
+
+- 120 alvos exatos, 82 promoções e 38 pendentes. Histórico integral em `revisoes[-1].assentos_anteriores`, primeiras hipóteses em `leitura_anterior`. Sem OCR, novas entradas, nascimentos ou identidades inferidas. A primeira leitura deste trecho errou muitos apelidos e dias: reconferir sempre o corpo e a margem.
+- Termos sem efeito, não integrados: m0298-d-01 (repete m0296-e-02, nota marginal Sem effeito) e m0301-d-02 (N.B. sem efeito, remete para a f. 335, cf. m0330-d-02). Em m0298-d-02 a nota Sem effeito está riscada e o termo foi confirmado. m0308-e-03 é abertura abandonada de 03/01/1841; o assento foi lançado em m0309-d-01 (Manuel, José Bernardo/Maria Rodrigues Pinha), que o adverte. Não criar segunda entrada.
+- Batismos domésticos com dia explícito confirmados pela data do batismo, não dos óleos: m0299-e-02 Manuel 11/11/1839 (óleos 14) e m0311-e-02 Tomás 10/03/1841 (dez entrelinhado; óleos 14). Óleos sem dia do batismo doméstico, pendentes: m0295-e-01, m0296-d-01, m0298-e-03, m0302-d-03, m0306-d-03, m0307-e-02, m0309-e-03, m0310-d-02/03, m0314-e-01 e m0316-e-02.
+- Gémeas Catarina m0301-d-03 e Clara do Nascimento m0302-e-01, 29/12/1839, em termos separados: pendentes por apelido paterno Gaão/Gaião [?]. Reformas antigas sem dia: m0295-d-01 (1785), m0299-e-03 (1814), m0299-d-01 (1785, texto riscado do mesmo termo), m0300-e-01 (1785) e m0310-e-02 (1819).
+- Pendentes por nomes: m0294-e-01/02 (já anteriores), m0296-e-01 (topo cortado, sem dia), m0304-e-02 e m0315-e-01 (Logrado/Legrado; m0315-e-01 corpo Lourenço, margem Martins), m0305-e-02 e m0305-d-01, m0306-e-02/e-03/d-01 (Furiel/Lagos), m0312-e-02 e d-01 (Grencha/Grancha), m0312-d-03 e m0315-e-02 (mesmos avós maternos, complemento Protónia/Pintora [?]). m0304-d-03 tem dia de julho borrado; m0312-d-02 foi lançado em 08/07/1841 com batismo por outro padre e omissão do assento.
+- Sem pai fictício: m0303-d-02 (pai incógnito); m0316-d-03 termo interrompido de filho espúrio; m0316-e-03 omite o nome da criança no corpo (Luísa só na margem).
+- Correções relevantes de data confirmadas: m0295-e-02/03 28/07/1839; m0298-e-01 15/10; m0298-d-02 28/10; m0300-e-02 01/12/1839 (de Zembro, não junho); m0301-e-01 15/12 (nasceu a 4); m0302-e-02 12/01/1840; m0303-e-02/03 26/03/1840; m0306-d-02 11/10/1840; m0307-e-03 14/11/1840; m0308-e-01 25/12/1840; m0310-e-01 10/02/1841; m0311-e-01 10/03; m0311-d-03 06/06/1841 (termo seguinte diz No mesmo dia seis); m0314-d-03 16/08/1841; m0315-d-02 26/09; m0315-d-03 09/10 por emenda; m0316-e-01 16/10/1841.
 
 ## Revisão dirigida m0243-e-02–m0294-d-02
 
