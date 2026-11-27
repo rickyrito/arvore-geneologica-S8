@@ -1,14 +1,29 @@
-# Retomar a revisão dos pendentes do B4 na m0339-e-01
+# Retomar os pendentes anteriores do B4 na m0101-d-02
 
-Resumo de 27/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta**. Não procurar m0374. Próxima tarefa: revisão dirigida dos pendentes, começando por `S8-B4-m0339-e-01`. Todos os 148 pendentes de m0339 ao fim estão por rever pela primeira vez em ampliação; não repetir confirmados.
+Resumo de 27/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta; revisão dirigida do trecho final também concluída.** Não procurar m0374. Ainda há 636 pendentes no livro. Auditoria do histórico encontrou 53 pendentes anteriores sem `nota_revisao`, de `S8-B4-m0101-d-02` a `S8-B4-m0144-d-03`: retomar esse grupo antes de repetir os já revistos ou os confirmados. Não declarar revisão integral concluída só por chegar à última imagem.
 
 ## Estado
 
-Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote agora concluído: `91c92cb2`; localizar o novo commit pela mensagem «Revê 120 pendentes do B4 até m0338-d-02».
+Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote agora concluído: `4bd03d71`; localizar o novo commit pela mensagem «Revê 148 pendentes finais do B4 até m0373».
 
-B4: 373 imagens examinadas, 1850 entradas, 1126 confirmadas e 724 pendentes. Em 26–27/11/2026 foram revistos 120 pendentes de m0317-e-01 a m0338-d-02: 91 promovidos e 29 mantidos pendentes após leitura visual ampliada. Os 1035 confirmados anteriores e as 1730 entradas fora do lote ficaram intactos. Não se criaram novas entradas, nascimentos ou ligações de identidade. Confirmação não é quota. Dados da aplicação: versão 59. Retomar m0339-e-01; não tratar os 29 ainda duvidosos como resolvidos.
+B4: 373 imagens examinadas, 1850 entradas, 1214 confirmadas e 636 pendentes. Em 27/11/2026 foram revistos 148 pendentes de m0339-e-01 a m0373-e-02: 88 promovidos e 60 mantidos pendentes após leitura visual ampliada. Os 1126 confirmados anteriores e as 1702 entradas fora do lote ficaram intactos. Confirmação não é quota. Dados da aplicação: versão 60.
 
-B1+B2+B3+B4: 4198 entradas, 2381 confirmadas e 1817 pendentes; suplemento com 6979 pessoas e 2320 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 29 186 pessoas e 11 573 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+B1+B2+B3+B4: 4198 entradas, 2469 confirmadas e 1729 pendentes; suplemento com 7243 pessoas e 2408 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 29 450 pessoas e 11 661 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+
+## Próximo grupo e distinção de cobertura
+
+- Selecionar os pendentes sem `nota_revisao`, preservando os objetos antes da revisão. O grupo tem 53 entradas no estado atual; começa em m0101-d-02 e termina em m0144-d-03. Não usar apenas `ids_revistos` para medir cobertura: revisões antigas têm outros formatos de histórico.
+- Começar por m0101-d-02 (José, óleos sem data própria do batismo doméstico) e m0102-e-02 (Francisco, complemento materno Carrita inseguro). Campos essenciais e dúvidas no JSON; não promover por mera remissão ou plausibilidade.
+- Depois deste grupo, planear nova passagem pelos casos difíceis ainda pendentes, a começar por m0002-e-01, fragmento mutilado já revisto em 21/11/2026. Não repetir esse fragmento como se nunca tivesse sido analisado.
+
+## Revisão dirigida m0339-e-01–m0373-e-02
+
+- 148 alvos exatos, 88 promoções e 60 pendentes. Histórico integral em `revisoes[-1].assentos_anteriores`, primeiras hipóteses em `leitura_anterior`. Sem OCR, novas entradas, nascimentos ou identidades inferidas. Só confirmados entram na aplicação e no GEDCOM.
+- Correções confirmadas: m0344-e-01 José, 23/10/1844; m0347-d-03 José, 10/03/1845, não maio; m0345-e-02 Eufémia, Manuel Nunes de Marcos/Lúcia Martins da Forja; m0353-d-02 mãe Ana Martins da Caçadora, não Lavadeira; m0360-d-01 Maria Ana, mãe Maria Esteves, não Pires. Grafias Caldeiro, Felomina, Garecho, Roballa, Legrado e Ruco conservadas como lidas, sem harmonização de identidades.
+- Óleos sem dia próprio do batismo doméstico continuam pendentes. m0365-e-02 Maria foi confirmado porque a fórmula declara batizei solenemente e pus os santos óleos, sem batismo anterior em casa. m0362-e-01 corrige a fórmula para batismo doméstico; gémeos Ana/Manuel m0368-d-01/02 partilham termo de óleos, sem duas cerimónias inventadas. m0373-e-02 Paulo termina antes da filiação; falta continuação na pasta.
+- Datas e emendas pendentes: m0350-e-03 reúne redação riscada e reescrita, José/Isabel e dias 03/13/22 de maio; não duplicar. m0363-d-03 abre por remissão a 21/06/1846 e fecha 25/06. m0364-e-01 é reforma de 1846 de batismo de 1817, mês junho/julho ainda inseguro. m0367-d-01 ano três/seis, sem o completar pela sequência.
+- Remissões que dependem de termo pendente continuam pendentes, incluindo m0350-d-01, m0351-d-02, m0361-e-01, m0362-e-02 e m0366-d-01. Divergências entre corpo e margem, nomes rasurados ou complementos inseguros estão individualizados; não truncar filiação para confirmar.
+- m0358 repete m0357: consultada como apoio, sem entradas novas. m0373 é página única. Inventário, notas de página, outros livros e base permanecem intactos.
 
 ## Revisão dirigida m0317-e-01–m0338-d-02
 
