@@ -1,20 +1,35 @@
-# Retomar os casos difíceis do B4 a partir de m0002-e-01
+# Retomar os casos difíceis do B4 a partir de m0027-d-03
 
-Resumo de 27/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta, e revisão dirigida dos pendentes anteriores sem nota também concluída.** Não procurar m0374. B4 ainda tem 633 pendentes; não declarar o livro integralmente resolvido. Não restam pendentes sem `nota_revisao`.
+Resumo de 27/11/2026. Comunicar em português e poupar contexto. **Leitura inicial e revisão dirigida concluídas até m0373, fim da pasta.** A nova passagem dos casos difíceis percorreu 19 pendentes de m0002-e-01 a m0023-e-02. Não procurar m0374. B4 ainda tem 632 pendentes; não declarar o livro integralmente resolvido.
 
 ## Estado
 
-Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote agora concluído: `27a4ddfe`; localizar o novo commit pela mensagem «Revê 53 pendentes anteriores do B4».
+Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base deste lote: `cceb052c`; localizar o novo commit pela mensagem «Revê 19 casos difíceis iniciais do B4».
 
-B4: 373 imagens examinadas, 1850 entradas, 1217 confirmadas e 633 pendentes. Em 27/11/2026 foram revistos os 53 pendentes sem nota de revisão dirigida, de m0101-d-02 a m0144-d-03: três promovidos e 50 mantidos pendentes. Os 1214 confirmados anteriores e as 1797 entradas fora do lote ficaram intactos; inventário, catálogo e histórico preservados. Dados da aplicação: versão 61.
+B4: 373 imagens examinadas, 1850 entradas, 1218 confirmadas e 632 pendentes. Os 19 alvos já tinham revisão anterior; uma promoção e 18 mantidos pendentes. Os 1217 confirmados anteriores e as 1831 entradas fora do lote ficaram intactos. Dados da aplicação: versão 62.
 
-B1+B2+B3+B4: 4198 entradas, 2472 confirmadas e 1726 pendentes; suplemento com 7252 pessoas e 2411 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 29 459 pessoas e 11 664 famílias. Histórico e primeiras hipóteses nos objetos e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+B1+B2+B3+B4: 4198 entradas, 2473 confirmadas e 1725 pendentes; suplemento com 7255 pessoas e 2412 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 29 462 pessoas e 11 665 famílias. Histórico e primeiras hipóteses nos objetos e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
 
 ## Próxima passagem
 
-- Partir dos casos difíceis ainda pendentes, a começar por m0002-e-01, fragmento manchado e mutilado já revisto em 21/11/2026. Não repetir como se fosse leitura nova; identificar qual campo e que evidência adicional pode resolver a dúvida. Confirmados não são alvo de repetição automática.
-- Todos os pendentes têm agora `nota_revisao`; essa presença regista análise, não resolução. Não usar só `ids_revistos` para medir cobertura: revisões antigas têm outros formatos de histórico.
-- Manter certidões anteriores ao intervalo catalogado pendentes, distinguindo evento, mandado e redação. O gerador atual exige data de batismo dentro do catálogo do livro; não alterar datas históricas ou catálogo para forçar integração. Pais incógnitos, termos conjuntos e batismos domésticos sem dia também não se resolvem preenchendo dados fictícios.
+- Continuar os casos difíceis em **m0027-d-03**, Maria exposta e batismo sob condição, já revista: consultar também o alto de m0028 esquerda. Manuel Jorge/Luísa Martins são o casal da porta onde foi encontrada, não os pais. Não preencher filiação fictícia. Prosseguir depois pelos pendentes seguintes, sem repetir confirmados.
+- Os 18 casos que ficaram pendentes entre m0002 e m0023 não estão resolvidos. A nova revisão identifica o campo e a evidência em falta; não voltar a tratá-los como leitura inédita. Fragmentos materialmente perdidos não se completam com termos vizinhos.
+- Todos os pendentes têm `nota_revisao`; essa presença regista análise, não resolução. Não usar só `ids_revistos` para medir cobertura: revisões antigas têm outros formatos de histórico.
+- Manter certidões anteriores ao intervalo catalogado pendentes, distinguindo evento, mandado e redação. O gerador atual exige data de batismo dentro do catálogo; não alterar datas ou catálogo para forçar integração. Pais incógnitos, termos conjuntos e batismos domésticos sem dia não se resolvem com dados fictícios.
+
+## Validação deste lote
+
+Gerador e `--check` concluídos: 2473 integrados, 1725 pendentes, 7255 pessoas e 2412 núcleos. Passaram os 11 testes, o validador de design e `git diff --check`. Verificadas a integridade dos alvos, base e outros livros, os índices recíprocos da aplicação, a proteção de carregamento duplo e a ficha de Luísa com nascimento vazio e batismo distinto.
+
+## Nova passagem m0002-e-01–m0023-e-02
+
+- 19 alvos exatos, uma promoção e 18 pendentes. Histórico integral em `revisoes[-1].assentos_anteriores`; hipóteses iniciais e revisões anteriores preservadas. Leitura visual sem OCR, com recortes ampliados e ajuste de contraste. Sem novas entradas, nascimentos ou identidades inferidas.
+- Confirmada Luísa m0023-e-02, 07/06/1806, Manuel Brás/Maria Martins: depois do nome materno lê-se natural de, sem Nogueira como apelido. Julho e Nogueira ficam no histórico. Campos essenciais reconferidos em ampliação.
+- m0012-e-02: a ampliação distingue digo entre segmentos Gonçalves/Martins na zona paterna; alcance da correção e composição final do nome ainda por resolver. Não concatenar automaticamente a primeira sequência Manuel Esteves Luís Gonçalves.
+- m0018-e-01 Isabel: primeiro nome paterno admite Manuel além de José da hipótese anterior; não escolher pelo avô José Gonçalves. m0018-e-02 mantém apelido materno e abertura manchados; m0018-d-01 depende dessa data por remissão.
+- m0013-d-02: ano favorece cinco na nova ampliação, mas 1805/1806 continua inseguro. m0015-e-03: complemento paterno favorece Laginha, sem fechar Lagarto. Não promover pela preferência.
+- m0015-e-01/02 continuam termos de óleos de 22/04/1805 sem dia próprio seguro do batismo particular; m0016-d-02 continua sem pai declarado. Não alterar o modelo de integração neste lote.
+- m0002 é página única, com primeiro fragmento sem abertura; termos inferiores já têm inventário próprio. m0003 tem perda material na filiação. As restantes dúvidas de nomes em m0004, m0005, m0007 e m0021 foram delimitadas no JSON.
 
 ## Revisão dirigida dos 53 pendentes anteriores m0101-d-02–m0144-d-03
 
