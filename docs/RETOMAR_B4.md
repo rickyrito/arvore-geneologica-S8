@@ -1,14 +1,25 @@
-# Retomar a revisão dos pendentes do B4 na m0317-e-01
+# Retomar a revisão dos pendentes do B4 na m0339-e-01
 
-Resumo de 26/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta**. Não procurar m0374. Próxima tarefa: revisão dirigida dos pendentes, começando por `S8-B4-m0317-e-01`. Todos os 268 pendentes de m0317 ao fim estão por rever pela primeira vez em ampliação; não repetir confirmados.
+Resumo de 27/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta**. Não procurar m0374. Próxima tarefa: revisão dirigida dos pendentes, começando por `S8-B4-m0339-e-01`. Todos os 148 pendentes de m0339 ao fim estão por rever pela primeira vez em ampliação; não repetir confirmados.
 
 ## Estado
 
-Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote agora concluído: `ab8aa00`; localizar o novo commit pela mensagem «Revê 120 pendentes do B4 até m0316-d-03».
+Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote agora concluído: `91c92cb2`; localizar o novo commit pela mensagem «Revê 120 pendentes do B4 até m0338-d-02».
 
-B4: 373 imagens examinadas, 1850 entradas, 1035 confirmadas e 815 pendentes. Em 26/11/2026 foram revistos 120 pendentes de m0294-d-03 a m0316-d-03: 82 promovidos e 38 mantidos pendentes após leitura visual ampliada. Os 953 confirmados anteriores e as 1730 entradas fora do lote ficaram intactos. Não se criaram novas entradas, nascimentos ou ligações de identidade. Confirmação não é quota. Dados da aplicação: versão 58. Retomar m0317-e-01; não tratar os 38 ainda duvidosos como resolvidos.
+B4: 373 imagens examinadas, 1850 entradas, 1126 confirmadas e 724 pendentes. Em 26–27/11/2026 foram revistos 120 pendentes de m0317-e-01 a m0338-d-02: 91 promovidos e 29 mantidos pendentes após leitura visual ampliada. Os 1035 confirmados anteriores e as 1730 entradas fora do lote ficaram intactos. Não se criaram novas entradas, nascimentos ou ligações de identidade. Confirmação não é quota. Dados da aplicação: versão 59. Retomar m0339-e-01; não tratar os 29 ainda duvidosos como resolvidos.
 
-B1+B2+B3+B4: 4198 entradas, 2290 confirmadas e 1908 pendentes; suplemento com 6706 pessoas e 2229 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 28 913 pessoas e 11 482 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+B1+B2+B3+B4: 4198 entradas, 2381 confirmadas e 1817 pendentes; suplemento com 6979 pessoas e 2320 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 29 186 pessoas e 11 573 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+
+## Revisão dirigida m0317-e-01–m0338-d-02
+
+- 120 alvos exatos, 91 promoções e 29 pendentes. Histórico integral em `revisoes[-1].assentos_anteriores`, primeiras hipóteses em `leitura_anterior`. Sem OCR, novas entradas, nascimentos ou identidades inferidas. Só confirmados entram na aplicação e no GEDCOM.
+- Correções confirmadas de datas: m0323-d-04 José, 02/07/1842 (não 10/07); m0324-d-02 Maria, 26/08/1842 (não 22/08). m0319-d-02 mantém 02/01/1842 e m0338-d-01 mantém 25/02/1844, apesar da posição fora da sequência.
+- Filiações reconferidas: m0318-d-03 mãe Francisca Vaz Paulo, não Pinha (nome do avô); m0318-d-02 Isabel Viegas; m0327-e-03 pai José Fernandes Sancho; m0318-e-02/m0337-d-02 Teresa Fernandes Sancha e m0324-e-02 Eustória Fernandes Sancha; m0332-d-02 Manuel Gonçalves de Baltasar/Metildes Lourença; m0337-d-01 pai Domingos Viegas. Grafias Roballa/Robala conservadas nos nomes maternos, sem converter em Robalo. André é do avô em m0334-e-03, não do pai José Martins.
+- Batismos domésticos explicitamente datados confirmados: m0332-d-01 João, 14/08/1843, Domingos Marco Pito/Isabel Nunes, morreu antes dos óleos (sem data de óbito inferida); m0338-e-01 Maria, 28/02/1844, José Carrilho/Luísa Martins da Moça. Óleos sem dia próprio do batismo continuam pendentes em m0319-e-01, m0321-e-02, m0324-e-01, m0329-d-03, m0333-e-01/d-01, m0335-d-01 e m0336-e-03. Não usar datas dos óleos como batismo.
+- Pendentes por nomes: m0317-d-02 (complemento paterno abreviado), m0319-d-03 (Forto/Forte), m0321-e-03 (Pito/Peto), m0323-e-03 (pai José Marques no corpo, complemento marginal Marcinho/Marcinhos, antes Marcos), m0325-d-02 e m0331-d-02 (Fanuel/variantes), m0326-e-01 (complemento paterno abreviado), m0326-d-03 (Matias/Mateus), m0332-e-01 (Grancha/Grencha), m0335-d-03 (mãe Isabel Mora/Maria no corpo, Luís na margem), m0338-e-02 (Fanque/Tanque). Não truncar nomes para promover nem escolher pela filiação dos avós.
+- Emendas e anos pendentes: m0317-d-03 Maria Isabel riscado/emendado, Isabel no corpo e Isabel Gomes anotado; m0318-d-01 José com abertura nove digo três, sem padrinhos, fecho ou assinatura. m0319-e-02 favorece 1842 em vez de 1846, ainda inseguro; m0322-d-01 escreve quarenta sem dois; m0328-e-02 escreve 1842 entre termos de 1843; m0334-d-01 abre 1843 e fecha aparentemente 1840. Não harmonizar pela sequência. m0337-e-03 foi confirmado em 03/01/1844 após ler quatro repartido entre linhas.
+- Não integrados: reforma m0324-d-01 (pai incógnito, nome materno inseguro); abertura abandonada m0327-e-02; m0330-e-02 Felipe (fórmula de filiação e sujeito invulgar, exige leitura integral); m0330-d-02 Maria do Nascimento (repete dados de m0301-d-02 anulado; alcance dos traços e relação entre redações ainda por esclarecer). Não duplicar, não criar pai fictício nem usar data de reforma como evento.
+- m0323-d-04: corpo José e margem Joaquim riscado com José em substituição; confirmado após consultar continuação m0324-e. m0335-e-02: emendas dos avós não alteram pais Manuel Lourenço/Maria Pereira. Notas marginais morto/morta conservadas sem óbitos datados inferidos.
 
 ## Revisão dirigida m0294-d-03–m0316-d-03
 
