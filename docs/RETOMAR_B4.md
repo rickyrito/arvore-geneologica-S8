@@ -1,20 +1,29 @@
-# Retomar os pendentes anteriores do B4 na m0101-d-02
+# Retomar os casos difíceis do B4 a partir de m0002-e-01
 
-Resumo de 27/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta; revisão dirigida do trecho final também concluída.** Não procurar m0374. Ainda há 636 pendentes no livro. Auditoria do histórico encontrou 53 pendentes anteriores sem `nota_revisao`, de `S8-B4-m0101-d-02` a `S8-B4-m0144-d-03`: retomar esse grupo antes de repetir os já revistos ou os confirmados. Não declarar revisão integral concluída só por chegar à última imagem.
+Resumo de 27/11/2026. Comunicar em português e poupar contexto. **Leitura inicial concluída até m0373, fim da pasta, e revisão dirigida dos pendentes anteriores sem nota também concluída.** Não procurar m0374. B4 ainda tem 633 pendentes; não declarar o livro integralmente resolvido. Não restam pendentes sem `nota_revisao`.
 
 ## Estado
 
-Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote agora concluído: `4bd03d71`; localizar o novo commit pela mensagem «Revê 148 pendentes finais do B4 até m0373».
+Repositório `/Users/ricardorito/dev/arvore-geneologica-leve`, branch `main`, origin `https://github.com/rickyrito/arvore-geneologica-S8.git`. Base do lote agora concluído: `27a4ddfe`; localizar o novo commit pela mensagem «Revê 53 pendentes anteriores do B4».
 
-B4: 373 imagens examinadas, 1850 entradas, 1214 confirmadas e 636 pendentes. Em 27/11/2026 foram revistos 148 pendentes de m0339-e-01 a m0373-e-02: 88 promovidos e 60 mantidos pendentes após leitura visual ampliada. Os 1126 confirmados anteriores e as 1702 entradas fora do lote ficaram intactos. Confirmação não é quota. Dados da aplicação: versão 60.
+B4: 373 imagens examinadas, 1850 entradas, 1217 confirmadas e 633 pendentes. Em 27/11/2026 foram revistos os 53 pendentes sem nota de revisão dirigida, de m0101-d-02 a m0144-d-03: três promovidos e 50 mantidos pendentes. Os 1214 confirmados anteriores e as 1797 entradas fora do lote ficaram intactos; inventário, catálogo e histórico preservados. Dados da aplicação: versão 61.
 
-B1+B2+B3+B4: 4198 entradas, 2469 confirmadas e 1729 pendentes; suplemento com 7243 pessoas e 2408 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 29 450 pessoas e 11 661 famílias. Histórico e primeiras hipóteses nos objetos individuais e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
+B1+B2+B3+B4: 4198 entradas, 2472 confirmadas e 1726 pendentes; suplemento com 7252 pessoas e 2411 núcleos. Base: 22 207 pessoas e 9253 famílias; aplicação: 29 459 pessoas e 11 664 famílias. Histórico e primeiras hipóteses nos objetos e em `revisoes` de `fontes/S8/transcricoes/B4-1803-1854.json`.
 
-## Próximo grupo e distinção de cobertura
+## Próxima passagem
 
-- Selecionar os pendentes sem `nota_revisao`, preservando os objetos antes da revisão. O grupo tem 53 entradas no estado atual; começa em m0101-d-02 e termina em m0144-d-03. Não usar apenas `ids_revistos` para medir cobertura: revisões antigas têm outros formatos de histórico.
-- Começar por m0101-d-02 (José, óleos sem data própria do batismo doméstico) e m0102-e-02 (Francisco, complemento materno Carrita inseguro). Campos essenciais e dúvidas no JSON; não promover por mera remissão ou plausibilidade.
-- Depois deste grupo, planear nova passagem pelos casos difíceis ainda pendentes, a começar por m0002-e-01, fragmento mutilado já revisto em 21/11/2026. Não repetir esse fragmento como se nunca tivesse sido analisado.
+- Partir dos casos difíceis ainda pendentes, a começar por m0002-e-01, fragmento manchado e mutilado já revisto em 21/11/2026. Não repetir como se fosse leitura nova; identificar qual campo e que evidência adicional pode resolver a dúvida. Confirmados não são alvo de repetição automática.
+- Todos os pendentes têm agora `nota_revisao`; essa presença regista análise, não resolução. Não usar só `ids_revistos` para medir cobertura: revisões antigas têm outros formatos de histórico.
+- Manter certidões anteriores ao intervalo catalogado pendentes, distinguindo evento, mandado e redação. O gerador atual exige data de batismo dentro do catálogo do livro; não alterar datas históricas ou catálogo para forçar integração. Pais incógnitos, termos conjuntos e batismos domésticos sem dia também não se resolvem preenchendo dados fictícios.
+
+## Revisão dirigida dos 53 pendentes anteriores m0101-d-02–m0144-d-03
+
+- 53 alvos exatos, três promoções e 50 pendentes. Histórico integral em `revisoes[-1].assentos_anteriores`, primeiras hipóteses em `leitura_anterior`. Sem OCR, novas entradas, nascimentos ou identidades inferidas.
+- Confirmados: m0102-e-02 Francisco, 01/04/1816, Francisco Jorge Barrozo/Isabel Carrita; m0126-d-01 Rosa, 06/09/1818, José Martins Rucim/Luísa Nunes; m0141-d-01 Lourenço, 20/08/1820, Manuel Gomes/Maria Martins Furriella. Complementos lidos no corpo, sem os copiar dos avós ou ligar identidades entre termos.
+- Datas históricas anteriores a 1803 conservadas nos pendentes. m0132-d-03 mãe Catarina Dias, antes Mariana; nome composto da criança/celebrante ainda a conferir. m0139-d-02 dia de fevereiro de 1771 inseguro (21/25), não completar pelo lançamento de 1820. m0110-e-02 ano emendado, primeira hipótese 1785 ainda não confirmada.
+- Óleos e suprimentos sem data própria do batismo particular mantidos pendentes, incluindo m0101-d-02, m0104-e-02, m0105-e-02, m0106-d-01/02, m0108-d-01, m0112-e-01/d-01, m0122-e-02, m0125-e-01, m0128-d-01, m0130-e-03, m0131-e-03, m0140-e-02/03, m0143-e-01/02 e m0144-d-03. Não inferir gemelaridade entre José/Rita m0143.
+- Filiações/nome ainda inseguros: m0104-d-01 Prácedes/Práxedes; m0106-e-01 alcance da correção marginal Nunes; m0107-e-01 e m0136-d-03 forma Blizanda/Belizanda; m0113-d-01 nomes parentais e d-02 complemento paterno; m0115-d-02 Moleiro/Monteiro, antes Abélio; m0124-e-01 alcance da nota marginal; m0141-d-02 nomes completos dos pais; m0144-d-02 Maria de Manuel Hilário, antes Nunes, ainda inseguro, sem copiar Nunes do avô para o pai. Dúvidas individualizadas no JSON.
+- Sem pai fictício: m0108-d-01 Leonor e m0113-e-01 Manuel. m0136-e-01 Maria/José continua como termo conjunto inventariado, sem desdobramento automático.
 
 ## Revisão dirigida m0339-e-01–m0373-e-02
 

@@ -11888,10 +11888,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, no mesmo dia, mês e ano: dezassete de março de 1816. Santos óleos, já batizado em casa em perigo de vida; António Correia e Ana Afonso, esta do Foios. Continuação m0102-e consultada. Menções provisórias.",
+      "leitura_parcial": "José; santos óleos por remissão a 17/03/1816; António Correia e Ana Afonso, natural dos Foios. Continua m0102 esquerda; já batizado em casa por perigo de vida.",
       "duvidas": [
-        "Não consta data segura do batismo particular anterior; a remissão data apenas os óleos."
-      ]
+        "Data própria do batismo doméstico não expressa; a remissão refere os óleos, não fornece data do batismo."
+      ],
+      "leitura_anterior": "José, no mesmo dia, mês e ano: dezassete de março de 1816. Santos óleos, já batizado em casa em perigo de vida; António Correia e Ana Afonso, esta do Foios. Continuação m0102-e consultada. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Data própria do batismo doméstico não expressa; a remissão refere os óleos, não fornece data do batismo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0102-e-01",
@@ -11919,11 +11921,19 @@
       "lado": "esquerda",
       "ordem": 2,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Francisco, primeiro de abril de 1816; Francisco Jorge Barrozo e Isabel Carrita [?]. Continuação à direita consultada; avós maternos Miguel Carrito e Maria Gonçalves. Menções provisórias.",
-      "duvidas": [
-        "Apelido materno na linha principal ainda inseguro; não o completar pelo avô nem confirmar nome truncado."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Francisco, primeiro de abril de 1816; Francisco Jorge Barrozo e Isabel Carrita [?]. Continuação à direita consultada; avós maternos Miguel Carrito e Maria Gonçalves. Menções provisórias.",
+      "crianca": {
+        "nome": "Francisco",
+        "sexo": "M"
+      },
+      "pai": "Francisco Jorge Barrozo",
+      "mae": "Isabel Carrita",
+      "data_batismo": "01/04/1816",
+      "excerto": "Leitura normalizada dos campos essenciais: Francisco; pai Francisco Jorge Barrozo; mãe Isabel Carrita; batismo 01/04/1816.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Nome materno Isabel Carrita reconferido na linha principal, sem o completar pelo avô Miguel Carrito. Abertura primeiro de abril de 1816; continuação dos avós e fecho consultados na direita.",
+      "nota_revisao": "27/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Nome materno Isabel Carrita reconferido na linha principal, sem o completar pelo avô Miguel Carrito. Abertura primeiro de abril de 1816; continuação dos avós e fecho consultados na direita."
     },
     {
       "id": "S8-B4-m0102-d-01",
@@ -12026,10 +12036,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão lançada por mandado da visita de 1814: Manuel Nunes, vinte e cinco de março de 1793, celebrante António Lopes. Continuação m0104-e: João Nunes e Teodora Fernandes Gorda; avós paternos Manuel Nunes Gordo e Ana Gonçalves Ambrósia; maternos Domingos Fernandes Claro e Maria Gonçalves Gorda. Menções provisórias.",
+      "leitura_parcial": "Manuel Nunes; certidão de batismo 25/03/1793 pelo cura António Lopes, filho de João Nunes e Teodora Fernandes Gorda. Mandado da visita de 1814; continuação m0104 esquerda consultada.",
       "duvidas": [
-        "Cópia de batismo anterior ao intervalo catalogado; reconferir data e filiação antes de integrar, sem usar 1814 como data do evento."
-      ]
+        "Batismo anterior ao intervalo catalogado de 1803–1854. Conservar a data histórica e a do mandado separadas; não alterar o catálogo nem datar o batismo em 1814."
+      ],
+      "leitura_anterior": "Certidão lançada por mandado da visita de 1814: Manuel Nunes, vinte e cinco de março de 1793, celebrante António Lopes. Continuação m0104-e: João Nunes e Teodora Fernandes Gorda; avós paternos Manuel Nunes Gordo e Ana Gonçalves Ambrósia; maternos Domingos Fernandes Claro e Maria Gonçalves Gorda. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo anterior ao intervalo catalogado de 1803–1854. Conservar a data histórica e a do mandado separadas; não alterar o catálogo nem datar o batismo em 1814. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0104-e-01",
@@ -12058,10 +12070,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Luísa, no mesmo dia, mês e ano: óleos após batismo em casa em perigo de vida. José Nunes de Baltazar e Maria Paula; continuação à direita. Menções provisórias.",
+      "leitura_parcial": "Luísa; santos óleos no mesmo dia, por remissão a 23/04/1816; José Nunes de Baltasar e Maria Paula. Batizada em casa por perigo de vida; filiação e fecho na direita.",
       "duvidas": [
-        "Sem data do batismo particular; a data por remissão refere os óleos."
-      ]
+        "Data própria do batismo doméstico não expressa; a remissão e o fecho documentam os óleos."
+      ],
+      "leitura_anterior": "Luísa, no mesmo dia, mês e ano: óleos após batismo em casa em perigo de vida. José Nunes de Baltazar e Maria Paula; continuação à direita. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Data própria do batismo doméstico não expressa; a remissão e o fecho documentam os óleos. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0104-d-01",
@@ -12070,10 +12084,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Práxedes [?], quatro de maio de 1816; José Luís Robalo e Maria Fernandes. Avós paternos Domingos Luís e Marta Robalo; maternos Manuel [... ] e Isabel Fernandes. Menções provisórias.",
+      "leitura_parcial": "Prácedes/Práxedes [?]; batismo 04/05/1816; José Luís Robalo e Maria Fernandes. Filha legítima, feminino explícito; nome da criança ampliado em duas regiões.",
       "duvidas": [
-        "Grafia do nome da criança e composição paterna requerem ampliação; não normalizar por plausibilidade."
-      ]
+        "Forma exata do nome da criança ainda insegura, sobretudo c/x; não normalizar para Práxedes apenas por plausibilidade."
+      ],
+      "leitura_anterior": "Práxedes [?], quatro de maio de 1816; José Luís Robalo e Maria Fernandes. Avós paternos Domingos Luís e Marta Robalo; maternos Manuel [... ] e Isabel Fernandes. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Forma exata do nome da criança ainda insegura, sobretudo c/x; não normalizar para Práxedes apenas por plausibilidade. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0104-d-02",
@@ -12122,10 +12138,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel, no mesmo dia, mês e ano, santos óleos após batismo em casa por perigo de vida; Domingos Vaz Lavrador e Maria Nunes. Continuação à direita. Menções provisórias.",
+      "leitura_parcial": "Isabel; santos óleos no mesmo dia dos termos precedentes, 11/05/1816; Domingos Vaz Lavrador e Maria Nunes. Continuação e fecho consultados na direita; batizada em casa por perigo de vida.",
       "duvidas": [
-        "Falta data do batismo particular anterior; não usar a data dos óleos como batismo."
-      ]
+        "Sem data própria do batismo doméstico; não usar a data por remissão dos óleos como data de batismo."
+      ],
+      "leitura_anterior": "Isabel, no mesmo dia, mês e ano, santos óleos após batismo em casa por perigo de vida; Domingos Vaz Lavrador e Maria Nunes. Continuação à direita. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Sem data própria do batismo doméstico; não usar a data por remissão dos óleos como data de batismo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0105-d-01",
@@ -12174,10 +12192,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel, no mesmo dia, mês e ano: vinte e seis de maio de 1816; pai José Martins Oucim [?], com emenda marginal Nunes; mãe Luísa Gonçalves. Menções provisórias.",
+      "leitura_parcial": "Isabel; batismo por remissão a 26/05/1816; José Martins Oucim/Rucim [?] e Luísa Gonçalves. Acrescento marginal digo Nunes junto à filiação; prolongamento de nota junto aos padrinhos.",
       "duvidas": [
-        "Composição do nome paterno e alcance da emenda Nunes inseguros; não escolher pela margem."
-      ]
+        "Complemento paterno e alcance da correção Nunes não inequívocos; não escolher a margem nem truncar o nome para confirmar."
+      ],
+      "leitura_anterior": "Isabel, no mesmo dia, mês e ano: vinte e seis de maio de 1816; pai José Martins Oucim [?], com emenda marginal Nunes; mãe Luísa Gonçalves. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Complemento paterno e alcance da correção Nunes não inequívocos; não escolher a margem nem truncar o nome para confirmar. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0106-e-02",
@@ -12206,10 +12226,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, vinte e sete de junho de 1816, santos óleos; já batizado em casa por esta igreja. Miguel Antunes e Maria Antónia Garcia. Menções provisórias.",
+      "leitura_parcial": "Manuel; santos óleos 27/06/1816; Miguel Antunes e Maria Antónia Garcia. Já batizado em casa por esta igreja por perigo de vida, segundo matrimónio entre ambos.",
       "duvidas": [
-        "Não recuperada a data do batismo particular anterior aos óleos."
-      ]
+        "Batismo doméstico sem data própria expressa; não usar a data dos óleos nem criar outro casamento pela menção de segundo matrimónio."
+      ],
+      "leitura_anterior": "Manuel, vinte e sete de junho de 1816, santos óleos; já batizado em casa por esta igreja. Miguel Antunes e Maria Antónia Garcia. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo doméstico sem data própria expressa; não usar a data dos óleos nem criar outro casamento pela menção de segundo matrimónio. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0106-d-02",
@@ -12218,10 +12240,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, no mesmo dia, mês e ano; santos óleos depois de batismo em casa em perigo de vida. José Robalo e Sebastiana Vaz, esta natural da Batalha. Menções provisórias.",
+      "leitura_parcial": "José; santos óleos no mesmo dia 27/06/1816; José Robalo e Sebastiana Vaz. Já batizado em casa por perigo de vida; ascendência e fecho consultados no mesmo termo.",
       "duvidas": [
-        "Falta data do batismo particular; não confundir com a cerimónia dos óleos."
-      ]
+        "Sem data própria do batismo particular; a remissão documenta os óleos, não o evento anterior."
+      ],
+      "leitura_anterior": "José, no mesmo dia, mês e ano; santos óleos depois de batismo em casa em perigo de vida. José Robalo e Sebastiana Vaz, esta natural da Batalha. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Sem data própria do batismo particular; a remissão documenta os óleos, não o evento anterior. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0107-e-01",
@@ -12230,10 +12254,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Blizanda/Belizanda [?], vinte de julho de 1816; José Carvalho e Maria Gonçalves. Menções provisórias.",
+      "leitura_parcial": "Blizanda/Belizanda [?]; batismo 20/07/1816; José Carvalho e Maria Gonçalves. Nome da criança confrontado entre margem e corpo.",
       "duvidas": [
-        "Nome da criança não suficientemente seguro, sem escolher normalização por plausibilidade."
-      ]
+        "Forma exata do nome ainda insegura; não escolher normalização para Belisarda por plausibilidade nem substituir pela leitura de outro termo."
+      ],
+      "leitura_anterior": "Blizanda/Belizanda [?], vinte de julho de 1816; José Carvalho e Maria Gonçalves. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Forma exata do nome ainda insegura; não escolher normalização para Belisarda por plausibilidade nem substituir pela leitura de outro termo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0107-e-02",
@@ -12336,10 +12362,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Leonor, no mesmo dia, mês e ano: cinco de setembro de 1816; santos óleos após batismo em casa por perigo de vida. Filha de pai incógnito e Maria Joaquina de Almeida. Menções provisórias.",
+      "leitura_parcial": "Leonor; santos óleos por remissão a 05/09/1816; pai incógnito e Maria Joaquina de Almeida, viúva. Já batizada em casa por perigo de vida; filiação materna legível no corpo.",
       "duvidas": [
-        "Pai incógnito e data do batismo particular ausente. Não criar pai ou casal fictício; integração atual exige ambos os nomes parentais."
-      ]
+        "Data própria do batismo particular não expressa e pai não declarado; não criar pai/casal fictício para satisfazer o modelo atual."
+      ],
+      "leitura_anterior": "Leonor, no mesmo dia, mês e ano: cinco de setembro de 1816; santos óleos após batismo em casa por perigo de vida. Filha de pai incógnito e Maria Joaquina de Almeida. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Data própria do batismo particular não expressa e pai não declarado; não criar pai/casal fictício para satisfazer o modelo atual. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0108-d-02",
@@ -12442,10 +12470,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Domingos, dezembro de 1816; Manuel Dias e Maria Gonçalves, com composição materna por conferir na continuação m0110-e. O numeral da abertura admite leitura aparentemente anómala. Menções provisórias.",
+      "leitura_parcial": "Domingos; dezembro de 1816; Manuel Dias e Maria Gonçalves. Numeral da abertura parece setenta e nove, anómalo; continuação m0110 esquerda consultada.",
       "duvidas": [
-        "Dia e composição parental inseguros; não corrigir numeral por sequência nem preencher pelos avós."
-      ]
+        "Dia não seguro e aparentemente impossível como escrito; não corrigir para vinte e nove pela sequência ou plausibilidade. Nome materno Maria Gonçalves lido sem lhe acrescentar a ascendência."
+      ],
+      "leitura_anterior": "Domingos, dezembro de 1816; Manuel Dias e Maria Gonçalves, com composição materna por conferir na continuação m0110-e. O numeral da abertura admite leitura aparentemente anómala. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Dia não seguro e aparentemente impossível como escrito; não corrigir para vinte e nove pela sequência ou plausibilidade. Nome materno Maria Gonçalves lido sem lhe acrescentar a ascendência. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0110-e-01",
@@ -12454,10 +12484,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão lançada por determinação de visita de 1814: Manuel, quatro de agosto de 1789, padre Paulo Vaz; José Gomes e Maria de Oliveira. Avós paternos Mariana Martins e pai ilegítimo [?]; maternos Manuel de Oliveira e Ana Jorge. Menções provisórias.",
+      "leitura_parcial": "Manuel; certidão de batismo 04/08/1789 pelo padre Paulo Vaz; José Gomes e Maria de Oliveira. Lançamento por capítulo de visita de 1814; nomes no corpo sob tinta transpassada.",
       "duvidas": [
-        "Cópia de batismo anterior ao intervalo catalogado; reconferir data e composição parental, sem usar data da cópia como evento."
-      ]
+        "Evento anterior ao intervalo catalogado de 1803–1854; não usar 1814 como batismo nem alterar o catálogo silenciosamente. Ascendência adicional continua provisória."
+      ],
+      "leitura_anterior": "Certidão lançada por determinação de visita de 1814: Manuel, quatro de agosto de 1789, padre Paulo Vaz; José Gomes e Maria de Oliveira. Avós paternos Mariana Martins e pai ilegítimo [?]; maternos Manuel de Oliveira e Ana Jorge. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Evento anterior ao intervalo catalogado de 1803–1854; não usar 1814 como batismo nem alterar o catálogo silenciosamente. Ascendência adicional continua provisória. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0110-e-02",
@@ -12466,10 +12498,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, vinte e oito de agosto de 1785, padre José Bernardo Silva; Manuel Lourenço e Bárbara Martins. Termo antigo entre certidões mandadas lançar em 1814. Menções provisórias.",
+      "leitura_parcial": "Maria; certidão de batismo em 28/08, ano com emenda na dezena/unidade, primeira leitura 1785; Manuel Lourenço e Bárbara Martins, padre José Bernardo Silva. Termo antigo entre certidões lançadas por mandado.",
       "duvidas": [
-        "Cópia com data anterior ao intervalo catalogado; conservar data escrita e reconferir antes de integrar."
-      ]
+        "Ano ainda a reconferir na emenda sob tinta transpassada; data anterior ao intervalo catalogado. Não usar 1814 ou a posição na pasta como data do batismo."
+      ],
+      "leitura_anterior": "Maria, vinte e oito de agosto de 1785, padre José Bernardo Silva; Manuel Lourenço e Bárbara Martins. Termo antigo entre certidões mandadas lançar em 1814. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Ano ainda a reconferir na emenda sob tinta transpassada; data anterior ao intervalo catalogado. Não usar 1814 ou a posição na pasta como data do batismo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0110-d-01",
@@ -12478,10 +12512,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão por visita de 1814: Manuel, dez de junho de 1787, padre José Baptista; Manuel Carvalho e Luísa Gonçalves Quinteira. Avós paternos Luís Carvalho e Isabel Nunes; maternos Manuel Gonçalves e Maria Afonso. Menções provisórias.",
+      "leitura_parcial": "Manuel; certidão de batismo 10/06/1787 pelo padre José Baptista; Manuel Carvalho e Luísa Gonçalves Quinteira, nome materno lido no próprio corpo. Lançamento por visita de 1814.",
       "duvidas": [
-        "Batismo anterior ao intervalo catalogado, não datar pela cópia de 1814; reconferir composição materna."
-      ]
+        "Batismo anterior ao intervalo catalogado; conservar 1787 como leitura histórica sem o substituir pela data da cópia nem alterar o catálogo."
+      ],
+      "leitura_anterior": "Certidão por visita de 1814: Manuel, dez de junho de 1787, padre José Baptista; Manuel Carvalho e Luísa Gonçalves Quinteira. Avós paternos Luís Carvalho e Isabel Nunes; maternos Manuel Gonçalves e Maria Afonso. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo anterior ao intervalo catalogado; conservar 1787 como leitura histórica sem o substituir pela data da cópia nem alterar o catálogo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0110-d-02",
@@ -12558,10 +12594,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão por visita de 1814: Manuel Martins Dias, vinte e sete de novembro de 1784; Manuel Martins Dias e Doroteia Pires. Menções provisórias.",
+      "leitura_parcial": "Manuel Martins Dias; certidão de batismo 27/11/1784 pelo padre José Baptista; Manuel Martins Dias e Doroteia Pires. Nomes no corpo sob tinta transpassada; mandado da visita de 1814.",
       "duvidas": [
-        "Batismo anterior ao intervalo catalogado e composto de nomes sob tinta transpassada; conservar data da certidão separada do evento."
-      ]
+        "Evento anterior ao intervalo catalogado e texto sobreposto; não integrar pelo ano do mandado nem confundir o nome composto da criança com identidade adulta demonstrada."
+      ],
+      "leitura_anterior": "Certidão por visita de 1814: Manuel Martins Dias, vinte e sete de novembro de 1784; Manuel Martins Dias e Doroteia Pires. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Evento anterior ao intervalo catalogado e texto sobreposto; não integrar pelo ano do mandado nem confundir o nome composto da criança com identidade adulta demonstrada. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0111-d-02",
@@ -12590,10 +12628,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Tomás, no mesmo dia, mês e ano: oito de março de 1817, santos óleos, já batizado em casa por perigo de vida. Manuel Jorge Carvalho e Maria Martins. Menções provisórias.",
+      "leitura_parcial": "Tomás; santos óleos por remissão a 08/03/1817; Manuel Jorge Carvalho e Maria Martins. Já batizado em casa por perigo de vida; naturalidade de um avô fora da freguesia não convertida em nome.",
       "duvidas": [
-        "Não consta data segura do batismo particular anterior aos óleos."
-      ]
+        "Batismo doméstico sem data própria expressa; a remissão data os óleos."
+      ],
+      "leitura_anterior": "Tomás, no mesmo dia, mês e ano: oito de março de 1817, santos óleos, já batizado em casa por perigo de vida. Manuel Jorge Carvalho e Maria Martins. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo doméstico sem data própria expressa; a remissão data os óleos. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0112-e-02",
@@ -12622,10 +12662,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Joaquim, no mesmo dia, mês e ano: cinco de abril de 1817; santos óleos após batismo em casa em perigo de vida. Manuel Antunes e Maria Dias, leituras provisórias.",
+      "leitura_parcial": "Joaquim; santos óleos por remissão a 05/04/1817; Manuel Antunes e Maria Dias. Filiação reconferida sob tinta transpassada; já batizado em casa por perigo de vida.",
       "duvidas": [
-        "Sem data do batismo particular anterior e filiação sob tinta transpassada."
-      ]
+        "Data própria do batismo doméstico não expressa; não substituir pela remissão dos óleos."
+      ],
+      "leitura_anterior": "Joaquim, no mesmo dia, mês e ano: cinco de abril de 1817; santos óleos após batismo em casa em perigo de vida. Manuel Antunes e Maria Dias, leituras provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Data própria do batismo doméstico não expressa; não substituir pela remissão dos óleos. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0112-d-02",
@@ -12674,10 +12716,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, vinte e três de abril de 1817; filho de Maria de Oliveira e pai incógnito. Avós maternos Francisco de Oliveira e Luísa Nunes. Menções provisórias.",
+      "leitura_parcial": "Manuel; batismo 23/04/1817; Maria de Oliveira e pai incógnito, explicitamente escrito no corpo. Filiação materna e avós consultados.",
       "duvidas": [
-        "Pai incógnito; não criar filiação ou casal fictício. Integração atual exige ambos os nomes parentais."
-      ]
+        "Pai não declarado; modelo atual exige ambos os pais nomeados. Não criar pai ou casal fictício nem converter a ausência numa identidade."
+      ],
+      "leitura_anterior": "Manuel, vinte e três de abril de 1817; filho de Maria de Oliveira e pai incógnito. Avós maternos Francisco de Oliveira e Luísa Nunes. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Pai não declarado; modelo atual exige ambos os pais nomeados. Não criar pai ou casal fictício nem converter a ausência numa identidade. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0113-e-02",
@@ -12726,10 +12770,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Justina, dezassete de maio de 1817; José Fernandes Rito e Maria Gonçalves Lua [?]. Menções provisórias.",
+      "leitura_parcial": "Justina; batismo 17/05/1817; José Fernandes Rito/Ruco [?] e Maria Gonçalves Lua/Luas [?]. Nomes reconferidos em detalhe na linha principal.",
       "duvidas": [
-        "Composição do nome materno ainda insegura sob tinta transpassada; não truncar o nome para confirmar."
-      ]
+        "Complementos de ambos os pais ainda inseguros sob tinta transpassada; não escolher apenas pela primeira hipótese nem truncar a filiação para confirmar."
+      ],
+      "leitura_anterior": "Justina, dezassete de maio de 1817; José Fernandes Rito e Maria Gonçalves Lua [?]. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Complementos de ambos os pais ainda inseguros sob tinta transpassada; não escolher apenas pela primeira hipótese nem truncar a filiação para confirmar. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0113-d-02",
@@ -12738,10 +12784,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Domingos, vinte e dois de maio de 1817; Domingos Nunes Mund[eiro?] e Maria Nunes. Menções provisórias.",
+      "leitura_parcial": "Domingos; batismo 22/05/1817; Domingos Nunes Mundello/Mundeiro [?] e Maria Nunes. Complemento paterno junto à dobra e na margem confrontados.",
       "duvidas": [
-        "Complemento paterno junto à dobra não seguro; não completar pelos avós nem por margem."
-      ]
+        "Último nome paterno ainda inseguro; não o completar pelos avós nem harmonizar com outro casal de nome semelhante."
+      ],
+      "leitura_anterior": "Domingos, vinte e dois de maio de 1817; Domingos Nunes Mund[eiro?] e Maria Nunes. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Último nome paterno ainda inseguro; não o completar pelos avós nem harmonizar com outro casal de nome semelhante. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0114-e-01",
@@ -12830,10 +12878,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão por visita de 1814: Maria Lopes, batizada em casa em outubro de 1775 pouco mais ou menos, pelo padre Hipólito Nunes; na igreja apenas óleos. Continuação m0115-e: Manuel Lopes e Catarina Nunes, corrigindo a hipótese inicial Lourenço. Menções provisórias.",
+      "leitura_parcial": "Maria Lopes; certidão de batismo doméstico em outubro de 1775 pouco mais ou menos, padre Hipólito Nunes; Manuel Lopes e Catarina Nunes, como na continuação m0115 esquerda. Na igreja recebeu os óleos; mandado da visita de 1814.",
       "duvidas": [
-        "Data aproximada do batismo particular, sem dia; anterior ao intervalo catalogado. Não usar 1814 nem os óleos como data do evento."
-      ]
+        "Sem dia próprio e com data aproximada anterior ao catálogo; não usar mandado de 1814 ou cerimónia dos óleos como data do batismo."
+      ],
+      "leitura_anterior": "Certidão por visita de 1814: Maria Lopes, batizada em casa em outubro de 1775 pouco mais ou menos, pelo padre Hipólito Nunes; na igreja apenas óleos. Continuação m0115-e: Manuel Lopes e Catarina Nunes, corrigindo a hipótese inicial Lourenço. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Sem dia próprio e com data aproximada anterior ao catálogo; não usar mandado de 1814 ou cerimónia dos óleos como data do batismo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0115-e-01",
@@ -12902,10 +12952,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José António, vinte e dois de junho de 1817; Joaquim Fernandes Abélio [?] e Rosa Lourença. Continuação m0116-e consultada. Menções provisórias.",
+      "leitura_parcial": "José António; batismo 22/06/1817; Joaquim Fernandes Moleiro/Monteiro [?], antes Abélio, e Rosa Lourença. Complemento paterno na linha principal ampliado; continuação dos avós e fecho em m0116 esquerda.",
       "duvidas": [
-        "Complemento paterno inseguro; não truncar o nome para confirmar."
-      ]
+        "Último nome paterno ainda inseguro, embora a hipótese Abélio não se sustente bem; não confirmar por plausibilidade nem substituir pelo nome do avô."
+      ],
+      "leitura_anterior": "José António, vinte e dois de junho de 1817; Joaquim Fernandes Abélio [?] e Rosa Lourença. Continuação m0116-e consultada. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Último nome paterno ainda inseguro, embora a hipótese Abélio não se sustente bem; não confirmar por plausibilidade nem substituir pelo nome do avô. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0116-e-01",
@@ -13528,10 +13580,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, no mesmo dia vinte e seis de abril de 1818, santos óleos; batizado em casa por perigo de vida. José Nunes Alfaiate e Bárbara Dias. Menções provisórias.",
+      "leitura_parcial": "Manuel; santos óleos no mesmo dia 26/04/1818; José Nunes Alfaiate e Bárbara Dias. Batizado em casa por perigo de vida, como declara o corpo.",
       "duvidas": [
-        "Falta data do batismo particular anterior aos óleos."
-      ]
+        "Data própria do batismo doméstico não expressa; não usar a data dos óleos."
+      ],
+      "leitura_anterior": "Manuel, no mesmo dia vinte e seis de abril de 1818, santos óleos; batizado em casa por perigo de vida. José Nunes Alfaiate e Bárbara Dias. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Data própria do batismo doméstico não expressa; não usar a data dos óleos. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0122-e-03",
@@ -13720,10 +13774,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Luísa, catorze de junho de 1818; José Luís e Luísa Antónia, esta natural de Valdemi[o]r [?]. Emenda marginal menciona Carvalho/Luís e outra ligação por esclarecer. Menções provisórias.",
+      "leitura_parcial": "Luísa; batismo 14/06/1818; José Luís e Luísa Antónia, natural de Valdemior [?]. Acrescento marginal contém Joaquim Carvalho/Lucas Luís e Bárbara Mansa junto ao fecho/padrinhos.",
       "duvidas": [
-        "Composição paterna e alcance da emenda marginal ainda inseguros; não atribuir nomes pela margem ou pelos avós."
-      ]
+        "Alcance da nota marginal ainda não resolvido; não atribuir seus nomes à filiação nem ignorar possível correção sem leitura integral da anotação."
+      ],
+      "leitura_anterior": "Luísa, catorze de junho de 1818; José Luís e Luísa Antónia, esta natural de Valdemi[o]r [?]. Emenda marginal menciona Carvalho/Luís e outra ligação por esclarecer. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Alcance da nota marginal ainda não resolvido; não atribuir seus nomes à filiação nem ignorar possível correção sem leitura integral da anotação. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0124-e-02",
@@ -13826,10 +13882,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel, dezassete de julho de 1818, santos óleos depois de batismo em casa por perigo de vida; Manuel Robalo e Leonarda Rodrigues. Menções provisórias.",
+      "leitura_parcial": "Isabel; santos óleos 17/07/1818; Manuel Robalo e Leonarda Rodrigues. Já batizada em casa por perigo de vida; mãe e pai legíveis no próprio termo.",
       "duvidas": [
-        "Sem data do batismo particular anterior aos óleos."
-      ]
+        "Data do batismo doméstico ausente; não substituir pelos óleos."
+      ],
+      "leitura_anterior": "Isabel, dezassete de julho de 1818, santos óleos depois de batismo em casa por perigo de vida; Manuel Robalo e Leonarda Rodrigues. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Data do batismo doméstico ausente; não substituir pelos óleos. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0125-e-02",
@@ -13957,11 +14015,19 @@
       "lado": "direita",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Rosa, seis de setembro de 1818; José Martins Rucim [?] e Luísa Nunes. Menções provisórias.",
-      "duvidas": [
-        "Nome composto paterno inseguro, não confirmar nome truncado."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Rosa, seis de setembro de 1818; José Martins Rucim [?] e Luísa Nunes. Menções provisórias.",
+      "crianca": {
+        "nome": "Rosa",
+        "sexo": "F"
+      },
+      "pai": "José Martins Rucim",
+      "mae": "Luísa Nunes",
+      "data_batismo": "06/09/1818",
+      "excerto": "Leitura normalizada dos campos essenciais: Rosa; pai José Martins Rucim; mãe Luísa Nunes; batismo 06/09/1818.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Complemento paterno Rucim reconferido em ampliação na linha principal e margem, sem completar pela ascendência nem ligar a outro casal. Abertura seis de setembro de 1818.",
+      "nota_revisao": "27/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Complemento paterno Rucim reconferido em ampliação na linha principal e margem, sem completar pela ascendência nem ligar a outro casal. Abertura seis de setembro de 1818."
     },
     {
       "id": "S8-B4-m0126-d-02",
@@ -14010,10 +14076,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de Bárbara Nunes, filha de Manuel Nunes e Rita Martins. Em cumprimento de mandado: trinta de maio de 1793, padre José Bernardo, santos óleos após batismo em casa por perigo de vida. Menções provisórias.",
+      "leitura_parcial": "Bárbara Nunes; certidão de santos óleos 30/05/1793 pelo padre José Bernardo; Manuel Nunes e Rita Martins. Já batizada em casa por perigo de vida; lançamento em cumprimento de despacho.",
       "duvidas": [
-        "Certidão antiga anterior ao catálogo e sem data do batismo particular; não confundir os óleos de 1793 ou o mandado com o evento."
-      ]
+        "Batismo particular sem data própria e evento anterior ao catálogo. Não usar óleos de 1793 ou mandado como data do batismo."
+      ],
+      "leitura_anterior": "Certidão de Bárbara Nunes, filha de Manuel Nunes e Rita Martins. Em cumprimento de mandado: trinta de maio de 1793, padre José Bernardo, santos óleos após batismo em casa por perigo de vida. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo particular sem data própria e evento anterior ao catálogo. Não usar óleos de 1793 ou mandado como data do batismo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0127-e-02",
@@ -14142,10 +14210,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Joaquim, seis de novembro de 1818, santos óleos; José Antunes e Maria Lourença. Já batizado em casa por perigo de vida. Menções provisórias.",
+      "leitura_parcial": "Joaquim; santos óleos 06/11/1818; José Antunes e Maria Lourença. Já batizado em casa por perigo de vida, explicitamente no corpo.",
       "duvidas": [
-        "Falta a data do batismo particular anterior aos óleos."
-      ]
+        "Sem data própria do batismo doméstico; data da abertura refere os óleos."
+      ],
+      "leitura_anterior": "Joaquim, seis de novembro de 1818, santos óleos; José Antunes e Maria Lourença. Já batizado em casa por perigo de vida. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Sem data própria do batismo doméstico; data da abertura refere os óleos. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0128-d-02",
@@ -14314,10 +14384,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, oito de fevereiro de 1819, santos óleos; batizada em casa por perigo de vida. Manuel Vaz e Ana Dias. Continuação à direita consultada. Menções provisórias.",
+      "leitura_parcial": "Maria; santos óleos 08/02/1819; Manuel Vaz e Ana Dias. Já batizada em casa por perigo de vida; nome materno e fecho na continuação da direita.",
       "duvidas": [
-        "Não consta data segura do batismo particular anterior aos óleos."
-      ]
+        "Sem data própria do batismo doméstico; não a substituir pela abertura dos óleos."
+      ],
+      "leitura_anterior": "Maria, oito de fevereiro de 1819, santos óleos; batizada em casa por perigo de vida. Manuel Vaz e Ana Dias. Continuação à direita consultada. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Sem data própria do batismo doméstico; não a substituir pela abertura dos óleos. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0130-d-01",
@@ -14400,10 +14472,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, doze de abril de 1819, santos óleos após batismo em casa por perigo de vida; Hipólito Martins e Vitória Garcia. Continuação à direita consultada. Menções provisórias.",
+      "leitura_parcial": "José; santos óleos 12/04/1819; Hipólito Martins e Vitória Garcia. Batizado em casa por perigo de vida, filiação e continuação consultadas na direita.",
       "duvidas": [
-        "Sem data do batismo particular anterior aos óleos."
-      ]
+        "Batismo particular sem data própria expressa; a abertura documenta apenas os óleos."
+      ],
+      "leitura_anterior": "José, doze de abril de 1819, santos óleos após batismo em casa por perigo de vida; Hipólito Martins e Vitória Garcia. Continuação à direita consultada. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo particular sem data própria expressa; a abertura documenta apenas os óleos. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0131-d-01",
@@ -14532,10 +14606,12 @@
       "ordem": 4,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de Luís, vinte e sete de abril de 1797, padre Alexandre Valadão; Joaquim Luís Amaral e Maria Isabel. Continuação à direita consultada. Menções provisórias.",
+      "leitura_parcial": "Luís; certidão de batismo 27/04/1797 pelo cura Alexandre Valadão; Joaquim Luís Amaral e Maria Isabel. Continuação e nota de cópia na direita; não usar 1819 como evento.",
       "duvidas": [
-        "Cópia de batismo anterior ao intervalo catalogado; não datar pela inserção junto de 1819."
-      ]
+        "Batismo anterior ao intervalo catalogado; conservar data histórica separada da redação e sem alterar o catálogo."
+      ],
+      "leitura_anterior": "Certidão de Luís, vinte e sete de abril de 1797, padre Alexandre Valadão; Joaquim Luís Amaral e Maria Isabel. Continuação à direita consultada. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo anterior ao intervalo catalogado; conservar data histórica separada da redação e sem alterar o catálogo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0132-d-01",
@@ -14578,10 +14654,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de Manuel, trinta e um de julho de 1790, padre José do Amorim [?]; António Lourenço e Mariana Dias. Menções provisórias; continuação m0133-e consultada.",
+      "leitura_parcial": "Manuel [Pires?]; certidão de batismo 31/07/1790 pelo padre Bernardo de Aguiar Amorim [?]; António Lourenço e Catarina Dias, corrigindo Mariana Dias da primeira hipótese. Continuação m0133 esquerda consultada; redação em 06/11/1819.",
       "duvidas": [
-        "Cópia de batismo anterior ao intervalo catalogado; reconferir filiação na continuação, sem datar pelo lançamento."
-      ]
+        "Data histórica anterior ao catálogo; nome composto da criança e celebrante ainda a conferir. Não datar o batismo pela redação nem completar filiação por ascendência."
+      ],
+      "leitura_anterior": "Certidão de Manuel, trinta e um de julho de 1790, padre José do Amorim [?]; António Lourenço e Mariana Dias. Menções provisórias; continuação m0133-e consultada.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Data histórica anterior ao catálogo; nome composto da criança e celebrante ainda a conferir. Não datar o batismo pela redação nem completar filiação por ascendência. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0133-e-01",
@@ -14658,10 +14736,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Isabel, vinte e sete de novembro de 1796, padre Manoel Martins [?]; Domingos Martins Cornel e Maria Martins. Menções provisórias.",
+      "leitura_parcial": "Isabel; certidão de batismo 27/11/1796 pelo padre Manuel Martins [?]; Domingos Martins Cornel/Torre [?] e Maria Martins, complemento materno pouco seguro. Nome paterno e texto sob manchas reconferidos.",
       "duvidas": [
-        "Certidão antiga anterior ao intervalo catalogado; reconferir ano e filiação, sem datar pela inserção entre registos de 1819."
-      ]
+        "Batismo anterior ao catálogo e complementos parentais ainda inseguros; não truncar filiação nem usar novembro de 1819 da redação como data do evento."
+      ],
+      "leitura_anterior": "Isabel, vinte e sete de novembro de 1796, padre Manoel Martins [?]; Domingos Martins Cornel e Maria Martins. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo anterior ao catálogo e complementos parentais ainda inseguros; não truncar filiação nem usar novembro de 1819 da redação como data do evento. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0134-e-01",
@@ -14924,10 +15004,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de termo conjunto: Maria e José, quatro de setembro de 1795; Manuel Martins e Doroteia Pires. Lançamento por determinação de visita de 1814; redação em trinta de janeiro de 1820. Menções provisórias.",
+      "leitura_parcial": "Maria e José, termo conjunto; certidão de batismo 04/09/1795 pelo padre Alexandre Valadão; Manuel Martins e Doroteia Pires. Determinação de visita de 1814; redação 30/01/1820.",
       "duvidas": [
-        "Gémeos em termo conjunto e batismo anterior ao intervalo catalogado; conservar data do evento separada das datas de mandado e redação."
-      ]
+        "Batismo anterior ao catálogo e duas crianças no mesmo termo inventariado. Não desdobrar automaticamente a entrada nem usar datas de mandado ou cópia como evento."
+      ],
+      "leitura_anterior": "Certidão de termo conjunto: Maria e José, quatro de setembro de 1795; Manuel Martins e Doroteia Pires. Lançamento por determinação de visita de 1814; redação em trinta de janeiro de 1820. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo anterior ao catálogo e duas crianças no mesmo termo inventariado. Não desdobrar automaticamente a entrada nem usar datas de mandado ou cópia como evento. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0136-e-02",
@@ -14936,10 +15018,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de Isabel, dezassete de junho de 1799; Manuel Martins e Doroteia Pires. Continuação à direita consultada. Lançamento em trinta de janeiro de 1820 por determinação de visita. Menções provisórias.",
+      "leitura_parcial": "Isabel; certidão de batismo 17/06/1799 pelo padre Manuel Martins; Manuel Martins e Doroteia Pires. Continuação m0136 direita consultada; redação 30/01/1820, por mandado da visita.",
       "duvidas": [
-        "Batismo anterior ao intervalo catalogado; não usar data do lançamento como data do evento."
-      ]
+        "Evento anterior ao intervalo catalogado; não usar a data da redação para integrar o batismo."
+      ],
+      "leitura_anterior": "Certidão de Isabel, dezassete de junho de 1799; Manuel Martins e Doroteia Pires. Continuação à direita consultada. Lançamento em trinta de janeiro de 1820 por determinação de visita. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Evento anterior ao intervalo catalogado; não usar a data da redação para integrar o batismo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0136-d-01",
@@ -14988,10 +15072,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Belizanda [?], primeiro de fevereiro de 1820; José Martins Rucim [?] e Luísa Nunes, na continuação m0137-e consultada. A primeira hipótese Bárbara não se confirmou. Menções provisórias.",
+      "leitura_parcial": "Blizanda/Belizanda [?], antes Bárbara; batismo 01/02/1820; José Martins Rucim e Lúcia Nunes na continuação m0137 esquerda. Nome materno Lúcia, não Luísa, como escrito no corpo.",
       "duvidas": [
-        "Nome da criança e complemento paterno inseguros; não truncar nem escolher pela margem."
-      ]
+        "Forma exata do nome da criança ainda não inequívoca; não harmonizar com outros termos do mesmo nome nem escolher normalização por plausibilidade."
+      ],
+      "leitura_anterior": "Belizanda [?], primeiro de fevereiro de 1820; José Martins Rucim [?] e Luísa Nunes, na continuação m0137-e consultada. A primeira hipótese Bárbara não se confirmou. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Forma exata do nome da criança ainda não inequívoca; não harmonizar com outros termos do mesmo nome nem escolher normalização por plausibilidade. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0137-e-01",
@@ -15000,10 +15086,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de Manuel, vinte e quatro de maio de 1795, padre Alexandre Valadão; João Nunes de António e Thomázia Fernandes. Redação em oito de fevereiro de 1820. Menções provisórias.",
+      "leitura_parcial": "Manuel; certidão de batismo 24/05/1795 pelo padre Alexandre Valadão; João Nunes de António e Tomázia Fernandes. Menciona batismo em casa por perigo de vida; redação 08/02/1820, por visita de 1814.",
       "duvidas": [
-        "Cópia anterior ao intervalo catalogado; manter a data do evento separada da redação e reconferir nomes."
-      ]
+        "Evento anterior ao intervalo catalogado; manter as datas do batismo e da redação separadas e não integrar pelo ano de 1820."
+      ],
+      "leitura_anterior": "Certidão de Manuel, vinte e quatro de maio de 1795, padre Alexandre Valadão; João Nunes de António e Thomázia Fernandes. Redação em oito de fevereiro de 1820. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Evento anterior ao intervalo catalogado; manter as datas do batismo e da redação separadas e não integrar pelo ano de 1820. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0137-e-02",
@@ -15066,10 +15154,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de Bernardo Gonçalves, vinte de fevereiro de 1786, padre Alexandre Valadão; Nicolau Gonçalves e Ana Freire. Mandado da visita de 1795; redação em treze de março de 1820. Menções provisórias.",
+      "leitura_parcial": "Bernardo Gonçalves; certidão de batismo 20/02/1786 pelo padre Alexandre Valadão; Nicolau Gonçalves e Ana Freire. Mandado da visita de 1795; redação 13/03/1820.",
       "duvidas": [
-        "Cópia anterior ao intervalo catalogado; distinguir data do batismo, mandado e redação, sem usar 1795 ou 1820 como evento."
-      ]
+        "Batismo anterior ao intervalo catalogado; 1795 é o mandado e 1820 a redação, não datas alternativas do evento."
+      ],
+      "leitura_anterior": "Certidão de Bernardo Gonçalves, vinte de fevereiro de 1786, padre Alexandre Valadão; Nicolau Gonçalves e Ana Freire. Mandado da visita de 1795; redação em treze de março de 1820. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo anterior ao intervalo catalogado; 1795 é o mandado e 1820 a redação, não datas alternativas do evento. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0138-e-02",
@@ -15098,10 +15188,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de Bernardo, vinte e quatro de novembro de 1775, reverendo Hipólito Nunes; Gabriel Nunes e Ana Lourença. Redação em vinte e três de março de 1820 por mandado de visita de 1818. Menções provisórias.",
+      "leitura_parcial": "Bernardo; certidão de batismo 24/11/1775 pelo reverendo Hipólito Nunes; Gabriel Nunes e Ana Lourença. Mandado de visita de 1818; redação 23/03/1820.",
       "duvidas": [
-        "Batismo anterior ao intervalo catalogado; não datar pelo mandado ou pela redação."
-      ]
+        "Evento anterior ao catálogo; não substituir o batismo por mandado ou redação."
+      ],
+      "leitura_anterior": "Certidão de Bernardo, vinte e quatro de novembro de 1775, reverendo Hipólito Nunes; Gabriel Nunes e Ana Lourença. Redação em vinte e três de março de 1820 por mandado de visita de 1818. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Evento anterior ao catálogo; não substituir o batismo por mandado ou redação. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0138-d-02",
@@ -15170,10 +15262,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de Inácio Gonçalves, três de novembro de 1787, padre Hipólito Pires; Manuel de Oliveira e Ana Martins Rabela. Redação em dezasseis de abril de 1820, por visita de 1814. Menções provisórias.",
+      "leitura_parcial": "Inácio Gonçalves; certidão de batismo 03/11/1787 pelo padre Hipólito Pires; Manuel de Oliveira e Ana Martins Raballa/Rabela [?]. Redação 16/04/1820 por visita de 1814.",
       "duvidas": [
-        "Batismo anterior ao intervalo catalogado; não usar datas da visita ou redação."
-      ]
+        "Evento anterior ao catálogo e grafia do complemento materno ainda insegura; não datar pelo mandado ou redação."
+      ],
+      "leitura_anterior": "Certidão de Inácio Gonçalves, três de novembro de 1787, padre Hipólito Pires; Manuel de Oliveira e Ana Martins Rabela. Redação em dezasseis de abril de 1820, por visita de 1814. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Evento anterior ao catálogo e grafia do complemento materno ainda insegura; não datar pelo mandado ou redação. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0139-e-03",
@@ -15202,10 +15296,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de José Rodrigues, vinte e oito de junho de 1796, padre Alexandre Rodrigues; Manuel Rodrigues Penha e Joaquina Nunes. Redação em dezanove de maio de 1820 por visita de 1818. Menções provisórias.",
+      "leitura_parcial": "José Rodrigues; certidão de batismo 28/06/1796 pelo padre Alexandre Rodrigues; Manuel Rodrigues [complemento por fixar, antes Penha] e Joaquina Nunes. Redação 19/05/1820 por mandado da visita de 1818.",
       "duvidas": [
-        "Cópia anterior ao intervalo catalogado; distinguir batismo, mandado e redação."
-      ]
+        "Complemento paterno ainda não inequívoco e evento anterior ao catálogo; não confirmar nome truncado nem usar datas do mandado ou cópia."
+      ],
+      "leitura_anterior": "Certidão de José Rodrigues, vinte e oito de junho de 1796, padre Alexandre Rodrigues; Manuel Rodrigues Penha e Joaquina Nunes. Redação em dezanove de maio de 1820 por visita de 1818. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Complemento paterno ainda não inequívoco e evento anterior ao catálogo; não confirmar nome truncado nem usar datas do mandado ou cópia. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0139-d-02",
@@ -15214,10 +15310,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de João Jorge, vinte e cinco de fevereiro de 1771, padre Hipólito Pires; Domingos Jorge Calvão e Maria Fernandes. Continuação m0140-e consultada; redação em trinta de maio de 1820. Menções provisórias.",
+      "leitura_parcial": "João Jorge; certidão de batismo em fevereiro de 1771, dia vinte e um/vinte e cinco [?], antes 25/02; Domingos Jorge Calvão e Maria Fernandes. Padre Hipólito Pires; continuação m0140 esquerda e redação 30/05/1820.",
       "duvidas": [
-        "Batismo anterior ao intervalo catalogado; não datar pela redação."
-      ]
+        "Dia histórico ainda inseguro e evento anterior ao catálogo; não resolver pela data da redação nem pela posição na pasta."
+      ],
+      "leitura_anterior": "Certidão de João Jorge, vinte e cinco de fevereiro de 1771, padre Hipólito Pires; Domingos Jorge Calvão e Maria Fernandes. Continuação m0140-e consultada; redação em trinta de maio de 1820. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Dia histórico ainda inseguro e evento anterior ao catálogo; não resolver pela data da redação nem pela posição na pasta. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0140-e-01",
@@ -15246,10 +15344,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, seis de julho de 1820, santos óleos depois de batismo em casa; António Garcia e Isabel Rabela. Menções provisórias.",
+      "leitura_parcial": "José; santos óleos 06/07/1820; António Garcia e Isabel Raballa/Rabela [?]. Pároco declara o batismo anterior em casa; naturalidades dos avós não convertidas em apelidos.",
       "duvidas": [
-        "Falta data do batismo particular anterior aos óleos."
-      ]
+        "Data própria do batismo particular ausente; complemento materno também a reconferir, sem usar óleos como batismo."
+      ],
+      "leitura_anterior": "José, seis de julho de 1820, santos óleos depois de batismo em casa; António Garcia e Isabel Rabela. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Data própria do batismo particular ausente; complemento materno também a reconferir, sem usar óleos como batismo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0140-e-03",
@@ -15258,10 +15358,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, seis de julho de 1820; santos óleos e suprimento por ter sido batizado em casa por Maria Carrilha, mulher da parição. José Pires e Angélica Correia. Menções provisórias.",
+      "leitura_parcial": "Manuel; santos óleos e suprimento 06/07/1820; José Pires e Angélica Correia. Batizado em casa por necessidade por Maria Carrilha, mulher da parição.",
       "duvidas": [
-        "Sem data segura do batismo particular pela parteira; distinguir suprimento e óleos, sem atribuir a data automaticamente ao batismo."
-      ]
+        "Batismo doméstico pela parteira sem data própria; não atribuir a data do suprimento ou dos óleos automaticamente ao batismo."
+      ],
+      "leitura_anterior": "Manuel, seis de julho de 1820; santos óleos e suprimento por ter sido batizado em casa por Maria Carrilha, mulher da parição. José Pires e Angélica Correia. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo doméstico pela parteira sem data própria; não atribuir a data do suprimento ou dos óleos automaticamente ao batismo. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0140-d-01",
@@ -15330,10 +15432,12 @@
       "ordem": 4,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de José, catorze de outubro de 1793, padre Alexandre Rodrigues; Manuel Lopes Camboto [?] e Maria Nabais. Continuação m0141-e consultada. Redação em dezoito de agosto de 1820. Menções provisórias.",
+      "leitura_parcial": "José; certidão de batismo 14/10/1793 pelo padre Alexandre Rodrigues; Manuel Lopes Camboto [?] e Maria Nabais. Continuação e filiação na m0141 esquerda; redação 18/08/1820.",
       "duvidas": [
-        "Cópia anterior ao catálogo e composição paterna insegura; não datar pelo lançamento."
-      ]
+        "Evento anterior ao catálogo e complemento paterno ainda inseguro; não usar a redação como batismo nem confirmar filiação truncada."
+      ],
+      "leitura_anterior": "Certidão de José, catorze de outubro de 1793, padre Alexandre Rodrigues; Manuel Lopes Camboto [?] e Maria Nabais. Continuação m0141-e consultada. Redação em dezoito de agosto de 1820. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Evento anterior ao catálogo e complemento paterno ainda inseguro; não usar a redação como batismo nem confirmar filiação truncada. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0141-e-01",
@@ -15381,11 +15485,19 @@
       "lado": "direita",
       "ordem": 1,
       "tipo": "batismo",
-      "estado": "pendente",
-      "leitura_parcial": "Lourenço, vinte de agosto de 1820; Manuel Gomes e Maria Martins Furriella [?], do seu segundo matrimónio. Menções provisórias.",
-      "duvidas": [
-        "Complemento materno ainda inseguro; não confirmar nome truncado."
-      ]
+      "estado": "confirmado",
+      "duvidas": [],
+      "leitura_anterior": "Lourenço, vinte de agosto de 1820; Manuel Gomes e Maria Martins Furriella [?], do seu segundo matrimónio. Menções provisórias.",
+      "crianca": {
+        "nome": "Lourenço",
+        "sexo": "M"
+      },
+      "pai": "Manuel Gomes",
+      "mae": "Maria Martins Furriella",
+      "data_batismo": "20/08/1820",
+      "excerto": "Leitura normalizada dos campos essenciais: Lourenço; pai Manuel Gomes; mãe Maria Martins Furriella; batismo 20/08/1820.",
+      "nota": "Leitura visual parcial, sem OCR; campos essenciais reconferidos em ampliação. Não é transcrição diplomática integral. Menções adicionais provisórias, sem relações criadas. Sem nascimentos, apelidos infantis ou identidades inferidos. Complemento materno Furriella reconferido em ampliação no corpo, sem completar pelos avós; abertura vinte de agosto de 1820. Segundo matrimónio da mãe não cria outra família inferida.",
+      "nota_revisao": "27/11/2026: campos essenciais conferidos em duas leituras visuais, incluindo revisão ampliada dirigida. Hipóteses anteriores preservadas no histórico. Complemento materno Furriella reconferido em ampliação no corpo, sem completar pelos avós; abertura vinte de agosto de 1820. Segundo matrimónio da mãe não cria outra família inferida."
     },
     {
       "id": "S8-B4-m0141-d-02",
@@ -15394,10 +15506,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Maria, vinte e sete de agosto de 1820; João Gonçalves de António e Maria Martins Pires Vermelha [?]. Menções provisórias.",
+      "leitura_parcial": "Maria; batismo 27/08/1820; João Gonçalves [complementos por fixar] e Maria Martins [complementos por fixar]. A leitura ampliada da filiação não sustenta com segurança de António e Pires Vermelha da hipótese inicial.",
       "duvidas": [
-        "Composição do nome materno insegura sob tinta transpassada."
-      ]
+        "Nomes completos de ambos os pais ainda não inequívocos sob tinta transpassada; não completar por avós, margem ou primeira hipótese nem truncar para confirmar."
+      ],
+      "leitura_anterior": "Maria, vinte e sete de agosto de 1820; João Gonçalves de António e Maria Martins Pires Vermelha [?]. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Nomes completos de ambos os pais ainda não inequívocos sob tinta transpassada; não completar por avós, margem ou primeira hipótese nem truncar para confirmar. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0141-d-03",
@@ -15506,10 +15620,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Certidão de Manuel Gonçalves, quinze de dezembro de 1792, padre Bernardo Rito, cura de Vale de Espinho; João Gonçalves e Petronilha Carrilha. Redação em catorze de novembro de 1820. Menções provisórias.",
+      "leitura_parcial": "Manuel Gonçalves; certidão de batismo 15/12/1792 pelo padre Bernardo Rito, cura de Vale de Espinho; João Gonçalves e Petronilha Carrilha. Redação 14/11/1820 por mandado de visita.",
       "duvidas": [
-        "Cópia anterior ao intervalo catalogado; não usar redação ou despacho como data do evento."
-      ]
+        "Evento anterior ao intervalo catalogado; não substituir batismo por redação ou mandado."
+      ],
+      "leitura_anterior": "Certidão de Manuel Gonçalves, quinze de dezembro de 1792, padre Bernardo Rito, cura de Vale de Espinho; João Gonçalves e Petronilha Carrilha. Redação em catorze de novembro de 1820. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Evento anterior ao intervalo catalogado; não substituir batismo por redação ou mandado. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0143-e-01",
@@ -15518,10 +15634,12 @@
       "ordem": 1,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "José, dois de novembro de 1820, santos óleos; Matias Dias e Isabel Nunes. Menções provisórias.",
+      "leitura_parcial": "José; santos óleos 02/11/1820; Matias Dias e Isabel Nunes. Pároco declara já o ter batizado em casa por necessidade; cerimónia e filiação no corpo.",
       "duvidas": [
-        "Falta data do batismo particular anterior aos óleos; reconferir cerimónia no corpo."
-      ]
+        "Data própria do batismo particular não expressa; a abertura refere os óleos."
+      ],
+      "leitura_anterior": "José, dois de novembro de 1820, santos óleos; Matias Dias e Isabel Nunes. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Data própria do batismo particular não expressa; a abertura refere os óleos. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0143-e-02",
@@ -15530,10 +15648,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Rita, dois de novembro de 1820; Matias Dias e Isabel Nunes. Batizada por necessidade pela parteira Bernarda. Menções provisórias.",
+      "leitura_parcial": "Rita; termo de 02/11/1820; Matias Dias e Isabel Nunes. Declara batismo por necessidade em casa pela parteira Bernarda, desta freguesia; fórmula da cerimónia e remissão sobrepostas.",
       "duvidas": [
-        "Distinguir cerimónia documentada e batismo particular pela parteira; data deste ainda não segura."
-      ]
+        "Dia próprio do batismo doméstico ainda não inequívoco; não o igualar automaticamente à data da redação/cerimónia nem inferir gemelaridade com José."
+      ],
+      "leitura_anterior": "Rita, dois de novembro de 1820; Matias Dias e Isabel Nunes. Batizada por necessidade pela parteira Bernarda. Menções provisórias.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Dia próprio do batismo doméstico ainda não inequívoco; não o igualar automaticamente à data da redação/cerimónia nem inferir gemelaridade com José. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0143-e-03",
@@ -15690,10 +15810,12 @@
       "ordem": 2,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Felizarda, treze de fevereiro de 1821; Domingos Nunes Mirinha [?] e Maria de Manuel Nunes [?]. Nome materno/complementos inseguros.",
+      "leitura_parcial": "Felizarda; batismo 13/02/1821; Domingos Mirinha no corpo, antes Domingos Nunes Mirinha, e Maria de Manuel Hilário [?], antes Maria de Manuel Nunes. Filiação ampliada; Manuel Nunes Mirinha pertence à ascendência paterna.",
       "duvidas": [
-        "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
-      ]
+        "Nome materno completo ainda inseguro e alcance dos complementos paternos a conferir; não copiar Nunes do avô para o pai nem confirmar nome truncado."
+      ],
+      "leitura_anterior": "Felizarda, treze de fevereiro de 1821; Domingos Nunes Mirinha [?] e Maria de Manuel Nunes [?]. Nome materno/complementos inseguros.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Nome materno completo ainda inseguro e alcance dos complementos paternos a conferir; não copiar Nunes do avô para o pai nem confirmar nome truncado. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0144-d-03",
@@ -15702,10 +15824,12 @@
       "ordem": 3,
       "tipo": "batismo",
       "estado": "pendente",
-      "leitura_parcial": "Manuel, treze de fevereiro de 1821, santos óleos após batismo em casa pela parteira Maria Carrilha; Manuel Gomes e Maria Lourença.",
+      "leitura_parcial": "Manuel; santos óleos 13/02/1821; Manuel Gomes e Maria Lourença. Já batizado em casa por necessidade por Maria Carrilha; pároco declara examinar a parteira antes de suprir a cerimónia.",
       "duvidas": [
-        "Sem data segura do batismo particular anterior aos óleos."
-      ]
+        "Batismo doméstico sem data própria expressa; não usar a data dos óleos ou do suprimento."
+      ],
+      "leitura_anterior": "Manuel, treze de fevereiro de 1821, santos óleos após batismo em casa pela parteira Maria Carrilha; Manuel Gomes e Maria Lourença.",
+      "nota_revisao": "27/11/2026: releitura visual ampliada, sem OCR; mantido pendente. Batismo doméstico sem data própria expressa; não usar a data dos óleos ou do suprimento. Hipótese anterior e objeto integral preservados no histórico da revisão."
     },
     {
       "id": "S8-B4-m0145-e-01",
@@ -63835,6 +63959,710 @@
         }
       ],
       "observacoes": "148 pendentes revistos: 88 promovidos e 60 mantidos pendentes. Inventário e confirmados anteriores intactos; sem novas entradas, nascimentos ou ligações de identidade. Óleos, batismos domésticos e redações posteriores distinguidos. Emendas, nomes inseguros, anos divergentes, termo abandonado e possível repetição conservados com dúvidas específicas. Revisão dirigida do trecho final concluída até m0373. Permanecem 636 pendentes no livro. Auditoria do histórico identificou 53 pendentes anteriores sem nota_revisao, de S8-B4-m0101-d-02 a S8-B4-m0144-d-03; retomar esse grupo antes de repetir os já revistos. Não confundir chegada ao fim da pasta com resolução integral dos pendentes. m0358 consultada apenas como fotografia repetida de apoio e m0373 como página única; último termo incompleto."
+    },
+    {
+      "data": "2026-11-27",
+      "limite": "Revisão dirigida dos 53 pendentes anteriores sem nota_revisao, de m0101-d-02 a m0144-d-03.",
+      "metodo": "Releitura visual em ampliação, sem OCR; continuações consultadas. Campos essenciais confirmados após confronto com a leitura anterior. Certidões históricas, óleos e batismos domésticos distinguidos sem inferir datas, nomes ou identidades.",
+      "ids_revistos": [
+        "S8-B4-m0101-d-02",
+        "S8-B4-m0102-e-02",
+        "S8-B4-m0103-d-02",
+        "S8-B4-m0104-e-02",
+        "S8-B4-m0104-d-01",
+        "S8-B4-m0105-e-02",
+        "S8-B4-m0106-e-01",
+        "S8-B4-m0106-d-01",
+        "S8-B4-m0106-d-02",
+        "S8-B4-m0107-e-01",
+        "S8-B4-m0108-d-01",
+        "S8-B4-m0109-d-03",
+        "S8-B4-m0110-e-01",
+        "S8-B4-m0110-e-02",
+        "S8-B4-m0110-d-01",
+        "S8-B4-m0111-d-01",
+        "S8-B4-m0112-e-01",
+        "S8-B4-m0112-d-01",
+        "S8-B4-m0113-e-01",
+        "S8-B4-m0113-d-01",
+        "S8-B4-m0113-d-02",
+        "S8-B4-m0114-d-02",
+        "S8-B4-m0115-d-02",
+        "S8-B4-m0122-e-02",
+        "S8-B4-m0124-e-01",
+        "S8-B4-m0125-e-01",
+        "S8-B4-m0126-d-01",
+        "S8-B4-m0127-e-01",
+        "S8-B4-m0128-d-01",
+        "S8-B4-m0130-e-03",
+        "S8-B4-m0131-e-03",
+        "S8-B4-m0132-e-04",
+        "S8-B4-m0132-d-03",
+        "S8-B4-m0133-d-03",
+        "S8-B4-m0136-e-01",
+        "S8-B4-m0136-e-02",
+        "S8-B4-m0136-d-03",
+        "S8-B4-m0137-e-01",
+        "S8-B4-m0138-e-01",
+        "S8-B4-m0138-d-01",
+        "S8-B4-m0139-e-02",
+        "S8-B4-m0139-d-01",
+        "S8-B4-m0139-d-02",
+        "S8-B4-m0140-e-02",
+        "S8-B4-m0140-e-03",
+        "S8-B4-m0140-d-04",
+        "S8-B4-m0141-d-01",
+        "S8-B4-m0141-d-02",
+        "S8-B4-m0142-d-02",
+        "S8-B4-m0143-e-01",
+        "S8-B4-m0143-e-02",
+        "S8-B4-m0144-d-02",
+        "S8-B4-m0144-d-03"
+      ],
+      "promovidos": [
+        "S8-B4-m0102-e-02",
+        "S8-B4-m0126-d-01",
+        "S8-B4-m0141-d-01"
+      ],
+      "assentos_anteriores": [
+        {
+          "id": "S8-B4-m0101-d-02",
+          "imagem": "m0101",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José, no mesmo dia, mês e ano: dezassete de março de 1816. Santos óleos, já batizado em casa em perigo de vida; António Correia e Ana Afonso, esta do Foios. Continuação m0102-e consultada. Menções provisórias.",
+          "duvidas": [
+            "Não consta data segura do batismo particular anterior; a remissão data apenas os óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0102-e-02",
+          "imagem": "m0102",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Francisco, primeiro de abril de 1816; Francisco Jorge Barrozo e Isabel Carrita [?]. Continuação à direita consultada; avós maternos Miguel Carrito e Maria Gonçalves. Menções provisórias.",
+          "duvidas": [
+            "Apelido materno na linha principal ainda inseguro; não o completar pelo avô nem confirmar nome truncado."
+          ]
+        },
+        {
+          "id": "S8-B4-m0103-d-02",
+          "imagem": "m0103",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão lançada por mandado da visita de 1814: Manuel Nunes, vinte e cinco de março de 1793, celebrante António Lopes. Continuação m0104-e: João Nunes e Teodora Fernandes Gorda; avós paternos Manuel Nunes Gordo e Ana Gonçalves Ambrósia; maternos Domingos Fernandes Claro e Maria Gonçalves Gorda. Menções provisórias.",
+          "duvidas": [
+            "Cópia de batismo anterior ao intervalo catalogado; reconferir data e filiação antes de integrar, sem usar 1814 como data do evento."
+          ]
+        },
+        {
+          "id": "S8-B4-m0104-e-02",
+          "imagem": "m0104",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Luísa, no mesmo dia, mês e ano: óleos após batismo em casa em perigo de vida. José Nunes de Baltazar e Maria Paula; continuação à direita. Menções provisórias.",
+          "duvidas": [
+            "Sem data do batismo particular; a data por remissão refere os óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0104-d-01",
+          "imagem": "m0104",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Práxedes [?], quatro de maio de 1816; José Luís Robalo e Maria Fernandes. Avós paternos Domingos Luís e Marta Robalo; maternos Manuel [... ] e Isabel Fernandes. Menções provisórias.",
+          "duvidas": [
+            "Grafia do nome da criança e composição paterna requerem ampliação; não normalizar por plausibilidade."
+          ]
+        },
+        {
+          "id": "S8-B4-m0105-e-02",
+          "imagem": "m0105",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Isabel, no mesmo dia, mês e ano, santos óleos após batismo em casa por perigo de vida; Domingos Vaz Lavrador e Maria Nunes. Continuação à direita. Menções provisórias.",
+          "duvidas": [
+            "Falta data do batismo particular anterior; não usar a data dos óleos como batismo."
+          ]
+        },
+        {
+          "id": "S8-B4-m0106-e-01",
+          "imagem": "m0106",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Isabel, no mesmo dia, mês e ano: vinte e seis de maio de 1816; pai José Martins Oucim [?], com emenda marginal Nunes; mãe Luísa Gonçalves. Menções provisórias.",
+          "duvidas": [
+            "Composição do nome paterno e alcance da emenda Nunes inseguros; não escolher pela margem."
+          ]
+        },
+        {
+          "id": "S8-B4-m0106-d-01",
+          "imagem": "m0106",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, vinte e sete de junho de 1816, santos óleos; já batizado em casa por esta igreja. Miguel Antunes e Maria Antónia Garcia. Menções provisórias.",
+          "duvidas": [
+            "Não recuperada a data do batismo particular anterior aos óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0106-d-02",
+          "imagem": "m0106",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José, no mesmo dia, mês e ano; santos óleos depois de batismo em casa em perigo de vida. José Robalo e Sebastiana Vaz, esta natural da Batalha. Menções provisórias.",
+          "duvidas": [
+            "Falta data do batismo particular; não confundir com a cerimónia dos óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0107-e-01",
+          "imagem": "m0107",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Blizanda/Belizanda [?], vinte de julho de 1816; José Carvalho e Maria Gonçalves. Menções provisórias.",
+          "duvidas": [
+            "Nome da criança não suficientemente seguro, sem escolher normalização por plausibilidade."
+          ]
+        },
+        {
+          "id": "S8-B4-m0108-d-01",
+          "imagem": "m0108",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Leonor, no mesmo dia, mês e ano: cinco de setembro de 1816; santos óleos após batismo em casa por perigo de vida. Filha de pai incógnito e Maria Joaquina de Almeida. Menções provisórias.",
+          "duvidas": [
+            "Pai incógnito e data do batismo particular ausente. Não criar pai ou casal fictício; integração atual exige ambos os nomes parentais."
+          ]
+        },
+        {
+          "id": "S8-B4-m0109-d-03",
+          "imagem": "m0109",
+          "lado": "direita",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Domingos, dezembro de 1816; Manuel Dias e Maria Gonçalves, com composição materna por conferir na continuação m0110-e. O numeral da abertura admite leitura aparentemente anómala. Menções provisórias.",
+          "duvidas": [
+            "Dia e composição parental inseguros; não corrigir numeral por sequência nem preencher pelos avós."
+          ]
+        },
+        {
+          "id": "S8-B4-m0110-e-01",
+          "imagem": "m0110",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão lançada por determinação de visita de 1814: Manuel, quatro de agosto de 1789, padre Paulo Vaz; José Gomes e Maria de Oliveira. Avós paternos Mariana Martins e pai ilegítimo [?]; maternos Manuel de Oliveira e Ana Jorge. Menções provisórias.",
+          "duvidas": [
+            "Cópia de batismo anterior ao intervalo catalogado; reconferir data e composição parental, sem usar data da cópia como evento."
+          ]
+        },
+        {
+          "id": "S8-B4-m0110-e-02",
+          "imagem": "m0110",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, vinte e oito de agosto de 1785, padre José Bernardo Silva; Manuel Lourenço e Bárbara Martins. Termo antigo entre certidões mandadas lançar em 1814. Menções provisórias.",
+          "duvidas": [
+            "Cópia com data anterior ao intervalo catalogado; conservar data escrita e reconferir antes de integrar."
+          ]
+        },
+        {
+          "id": "S8-B4-m0110-d-01",
+          "imagem": "m0110",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão por visita de 1814: Manuel, dez de junho de 1787, padre José Baptista; Manuel Carvalho e Luísa Gonçalves Quinteira. Avós paternos Luís Carvalho e Isabel Nunes; maternos Manuel Gonçalves e Maria Afonso. Menções provisórias.",
+          "duvidas": [
+            "Batismo anterior ao intervalo catalogado, não datar pela cópia de 1814; reconferir composição materna."
+          ]
+        },
+        {
+          "id": "S8-B4-m0111-d-01",
+          "imagem": "m0111",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão por visita de 1814: Manuel Martins Dias, vinte e sete de novembro de 1784; Manuel Martins Dias e Doroteia Pires. Menções provisórias.",
+          "duvidas": [
+            "Batismo anterior ao intervalo catalogado e composto de nomes sob tinta transpassada; conservar data da certidão separada do evento."
+          ]
+        },
+        {
+          "id": "S8-B4-m0112-e-01",
+          "imagem": "m0112",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Tomás, no mesmo dia, mês e ano: oito de março de 1817, santos óleos, já batizado em casa por perigo de vida. Manuel Jorge Carvalho e Maria Martins. Menções provisórias.",
+          "duvidas": [
+            "Não consta data segura do batismo particular anterior aos óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0112-d-01",
+          "imagem": "m0112",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Joaquim, no mesmo dia, mês e ano: cinco de abril de 1817; santos óleos após batismo em casa em perigo de vida. Manuel Antunes e Maria Dias, leituras provisórias.",
+          "duvidas": [
+            "Sem data do batismo particular anterior e filiação sob tinta transpassada."
+          ]
+        },
+        {
+          "id": "S8-B4-m0113-e-01",
+          "imagem": "m0113",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, vinte e três de abril de 1817; filho de Maria de Oliveira e pai incógnito. Avós maternos Francisco de Oliveira e Luísa Nunes. Menções provisórias.",
+          "duvidas": [
+            "Pai incógnito; não criar filiação ou casal fictício. Integração atual exige ambos os nomes parentais."
+          ]
+        },
+        {
+          "id": "S8-B4-m0113-d-01",
+          "imagem": "m0113",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Justina, dezassete de maio de 1817; José Fernandes Rito e Maria Gonçalves Lua [?]. Menções provisórias.",
+          "duvidas": [
+            "Composição do nome materno ainda insegura sob tinta transpassada; não truncar o nome para confirmar."
+          ]
+        },
+        {
+          "id": "S8-B4-m0113-d-02",
+          "imagem": "m0113",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Domingos, vinte e dois de maio de 1817; Domingos Nunes Mund[eiro?] e Maria Nunes. Menções provisórias.",
+          "duvidas": [
+            "Complemento paterno junto à dobra não seguro; não completar pelos avós nem por margem."
+          ]
+        },
+        {
+          "id": "S8-B4-m0114-d-02",
+          "imagem": "m0114",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão por visita de 1814: Maria Lopes, batizada em casa em outubro de 1775 pouco mais ou menos, pelo padre Hipólito Nunes; na igreja apenas óleos. Continuação m0115-e: Manuel Lopes e Catarina Nunes, corrigindo a hipótese inicial Lourenço. Menções provisórias.",
+          "duvidas": [
+            "Data aproximada do batismo particular, sem dia; anterior ao intervalo catalogado. Não usar 1814 nem os óleos como data do evento."
+          ]
+        },
+        {
+          "id": "S8-B4-m0115-d-02",
+          "imagem": "m0115",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José António, vinte e dois de junho de 1817; Joaquim Fernandes Abélio [?] e Rosa Lourença. Continuação m0116-e consultada. Menções provisórias.",
+          "duvidas": [
+            "Complemento paterno inseguro; não truncar o nome para confirmar."
+          ]
+        },
+        {
+          "id": "S8-B4-m0122-e-02",
+          "imagem": "m0122",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, no mesmo dia vinte e seis de abril de 1818, santos óleos; batizado em casa por perigo de vida. José Nunes Alfaiate e Bárbara Dias. Menções provisórias.",
+          "duvidas": [
+            "Falta data do batismo particular anterior aos óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0124-e-01",
+          "imagem": "m0124",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Luísa, catorze de junho de 1818; José Luís e Luísa Antónia, esta natural de Valdemi[o]r [?]. Emenda marginal menciona Carvalho/Luís e outra ligação por esclarecer. Menções provisórias.",
+          "duvidas": [
+            "Composição paterna e alcance da emenda marginal ainda inseguros; não atribuir nomes pela margem ou pelos avós."
+          ]
+        },
+        {
+          "id": "S8-B4-m0125-e-01",
+          "imagem": "m0125",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Isabel, dezassete de julho de 1818, santos óleos depois de batismo em casa por perigo de vida; Manuel Robalo e Leonarda Rodrigues. Menções provisórias.",
+          "duvidas": [
+            "Sem data do batismo particular anterior aos óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0126-d-01",
+          "imagem": "m0126",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Rosa, seis de setembro de 1818; José Martins Rucim [?] e Luísa Nunes. Menções provisórias.",
+          "duvidas": [
+            "Nome composto paterno inseguro, não confirmar nome truncado."
+          ]
+        },
+        {
+          "id": "S8-B4-m0127-e-01",
+          "imagem": "m0127",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de Bárbara Nunes, filha de Manuel Nunes e Rita Martins. Em cumprimento de mandado: trinta de maio de 1793, padre José Bernardo, santos óleos após batismo em casa por perigo de vida. Menções provisórias.",
+          "duvidas": [
+            "Certidão antiga anterior ao catálogo e sem data do batismo particular; não confundir os óleos de 1793 ou o mandado com o evento."
+          ]
+        },
+        {
+          "id": "S8-B4-m0128-d-01",
+          "imagem": "m0128",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Joaquim, seis de novembro de 1818, santos óleos; José Antunes e Maria Lourença. Já batizado em casa por perigo de vida. Menções provisórias.",
+          "duvidas": [
+            "Falta a data do batismo particular anterior aos óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0130-e-03",
+          "imagem": "m0130",
+          "lado": "esquerda",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, oito de fevereiro de 1819, santos óleos; batizada em casa por perigo de vida. Manuel Vaz e Ana Dias. Continuação à direita consultada. Menções provisórias.",
+          "duvidas": [
+            "Não consta data segura do batismo particular anterior aos óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0131-e-03",
+          "imagem": "m0131",
+          "lado": "esquerda",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José, doze de abril de 1819, santos óleos após batismo em casa por perigo de vida; Hipólito Martins e Vitória Garcia. Continuação à direita consultada. Menções provisórias.",
+          "duvidas": [
+            "Sem data do batismo particular anterior aos óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0132-e-04",
+          "imagem": "m0132",
+          "lado": "esquerda",
+          "ordem": 4,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de Luís, vinte e sete de abril de 1797, padre Alexandre Valadão; Joaquim Luís Amaral e Maria Isabel. Continuação à direita consultada. Menções provisórias.",
+          "duvidas": [
+            "Cópia de batismo anterior ao intervalo catalogado; não datar pela inserção junto de 1819."
+          ]
+        },
+        {
+          "id": "S8-B4-m0132-d-03",
+          "imagem": "m0132",
+          "lado": "direita",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de Manuel, trinta e um de julho de 1790, padre José do Amorim [?]; António Lourenço e Mariana Dias. Menções provisórias; continuação m0133-e consultada.",
+          "duvidas": [
+            "Cópia de batismo anterior ao intervalo catalogado; reconferir filiação na continuação, sem datar pelo lançamento."
+          ]
+        },
+        {
+          "id": "S8-B4-m0133-d-03",
+          "imagem": "m0133",
+          "lado": "direita",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Isabel, vinte e sete de novembro de 1796, padre Manoel Martins [?]; Domingos Martins Cornel e Maria Martins. Menções provisórias.",
+          "duvidas": [
+            "Certidão antiga anterior ao intervalo catalogado; reconferir ano e filiação, sem datar pela inserção entre registos de 1819."
+          ]
+        },
+        {
+          "id": "S8-B4-m0136-e-01",
+          "imagem": "m0136",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de termo conjunto: Maria e José, quatro de setembro de 1795; Manuel Martins e Doroteia Pires. Lançamento por determinação de visita de 1814; redação em trinta de janeiro de 1820. Menções provisórias.",
+          "duvidas": [
+            "Gémeos em termo conjunto e batismo anterior ao intervalo catalogado; conservar data do evento separada das datas de mandado e redação."
+          ]
+        },
+        {
+          "id": "S8-B4-m0136-e-02",
+          "imagem": "m0136",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de Isabel, dezassete de junho de 1799; Manuel Martins e Doroteia Pires. Continuação à direita consultada. Lançamento em trinta de janeiro de 1820 por determinação de visita. Menções provisórias.",
+          "duvidas": [
+            "Batismo anterior ao intervalo catalogado; não usar data do lançamento como data do evento."
+          ]
+        },
+        {
+          "id": "S8-B4-m0136-d-03",
+          "imagem": "m0136",
+          "lado": "direita",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Belizanda [?], primeiro de fevereiro de 1820; José Martins Rucim [?] e Luísa Nunes, na continuação m0137-e consultada. A primeira hipótese Bárbara não se confirmou. Menções provisórias.",
+          "duvidas": [
+            "Nome da criança e complemento paterno inseguros; não truncar nem escolher pela margem."
+          ]
+        },
+        {
+          "id": "S8-B4-m0137-e-01",
+          "imagem": "m0137",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de Manuel, vinte e quatro de maio de 1795, padre Alexandre Valadão; João Nunes de António e Thomázia Fernandes. Redação em oito de fevereiro de 1820. Menções provisórias.",
+          "duvidas": [
+            "Cópia anterior ao intervalo catalogado; manter a data do evento separada da redação e reconferir nomes."
+          ]
+        },
+        {
+          "id": "S8-B4-m0138-e-01",
+          "imagem": "m0138",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de Bernardo Gonçalves, vinte de fevereiro de 1786, padre Alexandre Valadão; Nicolau Gonçalves e Ana Freire. Mandado da visita de 1795; redação em treze de março de 1820. Menções provisórias.",
+          "duvidas": [
+            "Cópia anterior ao intervalo catalogado; distinguir data do batismo, mandado e redação, sem usar 1795 ou 1820 como evento."
+          ]
+        },
+        {
+          "id": "S8-B4-m0138-d-01",
+          "imagem": "m0138",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de Bernardo, vinte e quatro de novembro de 1775, reverendo Hipólito Nunes; Gabriel Nunes e Ana Lourença. Redação em vinte e três de março de 1820 por mandado de visita de 1818. Menções provisórias.",
+          "duvidas": [
+            "Batismo anterior ao intervalo catalogado; não datar pelo mandado ou pela redação."
+          ]
+        },
+        {
+          "id": "S8-B4-m0139-e-02",
+          "imagem": "m0139",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de Inácio Gonçalves, três de novembro de 1787, padre Hipólito Pires; Manuel de Oliveira e Ana Martins Rabela. Redação em dezasseis de abril de 1820, por visita de 1814. Menções provisórias.",
+          "duvidas": [
+            "Batismo anterior ao intervalo catalogado; não usar datas da visita ou redação."
+          ]
+        },
+        {
+          "id": "S8-B4-m0139-d-01",
+          "imagem": "m0139",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de José Rodrigues, vinte e oito de junho de 1796, padre Alexandre Rodrigues; Manuel Rodrigues Penha e Joaquina Nunes. Redação em dezanove de maio de 1820 por visita de 1818. Menções provisórias.",
+          "duvidas": [
+            "Cópia anterior ao intervalo catalogado; distinguir batismo, mandado e redação."
+          ]
+        },
+        {
+          "id": "S8-B4-m0139-d-02",
+          "imagem": "m0139",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de João Jorge, vinte e cinco de fevereiro de 1771, padre Hipólito Pires; Domingos Jorge Calvão e Maria Fernandes. Continuação m0140-e consultada; redação em trinta de maio de 1820. Menções provisórias.",
+          "duvidas": [
+            "Batismo anterior ao intervalo catalogado; não datar pela redação."
+          ]
+        },
+        {
+          "id": "S8-B4-m0140-e-02",
+          "imagem": "m0140",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José, seis de julho de 1820, santos óleos depois de batismo em casa; António Garcia e Isabel Rabela. Menções provisórias.",
+          "duvidas": [
+            "Falta data do batismo particular anterior aos óleos."
+          ]
+        },
+        {
+          "id": "S8-B4-m0140-e-03",
+          "imagem": "m0140",
+          "lado": "esquerda",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, seis de julho de 1820; santos óleos e suprimento por ter sido batizado em casa por Maria Carrilha, mulher da parição. José Pires e Angélica Correia. Menções provisórias.",
+          "duvidas": [
+            "Sem data segura do batismo particular pela parteira; distinguir suprimento e óleos, sem atribuir a data automaticamente ao batismo."
+          ]
+        },
+        {
+          "id": "S8-B4-m0140-d-04",
+          "imagem": "m0140",
+          "lado": "direita",
+          "ordem": 4,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de José, catorze de outubro de 1793, padre Alexandre Rodrigues; Manuel Lopes Camboto [?] e Maria Nabais. Continuação m0141-e consultada. Redação em dezoito de agosto de 1820. Menções provisórias.",
+          "duvidas": [
+            "Cópia anterior ao catálogo e composição paterna insegura; não datar pelo lançamento."
+          ]
+        },
+        {
+          "id": "S8-B4-m0141-d-01",
+          "imagem": "m0141",
+          "lado": "direita",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Lourenço, vinte de agosto de 1820; Manuel Gomes e Maria Martins Furriella [?], do seu segundo matrimónio. Menções provisórias.",
+          "duvidas": [
+            "Complemento materno ainda inseguro; não confirmar nome truncado."
+          ]
+        },
+        {
+          "id": "S8-B4-m0141-d-02",
+          "imagem": "m0141",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Maria, vinte e sete de agosto de 1820; João Gonçalves de António e Maria Martins Pires Vermelha [?]. Menções provisórias.",
+          "duvidas": [
+            "Composição do nome materno insegura sob tinta transpassada."
+          ]
+        },
+        {
+          "id": "S8-B4-m0142-d-02",
+          "imagem": "m0142",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Certidão de Manuel Gonçalves, quinze de dezembro de 1792, padre Bernardo Rito, cura de Vale de Espinho; João Gonçalves e Petronilha Carrilha. Redação em catorze de novembro de 1820. Menções provisórias.",
+          "duvidas": [
+            "Cópia anterior ao intervalo catalogado; não usar redação ou despacho como data do evento."
+          ]
+        },
+        {
+          "id": "S8-B4-m0143-e-01",
+          "imagem": "m0143",
+          "lado": "esquerda",
+          "ordem": 1,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "José, dois de novembro de 1820, santos óleos; Matias Dias e Isabel Nunes. Menções provisórias.",
+          "duvidas": [
+            "Falta data do batismo particular anterior aos óleos; reconferir cerimónia no corpo."
+          ]
+        },
+        {
+          "id": "S8-B4-m0143-e-02",
+          "imagem": "m0143",
+          "lado": "esquerda",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Rita, dois de novembro de 1820; Matias Dias e Isabel Nunes. Batizada por necessidade pela parteira Bernarda. Menções provisórias.",
+          "duvidas": [
+            "Distinguir cerimónia documentada e batismo particular pela parteira; data deste ainda não segura."
+          ]
+        },
+        {
+          "id": "S8-B4-m0144-d-02",
+          "imagem": "m0144",
+          "lado": "direita",
+          "ordem": 2,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Felizarda, treze de fevereiro de 1821; Domingos Nunes Mirinha [?] e Maria de Manuel Nunes [?]. Nome materno/complementos inseguros.",
+          "duvidas": [
+            "Campos essenciais ainda inseguros em leitura visual; reconferir em ampliação."
+          ]
+        },
+        {
+          "id": "S8-B4-m0144-d-03",
+          "imagem": "m0144",
+          "lado": "direita",
+          "ordem": 3,
+          "tipo": "batismo",
+          "estado": "pendente",
+          "leitura_parcial": "Manuel, treze de fevereiro de 1821, santos óleos após batismo em casa pela parteira Maria Carrilha; Manuel Gomes e Maria Lourença.",
+          "duvidas": [
+            "Sem data segura do batismo particular anterior aos óleos."
+          ]
+        }
+      ],
+      "observacoes": "53 alvos exatos: três promovidos e 50 mantidos pendentes. Os 1214 confirmados anteriores e as 1797 entradas fora do lote ficaram intactos. Sem novas entradas, nascimentos ou ligações de identidade; inventário, notas de página e catálogo preservados. Não restam pendentes sem nota_revisao no B4; isto não significa que os 633 pendentes estejam resolvidos. Próxima passagem pelos casos difíceis a partir de S8-B4-m0002-e-01, fragmento mutilado já revisto, sem repetir confirmados ou promover por quota. Certidões anteriores a 1803 mantidas fora da integração pelo intervalo atual do catálogo."
     }
   ],
   "imagens_duplicadas": [
